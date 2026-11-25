@@ -1,0 +1,153 @@
+{
+  "director": {
+    "zh": "塔伊加·维迪提",
+    "en": "Taika Waititi"
+  },
+  "style_profile": {
+    "definition": "粉彩制服、森林绿和温暖黄把悲剧包进手工感喜剧外壳。",
+    "lighting": "柔和自然光、平面喜剧光；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "正面构图、突然静止、儿童视角；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "粉彩中等饱和，肤色温暖，阴影轻；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": [
+      "糖果过饱和",
+      "廉价复古滤镜",
+      "喜剧乱晃",
+      "无动机环绕和随机变焦",
+      "用统一滤镜替代色彩比例、光源和材质。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "毛利男孩",
+      "title_en": "Boy",
+      "year": 2010,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2020/09/16/boy/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Boy_001.jpg?bwg=1598858429"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Boy_020.jpg?bwg=1598858429"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Boy_038.jpg?bwg=1598858429"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Boy_057.jpg?bwg=1598858430"
+        }
+      ]
+    },
+    {
+      "title_zh": "鹰与鲨鱼",
+      "title_en": "Eagle Vs. Shark",
+      "year": 2007,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/07/20/eagle-vs-shark/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/eaglevshark001.jpg?bwg=1546973686"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/eaglevshark022.jpg?bwg=1546973684"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/eaglevshark044.jpg?bwg=1546973684"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/eaglevshark065.jpg?bwg=1546973684"
+        }
+      ]
+    },
+    {
+      "title_zh": "追捕野蛮人",
+      "title_en": "Hunt for the Wilderpeople",
+      "year": 2016,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/02/03/hunt-for-the-wilderpeople/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/wilderpeople001.jpg?bwg=1546975164"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/wilderpeople022.jpg?bwg=1546975163"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/wilderpeople044.jpg?bwg=1546975163"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/wilderpeople065.jpg?bwg=1546975163"
+        }
+      ]
+    },
+    {
+      "title_zh": "雷神4：爱与雷",
+      "title_en": "Thor: Love and Thunder",
+      "year": 2022,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D100-塔伊加·维迪提·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/02/21/thor-love-and-thunder/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Thor_Love__Thunder_01.jpg?bwg=1664885572"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Thor_Love__Thunder_18.jpg?bwg=1664885572"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Thor_Love__Thunder_34.jpg?bwg=1664885572"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Thor_Love__Thunder_51.jpg?bwg=1664885572"
+        }
+      ]
+    }
+  ]
+}

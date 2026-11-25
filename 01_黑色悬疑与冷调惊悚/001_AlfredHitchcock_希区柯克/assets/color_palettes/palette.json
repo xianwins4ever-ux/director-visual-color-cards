@@ -1,0 +1,459 @@
+{
+  "director": {
+    "id": "001",
+    "name_en": "Alfred Hitchcock",
+    "name_zh": "阿尔弗雷德·希区柯克",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "nationality": "British / American",
+    "active_years": "1925-1976",
+    "era": "1925-1976"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#1A2332",
+        "name_zh": "深夜暗蓝",
+        "name_en": "Deep Midnight Blue",
+        "ratio": 0.4,
+        "rgb": [
+          26,
+          35,
+          50
+        ],
+        "hsl": [
+          215,
+          31,
+          15
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#3D5A6C",
+        "name_zh": "雾霭钢蓝",
+        "name_en": "Misty Steel Blue",
+        "ratio": 0.2,
+        "rgb": [
+          61,
+          90,
+          108
+        ],
+        "hsl": [
+          202,
+          28,
+          33
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#8B6914",
+        "name_zh": "暗金琥珀",
+        "name_en": "Dark Gold Amber",
+        "ratio": 0.15,
+        "rgb": [
+          139,
+          105,
+          20
+        ],
+        "hsl": [
+          43,
+          75,
+          31
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#C41E3A",
+        "name_zh": "恐惧猩红",
+        "name_en": "Terror Scarlet",
+        "ratio": 0.08,
+        "rgb": [
+          196,
+          30,
+          58
+        ],
+        "hsl": [
+          350,
+          73,
+          44
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#2E4A38",
+        "name_zh": "深墨绿",
+        "name_en": "Deep Ink Green",
+        "ratio": 0.12,
+        "rgb": [
+          46,
+          74,
+          56
+        ],
+        "hsl": [
+          147,
+          23,
+          24
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#D4C5A9",
+        "name_zh": "暖米肤",
+        "name_en": "Warm Skin Beige",
+        "ratio": 0.05,
+        "rgb": [
+          212,
+          197,
+          169
+        ],
+        "hsl": [
+          40,
+          33,
+          75
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#7B241C",
+        "name_zh": "血暗红",
+        "name_en": "Blood Dark Red",
+        "emotion": "谋杀、死亡、危险信号",
+        "rgb": [
+          123,
+          36,
+          28
+        ],
+        "hsl": [
+          5,
+          63,
+          30
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#F7DC6F",
+        "name_zh": "眩晕金",
+        "name_en": "Vertigo Gold",
+        "emotion": "晕眩、梦境、精神不稳定",
+        "rgb": [
+          247,
+          220,
+          111
+        ],
+        "hsl": [
+          48,
+          89,
+          70
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#283747",
+        "name_zh": "冷灰蓝",
+        "name_en": "Cold Slate Blue",
+        "emotion": "监视、窥视、未知威胁",
+        "rgb": [
+          40,
+          55,
+          71
+        ],
+        "hsl": [
+          210,
+          28,
+          22
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#F8B195",
+        "name_zh": "唇粉橘",
+        "name_en": "Lip Pink Coral",
+        "emotion": "金发女郎、诱惑、危机前的美",
+        "rgb": [
+          248,
+          177,
+          149
+        ],
+        "hsl": [
+          16,
+          87,
+          78
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "3/4 side light, hard shadow edge",
+    "highlight_tint": "warm golden yellow (candlelight / tungsten)",
+    "shadow_tint": "cold blue-cyan (night / psychological fear)",
+    "contrast_ratio": "high, 75-85%",
+    "overall_tone": "cold dark, 65% cool + 35% warm accent"
+  },
+  "composition_keywords": [
+    "symmetrical composition",
+    "low angle shot",
+    "high angle shot",
+    "dolly zoom / vertigo shot",
+    "voyeuristic POV",
+    "staircase composition",
+    "silhouette lighting",
+    "window framing",
+    "mirror reflection",
+    "long tracking shot"
+  ],
+  "color_keywords": [
+    "complementary red-green-blue contrast",
+    "chiaroscuro lighting",
+    "dark low-key lighting",
+    "golden candlelight warmth",
+    "cold blue night",
+    "red warning point light",
+    "blonde backlight",
+    "figure hidden in shadow"
+  ],
+  "mood_keywords": [
+    "suspense tension",
+    "psychological fear",
+    "elegant danger",
+    "film noir",
+    "middle class anxiety",
+    "voyeurism",
+    "misperception",
+    "suspended time"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "房客",
+      "title_en": "The Lodger",
+      "year": 1927,
+      "palette": [
+        {
+          "hex": "#13182B",
+          "ratio": 18.5,
+          "luminance": 0.0097,
+          "saturation": 0.5581
+        },
+        {
+          "hex": "#171B20",
+          "ratio": 15.5,
+          "luminance": 0.0107,
+          "saturation": 0.2812
+        },
+        {
+          "hex": "#333639",
+          "ratio": 13.5,
+          "luminance": 0.0364,
+          "saturation": 0.1053
+        },
+        {
+          "hex": "#37261C",
+          "ratio": 13.5,
+          "luminance": 0.0228,
+          "saturation": 0.4909
+        },
+        {
+          "hex": "#555252",
+          "ratio": 13.2,
+          "luminance": 0.0858,
+          "saturation": 0.0353
+        },
+        {
+          "hex": "#513223",
+          "ratio": 12.5,
+          "luminance": 0.0415,
+          "saturation": 0.5679
+        },
+        {
+          "hex": "#643B27",
+          "ratio": 8.2,
+          "luminance": 0.0598,
+          "saturation": 0.61
+        },
+        {
+          "hex": "#674939",
+          "ratio": 5.1,
+          "luminance": 0.0794,
+          "saturation": 0.4466
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "美人计",
+      "title_en": "Notorious",
+      "year": 1946,
+      "palette": [
+        {
+          "hex": "#B2B2B2",
+          "ratio": 16.7,
+          "luminance": 0.4452,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#686868",
+          "ratio": 13.8,
+          "luminance": 0.1384,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#828282",
+          "ratio": 13.0,
+          "luminance": 0.2232,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#4A4A4A",
+          "ratio": 12.7,
+          "luminance": 0.0685,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#2E2E2E",
+          "ratio": 12.6,
+          "luminance": 0.0273,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#151515",
+          "ratio": 12.3,
+          "luminance": 0.0075,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#999999",
+          "ratio": 10.8,
+          "luminance": 0.3185,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#CBCBCB",
+          "ratio": 8.1,
+          "luminance": 0.5972,
+          "saturation": 0.0
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "迷魂记",
+      "title_en": "Vertigo",
+      "year": 1958,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 16.4,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#39485F",
+          "ratio": 15.4,
+          "luminance": 0.0633,
+          "saturation": 0.4
+        },
+        {
+          "hex": "#504A4B",
+          "ratio": 13.4,
+          "luminance": 0.0711,
+          "saturation": 0.075
+        },
+        {
+          "hex": "#3A3438",
+          "ratio": 13.3,
+          "luminance": 0.0364,
+          "saturation": 0.1034
+        },
+        {
+          "hex": "#2A2124",
+          "ratio": 11.8,
+          "luminance": 0.0171,
+          "saturation": 0.2143
+        },
+        {
+          "hex": "#536A92",
+          "ratio": 10.2,
+          "luminance": 0.1422,
+          "saturation": 0.4315
+        },
+        {
+          "hex": "#6D7C9D",
+          "ratio": 9.9,
+          "luminance": 0.201,
+          "saturation": 0.3057
+        },
+        {
+          "hex": "#283245",
+          "ratio": 9.6,
+          "luminance": 0.0316,
+          "saturation": 0.4203
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "大巧局",
+      "title_en": "Family Plot",
+      "year": 1976,
+      "palette": [
+        {
+          "hex": "#191815",
+          "ratio": 14.8,
+          "luminance": 0.0091,
+          "saturation": 0.16
+        },
+        {
+          "hex": "#2E302D",
+          "ratio": 13.2,
+          "luminance": 0.0288,
+          "saturation": 0.0625
+        },
+        {
+          "hex": "#454143",
+          "ratio": 13.1,
+          "luminance": 0.0545,
+          "saturation": 0.058
+        },
+        {
+          "hex": "#CCD7D9",
+          "ratio": 12.7,
+          "luminance": 0.6645,
+          "saturation": 0.0599
+        },
+        {
+          "hex": "#4E535D",
+          "ratio": 12.5,
+          "luminance": 0.086,
+          "saturation": 0.1613
+        },
+        {
+          "hex": "#53433E",
+          "ratio": 11.3,
+          "luminance": 0.062,
+          "saturation": 0.253
+        },
+        {
+          "hex": "#959697",
+          "ratio": 11.2,
+          "luminance": 0.3044,
+          "saturation": 0.0132
+        },
+        {
+          "hex": "#140304",
+          "ratio": 11.2,
+          "luminance": 0.0022,
+          "saturation": 0.85
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "优雅中性色被翠绿和警示红刺破，颜色成为欲望与危险的开关。",
+    "lighting": "古典布光加入动机明确的色光；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "空间—视线—目标—反应，精准推近；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "中间调中性偏冷，红绿分场出现；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "红绿全程铺满、廉价黑场、随机手持、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  }
+}

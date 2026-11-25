@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "187",
+    "name_en": "AnnHui",
+    "name_zh": "许鞍华",
+    "category": "10_东方美学与留白意境",
+    "nationality": "中国香港",
+    "active_years": "1947-",
+    "era": "1947-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#8D6E63",
+        "name_zh": "香港棕",
+        "name_en": "HK Brown",
+        "ratio": 0.18,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#78909C",
+        "name_zh": "海港灰",
+        "name_en": "Harbor Gray",
+        "ratio": 0.18,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFCC80",
+        "name_zh": "暖黄",
+        "name_en": "Warm Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#BCAAA4",
+        "name_zh": "旧楼米",
+        "name_en": "Old Building Beige",
+        "ratio": 0.14,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#A1887F",
+        "name_zh": "岁月棕",
+        "name_en": "Years Brown",
+        "ratio": 0.14,
+        "rgb": [
+          161,
+          136,
+          127
+        ],
+        "hsl": [
+          16,
+          15,
+          56
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFAB91",
+        "name_zh": "温情橙",
+        "name_en": "Warm Orange",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          171,
+          145
+        ],
+        "hsl": [
+          14,
+          100,
+          78
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#8D6E63",
+        "name_zh": "岁月沧桑",
+        "name_en": "岁月沧桑",
+        "emotion": "岁月沧桑",
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFCC80",
+        "name_zh": "人文温暖",
+        "name_en": "人文温暖",
+        "emotion": "人文温暖",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#78909C",
+        "name_zh": "香港记忆",
+        "name_en": "香港记忆",
+        "emotion": "香港记忆",
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFAB91",
+        "name_zh": "女性坚韧",
+        "name_en": "女性坚韧",
+        "emotion": "女性坚韧",
+        "rgb": [
+          255,
+          171,
+          145
+        ],
+        "hsl": [
+          14,
+          100,
+          78
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然柔光",
+    "highlight_tint": "香港街光",
+    "highlight_bias": "香港街光",
+    "shadow_tint": "室内暖光",
+    "shadow_bias": "室内暖光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "香港街景",
+    "女性主角",
+    "社会议题",
+    "家庭关系",
+    "诗化现实",
+    "手持纪实"
+  ],
+  "color_keywords": [
+    "许鞍华暖调",
+    "香港社会色",
+    "人文关怀色",
+    "旧楼棕米",
+    "女性视角色",
+    "诗化现实色"
+  ],
+  "mood_keywords": [
+    "人文关怀",
+    "香港故事",
+    "女性视角",
+    "社会现实",
+    "新浪潮女将",
+    "诗化电影"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "许鞍华的视觉风格：自然柔光，许鞍华暖调, 香港社会色, 人文关怀色。",
+    "lighting": "自然柔光，香港街光，室内暖光",
+    "framing": "香港街景、女性主角、社会议题。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

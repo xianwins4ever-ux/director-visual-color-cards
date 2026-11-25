@@ -1,0 +1,231 @@
+{
+  "director": {
+    "id": "025",
+    "name_en": "Tony Scott",
+    "name_zh": "托尼·斯科特",
+    "category": "02_霓虹黑色与赛博未来",
+    "nationality": "英国",
+    "active_years": "1983-2012",
+    "era": "1983-2012"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0D1B2A",
+        "name_zh": "深蓝夜幕",
+        "ratio": 0.25,
+        "rgb": [
+          13,
+          27,
+          42
+        ],
+        "hsl": [
+          211,
+          53,
+          11
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "C02",
+        "hex": "#FF6B00",
+        "name_zh": "烈焰橙",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          107,
+          0
+        ],
+        "hsl": [
+          25,
+          100,
+          50
+        ],
+        "name_en": "Orange"
+      },
+      {
+        "code": "C03",
+        "hex": "#1E90FF",
+        "name_zh": "电光蓝",
+        "ratio": 0.15,
+        "rgb": [
+          30,
+          144,
+          255
+        ],
+        "hsl": [
+          210,
+          100,
+          56
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "C04",
+        "hex": "#DAA520",
+        "name_zh": "暖金阳光",
+        "ratio": 0.15,
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "name_en": "Gold"
+      },
+      {
+        "code": "C05",
+        "hex": "#8B0000",
+        "name_zh": "深红行动",
+        "ratio": 0.12,
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "name_en": "Red"
+      },
+      {
+        "code": "C06",
+        "hex": "#F5DEB3",
+        "name_zh": "小麦肤",
+        "ratio": 0.15,
+        "rgb": [
+          245,
+          222,
+          179
+        ],
+        "hsl": [
+          39,
+          77,
+          83
+        ],
+        "name_en": "Color 6"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF4500",
+        "name_zh": "速度橙",
+        "emotion": "速度动作",
+        "rgb": [
+          255,
+          69,
+          0
+        ],
+        "hsl": [
+          16,
+          100,
+          50
+        ],
+        "name_en": "Orange"
+      },
+      {
+        "code": "E02",
+        "hex": "#00BFFF",
+        "name_zh": "高空蓝",
+        "emotion": "飞翔自由",
+        "rgb": [
+          0,
+          191,
+          255
+        ],
+        "hsl": [
+          195,
+          100,
+          50
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD700",
+        "name_zh": "英雄金",
+        "emotion": "荣耀英雄",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "name_en": "Gold"
+      },
+      {
+        "code": "E04",
+        "hex": "#DC143C",
+        "name_zh": "激情红",
+        "emotion": "爱情危险",
+        "rgb": [
+          220,
+          20,
+          60
+        ],
+        "hsl": [
+          348,
+          83,
+          47
+        ],
+        "name_en": "Red"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "backlit golden hour, overexposed highlights, strong orange-blue",
+    "highlight_tint": "orange-gold sunset backlight explosion",
+    "shadow_tint": "deep navy blue",
+    "contrast_ratio": "high 75-85%",
+    "overall_tone": "high-saturation orange-blue 50/50"
+  },
+  "composition_keywords": [
+    "rapid montage editing",
+    "helicopter aerial shots",
+    "backlit silhouettes",
+    "slow motion action",
+    "360 degree orbits",
+    "low angle hero",
+    "lens flares",
+    "smoke steam"
+  ],
+  "color_keywords": [
+    "orange-blue complementary",
+    "backlit golden hour",
+    "overexposed highlights",
+    "teal and orange grade",
+    "lens flare streaks",
+    "sunset orange glow",
+    "navy blue night",
+    "saturated commercial"
+  ],
+  "mood_keywords": [
+    "high-octane action",
+    "commercial slickness",
+    "heroic masculinity",
+    "romantic tension",
+    "adrenaline rush",
+    "patriotic americana",
+    "glamorous danger",
+    "pop entertainment"
+  ],
+  "style_profile": {
+    "definition": "托尼·斯科特的视觉风格以backlit golden hour, overexposed highlights, strong orange-blue为主，orange-blue complementary、backlit golden hour，营造出high-octane action的氛围。",
+    "lighting": "backlit golden hour, overexposed highlights, strong orange-blue，高光偏orange-gold sunset backlight explosion，阴影偏deep navy blue，整体high-saturation orange-blue 50/50。",
+    "framing": "rapid montage editing、helicopter aerial shots、backlit silhouettes。",
+    "grading": "对比度high 75-85%，色调high-saturation orange-blue 50/50。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

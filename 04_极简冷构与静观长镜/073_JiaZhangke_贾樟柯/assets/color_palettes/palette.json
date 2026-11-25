@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "073",
+    "name_en": "JiaZhangke",
+    "name_zh": "贾樟柯",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "中国",
+    "era": "1970-",
+    "active_years": "1970-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#6B7A8A",
+        "rgb": [
+          107,
+          122,
+          138
+        ],
+        "hsl": [
+          211,
+          13,
+          48
+        ],
+        "ratio": 0.22,
+        "name_zh": "县城灰蓝",
+        "name_en": "County Town Gray Blue",
+        "code": "C01"
+      },
+      {
+        "hex": "#8B8378",
+        "rgb": [
+          139,
+          131,
+          120
+        ],
+        "hsl": [
+          35,
+          8,
+          51
+        ],
+        "ratio": 0.18,
+        "name_zh": "黄土灰",
+        "name_en": "Loess Gray",
+        "code": "C02"
+      },
+      {
+        "hex": "#B8A99A",
+        "rgb": [
+          184,
+          169,
+          154
+        ],
+        "hsl": [
+          30,
+          17,
+          66
+        ],
+        "ratio": 0.16,
+        "name_zh": "旧墙米",
+        "name_en": "Old Wall Beige",
+        "code": "C03"
+      },
+      {
+        "hex": "#4A5666",
+        "rgb": [
+          74,
+          86,
+          102
+        ],
+        "hsl": [
+          214,
+          16,
+          35
+        ],
+        "ratio": 0.14,
+        "name_zh": "夜蓝灰",
+        "name_en": "Night Blue Gray",
+        "code": "C04"
+      },
+      {
+        "hex": "#D4A058",
+        "rgb": [
+          212,
+          160,
+          88
+        ],
+        "hsl": [
+          35,
+          59,
+          59
+        ],
+        "ratio": 0.14,
+        "name_zh": "昏灯黄",
+        "name_en": "Dim Lamp Yellow",
+        "code": "C05"
+      },
+      {
+        "hex": "#3A4250",
+        "rgb": [
+          58,
+          66,
+          80
+        ],
+        "hsl": [
+          218,
+          16,
+          27
+        ],
+        "ratio": 0.16,
+        "name_zh": "深冬灰蓝",
+        "name_en": "Deep Winter Gray Blue",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#7A8A9A",
+        "rgb": [
+          122,
+          138,
+          154
+        ],
+        "hsl": [
+          210,
+          14,
+          54
+        ],
+        "emotion": "时代迷茫",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#C89040",
+        "rgb": [
+          200,
+          144,
+          64
+        ],
+        "hsl": [
+          35,
+          55,
+          52
+        ],
+        "emotion": "乡愁温暖",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#5A6470",
+        "rgb": [
+          90,
+          100,
+          112
+        ],
+        "hsl": [
+          213,
+          11,
+          40
+        ],
+        "emotion": "底层生存",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#2A3440",
+        "rgb": [
+          42,
+          52,
+          64
+        ],
+        "hsl": [
+          213,
+          21,
+          21
+        ],
+        "emotion": "变迁失落",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然光写实",
+    "highlight_bias": "县城灰蒙",
+    "shadow_bias": "霓虹夜色",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "县城空间",
+    "长镜头静观",
+    "流行音乐",
+    "时代符号",
+    "三峡变迁",
+    "农民工流动"
+  ],
+  "color_keywords": [
+    "县城灰调",
+    "黄土色",
+    "汾阳旧色",
+    "三峡绿",
+    "霓虹夜",
+    "旧海报色"
+  ],
+  "mood_keywords": [
+    "时代变迁",
+    "乡愁",
+    "底层生存",
+    "青春迷茫",
+    "中国速度",
+    "记忆废墟"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "三峡好人",
+      "title_en": "Still Life",
+      "year": 2006,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/2346/images/backdrops"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/1McjlKoYhOYYnB3HhSEpt75WGK5.jpg"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/7ztSRSFQtDpOh9285yhbP53uvur.jpg"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/8TIRO8lxg3yGRqQNIAE11FFfWZS.jpg"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/bTyDnRQ9k0ULFt4KcpFmaBBVqFW.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "天注定",
+      "title_en": "A Touch of Sin",
+      "year": 2013,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/187022/images/backdrops"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/1hAAM6eHsSXBHkXMYwMrHxzhkc0.jpg"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/2uELP0BxvYanlPnszSbJnGXLy4A.jpg"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/5lHfcLCL3pNFV5qTX1h3xL92dpN.jpg"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/cJOW9fpnGMfT0qZWX9v6ag5NaU7.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "山河故人",
+      "title_en": "Mountains May Depart",
+      "year": 2015,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/314388/images/backdrops"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/1yWVWs2nrUCd4iDvQfKaaR1xV1c.jpg"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/bMwYJlJJVVmU1VOsJDKZLqSEPJK.jpg"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/gAJgUS1DfkamTfvwehp0enR8dJ3.jpg"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/x86fmN6Ot5gGHiNcOY7lPwfBGKV.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "江湖儿女",
+      "title_en": "Ash Is Purest White",
+      "year": 2018,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/441393/images/backdrops"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/2Py3NcPP1NzL6JeflswufPQYcUY.jpg"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/36mt6Ca5dX5wB7UggmaZKKcuRk8.jpg"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/8eHY7S9upDwElJwj8oSZ7TtOICJ.jpg"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/9n2xYO3Cj9UEM91nZwZ8qAlvk0.jpg"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "贾樟柯的视觉风格以自然光写实为主，县城灰调、黄土色、汾阳旧色，营造出时代变迁的氛围。",
+    "lighting": "自然光写实，高光偏县城灰蒙，阴影偏霓虹夜色，整体冷调。",
+    "composition": [],
+    "mood": [],
+    "framing": "县城空间、长镜头静观、流行音乐，强调视觉层次感。",
+    "grading": "对比度中高对比，色调冷调，色彩县城灰调、黄土色、汾阳旧色。",
+    "avoid": "避免快速剪辑、避免强烈明暗对比、避免色彩杂乱"
+  }
+}

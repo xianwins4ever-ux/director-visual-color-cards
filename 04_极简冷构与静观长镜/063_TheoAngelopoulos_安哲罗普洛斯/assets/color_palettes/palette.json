@@ -1,0 +1,222 @@
+{
+  "director": {
+    "id": "063",
+    "name_en": "TheoAngelopoulos",
+    "name_zh": "安哲罗普洛斯",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "希腊",
+    "era": "1935-2012",
+    "active_years": "1935-2012"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#7D8A8F",
+        "rgb": [
+          125,
+          138,
+          143
+        ],
+        "hsl": [
+          197,
+          7,
+          53
+        ],
+        "ratio": 0.22,
+        "name_zh": "雾灰蓝",
+        "name_en": "Fog Gray Blue",
+        "code": "C01"
+      },
+      {
+        "hex": "#5D6B70",
+        "rgb": [
+          93,
+          107,
+          112
+        ],
+        "hsl": [
+          196,
+          9,
+          40
+        ],
+        "ratio": 0.18,
+        "name_zh": "深海灰蓝",
+        "name_en": "Deep Sea Gray Blue",
+        "code": "C02"
+      },
+      {
+        "hex": "#9DA8AB",
+        "rgb": [
+          157,
+          168,
+          171
+        ],
+        "hsl": [
+          193,
+          8,
+          64
+        ],
+        "ratio": 0.16,
+        "name_zh": "银雾灰",
+        "name_en": "Silver Mist Gray",
+        "code": "C03"
+      },
+      {
+        "hex": "#B8B09E",
+        "rgb": [
+          184,
+          176,
+          158
+        ],
+        "hsl": [
+          42,
+          15,
+          67
+        ],
+        "ratio": 0.15,
+        "name_zh": "废墟米灰",
+        "name_en": "Ruins Beige Gray",
+        "code": "C04"
+      },
+      {
+        "hex": "#4A5558",
+        "rgb": [
+          74,
+          85,
+          88
+        ],
+        "hsl": [
+          193,
+          9,
+          32
+        ],
+        "ratio": 0.15,
+        "name_zh": "暗石青",
+        "name_en": "Dark Stone Cyan",
+        "code": "C05"
+      },
+      {
+        "hex": "#C9C4B5",
+        "rgb": [
+          201,
+          196,
+          181
+        ],
+        "hsl": [
+          45,
+          16,
+          75
+        ],
+        "ratio": 0.14,
+        "name_zh": "旧石米",
+        "name_en": "Old Stone Beige",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#BFC7CB",
+        "rgb": [
+          191,
+          199,
+          203
+        ],
+        "hsl": [
+          200,
+          10,
+          77
+        ],
+        "emotion": "历史苍茫",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#3E484B",
+        "rgb": [
+          62,
+          72,
+          75
+        ],
+        "hsl": [
+          194,
+          9,
+          27
+        ],
+        "emotion": "流亡孤寂",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#8D989C",
+        "rgb": [
+          141,
+          152,
+          156
+        ],
+        "hsl": [
+          196,
+          7,
+          58
+        ],
+        "emotion": "时间流逝",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#D4D0C5",
+        "rgb": [
+          212,
+          208,
+          197
+        ],
+        "hsl": [
+          44,
+          15,
+          80
+        ],
+        "emotion": "记忆微光",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "阴散射光",
+    "highlight_bias": "雾气弥漫",
+    "shadow_bias": "黄昏微光",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "超长镜头",
+    "横向移动",
+    "废墟构图",
+    "边境意象",
+    "雨雪天气",
+    "历史与个人"
+  ],
+  "color_keywords": [
+    "雾灰蓝调",
+    "希腊冷光",
+    "废墟色调",
+    "冬季灰白",
+    "阴天气氛",
+    "海水冷色"
+  ],
+  "mood_keywords": [
+    "历史重量",
+    "流亡主题",
+    "时间缓慢",
+    "诗意悲伤",
+    "家国记忆",
+    "边境徘徊"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "安哲罗普洛斯的视觉风格以阴散射光为主，雾灰蓝调、希腊冷光，营造出历史重量的氛围。",
+    "lighting": "阴散射光，高光偏雾气弥漫，阴影偏黄昏微光，整体冷调。",
+    "framing": "超长镜头、横向移动、废墟构图。",
+    "grading": "对比度中高对比，色调冷调。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

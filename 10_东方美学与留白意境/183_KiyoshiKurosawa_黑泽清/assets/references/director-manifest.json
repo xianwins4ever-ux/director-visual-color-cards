@@ -1,0 +1,151 @@
+{
+  "director": {
+    "zh": "黑泽清",
+    "en": "Kiyoshi Kurosawa"
+  },
+  "style_profile": {
+    "definition": "日常空间被空旷构图和无形威胁逐渐侵蚀",
+    "lighting": "冷白日光、荧光灯与阴影深处的微弱层次",
+    "framing": "广角固定镜头、长走廊和人物偏置，偶发缓慢逼近",
+    "grading": "青灰、病绿、混凝土色与深黑，降低综合色温度",
+    "avoid": [
+      "跳吓闪剪",
+      "彩色鬼光",
+      "过度雾化"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "神田川淫亂戰爭",
+      "title_en": "Kandagawa Pervert Wars",
+      "year": 1983,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/42951/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/wI17uk5ueq3hEk30eW7lEGkh7rE.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/r9hIlSavTt0gHjJqAvmAXtfWHSs.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/1XKJHlni9GsESkJOeVpMVPaliWZ.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/fF6Zid41vv9bA01utqjxV0bxVQG.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "降靈",
+      "title_en": "Seance",
+      "year": 2000,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/27742/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/nIKmKhX25M1mCQZS0koexBTRKab.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/vzd80MzvI0ZEO1VWCXnkfIFr5Z2.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/uvyLpQ4s0dXZBpvggm0yufLhpUl.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/lBqJ2wpuPrXJUbxbf0fuQ3eGUCh.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "毛骨悚然",
+      "title_en": "Creepy",
+      "year": 2016,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/380620/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/i9iDQ3lrW2mZHnSWWCLeefwurXo.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/vioylWX3UFJgjkI4Gox9Sg46uvf.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/eUaIhPtpD2CS70raMhPqKKGzunZ.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/h8ggxxSlaHsIB00sTRe9zgUjUeD.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "黑牢城",
+      "title_en": "Kokurojo: The Samurai and the Prisoner",
+      "year": 2026,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D117-黑泽清·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1620313/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/bDfnzzTEVMrV9gIsWw4YSwjuDXL.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/j27OZv3kIuvVCUNHkbmbBoUk3jr.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/z5oMoDs6a1GAuK5cNAeBkAr0yk.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/xXp1sC7jhptaGukd69w83mSDs4y.jpg"
+        }
+      ]
+    }
+  ]
+}

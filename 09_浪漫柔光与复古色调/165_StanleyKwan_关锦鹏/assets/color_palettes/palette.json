@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "165",
+    "name_en": "StanleyKwan",
+    "name_zh": "关锦鹏",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "中国香港",
+    "active_years": "1957-",
+    "era": "1957-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#C62828",
+        "name_zh": "胭脂红",
+        "name_en": "Rouge Red",
+        "ratio": 0.2,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFCC80",
+        "name_zh": "怀旧黄",
+        "name_en": "Nostalgic Yellow",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#5D4037",
+        "name_zh": "老香港棕",
+        "name_en": "Old HK Brown",
+        "ratio": 0.16,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#8D6E63",
+        "name_zh": "岁月棕",
+        "name_en": "Years Brown",
+        "ratio": 0.14,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFAB91",
+        "name_zh": "胭脂粉",
+        "name_en": "Rouge Pink",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          171,
+          145
+        ],
+        "hsl": [
+          14,
+          100,
+          78
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#3E2723",
+        "name_zh": "深棕",
+        "name_en": "Deep Brown",
+        "ratio": 0.18,
+        "rgb": [
+          62,
+          39,
+          35
+        ],
+        "hsl": [
+          9,
+          28,
+          19
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#C62828",
+        "name_zh": "情欲燃烧",
+        "name_en": "情欲燃烧",
+        "emotion": "情欲燃烧",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFCC80",
+        "name_zh": "怀旧追忆",
+        "name_en": "怀旧追忆",
+        "emotion": "怀旧追忆",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#5D4037",
+        "name_zh": "岁月沧桑",
+        "name_en": "岁月沧桑",
+        "emotion": "岁月沧桑",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFAB91",
+        "name_zh": "温柔女性",
+        "name_en": "温柔女性",
+        "emotion": "温柔女性",
+        "rgb": [
+          255,
+          171,
+          145
+        ],
+        "hsl": [
+          14,
+          100,
+          78
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "怀旧暖光",
+    "highlight_tint": "红色点缀",
+    "highlight_bias": "红色点缀",
+    "shadow_tint": "柔光漫射",
+    "shadow_bias": "柔光漫射",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "女性群像",
+    "怀旧香港",
+    "红色意象",
+    "镜像构图",
+    "戏曲元素",
+    "时空交错"
+  ],
+  "color_keywords": [
+    "胭脂红",
+    "怀旧暖黄",
+    "老香港棕调",
+    "女性柔光色",
+    "红玫瑰白玫瑰",
+    "上海怀旧色"
+  ],
+  "mood_keywords": [
+    "女性视角",
+    "怀旧香港",
+    "胭脂扣情",
+    "红玫瑰白玫瑰",
+    "同志身份",
+    "岁月如歌"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "关锦鹏的视觉风格：怀旧暖光，胭脂红, 怀旧暖黄, 老香港棕调。",
+    "lighting": "怀旧暖光，红色点缀，柔光漫射",
+    "framing": "女性群像、怀旧香港、红色意象。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

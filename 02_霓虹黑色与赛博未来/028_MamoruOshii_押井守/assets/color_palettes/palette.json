@@ -1,0 +1,463 @@
+{
+  "director": {
+    "id": "028",
+    "name_en": "Mamoru Oshii",
+    "name_zh": "押井守",
+    "category": "02_霓虹黑色与赛博未来",
+    "nationality": "日本",
+    "active_years": "1983-至今",
+    "era": "1983-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0D1117",
+        "name_zh": "赛博深黑",
+        "name_en": "Cyber Deep Black",
+        "ratio": 0.32,
+        "rgb": [
+          13,
+          17,
+          23
+        ],
+        "hsl": [
+          216,
+          28,
+          7
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#37474F",
+        "name_zh": "雨城灰蓝",
+        "name_en": "Rain City Blue-Grey",
+        "ratio": 0.22,
+        "rgb": [
+          55,
+          71,
+          79
+        ],
+        "hsl": [
+          200,
+          18,
+          26
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#00C853",
+        "name_zh": "数据绿",
+        "name_en": "Data Green",
+        "ratio": 0.14,
+        "rgb": [
+          0,
+          200,
+          83
+        ],
+        "hsl": [
+          145,
+          100,
+          39
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#00E5FF",
+        "name_zh": "霓虹青",
+        "name_en": "Neon Cyan",
+        "ratio": 0.12,
+        "rgb": [
+          0,
+          229,
+          255
+        ],
+        "hsl": [
+          186,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#F0D9B5",
+        "name_zh": "暖肤黄",
+        "name_en": "Warm Skin Yellow",
+        "ratio": 0.1,
+        "rgb": [
+          240,
+          217,
+          181
+        ],
+        "hsl": [
+          37,
+          66,
+          83
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#607D8B",
+        "name_zh": "机械灰",
+        "name_en": "Mech Grey",
+        "ratio": 0.1,
+        "rgb": [
+          96,
+          125,
+          139
+        ],
+        "hsl": [
+          200,
+          18,
+          46
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF1744",
+        "name_zh": "警报红",
+        "name_en": "Alert Red",
+        "emotion": "危险、战斗、系统入侵警告",
+        "rgb": [
+          255,
+          23,
+          68
+        ],
+        "hsl": [
+          348,
+          100,
+          55
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#76FF03",
+        "name_zh": "数据荧光绿",
+        "name_en": "Data Fluorescent Green",
+        "emotion": "数字意识觉醒、灵魂的电子化",
+        "rgb": [
+          118,
+          255,
+          3
+        ],
+        "hsl": [
+          93,
+          100,
+          51
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#5C6BC0",
+        "name_zh": "哲学紫灰",
+        "name_en": "Philosophical Purple-Grey",
+        "emotion": "存在焦虑、记忆与现实的模糊、人偶的凝视",
+        "rgb": [
+          92,
+          107,
+          192
+        ],
+        "hsl": [
+          231,
+          44,
+          56
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFD54F",
+        "name_zh": "夕照金",
+        "name_en": "Sunset Gold",
+        "emotion": "人性的余温、记忆中的阳光、短暂的宁静",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "顶光+侧光为主，雨幕散射光营造湿冷氛围，霓虹招牌作为色彩光源",
+    "highlight_tint": "数据绿/霓虹青（终端界面/全息投影/霓虹反射）",
+    "shadow_tint": "冷蓝灰偏黑（雨城暗部/机械缝隙/建筑阴影）",
+    "contrast_ratio": "中高对比（65-80%），暗部偏冷蓝，高光处有霓虹色溢出",
+    "overall_tone": "冷调赛博，75%冷蓝绿灰 + 25%暖黄肤色/夕照"
+  },
+  "composition_keywords": [
+    "雨幕远景",
+    "水面倒影",
+    "义体镜面反射",
+    "城市俯瞰长镜",
+    "人偶静止构图",
+    "走廊纵深透视",
+    "数据雨叠层",
+    "鸟类/狗意象空镜",
+    "玻璃反射叠影",
+    "城市天际线"
+  ],
+  "color_keywords": [
+    "数据绿流",
+    "雨城冷蓝",
+    "霓虹青溢光",
+    "湿面反射",
+    "机械灰冷调",
+    "暖肤对比",
+    "夕照金边",
+    "全息投影半透",
+    "暗色深黑",
+    "水面碎光"
+  ],
+  "mood_keywords": [
+    "赛博哲学",
+    "存在主义",
+    "记忆与身份",
+    "灵肉二元",
+    "冷疏离感",
+    "都市孤独",
+    "政治隐喻",
+    "神学暗喻",
+    "静止与等待",
+    "人偶凝视"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "攻壳机动队",
+      "title_en": "Ghost in the Shell",
+      "year": 1995,
+      "palette": [
+        {
+          "hex": "#626B73",
+          "ratio": 14.8,
+          "luminance": 0.1435,
+          "saturation": 0.1478
+        },
+        {
+          "hex": "#383E49",
+          "ratio": 14.4,
+          "luminance": 0.0477,
+          "saturation": 0.2329
+        },
+        {
+          "hex": "#66544D",
+          "ratio": 12.8,
+          "luminance": 0.097,
+          "saturation": 0.2451
+        },
+        {
+          "hex": "#85ABB8",
+          "ratio": 11.9,
+          "luminance": 0.3757,
+          "saturation": 0.2772
+        },
+        {
+          "hex": "#5C585B",
+          "ratio": 11.8,
+          "luminance": 0.1001,
+          "saturation": 0.0435
+        },
+        {
+          "hex": "#243241",
+          "ratio": 11.6,
+          "luminance": 0.0304,
+          "saturation": 0.4462
+        },
+        {
+          "hex": "#1D1E28",
+          "ratio": 11.5,
+          "luminance": 0.0134,
+          "saturation": 0.275
+        },
+        {
+          "hex": "#2F7D92",
+          "ratio": 11.2,
+          "luminance": 0.1735,
+          "saturation": 0.6781
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "机动警察2",
+      "title_en": "Patlabor 2: The Movie",
+      "year": 1993,
+      "palette": [
+        {
+          "hex": "#B0A99D",
+          "ratio": 16.6,
+          "luminance": 0.4004,
+          "saturation": 0.108
+        },
+        {
+          "hex": "#43606D",
+          "ratio": 13.7,
+          "luminance": 0.1066,
+          "saturation": 0.3853
+        },
+        {
+          "hex": "#DB7B43",
+          "ratio": 13.6,
+          "luminance": 0.2963,
+          "saturation": 0.6941
+        },
+        {
+          "hex": "#373F4C",
+          "ratio": 13.0,
+          "luminance": 0.0489,
+          "saturation": 0.2763
+        },
+        {
+          "hex": "#83929A",
+          "ratio": 11.6,
+          "luminance": 0.2772,
+          "saturation": 0.1494
+        },
+        {
+          "hex": "#628089",
+          "ratio": 10.7,
+          "luminance": 0.1984,
+          "saturation": 0.2847
+        },
+        {
+          "hex": "#181825",
+          "ratio": 10.4,
+          "luminance": 0.0098,
+          "saturation": 0.3514
+        },
+        {
+          "hex": "#1D2B35",
+          "ratio": 10.4,
+          "luminance": 0.0225,
+          "saturation": 0.4528
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "攻壳机动队2：无罪",
+      "title_en": "Ghost in the Shell 2: Innocence",
+      "year": 2004,
+      "palette": [
+        {
+          "hex": "#F5F2D3",
+          "ratio": 14.0,
+          "luminance": 0.8762,
+          "saturation": 0.1388
+        },
+        {
+          "hex": "#784B2A",
+          "ratio": 13.9,
+          "luminance": 0.0919,
+          "saturation": 0.65
+        },
+        {
+          "hex": "#553C25",
+          "ratio": 13.4,
+          "luminance": 0.053,
+          "saturation": 0.5647
+        },
+        {
+          "hex": "#7A6A5B",
+          "ratio": 12.8,
+          "luminance": 0.152,
+          "saturation": 0.2541
+        },
+        {
+          "hex": "#A2724E",
+          "ratio": 11.8,
+          "luminance": 0.2027,
+          "saturation": 0.5185
+        },
+        {
+          "hex": "#9E5633",
+          "ratio": 11.4,
+          "luminance": 0.1416,
+          "saturation": 0.6772
+        },
+        {
+          "hex": "#090906",
+          "ratio": 11.4,
+          "luminance": 0.0027,
+          "saturation": 0.3333
+        },
+        {
+          "hex": "#858C78",
+          "ratio": 11.3,
+          "luminance": 0.251,
+          "saturation": 0.1429
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "空中杀手",
+      "title_en": "The Sky Crawlers",
+      "year": 2008,
+      "palette": [
+        {
+          "hex": "#1D1D1F",
+          "ratio": 14.6,
+          "luminance": 0.0124,
+          "saturation": 0.0645
+        },
+        {
+          "hex": "#91B6CB",
+          "ratio": 13.9,
+          "luminance": 0.4379,
+          "saturation": 0.2857
+        },
+        {
+          "hex": "#073E8F",
+          "ratio": 12.7,
+          "luminance": 0.0547,
+          "saturation": 0.951
+        },
+        {
+          "hex": "#072E63",
+          "ratio": 12.4,
+          "luminance": 0.029,
+          "saturation": 0.9293
+        },
+        {
+          "hex": "#71AAD1",
+          "ratio": 12.1,
+          "luminance": 0.3686,
+          "saturation": 0.4593
+        },
+        {
+          "hex": "#8CC9E7",
+          "ratio": 11.5,
+          "luminance": 0.5312,
+          "saturation": 0.3939
+        },
+        {
+          "hex": "#EBE7E1",
+          "ratio": 11.4,
+          "luminance": 0.8025,
+          "saturation": 0.0426
+        },
+        {
+          "hex": "#C7CECC",
+          "ratio": 11.4,
+          "luminance": 0.6064,
+          "saturation": 0.034
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "雨夜城市、机械身体与静默凝视追问身份边界",
+    "lighting": "冷雨天光、工业荧光与局部暖灯；肤色保持自然可读，高光和黑位保留材质。",
+    "framing": "城市纵深、玻璃反射、水面和人物静止侧影",
+    "grading": "青灰、雨绿、混凝土、皮肤米色和警示琥珀；局部强调色不污染整幅画面。",
+    "avoid": "统一滤镜替代真实材质、无动机环绕和随机变焦、人物身份与空间轴漂移、肤色污染、死黑和爆白、只模仿颜色不执行镜头语言。"
+  }
+}

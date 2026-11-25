@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "102",
+    "name_en": "TerryGilliam",
+    "name_zh": "特瑞·吉列姆",
+    "category": "06_超现实梦幻与心理畸变",
+    "nationality": "美国/英国",
+    "active_years": "1940-",
+    "era": "1940-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#5D4037",
+        "name_zh": "脏棕",
+        "name_en": "Dirty Brown",
+        "ratio": 0.2,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#37474F",
+        "name_zh": "工业灰蓝",
+        "name_en": "Industrial Gray Blue",
+        "ratio": 0.18,
+        "rgb": [
+          55,
+          71,
+          79
+        ],
+        "hsl": [
+          200,
+          18,
+          26
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FF6F00",
+        "name_zh": "橙黄",
+        "name_en": "Orange Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          111,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#4A148C",
+        "name_zh": "深紫",
+        "name_en": "Deep Purple",
+        "ratio": 0.14,
+        "rgb": [
+          74,
+          20,
+          140
+        ],
+        "hsl": [
+          267,
+          75,
+          31
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#827717",
+        "name_zh": "橄榄黄绿",
+        "name_en": "Olive Yellow Green",
+        "ratio": 0.14,
+        "rgb": [
+          130,
+          119,
+          23
+        ],
+        "hsl": [
+          54,
+          70,
+          30
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#1A1A1A",
+        "name_zh": "污黑",
+        "name_en": "Dirty Black",
+        "ratio": 0.18,
+        "rgb": [
+          26,
+          26,
+          26
+        ],
+        "hsl": [
+          0,
+          0,
+          10
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF6F00",
+        "name_zh": "荒诞狂想",
+        "name_en": "荒诞狂想",
+        "emotion": "荒诞狂想",
+        "rgb": [
+          255,
+          111,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#5D4037",
+        "name_zh": "脏乱现实",
+        "name_en": "脏乱现实",
+        "emotion": "脏乱现实",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#4A148C",
+        "name_zh": "梦幻逃离",
+        "name_en": "梦幻逃离",
+        "emotion": "梦幻逃离",
+        "rgb": [
+          74,
+          20,
+          140
+        ],
+        "hsl": [
+          267,
+          75,
+          31
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#37474F",
+        "name_zh": "官僚压抑",
+        "name_en": "官僚压抑",
+        "emotion": "官僚压抑",
+        "rgb": [
+          55,
+          71,
+          79
+        ],
+        "hsl": [
+          200,
+          18,
+          26
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "低照度暖光",
+    "highlight_tint": "蒸汽朋克光",
+    "highlight_bias": "蒸汽朋克光",
+    "shadow_tint": "彩色色光",
+    "shadow_bias": "彩色色光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "广角畸变",
+    "拼贴美学",
+    "脏乱空间",
+    "童话黑暗",
+    "机械装置",
+    "倾斜构图"
+  ],
+  "color_keywords": [
+    "蒸汽朋克色",
+    "脏乱质感",
+    "高饱和点缀",
+    "拼贴色彩",
+    "橙紫对比",
+    "工业脏色"
+  ],
+  "mood_keywords": [
+    "反乌托邦",
+    "黑色童话",
+    "荒诞不经",
+    "逃离现实",
+    "官僚讽刺",
+    "混乱诗意"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "特瑞·吉列姆的视觉风格：低照度暖光，蒸汽朋克色, 脏乱质感, 高饱和点缀。",
+    "lighting": "低照度暖光，蒸汽朋克光，彩色色光",
+    "framing": "广角畸变、拼贴美学、脏乱空间。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

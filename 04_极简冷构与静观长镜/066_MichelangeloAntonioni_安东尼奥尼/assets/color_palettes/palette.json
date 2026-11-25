@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "066",
+    "name_en": "MichelangeloAntonioni",
+    "name_zh": "安东尼奥尼",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "意大利",
+    "era": "1912-2007",
+    "active_years": "1912-2007"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#8A9098",
+        "rgb": [
+          138,
+          144,
+          152
+        ],
+        "hsl": [
+          214,
+          6,
+          57
+        ],
+        "ratio": 0.22,
+        "name_zh": "工业灰",
+        "name_en": "Industrial Gray",
+        "code": "C01"
+      },
+      {
+        "hex": "#B4B0A8",
+        "rgb": [
+          180,
+          176,
+          168
+        ],
+        "hsl": [
+          40,
+          7,
+          68
+        ],
+        "ratio": 0.18,
+        "name_zh": "水泥米灰",
+        "name_en": "Concrete Beige Gray",
+        "code": "C02"
+      },
+      {
+        "hex": "#5C6672",
+        "rgb": [
+          92,
+          102,
+          114
+        ],
+        "hsl": [
+          213,
+          11,
+          40
+        ],
+        "ratio": 0.16,
+        "name_zh": "钢蓝灰",
+        "name_en": "Steel Blue Gray",
+        "code": "C03"
+      },
+      {
+        "hex": "#D4CFC4",
+        "rgb": [
+          212,
+          207,
+          196
+        ],
+        "hsl": [
+          41,
+          16,
+          80
+        ],
+        "ratio": 0.14,
+        "name_zh": "尘灰白",
+        "name_en": "Dusty Gray White",
+        "code": "C04"
+      },
+      {
+        "hex": "#E84A5F",
+        "rgb": [
+          232,
+          74,
+          95
+        ],
+        "hsl": [
+          352,
+          77,
+          60
+        ],
+        "ratio": 0.14,
+        "name_zh": "欲望红",
+        "name_en": "Desire Red",
+        "code": "C05"
+      },
+      {
+        "hex": "#3A424C",
+        "rgb": [
+          58,
+          66,
+          76
+        ],
+        "hsl": [
+          213,
+          13,
+          26
+        ],
+        "ratio": 0.16,
+        "name_zh": "深钢蓝",
+        "name_en": "Deep Steel Blue",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#C8C4BC",
+        "rgb": [
+          200,
+          196,
+          188
+        ],
+        "hsl": [
+          40,
+          10,
+          76
+        ],
+        "emotion": "疏离空虚",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#DC143C",
+        "rgb": [
+          220,
+          20,
+          60
+        ],
+        "hsl": [
+          348,
+          83,
+          47
+        ],
+        "emotion": "压抑欲望",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#708090",
+        "rgb": [
+          112,
+          128,
+          144
+        ],
+        "hsl": [
+          210,
+          13,
+          50
+        ],
+        "emotion": "现代焦虑",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#2C3640",
+        "rgb": [
+          44,
+          54,
+          64
+        ],
+        "hsl": [
+          210,
+          19,
+          21
+        ],
+        "emotion": "存在困境",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "柔光散射",
+    "highlight_bias": "工业冷光",
+    "shadow_bias": "建筑阴影",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "建筑与人物",
+    "空旷构图",
+    "几何线条",
+    "前景遮挡",
+    "风景异化",
+    "色彩心理"
+  ],
+  "color_keywords": [
+    "工业灰调",
+    "建筑色彩",
+    "沙漠赭色",
+    "心理色彩",
+    "低饱和",
+    "现代主义色"
+  ],
+  "mood_keywords": [
+    "疏离",
+    "异化",
+    "空虚",
+    "焦虑",
+    "情感无能",
+    "现代性困境"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "爱神",
+      "title_en": "Eros",
+      "year": 2004,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/02/03/eros/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_01.jpg?bwg=1724143047"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_22.jpg?bwg=1724143045"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_44.jpg?bwg=1724143045"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_65.jpg?bwg=1724143045"
+        }
+      ]
+    },
+    {
+      "title_zh": "奇遇",
+      "title_en": "L’Avventura",
+      "year": 1960,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/03/25/lavventura/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (587).jpg?bwg=1547227069"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (599).jpg?bwg=1547227069"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (588).jpg?bwg=1547227068"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (409).jpg?bwg=1547227068"
+        }
+      ]
+    },
+    {
+      "title_zh": "放大",
+      "title_en": "Blow-Up",
+      "year": 1966,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/02/07/blow-up/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (161).jpg?bwg=1547151120"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (164).jpg?bwg=1547151119"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (163).jpg?bwg=1547151119"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (112).jpg?bwg=1547151119"
+        }
+      ]
+    },
+    {
+      "title_zh": "过客",
+      "title_en": "The Passenger",
+      "year": 1975,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/08/25/the-passenger/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1132).jpg?bwg=1547469117"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1155).jpg?bwg=1547469117"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1136).jpg?bwg=1547469116"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (776).jpg?bwg=1547469116"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "安东尼奥尼的视觉风格以柔光散射为主，工业灰调、建筑色彩、沙漠赭色，营造出疏离的氛围。",
+    "lighting": "柔光散射，高光偏工业冷光，阴影偏建筑阴影，整体冷调。",
+    "composition": [],
+    "mood": [],
+    "framing": "建筑与人物、空旷构图、几何线条，强调视觉层次感。",
+    "grading": "对比度中高对比，色调冷调，色彩工业灰调、建筑色彩、沙漠赭色。",
+    "avoid": "避免快速剪辑、避免强烈明暗对比、避免色彩杂乱"
+  }
+}

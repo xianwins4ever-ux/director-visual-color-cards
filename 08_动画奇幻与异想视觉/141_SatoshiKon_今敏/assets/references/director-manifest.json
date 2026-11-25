@@ -1,0 +1,153 @@
+{
+  "director": {
+    "zh": "今敏",
+    "en": "Satoshi Kon"
+  },
+  "style_profile": {
+    "definition": "现实与幻觉用红蓝紫互穿，颜色在剪辑中承担身份错位。",
+    "lighting": "舞台光、屏幕光与现实中性光切换；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "主观视点、匹配剪辑、空间突然变形；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "保持红紫纯度，现实段落偏冷中性；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": [
+      "随机赛博色",
+      "无因果闪烁",
+      "全程梦幻柔焦",
+      "无动机环绕和随机变焦",
+      "用统一滤镜替代色彩比例、光源和材质。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "Perfect Blue",
+      "title_en": "Perfect Blue",
+      "year": 1997,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2020/01/23/perfect-blue/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Perfect_Blue_001.jpg?bwg=1569600824"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Perfect_Blue_022.jpg?bwg=1569600821"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Perfect_Blue_044.jpg?bwg=1569600821"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Perfect_Blue_065.jpg?bwg=1569600821"
+        }
+      ]
+    },
+    {
+      "title_zh": "Millenium Actress",
+      "title_en": "Millenium Actress",
+      "year": 2001,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2021/01/25/millenium-actress/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Millenium_Actress_001.jpg?bwg=1600677702"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Millenium_Actress_022.jpg?bwg=1600677701"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Millenium_Actress_044.jpg?bwg=1600677701"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Millenium_Actress_065.jpg?bwg=1600677701"
+        }
+      ]
+    },
+    {
+      "title_zh": "Tokyo Godfathers",
+      "title_en": "Tokyo Godfathers",
+      "year": 2003,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2024/05/19/tokyo-godfathers/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Tokyo_Godfathers_01.jpg?bwg=1703851959"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Tokyo_Godfathers_22.jpg?bwg=1703851957"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Tokyo_Godfathers_44.jpg?bwg=1703851957"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Tokyo_Godfathers_65.jpg?bwg=1703851957"
+        }
+      ]
+    },
+    {
+      "title_zh": "Paprika",
+      "title_en": "Paprika",
+      "year": 2006,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D008-今敏·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2021/01/11/paprika/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Paprika_001.jpg?bwg=1602158264"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Paprika_022.jpg?bwg=1602158263"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Paprika_044.jpg?bwg=1602158263"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Paprika_065.jpg?bwg=1602158263"
+        }
+      ]
+    }
+  ]
+}

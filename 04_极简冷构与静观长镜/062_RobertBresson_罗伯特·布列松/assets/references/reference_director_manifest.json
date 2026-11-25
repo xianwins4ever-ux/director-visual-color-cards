@@ -1,0 +1,137 @@
+{
+  "director": {
+    "zh": "罗伯特·布列松",
+    "en": "Robert Bresson"
+  },
+  "style_profile": {
+    "definition": "朴素灰、泥土和皮肤让手、物件与行动承担精神重量。",
+    "lighting": "无炫技自然光，方向清楚；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "手部特写、动作片段、克制固定镜；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "低饱和低修饰，声音补全画外；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": [
+      "戏剧红光",
+      "漂亮逆光",
+      "表演夸张",
+      "无动机环绕和随机变焦",
+      "用统一滤镜替代色彩比例、光源和材质。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "夢想者四夜",
+      "title_en": "Four Nights of a Dreamer",
+      "year": 1971,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/5kh4VMRflkmlOcvnB0WW2LgbZg9.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/qTS5VoFzK3ZoaSmrxw25j7cvgFQ.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/4U0InESiQrLfgnw1NbEldyz8NIs.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/43SNM88ge3Z1loFux0aJwbazGlt.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "錢",
+      "title_en": "L'Argent",
+      "year": 1983,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/a62YSsCwYd5EyzB5EbaeX2FmM4m.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/4BfnCSvJV4FEmtqOeqyPAFDZd3O.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/c5iSkadcCBUN03vTUTEHkBq4oVs.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/yJqCY8X8CuaGSyiyapd8wkRNpbA.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "大概是魔鬼",
+      "title_en": "The Devil Probably",
+      "year": 1977,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/mAtCjCDYN3c5Bjm6P4wOmDMlJLv.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/zrHhVwDqjzBJrkJOUvJ7rY5npJ2.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/dCh5DIAxZCJMXmTVJX48gl5zFxq.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/vxptNY2SeqESHkA8q2RnpF2dzCM.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "驢子巴達薩",
+      "title_en": "Au Hasard Balthazar",
+      "year": 1966,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D042-罗伯特·布列松·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/7LPz7NEYtLXcV44j0kRLLkZ54yH.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/6QpwBcMphgzvsIQXRurEF4C6XLM.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/15Hh98iqlTxiVXx1Jtbb25nf2jh.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/lEDQFnMQeCgQJfTB1tFngRq2yJN.jpg"
+        }
+      ]
+    }
+  ]
+}

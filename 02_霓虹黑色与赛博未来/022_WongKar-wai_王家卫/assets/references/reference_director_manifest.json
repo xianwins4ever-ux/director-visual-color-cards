@@ -1,0 +1,153 @@
+{
+  "director": {
+    "zh": "王家卫",
+    "en": "Wong Kar-wai"
+  },
+  "style_profile": {
+    "definition": "酒红、墨绿和钨丝金包围人物，偏色与拖影把城市变成记忆。",
+    "lighting": "低照度钨丝与绿色荧光混合；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "门框遮挡、缓慢横移、短暂拖影；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "轻欠曝，高光晕染，阴影蓝绿；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": [
+      "洁白棚光",
+      "全局青橙",
+      "赛博霓虹堆叠",
+      "无动机环绕和随机变焦",
+      "用统一滤镜替代色彩比例、光源和材质。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "爱神（手）",
+      "title_en": "Eros",
+      "year": 2004,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/02/03/eros/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_01.jpg?bwg=1724143047"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_22.jpg?bwg=1724143045"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_44.jpg?bwg=1724143045"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eros_65.jpg?bwg=1724143045"
+        }
+      ]
+    },
+    {
+      "title_zh": "东邪西毒：终极版",
+      "title_en": "Ashes Of Time Redux",
+      "year": 1994,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/02/18/ashes-of-time-redux/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (97).jpg?bwg=1547146996"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (99).jpg?bwg=1547146995"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (98).jpg?bwg=1547146995"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (66).jpg?bwg=1547146995"
+        }
+      ]
+    },
+    {
+      "title_zh": "花样年华",
+      "title_en": "In The Mood For Love",
+      "year": 2000,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2013/03/09/in-the-mood-for-love/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (494).jpg?bwg=1547222278"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (504).jpg?bwg=1547222276"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (494).jpg?bwg=1547222276"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (334).jpg?bwg=1547222276"
+        }
+      ]
+    },
+    {
+      "title_zh": "一代宗师",
+      "title_en": "The Grandmaster",
+      "year": 2013,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D011-王家卫·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/04/30/the-grandmaster/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1073).jpg?bwg=1547465843"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1095).jpg?bwg=1547465844"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1076).jpg?bwg=1547465843"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (736).jpg?bwg=1547465843"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "088",
+    "name_en": "PedroAlmodovar",
+    "name_zh": "阿莫多瓦",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "西班牙",
+    "era": "1949-",
+    "active_years": "1949-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#E30613",
+        "rgb": [
+          227,
+          6,
+          19
+        ],
+        "hsl": [
+          356,
+          95,
+          46
+        ],
+        "ratio": 0.22,
+        "name_zh": "阿莫多瓦红",
+        "name_en": "Almodóvar Red",
+        "code": "C01"
+      },
+      {
+        "hex": "#FFB347",
+        "rgb": [
+          255,
+          179,
+          71
+        ],
+        "hsl": [
+          35,
+          100,
+          64
+        ],
+        "ratio": 0.18,
+        "name_zh": "橙黄",
+        "name_en": "Orange Yellow",
+        "code": "C02"
+      },
+      {
+        "hex": "#4169E1",
+        "rgb": [
+          65,
+          105,
+          225
+        ],
+        "hsl": [
+          225,
+          73,
+          57
+        ],
+        "ratio": 0.16,
+        "name_zh": "皇家蓝",
+        "name_en": "Royal Blue",
+        "code": "C03"
+      },
+      {
+        "hex": "#32CD32",
+        "rgb": [
+          50,
+          205,
+          50
+        ],
+        "hsl": [
+          120,
+          61,
+          50
+        ],
+        "ratio": 0.14,
+        "name_zh": "酸橙绿",
+        "name_en": "Lime Green",
+        "code": "C04"
+      },
+      {
+        "hex": "#FF69B4",
+        "rgb": [
+          255,
+          105,
+          180
+        ],
+        "hsl": [
+          330,
+          100,
+          71
+        ],
+        "ratio": 0.14,
+        "name_zh": "热粉",
+        "name_en": "Hot Pink",
+        "code": "C05"
+      },
+      {
+        "hex": "#8B4513",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "ratio": 0.16,
+        "name_zh": "木棕",
+        "name_en": "Wood Brown",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#E30613",
+        "rgb": [
+          227,
+          6,
+          19
+        ],
+        "hsl": [
+          356,
+          95,
+          46
+        ],
+        "emotion": "热情欲望",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#FFB347",
+        "rgb": [
+          255,
+          179,
+          71
+        ],
+        "hsl": [
+          35,
+          100,
+          64
+        ],
+        "emotion": "温暖亲情",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#4169E1",
+        "rgb": [
+          65,
+          105,
+          225
+        ],
+        "hsl": [
+          225,
+          73,
+          57
+        ],
+        "emotion": "忧郁秘密",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#FF69B4",
+        "rgb": [
+          255,
+          105,
+          180
+        ],
+        "hsl": [
+          330,
+          100,
+          71
+        ],
+        "emotion": "女性力量",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "饱和色光",
+    "highlight_bias": "室内暖光",
+    "shadow_bias": "色彩分层",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "女性群像",
+    "室内空间",
+    "色彩构图",
+    "家庭戏剧",
+    "身份认同",
+    "黑色幽默"
+  ],
+  "color_keywords": [
+    "阿莫多瓦红",
+    "高饱和室内",
+    "西班牙色彩",
+    "女性视角色",
+    "撞色美学",
+    "装饰艺术"
+  ],
+  "mood_keywords": [
+    "女性力量",
+    "家庭秘密",
+    "欲望与爱",
+    "身份认同",
+    "黑色幽默",
+    "生命热情"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "Pepi, Luci, Bom and Other Girls Like Mom",
+      "title_en": "Pepi, Luci, Bom and Other Girls Like Mom",
+      "year": 1980,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/03/27/pepi-luci-bom-and-other-girls-like-mom/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi001.jpg?bwg=1546961138"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi020.jpg?bwg=1546961136"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi039.jpg?bwg=1546961136"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi058.jpg?bwg=1546961136"
+        }
+      ]
+    },
+    {
+      "title_zh": "Tie Me Up! Tie Me Down!",
+      "title_en": "Tie Me Up! Tie Me Down!",
+      "year": 1989,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/06/05/tie-me-up-tie-me-down/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup001.jpg?bwg=1546960206"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup022.jpg?bwg=1546960205"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup044.jpg?bwg=1546960205"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup065.jpg?bwg=1546960204"
+        }
+      ]
+    },
+    {
+      "title_zh": "Bad Education",
+      "title_en": "Bad Education",
+      "year": 2004,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/07/17/bad-education/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation001.jpg?bwg=1546962905"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation022.jpg?bwg=1546962904"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation044.jpg?bwg=1546962904"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation065.jpg?bwg=1546962904"
+        }
+      ]
+    },
+    {
+      "title_zh": "Parallel Mothers",
+      "title_en": "Parallel Mothers",
+      "year": 2021,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2026/03/06/parallel-mothers/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_01.jpg?bwg=1701089660"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_19.jpg?bwg=1701089659"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_38.jpg?bwg=1701089659"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_56.jpg?bwg=1701089659"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "阿莫多瓦的视觉风格以饱和色光为主，阿莫多瓦红、高饱和室内、西班牙色彩，营造出女性力量的氛围。",
+    "lighting": "饱和色光，高光偏室内暖光，阴影偏色彩分层，整体暖调。",
+    "composition": [],
+    "mood": [],
+    "framing": "女性群像、室内空间、色彩构图，强调视觉层次感。",
+    "grading": "对比度高对比，色调暖调，色彩阿莫多瓦红、高饱和室内、西班牙色彩。",
+    "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+  }
+}

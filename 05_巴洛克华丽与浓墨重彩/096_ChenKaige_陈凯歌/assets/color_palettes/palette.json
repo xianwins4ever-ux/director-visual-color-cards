@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "096",
+    "name_en": "ChenKaige",
+    "name_zh": "陈凯歌",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "中国",
+    "era": "1952-",
+    "active_years": "1952-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#C41E3A",
+        "rgb": [
+          196,
+          30,
+          58
+        ],
+        "hsl": [
+          350,
+          73,
+          44
+        ],
+        "ratio": 0.22,
+        "name_zh": "中国红",
+        "name_en": "China Red",
+        "code": "C01"
+      },
+      {
+        "hex": "#FFD700",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "ratio": 0.2,
+        "name_zh": "帝王金",
+        "name_en": "Imperial Gold",
+        "code": "C02"
+      },
+      {
+        "hex": "#191970",
+        "rgb": [
+          25,
+          25,
+          112
+        ],
+        "hsl": [
+          240,
+          64,
+          27
+        ],
+        "ratio": 0.14,
+        "name_zh": "午夜蓝",
+        "name_en": "Midnight Blue",
+        "code": "C03"
+      },
+      {
+        "hex": "#228B22",
+        "rgb": [
+          34,
+          139,
+          34
+        ],
+        "hsl": [
+          120,
+          61,
+          34
+        ],
+        "ratio": 0.12,
+        "name_zh": "翠绿",
+        "name_en": "Forest Green",
+        "code": "C04"
+      },
+      {
+        "hex": "#FFFFFF",
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ],
+        "ratio": 0.12,
+        "name_zh": "雪白",
+        "name_en": "Snow White",
+        "code": "C05"
+      },
+      {
+        "hex": "#2F2F2F",
+        "rgb": [
+          47,
+          47,
+          47
+        ],
+        "hsl": [
+          0,
+          0,
+          18
+        ],
+        "ratio": 0.2,
+        "name_zh": "炭黑灰",
+        "name_en": "Charcoal Gray",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#C41E3A",
+        "rgb": [
+          196,
+          30,
+          58
+        ],
+        "hsl": [
+          350,
+          73,
+          44
+        ],
+        "emotion": "激情革命",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#FFD700",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "emotion": "历史辉煌",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#191970",
+        "rgb": [
+          25,
+          25,
+          112
+        ],
+        "hsl": [
+          240,
+          64,
+          27
+        ],
+        "emotion": "命运忧郁",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#228B22",
+        "rgb": [
+          34,
+          139,
+          34
+        ],
+        "hsl": [
+          120,
+          61,
+          34
+        ],
+        "emotion": "青春理想",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "高饱和色光",
+    "highlight_bias": "舞台聚光",
+    "shadow_bias": "宫殿光影",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "东方史诗",
+    "戏曲美学",
+    "历史画卷",
+    "象征意象",
+    "第五代",
+    "文化反思"
+  ],
+  "color_keywords": [
+    "戏曲浓彩",
+    "历史金红",
+    "东方色韵",
+    "宫殿色调",
+    "革命红",
+    "诗意色彩"
+  ],
+  "mood_keywords": [
+    "历史史诗",
+    "文化反思",
+    "艺术人生",
+    "东方美学",
+    "理想与现实",
+    "命运无常"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "黄土地",
+      "title_en": "Yellow Earth",
+      "year": 1984,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/92990/images/backdrops"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/38zIq2YfTkNZ8BFCCsIPobxXkwV.jpg"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/9a8rTHiVxVphC02qqz7lTpjvT4s.jpg"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/hbltqIBcoMmOBdYAcCeJB2TDPI4.jpg"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/tq4D8eICdEXdJtre2bHnjl9K1Yy.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "霸王别姬",
+      "title_en": "Farewell My Concubine",
+      "year": 1993,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/10997/images/backdrops"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/9iBkK8jEmSRyimc4A9dAM9zeVhu.jpg"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/dGT485hwTEVeQYa1Cj1luZKjk4C.jpg"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/lsxfxygPbT5kCM7fgFu7e1eM214.jpg"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/o8W8thcjurUvD2rVhak2KqbWwOL.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "风月",
+      "title_en": "Temptress Moon",
+      "year": 1996,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/47694/images/backdrops"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/3lffczLphk8UMF4GydD2i6O1wri.jpg"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/7NTyplHpKITKd6LGaMwvfouJK6h.jpg"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/qzz8VqnKk41AWm28KWgd2ujlTo4.jpg"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/sBtcMCdVMdE8kgytlJsLyABQjLk.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "荆轲刺秦王",
+      "title_en": "The Emperor and the Assassin",
+      "year": 1998,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/10387/images/backdrops"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/AuFT4H6W90auDlD2dYSKSRM2D9T.jpg"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/dHqeT5bqd70k2fab4HmVq8nRsDd.jpg"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/kK1QI1XEqBGIgVN2EwsI22rTwsC.jpg"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/rqwbQAdA9XG5nZTEhE2E8hUPsO5.jpg"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "陈凯歌的视觉风格以高饱和色光为主，戏曲浓彩、历史金红、东方色韵，营造出历史史诗的氛围。",
+    "lighting": "高饱和色光，高光偏舞台聚光，阴影偏宫殿光影，整体暖调。",
+    "composition": [],
+    "mood": [],
+    "framing": "东方史诗、戏曲美学、历史画卷，强调视觉层次感。",
+    "grading": "对比度高对比，色调暖调，色彩戏曲浓彩、历史金红、东方色韵。",
+    "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+  }
+}

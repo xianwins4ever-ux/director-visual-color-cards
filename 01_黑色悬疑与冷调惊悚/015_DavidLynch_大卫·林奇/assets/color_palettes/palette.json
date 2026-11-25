@@ -1,0 +1,463 @@
+{
+  "director": {
+    "id": "015",
+    "name_en": "David Lynch",
+    "name_zh": "大卫·林奇",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "nationality": "美国",
+    "active_years": "1977-至今",
+    "era": "1977-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#1A0A14",
+        "name_zh": "天鹅绒紫黑",
+        "name_en": "Velvet Purple Black",
+        "ratio": 0.38,
+        "rgb": [
+          26,
+          10,
+          20
+        ],
+        "hsl": [
+          322,
+          44,
+          7
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#641E16",
+        "name_zh": "深酒红",
+        "name_en": "Deep Wine Red",
+        "ratio": 0.2,
+        "rgb": [
+          100,
+          30,
+          22
+        ],
+        "hsl": [
+          6,
+          64,
+          24
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#1E3D59",
+        "name_zh": "深海蓝",
+        "name_en": "Deep Ocean Blue",
+        "ratio": 0.13,
+        "rgb": [
+          30,
+          61,
+          89
+        ],
+        "hsl": [
+          208,
+          50,
+          23
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#B7950B",
+        "name_zh": "复古金",
+        "name_en": "Vintage Gold",
+        "ratio": 0.1,
+        "rgb": [
+          183,
+          149,
+          11
+        ],
+        "hsl": [
+          48,
+          89,
+          38
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#234F1E",
+        "name_zh": "墨绿森林",
+        "name_en": "Ink Green Forest",
+        "ratio": 0.1,
+        "rgb": [
+          35,
+          79,
+          30
+        ],
+        "hsl": [
+          114,
+          45,
+          21
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#F5CBA7",
+        "name_zh": "暖杏肤",
+        "name_en": "Warm Apricot Skin",
+        "ratio": 0.09,
+        "rgb": [
+          245,
+          203,
+          167
+        ],
+        "hsl": [
+          28,
+          80,
+          81
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#943126",
+        "name_zh": "鲜血红",
+        "name_en": "Blood Red",
+        "emotion": "暴力、潜意识、梦境的入侵",
+        "rgb": [
+          148,
+          49,
+          38
+        ],
+        "hsl": [
+          6,
+          59,
+          36
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#5DADE2",
+        "name_zh": "霓虹蓝",
+        "name_en": "Neon Blue",
+        "emotion": "神秘、未知、另一个世界",
+        "rgb": [
+          93,
+          173,
+          226
+        ],
+        "hsl": [
+          204,
+          70,
+          63
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#F7DC6F",
+        "name_zh": "梦境金",
+        "name_en": "Dream Gold",
+        "emotion": "超现实、记忆的扭曲、白日梦",
+        "rgb": [
+          247,
+          220,
+          111
+        ],
+        "hsl": [
+          48,
+          89,
+          70
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#7D3C98",
+        "name_zh": "迷幻紫",
+        "name_en": "Psychedelic Purple",
+        "emotion": "潜意识、疯狂、超越现实",
+        "rgb": [
+          125,
+          60,
+          152
+        ],
+        "hsl": [
+          282,
+          43,
+          42
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "硬软交替，梦境柔光vs现实硬光，工业色光",
+    "highlight_tint": "暖金/霓虹蓝（梦境灯/霓虹/工业灯）",
+    "shadow_tint": "深紫红偏黑（暗部/梦境/未知空间）",
+    "contrast_ratio": "高对比（75-90%），暗部浓郁",
+    "overall_tone": "暗调梦境，60%暖红金 + 40%冷蓝紫"
+  },
+  "composition_keywords": [
+    "梦境构图",
+    "对称与失衡交替",
+    "工业质感",
+    "红帘构图",
+    "低角度仰拍",
+    "镜面反射",
+    "烟雾缭绕",
+    "长镜头滑行",
+    "人物特写",
+    "神秘光源"
+  ],
+  "color_keywords": [
+    "超现实暗红",
+    "天鹅绒质感",
+    "梦境蓝金",
+    "工业冷光",
+    "复古暖金",
+    "霓虹蓝色",
+    "森林墨绿",
+    "红唇对比",
+    "紫色迷幻",
+    "黑白反转"
+  ],
+  "mood_keywords": [
+    "超现实",
+    "梦境逻辑",
+    "潜意识恐惧",
+    "美国黑暗面",
+    "工业噪声",
+    "恋物癖",
+    "黑色幽默",
+    "神秘主义",
+    "身份迷失",
+    "双峰式怪诞"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "Eraserhead",
+      "title_en": "Eraserhead",
+      "year": 1977,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 31.2,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#DBDBDB",
+          "ratio": 10.6,
+          "luminance": 0.7084,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#222022",
+          "ratio": 10.3,
+          "luminance": 0.0149,
+          "saturation": 0.0588
+        },
+        {
+          "hex": "#3D3B3D",
+          "ratio": 10.3,
+          "luminance": 0.0446,
+          "saturation": 0.0328
+        },
+        {
+          "hex": "#9E9D9E",
+          "ratio": 10.3,
+          "luminance": 0.3385,
+          "saturation": 0.0063
+        },
+        {
+          "hex": "#646264",
+          "ratio": 9.5,
+          "luminance": 0.1236,
+          "saturation": 0.02
+        },
+        {
+          "hex": "#C8C7C8",
+          "ratio": 9.5,
+          "luminance": 0.573,
+          "saturation": 0.005
+        },
+        {
+          "hex": "#B4B3B4",
+          "ratio": 8.3,
+          "luminance": 0.4524,
+          "saturation": 0.0056
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Blue Velvet",
+      "title_en": "Blue Velvet",
+      "year": 1986,
+      "palette": [
+        {
+          "hex": "#101743",
+          "ratio": 16.9,
+          "luminance": 0.0113,
+          "saturation": 0.7612
+        },
+        {
+          "hex": "#412A19",
+          "ratio": 14.6,
+          "luminance": 0.0285,
+          "saturation": 0.6154
+        },
+        {
+          "hex": "#010002",
+          "ratio": 13.5,
+          "luminance": 0.0001,
+          "saturation": 1.0
+        },
+        {
+          "hex": "#31270D",
+          "ratio": 13.1,
+          "luminance": 0.0213,
+          "saturation": 0.7347
+        },
+        {
+          "hex": "#01032F",
+          "ratio": 11.6,
+          "luminance": 0.0028,
+          "saturation": 0.9787
+        },
+        {
+          "hex": "#270D09",
+          "ratio": 10.8,
+          "luminance": 0.0074,
+          "saturation": 0.7692
+        },
+        {
+          "hex": "#371B10",
+          "ratio": 9.9,
+          "luminance": 0.0163,
+          "saturation": 0.7091
+        },
+        {
+          "hex": "#21160C",
+          "ratio": 9.6,
+          "luminance": 0.0092,
+          "saturation": 0.6364
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Lost Highway",
+      "title_en": "Lost Highway",
+      "year": 1997,
+      "palette": [
+        {
+          "hex": "#87868C",
+          "ratio": 17.4,
+          "luminance": 0.2409,
+          "saturation": 0.0429
+        },
+        {
+          "hex": "#5B595F",
+          "ratio": 14.6,
+          "luminance": 0.102,
+          "saturation": 0.0632
+        },
+        {
+          "hex": "#4B4546",
+          "ratio": 14.5,
+          "luminance": 0.0619,
+          "saturation": 0.08
+        },
+        {
+          "hex": "#10110E",
+          "ratio": 14.2,
+          "luminance": 0.0054,
+          "saturation": 0.1765
+        },
+        {
+          "hex": "#272A26",
+          "ratio": 13.7,
+          "luminance": 0.0223,
+          "saturation": 0.0952
+        },
+        {
+          "hex": "#ABB3B4",
+          "ratio": 10.6,
+          "luminance": 0.4419,
+          "saturation": 0.05
+        },
+        {
+          "hex": "#706C71",
+          "ratio": 8.8,
+          "luminance": 0.1536,
+          "saturation": 0.0442
+        },
+        {
+          "hex": "#3D302A",
+          "ratio": 6.2,
+          "luminance": 0.0327,
+          "saturation": 0.3115
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Inland Empire",
+      "title_en": "Inland Empire",
+      "year": 2006,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 28.9,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#321104",
+          "ratio": 11.8,
+          "luminance": 0.0109,
+          "saturation": 0.92
+        },
+        {
+          "hex": "#636466",
+          "ratio": 11.3,
+          "luminance": 0.1273,
+          "saturation": 0.0294
+        },
+        {
+          "hex": "#3C3D40",
+          "ratio": 10.6,
+          "luminance": 0.0467,
+          "saturation": 0.0625
+        },
+        {
+          "hex": "#CBB38C",
+          "ratio": 10.1,
+          "luminance": 0.4683,
+          "saturation": 0.3103
+        },
+        {
+          "hex": "#1F0A01",
+          "ratio": 10.0,
+          "luminance": 0.0051,
+          "saturation": 0.9677
+        },
+        {
+          "hex": "#2B2826",
+          "ratio": 9.0,
+          "luminance": 0.0217,
+          "saturation": 0.1163
+        },
+        {
+          "hex": "#A2340F",
+          "ratio": 8.3,
+          "luminance": 0.1017,
+          "saturation": 0.9074
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "郊区奶油色下潜伏深蓝、猩红与黑，熟悉空间随时裂开梦魇。",
+    "lighting": "表面明亮、夜间舞台化硬光；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "缓慢逼近、诡异静止、主观声画错位；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "蓝红深厚，奶油日景略不真实；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "赛博朋克、解释性视觉特效、现代广告洁净、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  }
+}

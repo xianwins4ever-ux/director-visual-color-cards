@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "162",
+    "name_en": "FrancoisTruffaut",
+    "name_zh": "弗朗索瓦·特吕弗",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "法国",
+    "active_years": "1932-1984",
+    "era": "1932-1984"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#000000",
+        "name_zh": "新浪潮黑",
+        "name_en": "New Wave Black",
+        "ratio": 0.2,
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#8D6E63",
+        "name_zh": "巴黎棕",
+        "name_en": "Paris Brown",
+        "ratio": 0.18,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFCC80",
+        "name_zh": "怀旧黄",
+        "name_en": "Nostalgic Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#78909C",
+        "name_zh": "巴黎灰",
+        "name_en": "Paris Gray",
+        "ratio": 0.14,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#C62828",
+        "name_zh": "朱尔红",
+        "name_en": "Jules Red",
+        "ratio": 0.14,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFFFFF",
+        "name_zh": "电影白",
+        "name_en": "Cinema White",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#000000",
+        "name_zh": "少年叛逆",
+        "name_en": "少年叛逆",
+        "emotion": "少年叛逆",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFCC80",
+        "name_zh": "浪漫怀旧",
+        "name_en": "浪漫怀旧",
+        "emotion": "浪漫怀旧",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#C62828",
+        "name_zh": "爱情热烈",
+        "name_en": "爱情热烈",
+        "emotion": "爱情热烈",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#78909C",
+        "name_zh": "巴黎忧郁",
+        "name_en": "巴黎忧郁",
+        "emotion": "巴黎忧郁",
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "黑白高对比",
+    "highlight_tint": "彩色暖调",
+    "highlight_bias": "彩色暖调",
+    "shadow_tint": "巴黎街光",
+    "shadow_bias": "巴黎街光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "四百击定格",
+    "安托万系列",
+    "新浪潮镜头",
+    "巴黎街景",
+    "爱情三角",
+    "电影迷影"
+  ],
+  "color_keywords": [
+    "新浪潮黑白",
+    "特吕弗暖调",
+    "巴黎棕黄",
+    "四百击灰",
+    "法国电影色",
+    "怀旧电影色"
+  ],
+  "mood_keywords": [
+    "新浪潮",
+    "少年成长",
+    "爱情浪漫",
+    "电影迷影",
+    "巴黎情调",
+    "作者电影"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "弗朗索瓦·特吕弗的视觉风格：黑白高对比，新浪潮黑白, 特吕弗暖调, 巴黎棕黄。",
+    "lighting": "黑白高对比，彩色暖调，巴黎街光",
+    "framing": "四百击定格、安托万系列、新浪潮镜头。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

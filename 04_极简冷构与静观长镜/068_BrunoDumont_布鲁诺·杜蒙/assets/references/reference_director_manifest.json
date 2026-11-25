@@ -1,0 +1,151 @@
+{
+  "director": {
+    "zh": "布鲁诺·杜蒙",
+    "en": "Bruno Dumont"
+  },
+  "style_profile": {
+    "definition": "荒凉北法景观、身体喜剧与宗教式肃穆并置",
+    "lighting": "阴天冷光、硬日光和室内低照度，肤色不美化",
+    "framing": "固定远景压缩人物，突然切入笨拙近景，地平线承担戏剧",
+    "grading": "灰绿、泥土褐、冷蓝和苍白肤色，压低饱和度",
+    "avoid": [
+      "精致时尚",
+      "顺滑商业运镜",
+      "浪漫化乡野"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "人之子",
+      "title_en": "La Vie de Jésus",
+      "year": 1997,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/27067/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/8nzazBKjnS4VlV74MKbPsnpbKaX.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/y9VDaRvZa51cROIHLzZia8q9WNL.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/sWfebb0NriMbfluoqGopr7JveBW.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/nM0gWdnBXBTrkvSHMTtBxMR2jZr.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "十字謎情",
+      "title_en": "Hadewijch",
+      "year": 2009,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/72852/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/htzZCK8c6DEkR1QyM0fiBTkhapx.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/fWcNL0PAX9mzD310ralR38m1hEd.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/sWtvIUX4RmeuqAkR5sLz3l6v4zu.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/5129gp6qRRRe3OmRGm1qpZiDR84.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "童女貞德",
+      "title_en": "Jeannette: The Childhood of Joan of Arc",
+      "year": 2017,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/399049/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/7MIkTB74n7s1crHiEXU3WTq8X0.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/8vtsVKvuPbbo4SXBF9Yj9pSzRcu.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/qDj3BwiEzh6mSnmwi0QWjStbOPK.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/mbiq7zST7eVbEtM2WdQW7rxnOn4.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "腥際大帝國",
+      "title_en": "The Empire",
+      "year": 2024,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D102-布鲁诺·杜蒙·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/929831/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/4BC3dC3Bz8241rSuYHoccEsoM0h.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/nsgbwCqISx25gRBPQlxqILv6cC8.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/LzHxlFD4u97xxcVLzLLIvOMMni.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/etZly0uC6V9xee44UEJoYIhsXhP.jpg"
+        }
+      ]
+    }
+  ]
+}

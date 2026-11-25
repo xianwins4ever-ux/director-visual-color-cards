@@ -1,0 +1,222 @@
+{
+  "director": {
+    "id": "097",
+    "name_en": "ZhangShuping",
+    "name_zh": "张叔平",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "中国香港",
+    "era": "1953-",
+    "active_years": "1953-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#8B0000",
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "ratio": 0.2,
+        "name_zh": "丝绒红",
+        "name_en": "Velvet Red",
+        "code": "C01"
+      },
+      {
+        "hex": "#2E4A3E",
+        "rgb": [
+          46,
+          74,
+          62
+        ],
+        "hsl": [
+          154,
+          23,
+          24
+        ],
+        "ratio": 0.18,
+        "name_zh": "墨绿缎",
+        "name_en": "Ink Green Satin",
+        "code": "C02"
+      },
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "ratio": 0.16,
+        "name_zh": "金菊黄",
+        "name_en": "Goldenrod",
+        "code": "C03"
+      },
+      {
+        "hex": "#4A2C5A",
+        "rgb": [
+          74,
+          44,
+          90
+        ],
+        "hsl": [
+          279,
+          34,
+          26
+        ],
+        "ratio": 0.14,
+        "name_zh": "暗紫罗",
+        "name_en": "Dark Violet",
+        "code": "C04"
+      },
+      {
+        "hex": "#CD853F",
+        "rgb": [
+          205,
+          133,
+          63
+        ],
+        "hsl": [
+          30,
+          59,
+          53
+        ],
+        "ratio": 0.14,
+        "name_zh": "金棕绸",
+        "name_en": "Golden Brown Silk",
+        "code": "C05"
+      },
+      {
+        "hex": "#1C1C1C",
+        "rgb": [
+          28,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          0,
+          11
+        ],
+        "ratio": 0.18,
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#8B0000",
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "emotion": "欲望压抑",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#2E4A3E",
+        "rgb": [
+          46,
+          74,
+          62
+        ],
+        "hsl": [
+          154,
+          23,
+          24
+        ],
+        "emotion": "秘密与嫉妒",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "emotion": "记忆温暖",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#4A2C5A",
+        "rgb": [
+          74,
+          44,
+          90
+        ],
+        "hsl": [
+          279,
+          34,
+          26
+        ],
+        "emotion": "神秘浪漫",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "柔光漫射",
+    "highlight_bias": "色彩分层",
+    "shadow_bias": "织物光泽",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "色彩即叙事",
+    "织物肌理",
+    "旗袍美学",
+    "空间色彩",
+    "香港记忆",
+    "细节美学"
+  ],
+  "color_keywords": [
+    "丝绒质感色",
+    "旗袍色彩",
+    "织物光泽",
+    "浓饱和情绪",
+    "60年代色",
+    "上海怀旧"
+  ],
+  "mood_keywords": [
+    "色彩叙事",
+    "织物美学",
+    "香港记忆",
+    "暧昧情愫",
+    "细节之美",
+    "东方精致"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "张叔平的视觉风格以柔光漫射为主，丝绒质感色、旗袍色彩，营造出色彩叙事的氛围。",
+    "lighting": "柔光漫射，高光偏色彩分层，阴影偏织物光泽，整体暖调。",
+    "framing": "色彩即叙事、织物肌理、旗袍美学。",
+    "grading": "对比度高对比，色调暖调。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

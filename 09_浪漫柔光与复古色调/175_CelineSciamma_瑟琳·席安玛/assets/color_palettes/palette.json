@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "175",
+    "name_en": "CelineSciamma",
+    "name_zh": "瑟琳·席安玛",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "法国",
+    "active_years": "1978-",
+    "era": "1978-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#4FC3F7",
+        "name_zh": "水彩蓝",
+        "name_en": "Watercolor Blue",
+        "ratio": 0.2,
+        "rgb": [
+          79,
+          195,
+          247
+        ],
+        "hsl": [
+          199,
+          91,
+          64
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#A5D6A7",
+        "name_zh": "水彩绿",
+        "name_en": "Watercolor Green",
+        "ratio": 0.18,
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFCC80",
+        "name_zh": "暖黄",
+        "name_en": "Warm Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#F8BBD0",
+        "name_zh": "水彩粉",
+        "name_en": "Watercolor Pink",
+        "ratio": 0.14,
+        "rgb": [
+          248,
+          187,
+          208
+        ],
+        "hsl": [
+          339,
+          81,
+          85
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#8D6E63",
+        "name_zh": "肖像棕",
+        "name_en": "Portrait Brown",
+        "ratio": 0.14,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFFFFF",
+        "name_zh": "画布白",
+        "name_en": "Canvas White",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#4FC3F7",
+        "name_zh": "温柔凝视",
+        "name_en": "温柔凝视",
+        "emotion": "温柔凝视",
+        "rgb": [
+          79,
+          195,
+          247
+        ],
+        "hsl": [
+          199,
+          91,
+          64
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#A5D6A7",
+        "name_zh": "自然生长",
+        "name_en": "自然生长",
+        "emotion": "自然生长",
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFCC80",
+        "name_zh": "温暖记忆",
+        "name_en": "温暖记忆",
+        "emotion": "温暖记忆",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#F8BBD0",
+        "name_zh": "初恋心动",
+        "name_en": "初恋心动",
+        "emotion": "初恋心动",
+        "rgb": [
+          248,
+          187,
+          208
+        ],
+        "hsl": [
+          339,
+          81,
+          85
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "油画侧光",
+    "highlight_tint": "窗光漫射",
+    "highlight_bias": "窗光漫射",
+    "shadow_tint": "自然柔光",
+    "shadow_bias": "自然柔光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "女性凝视",
+    "肖像油画",
+    "水彩质感",
+    "女同爱情",
+    "女孩成长",
+    "时间温柔"
+  ],
+  "color_keywords": [
+    "肖像油画色",
+    "水彩柔调",
+    "女同电影色",
+    "席安玛蓝绿",
+    "时间温柔色",
+    "少女成长色"
+  ],
+  "mood_keywords": [
+    "女性凝视",
+    "温柔时光",
+    "女同爱情",
+    "油画美学",
+    "少女成长",
+    "水彩诗意"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "瑟琳·席安玛的视觉风格：油画侧光，肖像油画色, 水彩柔调, 女同电影色。",
+    "lighting": "油画侧光，窗光漫射，自然柔光",
+    "framing": "女性凝视、肖像油画、水彩质感。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "director": {
+    "id": "006",
+    "name_en": "Nicolas Winding Refn",
+    "name_zh": "尼古拉斯·雷弗恩",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "nationality": "丹麦",
+    "active_years": "1996-至今",
+    "era": "1996-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0D1B2A",
+        "name_zh": "深海暗蓝",
+        "name_en": "Deep Ocean Blue Black",
+        "ratio": 0.4,
+        "rgb": [
+          13,
+          27,
+          42
+        ],
+        "hsl": [
+          211,
+          53,
+          11
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#1B4965",
+        "name_zh": "霓虹冷蓝",
+        "name_en": "Neon Cold Blue",
+        "ratio": 0.2,
+        "rgb": [
+          27,
+          73,
+          101
+        ],
+        "hsl": [
+          203,
+          58,
+          25
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#E63946",
+        "name_zh": "猩红警示",
+        "name_en": "Scarlet Warning Red",
+        "ratio": 0.13,
+        "rgb": [
+          230,
+          57,
+          70
+        ],
+        "hsl": [
+          355,
+          78,
+          56
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFB703",
+        "name_zh": "电幻金",
+        "name_en": "Electric Gold",
+        "ratio": 0.1,
+        "rgb": [
+          255,
+          183,
+          3
+        ],
+        "hsl": [
+          43,
+          100,
+          51
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#5F0F40",
+        "name_zh": "洋红深紫",
+        "name_en": "Magenta Deep Purple",
+        "ratio": 0.09,
+        "rgb": [
+          95,
+          15,
+          64
+        ],
+        "hsl": [
+          323,
+          73,
+          22
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#F1FAEE",
+        "name_zh": "冷白肤",
+        "name_en": "Cool White Skin",
+        "ratio": 0.08,
+        "rgb": [
+          241,
+          250,
+          238
+        ],
+        "hsl": [
+          105,
+          55,
+          96
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#00B4D8",
+        "name_zh": "电光蓝",
+        "name_en": "Electric Blue",
+        "emotion": "速度、孤独、都市疏离",
+        "rgb": [
+          0,
+          180,
+          216
+        ],
+        "hsl": [
+          190,
+          100,
+          42
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#E63946",
+        "name_zh": "爆裂红",
+        "name_en": "Explosive Red",
+        "emotion": "暴力爆发、激情、死亡",
+        "rgb": [
+          230,
+          57,
+          70
+        ],
+        "hsl": [
+          355,
+          78,
+          56
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#9D4EDD",
+        "name_zh": "迷幻紫",
+        "name_en": "Psychedelic Purple",
+        "emotion": "欲望、堕落、时尚界的虚幻",
+        "rgb": [
+          157,
+          78,
+          221
+        ],
+        "hsl": [
+          273,
+          68,
+          59
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFD60A",
+        "name_zh": "黄金黄",
+        "name_en": "Golden Yellow",
+        "emotion": "神性、荣耀、疯狂的美",
+        "rgb": [
+          255,
+          214,
+          10
+        ],
+        "hsl": [
+          50,
+          100,
+          52
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "彩色光源直射，霓虹为主，硬边光效",
+    "highlight_tint": "霓虹蓝粉金（城市霓虹/电子屏）",
+    "shadow_tint": "深靛蓝偏黑（夜色/阴影）",
+    "contrast_ratio": "极高对比（80-95%），暗部纯黑",
+    "overall_tone": "极冷霓虹调，70%冷蓝紫 + 30%暖红金"
+  },
+  "composition_keywords": [
+    "极简构图",
+    "对称中心构图",
+    "固定长镜头",
+    "慢动作",
+    "霓虹光源",
+    "镜面反射",
+    "水池倒影",
+    "人物正面特写",
+    "空旷街道",
+    "几何建筑"
+  ],
+  "color_keywords": [
+    "霓虹冷蓝",
+    "电子色",
+    "高饱和彩色点光源",
+    "暗夜黑色",
+    "镜面反射色",
+    "游泳池蓝光",
+    "血红色暴力",
+    "金色神性",
+    "洋红时尚",
+    "无色差肤色"
+  ],
+  "mood_keywords": [
+    "虚无主义",
+    "都市孤独",
+    "风格化暴力",
+    "速度与激情",
+    "沉默的主角",
+    "超现实美",
+    "时尚与死亡",
+    "男性身份危机",
+    "存在的空洞",
+    "电子梦境"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "Pusher",
+      "title_en": "Pusher",
+      "year": 1996,
+      "palette": [
+        {
+          "hex": "#000200",
+          "ratio": 62.5,
+          "luminance": 0.0004,
+          "saturation": 1.0
+        },
+        {
+          "hex": "#392E26",
+          "ratio": 7.2,
+          "luminance": 0.0296,
+          "saturation": 0.3333
+        },
+        {
+          "hex": "#756252",
+          "ratio": 6.5,
+          "luminance": 0.1313,
+          "saturation": 0.2991
+        },
+        {
+          "hex": "#26261B",
+          "ratio": 5.3,
+          "luminance": 0.0188,
+          "saturation": 0.2895
+        },
+        {
+          "hex": "#180501",
+          "ratio": 4.9,
+          "luminance": 0.003,
+          "saturation": 0.9583
+        },
+        {
+          "hex": "#3C1506",
+          "ratio": 4.7,
+          "luminance": 0.0151,
+          "saturation": 0.9
+        },
+        {
+          "hex": "#423D2E",
+          "ratio": 4.4,
+          "luminance": 0.0469,
+          "saturation": 0.303
+        },
+        {
+          "hex": "#642C10",
+          "ratio": 4.5,
+          "luminance": 0.0455,
+          "saturation": 0.84
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Pusher II",
+      "title_en": "Pusher II",
+      "year": 2004,
+      "palette": [
+        {
+          "hex": "#060902",
+          "ratio": 15.0,
+          "luminance": 0.0024,
+          "saturation": 0.7778
+        },
+        {
+          "hex": "#1F270D",
+          "ratio": 14.1,
+          "luminance": 0.0177,
+          "saturation": 0.6667
+        },
+        {
+          "hex": "#1C282F",
+          "ratio": 12.9,
+          "luminance": 0.0197,
+          "saturation": 0.4043
+        },
+        {
+          "hex": "#565F34",
+          "ratio": 12.1,
+          "luminance": 0.1041,
+          "saturation": 0.4526
+        },
+        {
+          "hex": "#7B4706",
+          "ratio": 11.7,
+          "luminance": 0.0873,
+          "saturation": 0.9512
+        },
+        {
+          "hex": "#6E857A",
+          "ratio": 11.7,
+          "luminance": 0.215,
+          "saturation": 0.1729
+        },
+        {
+          "hex": "#855D07",
+          "ratio": 11.4,
+          "luminance": 0.1283,
+          "saturation": 0.9474
+        },
+        {
+          "hex": "#2D1405",
+          "ratio": 11.1,
+          "luminance": 0.0107,
+          "saturation": 0.8889
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Valhalla Rising",
+      "title_en": "Valhalla Rising",
+      "year": 2009,
+      "palette": [
+        {
+          "hex": "#FFFFFF",
+          "ratio": 19.0,
+          "luminance": 1.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#9EA0AF",
+          "ratio": 12.5,
+          "luminance": 0.3551,
+          "saturation": 0.0971
+        },
+        {
+          "hex": "#3E362D",
+          "ratio": 12.5,
+          "luminance": 0.0385,
+          "saturation": 0.2742
+        },
+        {
+          "hex": "#7A808E",
+          "ratio": 12.3,
+          "luminance": 0.2153,
+          "saturation": 0.1408
+        },
+        {
+          "hex": "#61707E",
+          "ratio": 12.2,
+          "luminance": 0.1564,
+          "saturation": 0.2302
+        },
+        {
+          "hex": "#4A5C67",
+          "ratio": 11.6,
+          "luminance": 0.1009,
+          "saturation": 0.2816
+        },
+        {
+          "hex": "#2B2A20",
+          "ratio": 10.2,
+          "luminance": 0.0227,
+          "saturation": 0.2558
+        },
+        {
+          "hex": "#434E53",
+          "ratio": 9.7,
+          "luminance": 0.0727,
+          "saturation": 0.1928
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "The Neon Demon",
+      "title_en": "The Neon Demon",
+      "year": 2016,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 25.5,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#322B23",
+          "ratio": 13.4,
+          "luminance": 0.0253,
+          "saturation": 0.3
+        },
+        {
+          "hex": "#635D63",
+          "ratio": 11.3,
+          "luminance": 0.1138,
+          "saturation": 0.0606
+        },
+        {
+          "hex": "#EDF7F7",
+          "ratio": 11.2,
+          "luminance": 0.9124,
+          "saturation": 0.0405
+        },
+        {
+          "hex": "#3D5157",
+          "ratio": 11.0,
+          "luminance": 0.0757,
+          "saturation": 0.2989
+        },
+        {
+          "hex": "#041423",
+          "ratio": 9.4,
+          "luminance": 0.0065,
+          "saturation": 0.8857
+        },
+        {
+          "hex": "#1F4252",
+          "ratio": 9.2,
+          "luminance": 0.048,
+          "saturation": 0.622
+        },
+        {
+          "hex": "#092332",
+          "ratio": 9.0,
+          "luminance": 0.0149,
+          "saturation": 0.82
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "霓虹洋红、钴蓝和深黑把暴力变成图腾化夜间仪式。",
+    "lighting": "强彩色轮廓光、深黑背景；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "极慢推进、正面凝视、雕塑式动作；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "高纯度冷暖分区，黑位干净；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "彩色平均分布、灰雾低反差、碎剪、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  }
+}

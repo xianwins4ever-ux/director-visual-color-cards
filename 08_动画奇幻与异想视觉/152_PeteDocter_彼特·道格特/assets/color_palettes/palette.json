@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "152",
+    "name_en": "PeteDocter",
+    "name_zh": "彼特·道格特",
+    "category": "08_动画奇幻与异想视觉",
+    "nationality": "美国",
+    "active_years": "1968-",
+    "era": "1968-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#4FC3F7",
+        "name_zh": "天空蓝",
+        "name_en": "Sky Blue",
+        "ratio": 0.2,
+        "rgb": [
+          79,
+          195,
+          247
+        ],
+        "hsl": [
+          199,
+          91,
+          64
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFCC80",
+        "name_zh": "温暖黄",
+        "name_en": "Warm Yellow",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#CE93D8",
+        "name_zh": "梦幻紫",
+        "name_en": "Dreamy Purple",
+        "ratio": 0.16,
+        "rgb": [
+          206,
+          147,
+          216
+        ],
+        "hsl": [
+          291,
+          47,
+          71
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#81C784",
+        "name_zh": "新生绿",
+        "name_en": "New Life Green",
+        "ratio": 0.14,
+        "rgb": [
+          129,
+          199,
+          132
+        ],
+        "hsl": [
+          123,
+          38,
+          64
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#F48FB1",
+        "name_zh": "情感粉",
+        "name_en": "Emotion Pink",
+        "ratio": 0.14,
+        "rgb": [
+          244,
+          143,
+          177
+        ],
+        "hsl": [
+          340,
+          82,
+          76
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#90CAF9",
+        "name_zh": "灵魂蓝",
+        "name_en": "Soul Blue",
+        "ratio": 0.18,
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#4FC3F7",
+        "name_zh": "飞翔自由",
+        "name_en": "飞翔自由",
+        "emotion": "飞翔自由",
+        "rgb": [
+          79,
+          195,
+          247
+        ],
+        "hsl": [
+          199,
+          91,
+          64
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFCC80",
+        "name_zh": "温暖亲情",
+        "name_en": "温暖亲情",
+        "emotion": "温暖亲情",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#CE93D8",
+        "name_zh": "灵魂梦幻",
+        "name_en": "灵魂梦幻",
+        "emotion": "灵魂梦幻",
+        "rgb": [
+          206,
+          147,
+          216
+        ],
+        "hsl": [
+          291,
+          47,
+          71
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#81C784",
+        "name_zh": "新生希望",
+        "name_en": "新生希望",
+        "emotion": "新生希望",
+        "rgb": [
+          129,
+          199,
+          132
+        ],
+        "hsl": [
+          123,
+          38,
+          64
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "柔光暖光",
+    "highlight_tint": "灵魂彩光",
+    "highlight_bias": "灵魂彩光",
+    "shadow_tint": "梦幻光感",
+    "shadow_bias": "梦幻光感",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "抽象概念",
+    "情感拟人",
+    "灵魂世界",
+    "成长旅程",
+    "家庭温情",
+    "皮克斯质感"
+  ],
+  "color_keywords": [
+    "皮克斯暖调",
+    "灵魂色彩",
+    "情感粉彩",
+    "梦幻蓝紫",
+    "治愈色彩",
+    "成长绿黄"
+  ],
+  "mood_keywords": [
+    "情感探索",
+    "温暖治愈",
+    "成长旅程",
+    "皮克斯灵魂",
+    "家庭温情",
+    "人生意义"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "彼特·道格特的视觉风格：柔光暖光，皮克斯暖调, 灵魂色彩, 情感粉彩。",
+    "lighting": "柔光暖光，灵魂彩光，梦幻光感",
+    "framing": "抽象概念、情感拟人、灵魂世界。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

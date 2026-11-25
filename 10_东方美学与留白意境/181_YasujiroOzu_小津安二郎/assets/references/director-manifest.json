@@ -1,0 +1,93 @@
+{
+  "director": {
+    "zh": "小津安二郎",
+    "en": "Yasujirō Ozu"
+  },
+  "style_profile": {
+    "definition": "低机位静观家庭日常，茶褐、榻榻米与低纯度原色形成平静秩序。",
+    "lighting": "柔和侧窗光与均匀中间调，室内保留纸门、木材和肤色的自然层次。",
+    "framing": "榻榻米高度固定机位，正面门框构图，人物在稳定的水平垂直线中活动。",
+    "grading": "低对比、暖中性，红、绿、蓝只作为小面积秩序性点缀，避免统一滤镜吞并材质。",
+    "avoid": [
+      "高反差硬光",
+      "漂移式手持摄影",
+      "糖果色全局高饱和",
+      "无动机环绕与随机变焦",
+      "用统一滤镜替代空间层次"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "东京合唱",
+      "title_en": "Tokyo Chorus",
+      "year": 1931,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-01/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-01/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-01/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-01/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "FilmGrab《东京合唱》真实电影截图", "url": "https://film-grab.com/2019/09/03/tokyo-chorus/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tokyochorus001.jpg?bwg=1546894553"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tokyochorus018.jpg?bwg=1546894553"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tokyochorus036.jpg?bwg=1546894553"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tokyochorus053.jpg?bwg=1546894553"}
+      ]
+    },
+    {
+      "title_zh": "东京物语",
+      "title_en": "Tokyo Story",
+      "year": 1953,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-02/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-02/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-02/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-02/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "BFI 小津枕镜专题中的《东京物语》真实电影截图", "url": "https://www.bfi.org.uk/features/enigmatic-pillow-shots-yasujiro-ozu"},
+        {"label": "截图 01", "url": "https://core-cms.bfi.org.uk/sites/default/files/styles/responsive/public/2022-03/tokyo-story-1953-view-over-stone-japanese-form.jpg/600x0/tokyo-story-1953-view-over-stone-japanese-form.jpg"},
+        {"label": "截图 02", "url": "https://core-cms.bfi.org.uk/sites/default/files/styles/responsive/public/2022-03/tokyo-story-1953-rails.jpg/600x0/tokyo-story-1953-rails.jpg"},
+        {"label": "截图 03", "url": "https://core-cms.bfi.org.uk/sites/default/files/styles/responsive/public/2022-03/tokyo-story-1953-view-from-a-window.jpg/600x0/tokyo-story-1953-view-from-a-window.jpg"},
+        {"label": "截图 04", "url": "https://core-cms.bfi.org.uk/sites/default/files/styles/responsive/public/2022-03/tokyo-story-1953-pier.jpg/600x0/tokyo-story-1953-pier.jpg"}
+      ]
+    },
+    {
+      "title_zh": "浮草",
+      "title_en": "Floating Weeds",
+      "year": 1959,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-03/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-03/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-03/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-03/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "FilmGrab《浮草》真实电影截图", "url": "https://film-grab.com/2015/03/27/floating-weeds/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01%20(383).jpg?bwg=1547216978"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22%20(391).jpg?bwg=1547216977"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44%20(382).jpg?bwg=1547216977"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65%20(258).jpg?bwg=1547216977"}
+      ]
+    },
+    {
+      "title_zh": "秋刀鱼之味",
+      "title_en": "An Autumn Afternoon",
+      "year": 1962,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-04/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-04/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-04/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D002-小津安二郎·电影色调常用色卡/source-frames/film-04/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "BFI 小津枕镜专题中的《秋刀鱼之味》真实电影截图", "url": "https://www.bfi.org.uk/features/enigmatic-pillow-shots-yasujiro-ozu"},
+        {"label": "截图 01", "url": "https://core-cms.bfi.org.uk/sites/default/files/styles/responsive/public/2022-12/an-autumn-afternoon-1962-pair-sitting-at-bar.jpg/600x0/an-autumn-afternoon-1962-pair-sitting-at-bar.jpg"},
+        {"label": "截图 02", "url": "https://core-cms.bfi.org.uk/sites/default/files/styles/responsive/public/2022-03/an-autumn-afternoon-1962-stadium-lights.jpg/600x0/an-autumn-afternoon-1962-stadium-lights.jpg"},
+        {"label": "截图 03", "url": "https://core-cms.bfi.org.uk/sites/default/files/styles/responsive/public/2022-03/an-autumn-afternoon-1962-interior.jpg/600x0/an-autumn-afternoon-1962-interior.jpg"},
+        {"label": "截图 04", "url": "https://core-cms.bfi.org.uk/sites/default/files/styles/responsive/public/2022-03/an-autumn-afternoon-1962-mirror.jpg/600x0/an-autumn-afternoon-1962-mirror.jpg"}
+      ]
+    }
+  ]
+}

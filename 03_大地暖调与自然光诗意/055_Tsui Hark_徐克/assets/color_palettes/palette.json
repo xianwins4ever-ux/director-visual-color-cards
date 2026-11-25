@@ -1,0 +1,457 @@
+{
+  "director": {
+    "id": "055",
+    "name_en": "Tsui Hark",
+    "name_zh": "徐克",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "中国香港",
+    "active_years": "1979-至今",
+    "era": "1979-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#C8964A",
+        "name_zh": "大漠金沙",
+        "rgb": [
+          200,
+          150,
+          74
+        ],
+        "hsl": [
+          36,
+          53,
+          54
+        ],
+        "ratio": 0.22,
+        "name_en": "Gold"
+      },
+      {
+        "code": "C02",
+        "hex": "#7A3B1F",
+        "name_zh": "朱砂赤红",
+        "rgb": [
+          122,
+          59,
+          31
+        ],
+        "hsl": [
+          18,
+          59,
+          30
+        ],
+        "ratio": 0.18,
+        "name_en": "Red"
+      },
+      {
+        "code": "C03",
+        "hex": "#2D3A2E",
+        "name_zh": "青竹墨绿",
+        "rgb": [
+          45,
+          58,
+          46
+        ],
+        "hsl": [
+          125,
+          13,
+          20
+        ],
+        "ratio": 0.15,
+        "name_en": "Green"
+      },
+      {
+        "code": "C04",
+        "hex": "#E8D5A8",
+        "name_zh": "宣纸米白",
+        "rgb": [
+          232,
+          213,
+          168
+        ],
+        "hsl": [
+          42,
+          58,
+          78
+        ],
+        "ratio": 0.15,
+        "name_en": "White"
+      },
+      {
+        "code": "C05",
+        "hex": "#5C5448",
+        "name_zh": "青灰瓦黛",
+        "rgb": [
+          92,
+          84,
+          72
+        ],
+        "hsl": [
+          36,
+          12,
+          32
+        ],
+        "ratio": 0.15,
+        "name_en": "Gray"
+      },
+      {
+        "code": "C06",
+        "hex": "#D6B98A",
+        "name_zh": "土黄赭石",
+        "rgb": [
+          214,
+          185,
+          138
+        ],
+        "hsl": [
+          37,
+          48,
+          69
+        ],
+        "ratio": 0.15,
+        "name_en": "Yellow"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF4500",
+        "name_zh": "烈火红",
+        "rgb": [
+          255,
+          69,
+          0
+        ],
+        "hsl": [
+          16,
+          100,
+          50
+        ],
+        "emotion": "江湖热血",
+        "name_en": "Red"
+      },
+      {
+        "code": "E02",
+        "hex": "#DAA520",
+        "name_zh": "金箔黄",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "emotion": "豪情壮志",
+        "name_en": "Yellow"
+      },
+      {
+        "code": "E03",
+        "hex": "#4B0082",
+        "name_zh": "靛蓝夜",
+        "rgb": [
+          75,
+          0,
+          130
+        ],
+        "hsl": [
+          275,
+          100,
+          25
+        ],
+        "emotion": "神秘阴谋",
+        "name_en": "Blue"
+      },
+      {
+        "code": "E04",
+        "hex": "#F5F5DC",
+        "name_zh": "飞雪白",
+        "rgb": [
+          245,
+          245,
+          220
+        ],
+        "hsl": [
+          60,
+          56,
+          91
+        ],
+        "emotion": "飘逸超脱",
+        "name_en": "White"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "warm backlit dust, ink-wash smoke haze, natural daylight with gold rim",
+    "highlight_tint": "golden amber / warm ochre",
+    "shadow_tint": "deep umber / teal-green",
+    "contrast_ratio": "high 70-85%",
+    "overall_tone": "warm earth + ink wash, 65% warm + 35% cool"
+  },
+  "composition_keywords": [
+    "wire-fu flying motion",
+    "quick-cut montage",
+    "ink-wash smoke haze",
+    "low-angle heroic framing",
+    "dust and debris in light",
+    "extreme wide martial arts",
+    "dynamic tracking shot",
+    "Chinese classical composition"
+  ],
+  "color_keywords": [
+    "desert golden sand",
+    "vermilion red blood",
+    "bamboo ink green",
+    "rice-paper pale cream",
+    "flying silk white",
+    "golden hour kung fu",
+    "ink-wash monochrome",
+    "earth-tone wuxia"
+  ],
+  "mood_keywords": [
+    "martial heroism",
+    "ink-wash poetry",
+    "jianghu wanderlust",
+    "chivalric romance",
+    "dynastic intrigue",
+    "flying transcendence",
+    "hot desert passion",
+    "ancient Chinese mystery"
+  ],
+  "style_profile": {
+    "definition": "历史空间、工业现代性和群体运动在高速奇观中碰撞",
+    "lighting": "硬侧光、烟尘、火光和变化迅速的自然光；肤色保持自然可读，高光和黑位保留材质。",
+    "framing": "广角群像、斜线建筑和多层前景组织复杂动作",
+    "grading": "木棕、布蓝、工业黑、火橙和旗帜红；局部强调色不污染整幅画面。",
+    "avoid": "统一滤镜替代真实材质、无动机环绕和随机变焦、人物身份与空间轴漂移、肤色污染、死黑和爆白、只模仿颜色不执行镜头语言。"
+  },
+  "real_palettes": [
+    {
+      "title_zh": "黄飞鸿",
+      "title_en": "Once Upon a Time in China",
+      "year": 1991,
+      "palette": [
+        {
+          "hex": "#F8C343",
+          "ratio": 16.3,
+          "luminance": 0.5939,
+          "saturation": 0.7298
+        },
+        {
+          "hex": "#AFB7C8",
+          "ratio": 14.3,
+          "luminance": 0.4715,
+          "saturation": 0.125
+        },
+        {
+          "hex": "#CB421B",
+          "ratio": 12.8,
+          "luminance": 0.1667,
+          "saturation": 0.867
+        },
+        {
+          "hex": "#9E1B0C",
+          "ratio": 11.8,
+          "luminance": 0.0808,
+          "saturation": 0.9241
+        },
+        {
+          "hex": "#382717",
+          "ratio": 11.6,
+          "luminance": 0.0235,
+          "saturation": 0.5893
+        },
+        {
+          "hex": "#4B3922",
+          "ratio": 11.4,
+          "luminance": 0.0454,
+          "saturation": 0.5467
+        },
+        {
+          "hex": "#FEE370",
+          "ratio": 11.0,
+          "luminance": 0.7718,
+          "saturation": 0.5591
+        },
+        {
+          "hex": "#B2240F",
+          "ratio": 10.8,
+          "luminance": 0.1076,
+          "saturation": 0.9157
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "青蛇",
+      "title_en": "Green Snake",
+      "year": 1993,
+      "palette": [
+        {
+          "hex": "#010101",
+          "ratio": 14.7,
+          "luminance": 0.0003,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#70696C",
+          "ratio": 13.3,
+          "luminance": 0.1463,
+          "saturation": 0.0625
+        },
+        {
+          "hex": "#39362C",
+          "ratio": 13.2,
+          "luminance": 0.0369,
+          "saturation": 0.2281
+        },
+        {
+          "hex": "#A29BA8",
+          "ratio": 12.5,
+          "luminance": 0.3395,
+          "saturation": 0.0774
+        },
+        {
+          "hex": "#2E1A19",
+          "ratio": 11.8,
+          "luminance": 0.0139,
+          "saturation": 0.4565
+        },
+        {
+          "hex": "#986E6A",
+          "ratio": 11.8,
+          "luminance": 0.1887,
+          "saturation": 0.3026
+        },
+        {
+          "hex": "#514435",
+          "ratio": 11.6,
+          "luminance": 0.0614,
+          "saturation": 0.3457
+        },
+        {
+          "hex": "#CBBDC9",
+          "ratio": 11.1,
+          "luminance": 0.5331,
+          "saturation": 0.069
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "刀",
+      "title_en": "The Blade",
+      "year": 1995,
+      "palette": [
+        {
+          "hex": "#030403",
+          "ratio": 15.5,
+          "luminance": 0.0011,
+          "saturation": 0.25
+        },
+        {
+          "hex": "#855E46",
+          "ratio": 14.7,
+          "luminance": 0.1343,
+          "saturation": 0.4737
+        },
+        {
+          "hex": "#C4A197",
+          "ratio": 13.1,
+          "luminance": 0.3946,
+          "saturation": 0.2296
+        },
+        {
+          "hex": "#AE836D",
+          "ratio": 11.9,
+          "luminance": 0.2634,
+          "saturation": 0.3736
+        },
+        {
+          "hex": "#B7B5B5",
+          "ratio": 11.5,
+          "luminance": 0.4645,
+          "saturation": 0.0109
+        },
+        {
+          "hex": "#AC9B91",
+          "ratio": 11.4,
+          "luminance": 0.3426,
+          "saturation": 0.157
+        },
+        {
+          "hex": "#CCBBB3",
+          "ratio": 11.4,
+          "luminance": 0.5163,
+          "saturation": 0.1225
+        },
+        {
+          "hex": "#48372A",
+          "ratio": 10.5,
+          "luminance": 0.0428,
+          "saturation": 0.4167
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "顺流逆流",
+      "title_en": "Time and Tide",
+      "year": 2000,
+      "palette": [
+        {
+          "hex": "#6B7A9D",
+          "ratio": 13.8,
+          "luminance": 0.1948,
+          "saturation": 0.3185
+        },
+        {
+          "hex": "#402111",
+          "ratio": 13.4,
+          "luminance": 0.0222,
+          "saturation": 0.7344
+        },
+        {
+          "hex": "#020203",
+          "ratio": 12.8,
+          "luminance": 0.0006,
+          "saturation": 0.3333
+        },
+        {
+          "hex": "#8CA1A0",
+          "ratio": 12.8,
+          "luminance": 0.336,
+          "saturation": 0.1304
+        },
+        {
+          "hex": "#52240F",
+          "ratio": 12.1,
+          "luminance": 0.0309,
+          "saturation": 0.8171
+        },
+        {
+          "hex": "#7B6F59",
+          "ratio": 12.1,
+          "luminance": 0.163,
+          "saturation": 0.2764
+        },
+        {
+          "hex": "#B67C5C",
+          "ratio": 11.6,
+          "luminance": 0.2513,
+          "saturation": 0.4945
+        },
+        {
+          "hex": "#744122",
+          "ratio": 11.4,
+          "luminance": 0.0761,
+          "saturation": 0.7069
+        }
+      ],
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "director": {
+    "id": "069",
+    "name_en": "PhilippeGarrel",
+    "name_zh": "菲利普·加瑞尔",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "法国",
+    "era": "1948-",
+    "active_years": "1948-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#303030",
+        "rgb": [
+          48,
+          48,
+          48
+        ],
+        "hsl": [
+          0,
+          0,
+          19
+        ],
+        "ratio": 0.24,
+        "name_zh": "深炭灰",
+        "name_en": "Deep Charcoal Gray",
+        "code": "C01"
+      },
+      {
+        "hex": "#707070",
+        "rgb": [
+          112,
+          112,
+          112
+        ],
+        "hsl": [
+          0,
+          0,
+          44
+        ],
+        "ratio": 0.2,
+        "name_zh": "中灰",
+        "name_en": "Mid Gray",
+        "code": "C02"
+      },
+      {
+        "hex": "#A0A0A0",
+        "rgb": [
+          160,
+          160,
+          160
+        ],
+        "hsl": [
+          0,
+          0,
+          63
+        ],
+        "ratio": 0.16,
+        "name_zh": "银灰",
+        "name_en": "Silver Gray",
+        "code": "C03"
+      },
+      {
+        "hex": "#D0D0D0",
+        "rgb": [
+          208,
+          208,
+          208
+        ],
+        "hsl": [
+          0,
+          0,
+          82
+        ],
+        "ratio": 0.14,
+        "name_zh": "浅灰白",
+        "name_en": "Light Gray White",
+        "code": "C04"
+      },
+      {
+        "hex": "#505050",
+        "rgb": [
+          80,
+          80,
+          80
+        ],
+        "hsl": [
+          0,
+          0,
+          31
+        ],
+        "ratio": 0.14,
+        "name_zh": "暗灰",
+        "name_en": "Dark Gray",
+        "code": "C05"
+      },
+      {
+        "hex": "#181818",
+        "rgb": [
+          24,
+          24,
+          24
+        ],
+        "hsl": [
+          0,
+          0,
+          9
+        ],
+        "ratio": 0.12,
+        "name_zh": "漆黑暗",
+        "name_en": "Pitch Dark",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#888888",
+        "rgb": [
+          136,
+          136,
+          136
+        ],
+        "hsl": [
+          0,
+          0,
+          53
+        ],
+        "emotion": "爱情忧伤",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#404040",
+        "rgb": [
+          64,
+          64,
+          64
+        ],
+        "hsl": [
+          0,
+          0,
+          25
+        ],
+        "emotion": "存在苦闷",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#C0C0C0",
+        "rgb": [
+          192,
+          192,
+          192
+        ],
+        "hsl": [
+          0,
+          0,
+          75
+        ],
+        "emotion": "青春记忆",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#101010",
+        "rgb": [
+          16,
+          16,
+          16
+        ],
+        "hsl": [
+          0,
+          0,
+          6
+        ],
+        "emotion": "艺术痛苦",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "高反差黑白",
+    "highlight_bias": "窗光侧照",
+    "shadow_bias": "室内柔光",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "黑白影像",
+    "室内对话",
+    "巴黎公寓",
+    "人物特写",
+    "镜面反射",
+    "手持跟拍"
+  ],
+  "color_keywords": [
+    "高反差黑白",
+    "60年代质感",
+    "巴黎灰调",
+    "室内光影",
+    "颗粒胶片",
+    "肖像光"
+  ],
+  "mood_keywords": [
+    "爱情哲学",
+    "艺术家困境",
+    "巴黎波西米亚",
+    "记忆与遗忘",
+    "亲密关系",
+    "忧郁诗意"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "菲利普·加瑞尔的视觉风格以高反差黑白为主，高反差黑白、60年代质感，营造出爱情哲学的氛围。",
+    "lighting": "高反差黑白，高光偏窗光侧照，阴影偏室内柔光，整体冷调。",
+    "framing": "黑白影像、室内对话、巴黎公寓。",
+    "grading": "对比度中高对比，色调冷调。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

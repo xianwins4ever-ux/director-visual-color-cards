@@ -1,0 +1,222 @@
+{
+  "director": {
+    "id": "080",
+    "name_en": "GusVanSant",
+    "name_zh": "格斯·范·桑特",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "美国",
+    "era": "1952-",
+    "active_years": "1952-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#7A8A8A",
+        "rgb": [
+          122,
+          138,
+          138
+        ],
+        "hsl": [
+          180,
+          6,
+          51
+        ],
+        "ratio": 0.22,
+        "name_zh": "西北冷灰绿",
+        "name_en": "Northwest Cool Gray Green",
+        "code": "C01"
+      },
+      {
+        "hex": "#9A9A8A",
+        "rgb": [
+          154,
+          154,
+          138
+        ],
+        "hsl": [
+          60,
+          7,
+          57
+        ],
+        "ratio": 0.18,
+        "name_zh": "雾灰绿",
+        "name_en": "Misty Gray Green",
+        "code": "C02"
+      },
+      {
+        "hex": "#5A6A6A",
+        "rgb": [
+          90,
+          106,
+          106
+        ],
+        "hsl": [
+          180,
+          8,
+          38
+        ],
+        "ratio": 0.16,
+        "name_zh": "深灰青",
+        "name_en": "Deep Gray Cyan",
+        "code": "C03"
+      },
+      {
+        "hex": "#B8B0A0",
+        "rgb": [
+          184,
+          176,
+          160
+        ],
+        "hsl": [
+          40,
+          14,
+          67
+        ],
+        "ratio": 0.14,
+        "name_zh": "旧木米",
+        "name_en": "Old Wood Beige",
+        "code": "C04"
+      },
+      {
+        "hex": "#D4CCBC",
+        "rgb": [
+          212,
+          204,
+          188
+        ],
+        "hsl": [
+          40,
+          22,
+          78
+        ],
+        "ratio": 0.14,
+        "name_zh": "雾灰白",
+        "name_en": "Foggy Gray White",
+        "code": "C05"
+      },
+      {
+        "hex": "#3A4A4A",
+        "rgb": [
+          58,
+          74,
+          74
+        ],
+        "hsl": [
+          180,
+          12,
+          26
+        ],
+        "ratio": 0.16,
+        "name_zh": "深青黑",
+        "name_en": "Deep Cyan Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#6A7A7A",
+        "rgb": [
+          106,
+          122,
+          122
+        ],
+        "hsl": [
+          180,
+          7,
+          45
+        ],
+        "emotion": "青春迷茫",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#8A8A7A",
+        "rgb": [
+          138,
+          138,
+          122
+        ],
+        "hsl": [
+          60,
+          6,
+          51
+        ],
+        "emotion": "死亡诗意",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#A0A090",
+        "rgb": [
+          160,
+          160,
+          144
+        ],
+        "hsl": [
+          60,
+          8,
+          60
+        ],
+        "emotion": "疏离孤独",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#2A3A3A",
+        "rgb": [
+          42,
+          58,
+          58
+        ],
+        "hsl": [
+          180,
+          16,
+          20
+        ],
+        "emotion": "存在虚无",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然光柔和",
+    "highlight_bias": "西北雨雾",
+    "shadow_bias": "室内弱光",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "长镜头静观",
+    "自然风景",
+    "青春身体",
+    "公路旅行",
+    "学校空间",
+    "死亡意象"
+  ],
+  "color_keywords": [
+    "太平洋西北灰",
+    "自然光",
+    "雨雾质感",
+    "青春冷调",
+    "低饱和",
+    "俄勒冈绿"
+  ],
+  "mood_keywords": [
+    "青春疏离",
+    "死亡诗意",
+    "酷儿主题",
+    "极简叙事",
+    "美国独立",
+    "存在迷茫"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "格斯·范·桑特的视觉风格以自然光柔和为主，太平洋西北灰、自然光，营造出青春疏离的氛围。",
+    "lighting": "自然光柔和，高光偏西北雨雾，阴影偏室内弱光，整体冷调。",
+    "framing": "长镜头静观、自然风景、青春身体。",
+    "grading": "对比度中高对比，色调冷调。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

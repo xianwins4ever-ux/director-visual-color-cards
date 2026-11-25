@@ -1,0 +1,153 @@
+{
+  "director": {
+    "zh": "佩德罗·阿莫多瓦",
+    "en": "Pedro Almodóvar"
+  },
+  "style_profile": {
+    "definition": "番茄红、孔雀蓝、柠檬黄与暖肤色让情感直接占领空间。",
+    "lighting": "明亮室内光、阳光、彩色墙面反射；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "正面构图、流畅跟随、物件特写；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "饱满暖色，肤色健康，黑位柔和；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": [
+      "脏灰压色",
+      "青橙大片感",
+      "冷淡极简",
+      "无动机环绕和随机变焦",
+      "用统一滤镜替代色彩比例、光源和材质。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "Pepi, Luci, Bom and Other Girls Like Mom",
+      "title_en": "Pepi, Luci, Bom and Other Girls Like Mom",
+      "year": 1980,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/03/27/pepi-luci-bom-and-other-girls-like-mom/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi001.jpg?bwg=1546961138"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi020.jpg?bwg=1546961136"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi039.jpg?bwg=1546961136"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/pepi058.jpg?bwg=1546961136"
+        }
+      ]
+    },
+    {
+      "title_zh": "Tie Me Up! Tie Me Down!",
+      "title_en": "Tie Me Up! Tie Me Down!",
+      "year": 1989,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/06/05/tie-me-up-tie-me-down/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup001.jpg?bwg=1546960206"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup022.jpg?bwg=1546960205"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup044.jpg?bwg=1546960205"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tiemeup065.jpg?bwg=1546960204"
+        }
+      ]
+    },
+    {
+      "title_zh": "Bad Education",
+      "title_en": "Bad Education",
+      "year": 2004,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/07/17/bad-education/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation001.jpg?bwg=1546962905"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation022.jpg?bwg=1546962904"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation044.jpg?bwg=1546962904"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/badeducation065.jpg?bwg=1546962904"
+        }
+      ]
+    },
+    {
+      "title_zh": "Parallel Mothers",
+      "title_en": "Parallel Mothers",
+      "year": 2021,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D056-佩德罗·阿莫多瓦·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2026/03/06/parallel-mothers/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_01.jpg?bwg=1701089660"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_19.jpg?bwg=1701089659"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_38.jpg?bwg=1701089659"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parallel_Mothers_56.jpg?bwg=1701089659"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "123",
+    "name_en": "JiangWen",
+    "name_zh": "姜文",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "中国",
+    "active_years": "1963-",
+    "era": "1963-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#C62828",
+        "name_zh": "中国红",
+        "name_en": "Chinese Red",
+        "ratio": 0.22,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FF8F00",
+        "name_zh": "黄土金",
+        "name_en": "Loess Gold",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          143,
+          0
+        ],
+        "hsl": [
+          34,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#5D4037",
+        "name_zh": "大地棕",
+        "name_en": "Earth Brown",
+        "ratio": 0.16,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFD54F",
+        "name_zh": "阳光金",
+        "name_en": "Sunshine Gold",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#2E7D32",
+        "name_zh": "军绿",
+        "name_en": "Military Green",
+        "ratio": 0.14,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#3E2723",
+        "name_zh": "深土棕",
+        "name_en": "Deep Earth Brown",
+        "ratio": 0.14,
+        "rgb": [
+          62,
+          39,
+          35
+        ],
+        "hsl": [
+          9,
+          28,
+          19
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#C62828",
+        "name_zh": "雄性激情",
+        "name_en": "雄性激情",
+        "emotion": "雄性激情",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FF8F00",
+        "name_zh": "荒诞狂欢",
+        "name_en": "荒诞狂欢",
+        "emotion": "荒诞狂欢",
+        "rgb": [
+          255,
+          143,
+          0
+        ],
+        "hsl": [
+          34,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#5D4037",
+        "name_zh": "大地厚重",
+        "name_en": "大地厚重",
+        "emotion": "大地厚重",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFD54F",
+        "name_zh": "阳光灿烂",
+        "name_en": "阳光灿烂",
+        "emotion": "阳光灿烂",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "强烈侧光",
+    "highlight_tint": "暖红顶光",
+    "highlight_bias": "暖红顶光",
+    "shadow_tint": "黄土漫反射",
+    "shadow_bias": "黄土漫反射",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "雄性群像",
+    "黄土大地",
+    "荒诞叙事",
+    "红色意象",
+    "民国/建国初期",
+    "独白旁白"
+  ],
+  "color_keywords": [
+    "中国红",
+    "黄土高原色",
+    "高饱和暖调",
+    "雄性荷尔蒙色",
+    "阳光金",
+    "军绿年代色"
+  ],
+  "mood_keywords": [
+    "雄性荷尔蒙",
+    "荒诞史诗",
+    "中国往事",
+    "黑色幽默",
+    "理想主义",
+    "时代记忆"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "姜文的视觉风格：强烈侧光，中国红, 黄土高原色, 高饱和暖调。",
+    "lighting": "强烈侧光，暖红顶光，黄土漫反射",
+    "framing": "雄性群像、黄土大地、荒诞叙事。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "director": {
+    "id": "043",
+    "name_en": "Alfonso Cuarón",
+    "name_zh": "阿方索·卡隆",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "墨西哥",
+    "active_years": "1991-至今",
+    "era": "1991-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#D4A574",
+        "name_zh": "暖金回忆",
+        "name_en": "Warm Gold Memory",
+        "ratio": 0.22,
+        "rgb": [
+          212,
+          165,
+          116
+        ],
+        "hsl": [
+          32,
+          52,
+          64
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#B89968",
+        "name_zh": "土黄街景",
+        "name_en": "Earth Yellow Street",
+        "ratio": 0.18,
+        "rgb": [
+          184,
+          153,
+          104
+        ],
+        "hsl": [
+          37,
+          36,
+          56
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#2C2C2C",
+        "name_zh": "深空黑",
+        "name_en": "Deep Space Black",
+        "ratio": 0.15,
+        "rgb": [
+          44,
+          44,
+          44
+        ],
+        "hsl": [
+          0,
+          0,
+          17
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#6B8E9A",
+        "name_zh": "冷钢蓝灰",
+        "name_en": "Cold Steel Blue-Grey",
+        "ratio": 0.15,
+        "rgb": [
+          107,
+          142,
+          154
+        ],
+        "hsl": [
+          196,
+          18,
+          51
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#8B7355",
+        "name_zh": "橄榄棕",
+        "name_en": "Olive Brown",
+        "ratio": 0.15,
+        "rgb": [
+          139,
+          115,
+          85
+        ],
+        "hsl": [
+          33,
+          24,
+          44
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#E8D5B7",
+        "name_zh": "柔光米白",
+        "name_en": "Soft Light Beige",
+        "ratio": 0.15,
+        "rgb": [
+          232,
+          213,
+          183
+        ],
+        "hsl": [
+          37,
+          52,
+          81
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#F4C430",
+        "name_zh": "记忆金",
+        "name_en": "Memory Gold",
+        "emotion": "童年回望",
+        "rgb": [
+          244,
+          196,
+          48
+        ],
+        "hsl": [
+          45,
+          90,
+          57
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#4A6FA5",
+        "name_zh": "太空蓝",
+        "name_en": "Space Blue",
+        "emotion": "孤独浩瀚",
+        "rgb": [
+          74,
+          111,
+          165
+        ],
+        "hsl": [
+          216,
+          38,
+          47
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#A0522D",
+        "name_zh": "赭石红",
+        "name_en": "Sienna Red",
+        "emotion": "末世苦难",
+        "rgb": [
+          160,
+          82,
+          45
+        ],
+        "hsl": [
+          19,
+          56,
+          40
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#DCDCDC",
+        "name_zh": "银白",
+        "name_en": "Silver White",
+        "emotion": "失重漂浮",
+        "rgb": [
+          220,
+          220,
+          220
+        ],
+        "hsl": [
+          0,
+          0,
+          86
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "natural available light, long take continuous lighting, soft window bounce",
+    "highlight_tint": "warm gold / amber memory",
+    "shadow_tint": "cool steel blue / warm umber",
+    "contrast_ratio": "medium 50-65%, wide range by scene",
+    "overall_tone": "warm memory + cold reality, 60% warm + 40% cool"
+  },
+  "composition_keywords": [
+    "long take immersion",
+    "zero-gravity fluid camera",
+    "wide-angle depth",
+    "handheld documentary",
+    "child's eye low angle",
+    "360-degree spatial camera",
+    "natural framing",
+    "silent long shot"
+  ],
+  "color_keywords": [
+    "warm golden memory tones",
+    "black and white stark realism",
+    "cool steel blue space",
+    "earth brown post-apocalypse",
+    "soft morning light",
+    "dust motes in sunbeam",
+    "rain-washed street",
+    "fire in darkness"
+  ],
+  "mood_keywords": [
+    "memory and longing",
+    "isolation in vastness",
+    "childhood innocence lost",
+    "human connection",
+    "gravity and weightlessness",
+    "political urgency",
+    "poetic realism",
+    "quiet resilience"
+  ],
+  "style_profile": {
+    "definition": "长镜自然主义在灰白、土色与单一环境主色中保持现场感。",
+    "lighting": "自然光、实景光、长镜曝光连续；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "复杂长镜、人物与环境同步变化；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "写实低饱和，主色随环境统一；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "炫彩LUT、切碎长动作、不连续曝光、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  },
+  "real_palettes": [
+    {
+      "title_zh": "Great Expectations",
+      "title_en": "Great Expectations",
+      "year": 1998,
+      "palette": [
+        {
+          "hex": "#5E5253",
+          "ratio": 14.9,
+          "luminance": 0.0904,
+          "saturation": 0.1277
+        },
+        {
+          "hex": "#968F8E",
+          "ratio": 14.6,
+          "luminance": 0.2808,
+          "saturation": 0.0533
+        },
+        {
+          "hex": "#7F6E73",
+          "ratio": 13.7,
+          "luminance": 0.169,
+          "saturation": 0.1339
+        },
+        {
+          "hex": "#173421",
+          "ratio": 13.5,
+          "luminance": 0.0275,
+          "saturation": 0.5577
+        },
+        {
+          "hex": "#727575",
+          "ratio": 12.2,
+          "luminance": 0.1758,
+          "saturation": 0.0256
+        },
+        {
+          "hex": "#423C3E",
+          "ratio": 10.9,
+          "luminance": 0.0474,
+          "saturation": 0.0909
+        },
+        {
+          "hex": "#2E2625",
+          "ratio": 10.1,
+          "luminance": 0.021,
+          "saturation": 0.1957
+        },
+        {
+          "hex": "#030905",
+          "ratio": 10.1,
+          "luminance": 0.0023,
+          "saturation": 0.6667
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Harry Potter and the Prisoner of Azkaban",
+      "title_en": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004,
+      "palette": [
+        {
+          "hex": "#000201",
+          "ratio": 38.9,
+          "luminance": 0.0005,
+          "saturation": 1.0
+        },
+        {
+          "hex": "#354746",
+          "ratio": 9.3,
+          "luminance": 0.0571,
+          "saturation": 0.2535
+        },
+        {
+          "hex": "#6C8280",
+          "ratio": 9.1,
+          "luminance": 0.2071,
+          "saturation": 0.1692
+        },
+        {
+          "hex": "#252823",
+          "ratio": 8.9,
+          "luminance": 0.0203,
+          "saturation": 0.125
+        },
+        {
+          "hex": "#646F6D",
+          "ratio": 8.7,
+          "luminance": 0.1518,
+          "saturation": 0.0991
+        },
+        {
+          "hex": "#615D59",
+          "ratio": 8.5,
+          "luminance": 0.1109,
+          "saturation": 0.0825
+        },
+        {
+          "hex": "#B1CBC0",
+          "ratio": 8.5,
+          "luminance": 0.5586,
+          "saturation": 0.1281
+        },
+        {
+          "hex": "#1D1A14",
+          "ratio": 8.1,
+          "luminance": 0.0105,
+          "saturation": 0.3103
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Paris, Je T’Aime",
+      "title_en": "Paris, Je T’Aime",
+      "year": 2006,
+      "palette": [
+        {
+          "hex": "#00030A",
+          "ratio": 15.2,
+          "luminance": 0.0009,
+          "saturation": 1.0
+        },
+        {
+          "hex": "#4B321A",
+          "ratio": 14.3,
+          "luminance": 0.0385,
+          "saturation": 0.6533
+        },
+        {
+          "hex": "#BE8621",
+          "ratio": 12.9,
+          "luminance": 0.2811,
+          "saturation": 0.8263
+        },
+        {
+          "hex": "#E5E3BC",
+          "ratio": 12.4,
+          "luminance": 0.7523,
+          "saturation": 0.179
+        },
+        {
+          "hex": "#182527",
+          "ratio": 11.9,
+          "luminance": 0.0166,
+          "saturation": 0.3846
+        },
+        {
+          "hex": "#19170D",
+          "ratio": 11.9,
+          "luminance": 0.0085,
+          "saturation": 0.48
+        },
+        {
+          "hex": "#2D2614",
+          "ratio": 11.4,
+          "luminance": 0.0199,
+          "saturation": 0.5556
+        },
+        {
+          "hex": "#C5A544",
+          "ratio": 10.0,
+          "luminance": 0.392,
+          "saturation": 0.6548
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Roma",
+      "title_en": "Roma",
+      "year": 2018,
+      "palette": [
+        {
+          "hex": "#1D1D1D",
+          "ratio": 13.7,
+          "luminance": 0.0123,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#999999",
+          "ratio": 13.3,
+          "luminance": 0.3185,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#727272",
+          "ratio": 13.1,
+          "luminance": 0.1683,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#2D2D2D",
+          "ratio": 12.6,
+          "luminance": 0.0262,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#5E5E5E",
+          "ratio": 12.2,
+          "luminance": 0.1119,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#B1B1B1",
+          "ratio": 12.1,
+          "luminance": 0.4397,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#4A4A4A",
+          "ratio": 11.5,
+          "luminance": 0.0685,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#C8C8C8",
+          "ratio": 11.5,
+          "luminance": 0.5776,
+          "saturation": 0.0
+        }
+      ],
+      "sources": []
+    }
+  ]
+}

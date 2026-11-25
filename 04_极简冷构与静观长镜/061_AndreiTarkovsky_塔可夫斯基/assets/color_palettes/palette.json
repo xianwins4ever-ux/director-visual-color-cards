@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "061",
+    "name_en": "AndreiTarkovsky",
+    "name_zh": "塔可夫斯基",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "俄罗斯",
+    "era": "1932-1986",
+    "active_years": "1932-1986"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#4A5D52",
+        "rgb": [
+          74,
+          93,
+          82
+        ],
+        "hsl": [
+          145,
+          11,
+          33
+        ],
+        "ratio": 0.22,
+        "name_zh": "雾灰绿",
+        "name_en": "Mist Gray Green",
+        "code": "C01"
+      },
+      {
+        "hex": "#6B7B6E",
+        "rgb": [
+          107,
+          123,
+          110
+        ],
+        "hsl": [
+          131,
+          7,
+          45
+        ],
+        "ratio": 0.18,
+        "name_zh": "苔藓灰",
+        "name_en": "Moss Gray",
+        "code": "C02"
+      },
+      {
+        "hex": "#8B9A8D",
+        "rgb": [
+          139,
+          154,
+          141
+        ],
+        "hsl": [
+          128,
+          7,
+          57
+        ],
+        "ratio": 0.16,
+        "name_zh": "晨雾绿",
+        "name_en": "Morning Mist Green",
+        "code": "C03"
+      },
+      {
+        "hex": "#C4B8A3",
+        "rgb": [
+          196,
+          184,
+          163
+        ],
+        "hsl": [
+          38,
+          22,
+          70
+        ],
+        "ratio": 0.15,
+        "name_zh": "旧木米",
+        "name_en": "Aged Wood Beige",
+        "code": "C04"
+      },
+      {
+        "hex": "#5A5248",
+        "rgb": [
+          90,
+          82,
+          72
+        ],
+        "hsl": [
+          33,
+          11,
+          32
+        ],
+        "ratio": 0.15,
+        "name_zh": "大地棕灰",
+        "name_en": "Earth Brown Gray",
+        "code": "C05"
+      },
+      {
+        "hex": "#2D3A34",
+        "rgb": [
+          45,
+          58,
+          52
+        ],
+        "hsl": [
+          152,
+          13,
+          20
+        ],
+        "ratio": 0.14,
+        "name_zh": "深林暗绿",
+        "name_en": "Deep Forest Dark Green",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#D4CFBE",
+        "rgb": [
+          212,
+          207,
+          190
+        ],
+        "hsl": [
+          46,
+          20,
+          79
+        ],
+        "emotion": "神圣与冥想",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#3D4F46",
+        "rgb": [
+          61,
+          79,
+          70
+        ],
+        "hsl": [
+          150,
+          13,
+          27
+        ],
+        "emotion": "存在与沉思",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#8BA395",
+        "rgb": [
+          139,
+          163,
+          149
+        ],
+        "hsl": [
+          145,
+          12,
+          59
+        ],
+        "emotion": "自然与永恒",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#1F2825",
+        "rgb": [
+          31,
+          40,
+          37
+        ],
+        "hsl": [
+          160,
+          13,
+          14
+        ],
+        "emotion": "时间与消逝",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "柔光散射",
+    "highlight_bias": "雾气弥漫",
+    "shadow_bias": "窗光神圣",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "长镜头静观",
+    "自然风景构图",
+    "水元素意象",
+    "建筑与人物关系",
+    "缓慢平移",
+    "深焦纵深"
+  ],
+  "color_keywords": [
+    "雾灰绿调",
+    "自然柔光",
+    "水反光",
+    "大地色系",
+    "低饱和",
+    "空气透视"
+  ],
+  "mood_keywords": [
+    "诗意沉思",
+    "灵魂升华",
+    "时间重量",
+    "自然神性",
+    "存在主义",
+    "梦幻记忆"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "伊万的童年",
+      "title_en": "Ivan’s Childhood",
+      "year": 1962,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/03/30/ivans-childhood/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/0124 (1).jpg?bwg=1547131963"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/2124 (1).jpg?bwg=1547131962"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/4024 (1).jpg?bwg=1547131962"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/6018 (1).jpg?bwg=1547131962"
+        }
+      ]
+    },
+    {
+      "title_zh": "飞向太空",
+      "title_en": "Solaris",
+      "year": 1972,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2012/12/14/solaris-2/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (928).jpg?bwg=1547406512"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (948).jpg?bwg=1547406512"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (933).jpg?bwg=1547406511"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (639).jpg?bwg=1547406511"
+        }
+      ]
+    },
+    {
+      "title_zh": "镜子",
+      "title_en": "Mirror (Зеркало, Zerkalo)",
+      "year": 1975,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2010/09/27/mirror-%d0%b7%d0%b5%d1%80%d0%ba%d0%b0%d0%bb%d0%be-zerkalo/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (693).jpg?bwg=1547236924"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/20 (706).jpg?bwg=1547236922"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/40 (701).jpg?bwg=1547236921"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/59 (626).jpg?bwg=1547236921"
+        }
+      ]
+    },
+    {
+      "title_zh": "乡愁",
+      "title_en": "Nostalghia",
+      "year": 1983,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/04/21/nostalghia/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_01.jpg?bwg=1719562559"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_22.jpg?bwg=1719562558"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_44.jpg?bwg=1719562558"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Nostalgia_65.jpg?bwg=1719562558"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "塔可夫斯基的视觉风格以柔光散射为主，雾灰绿调、自然柔光、水反光，营造出诗意沉思的氛围。",
+    "lighting": "柔光散射，高光偏雾气弥漫，阴影偏窗光神圣，整体冷调。",
+    "composition": [],
+    "mood": [],
+    "framing": "长镜头静观、自然风景构图、水元素意象，强调视觉层次感。",
+    "grading": "对比度中高对比，色调冷调，色彩雾灰绿调、自然柔光、水反光。",
+    "avoid": "避免快速剪辑、避免强烈明暗对比、避免色彩杂乱"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "director": {
+    "zh": "河濑直美",
+    "en": "Naomi Kawase"
+  },
+  "style_profile": {
+    "definition": "自然、记忆与女性经验以呼吸式观察融入地方景观",
+    "lighting": "逆光、林间碎光、雨雾和自然暗部，容许曝光漂移",
+    "framing": "贴近身体的手持、浅焦自然细节和缓慢凝视",
+    "grading": "森林绿、湿土褐、雾白和暖肤色，柔软低对比",
+    "avoid": [
+      "旅游风光",
+      "锐利商业画质",
+      "机械稳定器感"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "親親婆婆",
+      "title_en": "Katatsumori",
+      "year": 1994,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/162437/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/qdDDjhLDmfMg4Ur92mhxmrsm5XL.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/6GkMzdGlrWlZDn087gb1ALaVIIq.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/dJyvpvVBRJPHmwlFMcfGpkmyFPL.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/4WGN8lFD1hWf0CT3otOoRFYGQ21.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "殯之森",
+      "title_en": "The Mourning Forest",
+      "year": 2007,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/2010/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/wHxeXiEAaeqNKUeZuyrvbB56se3.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/irwidbe1BTH51LOt4SNDCWJY2kx.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/d2PpkR0P5v6yP0JfINhOaxoUJ5c.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/k9HrUEXUgZl1bAyENR6xSDKPWBQ.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "光",
+      "title_en": "Radiance",
+      "year": 2017,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/444428/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/ywYVvh83X8mf3BRCIna9Rx9dUQF.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/ekZ8olN8TUyny1nEZC6e1M1TUhz.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/fHFDPaxAf7Rn8auYllHgYvVPiph.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/a8X53bwmRGCvL8QZnp4hjCk4H7A.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "屋久岛的幻影",
+      "title_en": "Yakushima's Illusion",
+      "year": 2025,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D120-河濑直美·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1449868/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/cQSiXkHoXceECUQKduU0lngK098.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/81jAPAQBKsmJAHk87Za81Z7D0OX.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/tvOKfQYFLFxfBwecejFUWCl9kKg.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/lBpvL2nMfJgvUWTI48ofuqRDSEe.jpg"
+        }
+      ]
+    }
+  ]
+}

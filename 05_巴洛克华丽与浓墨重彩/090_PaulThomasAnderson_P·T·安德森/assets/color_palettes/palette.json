@@ -1,0 +1,222 @@
+{
+  "director": {
+    "id": "090",
+    "name_en": "PaulThomasAnderson",
+    "name_zh": "P·T·安德森",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "美国",
+    "era": "1970-",
+    "active_years": "1970-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#8B4513",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "ratio": 0.2,
+        "name_zh": "70年代棕",
+        "name_en": "70s Brown",
+        "code": "C01"
+      },
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "ratio": 0.18,
+        "name_zh": "金盏花",
+        "name_en": "Marigold",
+        "code": "C02"
+      },
+      {
+        "hex": "#2F4F4F",
+        "rgb": [
+          47,
+          79,
+          79
+        ],
+        "hsl": [
+          180,
+          25,
+          25
+        ],
+        "ratio": 0.16,
+        "name_zh": "暗青绿",
+        "name_en": "Dark Teal",
+        "code": "C03"
+      },
+      {
+        "hex": "#CD853F",
+        "rgb": [
+          205,
+          133,
+          63
+        ],
+        "hsl": [
+          30,
+          59,
+          53
+        ],
+        "ratio": 0.14,
+        "name_zh": "秘鲁棕",
+        "name_en": "Peru Brown",
+        "code": "C04"
+      },
+      {
+        "hex": "#556B2F",
+        "rgb": [
+          85,
+          107,
+          47
+        ],
+        "hsl": [
+          82,
+          39,
+          30
+        ],
+        "ratio": 0.14,
+        "name_zh": "暗橄榄",
+        "name_en": "Dark Olive",
+        "code": "C05"
+      },
+      {
+        "hex": "#1C1C1C",
+        "rgb": [
+          28,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          0,
+          11
+        ],
+        "ratio": 0.18,
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "emotion": "野心与梦想",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#8B4513",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "emotion": "怀旧与失落",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#556B2F",
+        "rgb": [
+          85,
+          107,
+          47
+        ],
+        "hsl": [
+          82,
+          39,
+          30
+        ],
+        "emotion": "自然与救赎",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#0F0F0F",
+        "rgb": [
+          15,
+          15,
+          15
+        ],
+        "hsl": [
+          0,
+          0,
+          6
+        ],
+        "emotion": "黑暗与挣扎",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "侧光雕刻",
+    "highlight_bias": "暖金柔光",
+    "shadow_bias": "自然窗光",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "长镜头自由",
+    "群像调度",
+    "70年代质感",
+    "父子关系",
+    "美国梦",
+    "胶片美学"
+  ],
+  "color_keywords": [
+    "70年代暖棕",
+    "胶片颗粒",
+    "油画光比",
+    "暖金侧光",
+    "复古色调",
+    "加州阳光"
+  ],
+  "mood_keywords": [
+    "美国梦碎",
+    "父子关系",
+    "野心与失落",
+    "灵性探索",
+    "人类联系",
+    "存在焦虑"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "P·T·安德森的视觉风格以侧光雕刻为主，70年代暖棕、胶片颗粒，营造出美国梦碎的氛围。",
+    "lighting": "侧光雕刻，高光偏暖金柔光，阴影偏自然窗光，整体暖调。",
+    "framing": "长镜头自由、群像调度、70年代质感。",
+    "grading": "对比度高对比，色调暖调。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

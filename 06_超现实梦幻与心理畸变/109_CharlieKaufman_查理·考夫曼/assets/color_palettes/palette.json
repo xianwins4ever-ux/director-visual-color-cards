@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "109",
+    "name_en": "CharlieKaufman",
+    "name_zh": "查理·考夫曼",
+    "category": "06_超现实梦幻与心理畸变",
+    "nationality": "美国",
+    "active_years": "1958-",
+    "era": "1958-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#546E7A",
+        "name_zh": "灰蓝",
+        "name_en": "Grayish Blue",
+        "ratio": 0.2,
+        "rgb": [
+          84,
+          110,
+          122
+        ],
+        "hsl": [
+          199,
+          18,
+          40
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#78909C",
+        "name_zh": "雾蓝灰",
+        "name_en": "Foggy Blue Gray",
+        "ratio": 0.18,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#8D6E63",
+        "name_zh": "咖啡棕",
+        "name_en": "Coffee Brown",
+        "ratio": 0.16,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#B0BEC5",
+        "name_zh": "银蓝灰",
+        "name_en": "Silver Blue Gray",
+        "ratio": 0.14,
+        "rgb": [
+          176,
+          190,
+          197
+        ],
+        "hsl": [
+          200,
+          15,
+          73
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFCC80",
+        "name_zh": "暖黄记忆",
+        "name_en": "Warm Yellow Memory",
+        "ratio": 0.12,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#37474F",
+        "name_zh": "深青灰",
+        "name_en": "Dark Cyan Gray",
+        "ratio": 0.2,
+        "rgb": [
+          55,
+          71,
+          79
+        ],
+        "hsl": [
+          200,
+          18,
+          26
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#546E7A",
+        "name_zh": "存在焦虑",
+        "name_en": "存在焦虑",
+        "emotion": "存在焦虑",
+        "rgb": [
+          84,
+          110,
+          122
+        ],
+        "hsl": [
+          199,
+          18,
+          40
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#8D6E63",
+        "name_zh": "自我怀疑",
+        "name_en": "自我怀疑",
+        "emotion": "自我怀疑",
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFCC80",
+        "name_zh": "温暖回忆",
+        "name_en": "温暖回忆",
+        "emotion": "温暖回忆",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#37474F",
+        "name_zh": "意识深渊",
+        "name_en": "意识深渊",
+        "emotion": "意识深渊",
+        "rgb": [
+          55,
+          71,
+          79
+        ],
+        "hsl": [
+          200,
+          18,
+          26
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "冷调自然光",
+    "highlight_tint": "室内荧光",
+    "highlight_bias": "室内荧光",
+    "shadow_tint": "心理色光",
+    "shadow_bias": "心理色光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "元叙事",
+    "心理空间",
+    "身份解构",
+    "纽约街景",
+    "文字与影像",
+    "重复变奏"
+  ],
+  "color_keywords": [
+    "心理冷调",
+    "纽约灰蓝",
+    "意识流色彩",
+    "低饱和",
+    "雨雾色调",
+    "室内荧光"
+  ],
+  "mood_keywords": [
+    "存在焦虑",
+    "身份迷失",
+    "元小说",
+    "自我解构",
+    "孤独写作",
+    "人类处境"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "查理·考夫曼的视觉风格：冷调自然光，心理冷调, 纽约灰蓝, 意识流色彩。",
+    "lighting": "冷调自然光，室内荧光，心理色光",
+    "framing": "元叙事、心理空间、身份解构。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

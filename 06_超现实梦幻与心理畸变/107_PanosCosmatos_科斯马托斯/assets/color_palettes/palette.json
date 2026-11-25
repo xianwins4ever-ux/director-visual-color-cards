@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "107",
+    "name_en": "PanosCosmatos",
+    "name_zh": "科斯马托斯",
+    "category": "06_超现实梦幻与心理畸变",
+    "nationality": "希腊",
+    "active_years": "1974-",
+    "era": "1974-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#7B1FA2",
+        "name_zh": "合成器紫",
+        "name_en": "Synthwave Purple",
+        "ratio": 0.22,
+        "rgb": [
+          123,
+          31,
+          162
+        ],
+        "hsl": [
+          282,
+          68,
+          38
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#C2185B",
+        "name_zh": "霓虹粉",
+        "name_en": "Neon Pink",
+        "ratio": 0.2,
+        "rgb": [
+          194,
+          24,
+          91
+        ],
+        "hsl": [
+          336,
+          78,
+          43
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#0D47A1",
+        "name_zh": "电蓝",
+        "name_en": "Electric Blue",
+        "ratio": 0.16,
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FF6F00",
+        "name_zh": "烈焰橙",
+        "name_en": "Blaze Orange",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          111,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#1A1A2E",
+        "name_zh": "深夜蓝黑",
+        "name_en": "Midnight Blue Black",
+        "ratio": 0.14,
+        "rgb": [
+          26,
+          26,
+          46
+        ],
+        "hsl": [
+          240,
+          28,
+          14
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#880E4F",
+        "name_zh": "深玫红",
+        "name_en": "Deep Magenta",
+        "ratio": 0.14,
+        "rgb": [
+          136,
+          14,
+          79
+        ],
+        "hsl": [
+          328,
+          81,
+          29
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#7B1FA2",
+        "name_zh": "迷幻噩梦",
+        "name_en": "迷幻噩梦",
+        "emotion": "迷幻噩梦",
+        "rgb": [
+          123,
+          31,
+          162
+        ],
+        "hsl": [
+          282,
+          68,
+          38
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#C2185B",
+        "name_zh": "暴力复仇",
+        "name_en": "暴力复仇",
+        "emotion": "暴力复仇",
+        "rgb": [
+          194,
+          24,
+          91
+        ],
+        "hsl": [
+          336,
+          78,
+          43
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#0D47A1",
+        "name_zh": "冰冷愤怒",
+        "name_en": "冰冷愤怒",
+        "emotion": "冰冷愤怒",
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FF6F00",
+        "name_zh": "烈焰毁灭",
+        "name_en": "烈焰毁灭",
+        "emotion": "烈焰毁灭",
+        "rgb": [
+          255,
+          111,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "霓虹色光",
+    "highlight_tint": "合成器光感",
+    "highlight_bias": "合成器光感",
+    "shadow_tint": "红色点缀",
+    "shadow_bias": "红色点缀",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "合成器波美学",
+    "慢镜暴力",
+    "对称构图",
+    "霓虹色光",
+    "80年代复古",
+    "宗教恐怖"
+  ],
+  "color_keywords": [
+    "合成器紫",
+    "霓虹粉蓝",
+    "迷幻恐怖色",
+    "80年代复古色",
+    "高饱和霓虹",
+    "暗调亮色"
+  ],
+  "mood_keywords": [
+    "迷幻恐怖",
+    "复仇怒火",
+    "80年代怀旧",
+    "超现实暴力",
+    "金属摇滚",
+    "恶魔崇拜"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "科斯马托斯的视觉风格：霓虹色光，合成器紫, 霓虹粉蓝, 迷幻恐怖色。",
+    "lighting": "霓虹色光，合成器光感，红色点缀",
+    "framing": "合成器波美学、慢镜暴力、对称构图。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

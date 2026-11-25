@@ -1,0 +1,321 @@
+{
+  "director": {
+    "id": "094",
+    "name_en": "LucreciaMartel",
+    "name_zh": "卢克雷西亚·马特尔",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "阿根廷",
+    "era": "1966-",
+    "active_years": "1966-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#6B8E23",
+        "rgb": [
+          107,
+          142,
+          35
+        ],
+        "hsl": [
+          80,
+          60,
+          35
+        ],
+        "ratio": 0.2,
+        "name_zh": "橄榄绿",
+        "name_en": "Olive Drab Green",
+        "code": "C01"
+      },
+      {
+        "hex": "#8B4513",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "ratio": 0.18,
+        "name_zh": "腐朽棕",
+        "name_en": "Decay Brown",
+        "code": "C02"
+      },
+      {
+        "hex": "#B8860B",
+        "rgb": [
+          184,
+          134,
+          11
+        ],
+        "hsl": [
+          43,
+          89,
+          38
+        ],
+        "ratio": 0.16,
+        "name_zh": "暗金",
+        "name_en": "Dark Goldenrod",
+        "code": "C03"
+      },
+      {
+        "hex": "#2F4F4F",
+        "rgb": [
+          47,
+          79,
+          79
+        ],
+        "hsl": [
+          180,
+          25,
+          25
+        ],
+        "ratio": 0.14,
+        "name_zh": "暗青灰",
+        "name_en": "Dark Slate Gray",
+        "code": "C04"
+      },
+      {
+        "hex": "#D2B48C",
+        "rgb": [
+          210,
+          180,
+          140
+        ],
+        "hsl": [
+          34,
+          44,
+          69
+        ],
+        "ratio": 0.14,
+        "name_zh": "棕绸色",
+        "name_en": "Tan Silk",
+        "code": "C05"
+      },
+      {
+        "hex": "#1C1C1C",
+        "rgb": [
+          28,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          0,
+          11
+        ],
+        "ratio": 0.18,
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#6B8E23",
+        "rgb": [
+          107,
+          142,
+          35
+        ],
+        "hsl": [
+          80,
+          60,
+          35
+        ],
+        "emotion": "潮湿压抑",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#B8860B",
+        "rgb": [
+          184,
+          134,
+          11
+        ],
+        "hsl": [
+          43,
+          89,
+          38
+        ],
+        "emotion": "殖民腐朽",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#8B4513",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "emotion": "欲望秘密",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#2F2F2F",
+        "rgb": [
+          47,
+          47,
+          47
+        ],
+        "hsl": [
+          0,
+          0,
+          18
+        ],
+        "emotion": "道德暗区",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "漫射暖光",
+    "highlight_bias": "树影斑驳",
+    "shadow_bias": "室内暗光",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "空间迷宫",
+    "听觉主导",
+    "水意象",
+    "殖民空间",
+    "女性心理",
+    "家族秘密"
+  ],
+  "color_keywords": [
+    "潮湿绿调",
+    "殖民暗金",
+    "南美色彩",
+    "水色反光",
+    "腐朽华丽",
+    "热带闷色"
+  ],
+  "mood_keywords": [
+    "感官迷宫",
+    "殖民遗产",
+    "女性心理",
+    "家族秘密",
+    "潮湿压抑",
+    "社会批判"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "魔沼",
+      "title_en": "La Ciénaga",
+      "year": 2001,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/7IpUXbKHWA1Xt4jCwnP3A2YFPC3.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/b8gbRPrsEinp7Z2TY9Kn1jv5Rm9.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/tLibHkTvKCptzLqyBMBU0r8USbq.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/v5YMg4J2ADOwzs3wrIfNyCkxC9e.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "扎马",
+      "title_en": "Zama",
+      "year": 2016,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/9JqIR7bBO0uofsJiONgYAX2yw1R.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/oG8sdayvGEMbHYPIIlJlKzoZsAR.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/7DVaA3yyEXPaXCLbLdpZgrqFWHt.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/fhniVap3BiCPU8IDYTXa0iZpAYK.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "被奪去的土地",
+      "title_en": "Landmarks",
+      "year": 2025,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/t4PVpbHAmJ6pA8Ff5JWSHFSBebX.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/8w5ebDQywZZNzYLF9rOnE2U16eH.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/5cFcnM5gHxfv9szP8M6l2sGXPTV.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/71fS8w31KWT0pYUaV3MbrjOqtwc.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "Cornucopia",
+      "title_en": "Cornucopia",
+      "year": 2025,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/gh4cEqu7D9WSobqnGpdGjimERGl.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/gbZXiKESLJMAgDnnrsA0gMl1Sj1.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/o7HP9xBQ4XEknOsQ1kgL7kT363G.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/7JL3N8ZLtrD3ZCXrDAuOhV8fqei.jpg"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "卢克雷西亚·马特尔的视觉风格以漫射暖光为主，潮湿绿调、殖民暗金、南美色彩，营造出感官迷宫的氛围。",
+    "lighting": "漫射暖光，高光偏树影斑驳，阴影偏室内暗光，整体暖调。",
+    "composition": [],
+    "mood": [],
+    "framing": "空间迷宫、听觉主导、水意象，强调视觉层次感。",
+    "grading": "对比度高对比，色调暖调，色彩潮湿绿调、殖民暗金、南美色彩。",
+    "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "director": {"zh": "阿斯哈·法哈蒂", "en": "Asghar Farhadi"},
+  "style_profile": {
+    "definition": "中性家居灰、冬日蓝和木色让伦理冲突保持现实压力。",
+    "lighting": "自然窗光与普通顶灯，肤色稳定可读，避免情绪化染色。",
+    "framing": "手持贴近但克制，以门框、走廊和家具分隔人物关系。",
+    "grading": "中性写实、低饱和、肤色稳定，暗红只在冲突节点出现。",
+    "avoid": ["戏剧化红绿", "过暗犯罪片调色", "美颜肤色", "无动机环绕和随机变焦", "统一情绪滤镜"]
+  },
+  "films": [
+    {
+      "title_zh": "一次别离", "title_en": "A Separation", "year": 2011,
+      "frames": ["source-frames/film-01/frame-01.jpg", "source-frames/film-01/frame-02.jpg", "source-frames/film-01/frame-03.jpg", "source-frames/film-01/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影剧照 01", "url": "https://image.tmdb.org/t/p/original/vSQ2FK4LzevXeHeXvEHb7t4I0SW.jpg"},
+        {"label": "TMDB 电影剧照 02", "url": "https://image.tmdb.org/t/p/original/6DEl5KfpKkS6ZEiy4s9s7EukpAB.jpg"},
+        {"label": "TMDB 电影剧照 03", "url": "https://image.tmdb.org/t/p/original/mJrSFyb7uoqiICUmvIIzeOerA5K.jpg"},
+        {"label": "TMDB 电影剧照 04", "url": "https://image.tmdb.org/t/p/original/a0Yrsf28FDvCQRJxJYzPIf9P37f.jpg"}
+      ]
+    },
+    {
+      "title_zh": "关于伊丽", "title_en": "About Elly", "year": 2009,
+      "frames": ["source-frames/film-02/frame-01.jpg", "source-frames/film-02/frame-02.jpg", "source-frames/film-02/frame-03.jpg", "source-frames/film-02/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影剧照 01", "url": "https://image.tmdb.org/t/p/original/3loY85G8vB0OcpleFFezf4kSDsy.jpg"},
+        {"label": "TMDB 电影剧照 02", "url": "https://image.tmdb.org/t/p/original/8LBt89PMdIeLsI5MdgacfgErDHy.jpg"},
+        {"label": "TMDB 电影剧照 03", "url": "https://image.tmdb.org/t/p/original/bg2gr5zhgzjxdhN5UGoudIoSrpa.jpg"},
+        {"label": "TMDB 电影剧照 04", "url": "https://image.tmdb.org/t/p/original/esI7T5zdUnwa35DYcHdqIYiU1gz.jpg"}
+      ]
+    },
+    {
+      "title_zh": "推销员", "title_en": "The Salesman", "year": 2016,
+      "frames": ["source-frames/film-03/frame-01.jpg", "source-frames/film-03/frame-02.jpg", "source-frames/film-03/frame-03.jpg", "source-frames/film-03/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影剧照 01", "url": "https://image.tmdb.org/t/p/original/woSmQgo1wxE4WRVXWHrmgv3jy2O.jpg"},
+        {"label": "TMDB 电影剧照 02", "url": "https://image.tmdb.org/t/p/original/bswaSOsIaCym28fmRe93YaSHRu1.jpg"},
+        {"label": "TMDB 电影剧照 03", "url": "https://image.tmdb.org/t/p/original/ilyNWLvmG7LVHuf4HwCrWi7nWy5.jpg"},
+        {"label": "TMDB 电影剧照 04", "url": "https://image.tmdb.org/t/p/original/7RlH5cg04KhSMjuheZbMclPye3X.jpg"}
+      ]
+    },
+    {
+      "title_zh": "一个英雄", "title_en": "A Hero", "year": 2021,
+      "frames": ["source-frames/film-04/frame-01.jpg", "source-frames/film-04/frame-02.jpg", "source-frames/film-04/frame-03.jpg", "source-frames/film-04/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影剧照 01", "url": "https://image.tmdb.org/t/p/original/rXRf5Okqg0FzDpmZkt4wly2asB2.jpg"},
+        {"label": "TMDB 电影剧照 02", "url": "https://image.tmdb.org/t/p/original/ociyCcs416lpB89iT57G2tGExl3.jpg"},
+        {"label": "TMDB 电影剧照 03", "url": "https://image.tmdb.org/t/p/original/nM6yVVKjzUDv9pO6V9pwHVCHb85.jpg"},
+        {"label": "TMDB 电影剧照 04", "url": "https://image.tmdb.org/t/p/original/gMT4yEnVKIK2j6cYXrZTYMYrvQ8.jpg"}
+      ]
+    }
+  ]
+}

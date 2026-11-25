@@ -1,0 +1,165 @@
+{
+  "director": {
+    "zh": "阿里·艾斯特",
+    "en": "Ari Aster"
+  },
+  "style_profile": {
+    "definition": "完全可见的明亮空间、对称共同体与缓慢仪式制造恐怖",
+    "lighting": "长日照高调自然光与住宅低照度形成反差；肤色保持自然可读，高光和黑位保留材质。",
+    "framing": "宽幅对称、深景群像、俯视图案和延长反应",
+    "grading": "草绿、花白、天空蓝、木棕和仪式血红；局部强调色不污染整幅画面。",
+    "avoid": [
+      "统一滤镜替代真实材质",
+      "无动机环绕和随机变焦",
+      "人物身份与空间轴漂移",
+      "肤色污染、死黑和爆白",
+      "只模仿颜色不执行镜头语言。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "仲夏魇",
+      "title_en": "Midsommar",
+      "year": 2019,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/530385/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/pYgj8e2Y6RufnSyOA6OnzmxFXxZ.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/eEDZtyTfuYkfZcpMuUKHlXpYex.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/vzUBcmaYJKQrHW7Bne7kgmL5zHV.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/vxcVxmeUfNQlX9gZ0lEz5PEKp5R.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "遗传厄运",
+      "title_en": "Hereditary",
+      "year": 2018,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1284938/images/backdrops"
+        },
+        {
+          "label": "FilmGrab电影截图图库",
+          "url": "https://film-grab.com/2019/03/20/hereditary/"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/1gQG812Upijn2gGFUf6JVJGffjL.jpg"
+        },
+        {
+          "label": "FilmGrab真实电影截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/hereditary022.jpg?bwg=1551285308"
+        },
+        {
+          "label": "FilmGrab真实电影截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/hereditary043.jpg?bwg=1551285307"
+        },
+        {
+          "label": "FilmGrab真实电影截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/hereditary065.jpg?bwg=1551285307"
+        }
+      ]
+    },
+    {
+      "title_zh": "博很恐惧",
+      "title_en": "Beau Is Afraid",
+      "year": 2023,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1296025/images/backdrops"
+        },
+        {
+          "label": "FilmGrab电影截图图库",
+          "url": "https://film-grab.com/2024/01/17/beau-is-afraid/"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/2yzteKaFvzs34MmtK8XD2g7Woll.jpg"
+        },
+        {
+          "label": "FilmGrab真实电影截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Beau_is_Afraid_22.jpg?bwg=1699879388"
+        },
+        {
+          "label": "FilmGrab真实电影截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Beau_is_Afraid_43.jpg?bwg=1699879388"
+        },
+        {
+          "label": "FilmGrab真实电影截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Beau_is_Afraid_65.jpg?bwg=1699879388"
+        }
+      ]
+    },
+    {
+      "title_zh": "爱丁顿",
+      "title_en": "Eddington",
+      "year": 2025,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D172-阿里·艾斯特·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1593893/images/backdrops"
+        },
+        {
+          "label": "FilmGrab电影截图图库",
+          "url": "https://film-grab.com/2026/02/27/eddington/"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/51i81hCgJNTSckW6xADmaQBD48S.jpg"
+        },
+        {
+          "label": "FilmGrab真实电影截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eddington_22.jpg?bwg=1772215665"
+        },
+        {
+          "label": "FilmGrab真实电影截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eddington_43.jpg?bwg=1772215665"
+        },
+        {
+          "label": "FilmGrab真实电影截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Eddington_65.jpg?bwg=1772215665"
+        }
+      ]
+    }
+  ]
+}

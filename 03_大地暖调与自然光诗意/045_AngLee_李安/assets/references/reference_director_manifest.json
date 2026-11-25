@@ -1,0 +1,157 @@
+{
+  "director": {
+    "zh": "李安",
+    "en": "Ang Lee"
+  },
+  "style_profile": {
+    "definition": "礼法秩序与压抑欲望通过自然景观、人物距离和材质显现",
+    "lighting": "柔和自然天光、室内窗光与克制月夜冷光；肤色保持自然可读，高光和黑位保留材质。",
+    "framing": "古典平衡构图、门窗层次与山水远景",
+    "grading": "竹青、瓦灰、木棕、丝绸白与少量朱红；局部强调色不污染整幅画面。",
+    "avoid": [
+      "统一滤镜替代真实材质",
+      "无动机环绕和随机变焦",
+      "人物身份与空间轴漂移",
+      "肤色污染、死黑和爆白",
+      "只模仿颜色不执行镜头语言。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "卧虎藏龙",
+      "title_en": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1535928/images/backdrops"
+        },
+        {
+          "label": "FilmGrab电影截图图库",
+          "url": "https://film-grab.com/2016/09/12/crouching-tiger-hidden-dragon/"
+        },
+        {
+          "label": "FilmGrab真实电影截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger001.jpg?bwg=1546982125"
+        },
+        {
+          "label": "FilmGrab真实电影截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger022.jpg?bwg=1546982123"
+        },
+        {
+          "label": "FilmGrab真实电影截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger043.jpg?bwg=1546982123"
+        },
+        {
+          "label": "FilmGrab真实电影截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/crouchingtiger064.jpg?bwg=1546982123"
+        }
+      ]
+    },
+    {
+      "title_zh": "饮食男女",
+      "title_en": "Eat Drink Man Woman",
+      "year": 1994,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/10451/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/1kZ105Jy8hYi4pXuDG2UimR25QT.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/1VALNbhOX2L5ueDg1ATB8yKeM5.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/iXCV1NZOLK5HWSodU8upXtXaYqC.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "断背山",
+      "title_en": "Brokeback Mountain",
+      "year": 2005,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/142/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/G9VBy4RYDmKkZ0tdnpSuiazeNr.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/9RCsaEFmLACOA5K5pRGlo0E3oB1.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/sWpBKslghZKJplHiyYxDX8qSktm.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "少年派的奇幻漂流",
+      "title_en": "Life of Pi",
+      "year": 2012,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D153-李安·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/87827/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/21YsCNMub5455NQCn3jh9SmRFyG.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/ldIM4SqViPPvDyE1n6k9STfRcmS.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/t2vwMZguqaFLbBEYGGlSGz1E53q.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/6rlTDl1i8HUdFBYMIZfK3Ac1uef.jpg"
+        }
+      ]
+    }
+  ]
+}

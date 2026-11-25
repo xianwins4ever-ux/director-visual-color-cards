@@ -1,0 +1,153 @@
+{
+  "director": {
+    "zh": "赵婷",
+    "en": "Chloé Zhao"
+  },
+  "style_profile": {
+    "definition": "真实地貌、非职业表演和流动生活在自然时间中互相倾听",
+    "lighting": "黄金时刻、阴天漫射和实景火光；肤色保持自然可读，高光和黑位保留材质。",
+    "framing": "宽阔地貌远景与贴近人物的轻手持中景",
+    "grading": "沙土、旧车灰、牛仔蓝、落日金和夜火橙；局部强调色不污染整幅画面。",
+    "avoid": [
+      "统一滤镜替代真实材质",
+      "无动机环绕和随机变焦",
+      "人物身份与空间轴漂移",
+      "肤色污染、死黑和爆白",
+      "只模仿颜色不执行镜头语言。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "无依之地",
+      "title_en": "Nomadland",
+      "year": 2020,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/581734/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/563sRDK3rZS31TXCdTY4lfcwrNK.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/SrgHZSNBRmVK0ZmPK6XYM5ZkA.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/9fRr3J6CEhciSEY9DOhLy6bckha.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/22wivEQ7qBxiYCgsWCPAUpRwPQF.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "骑士",
+      "title_en": "The Rider",
+      "year": 2017,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/453278/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/oaAyNmnqbB8Ad3O2t9iymZ2gEJa.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/rhUXXPcVAG4hBNS7aNVCEZrx0Yy.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/giV5WyCAEExo0GMUtUXzUZafUjs.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/rMQjbYkdelSppmt76PhykpKAMoB.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "哥哥教我的歌",
+      "title_en": "Songs My Brothers Taught Me",
+      "year": 2015,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/308640/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/cSVIQcChsIqaP7frfaiXTTH3vOM.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/cIoxYiNS3jMQ8JCSB5PipK3FUEH.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/pTlbVMl5VGJ6M4K850HwrTucN7.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/eSAGDzuciAQ0r4nOhjhIESgnbCa.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "永恒族",
+      "title_en": "Eternals",
+      "year": 2021,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D167-赵婷·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/524434/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/AtvhfE2PRU93Q52o7VFTeIFYcYY.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/iFr6unLUKEd2fQygCEz7HwMvN32.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/hH7zotEkzL1vOri2l2Eln5VJt81.jpg"
+        }
+      ]
+    }
+  ]
+}

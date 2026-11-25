@@ -1,0 +1,321 @@
+{
+  "director": {
+    "id": "081",
+    "name_en": "PeterGreenaway",
+    "name_zh": "彼得·格林纳威",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "英国",
+    "era": "1942-",
+    "active_years": "1942-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#C41E3A",
+        "rgb": [
+          196,
+          30,
+          58
+        ],
+        "hsl": [
+          350,
+          73,
+          44
+        ],
+        "ratio": 0.2,
+        "name_zh": "血红",
+        "name_en": "Blood Red",
+        "code": "C01"
+      },
+      {
+        "hex": "#2E7D32",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ],
+        "ratio": 0.18,
+        "name_zh": "深翠绿",
+        "name_en": "Deep Emerald",
+        "code": "C02"
+      },
+      {
+        "hex": "#FFFFFF",
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ],
+        "ratio": 0.16,
+        "name_zh": "纯白",
+        "name_en": "Pure White",
+        "code": "C03"
+      },
+      {
+        "hex": "#FFD700",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "ratio": 0.14,
+        "name_zh": "黄金色",
+        "name_en": "Golden Yellow",
+        "code": "C04"
+      },
+      {
+        "hex": "#1A237E",
+        "rgb": [
+          26,
+          35,
+          126
+        ],
+        "hsl": [
+          235,
+          66,
+          30
+        ],
+        "ratio": 0.14,
+        "name_zh": "午夜蓝",
+        "name_en": "Midnight Blue",
+        "code": "C05"
+      },
+      {
+        "hex": "#4A0E1A",
+        "rgb": [
+          74,
+          14,
+          26
+        ],
+        "hsl": [
+          348,
+          68,
+          17
+        ],
+        "ratio": 0.18,
+        "name_zh": "深酒红",
+        "name_en": "Deep Wine Red",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#DC143C",
+        "rgb": [
+          220,
+          20,
+          60
+        ],
+        "hsl": [
+          348,
+          83,
+          47
+        ],
+        "emotion": "欲望与死亡",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#228B22",
+        "rgb": [
+          34,
+          139,
+          34
+        ],
+        "hsl": [
+          120,
+          61,
+          34
+        ],
+        "emotion": "自然与生机",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#FFD700",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "emotion": "奢华与神圣",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#000000",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ],
+        "emotion": "黑暗与深渊",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "舞台式布光",
+    "highlight_bias": "高饱和色光",
+    "shadow_bias": "对称照明",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "对称构图",
+    "数字分章",
+    "画框嵌套",
+    "正面平视",
+    "静物陈列",
+    "文字叠加"
+  ],
+  "color_keywords": [
+    "高饱和三原色",
+    "油画质感",
+    "红绿对比",
+    "金色装饰",
+    "黑白穿插",
+    "建筑色彩"
+  ],
+  "mood_keywords": [
+    "智性游戏",
+    "巴洛克华丽",
+    "黑色幽默",
+    "死亡美学",
+    "数字命理学",
+    "艺术史引用"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "情慾色香味",
+      "title_en": "The Cook, the Thief, His Wife and Her Lover",
+      "year": 1989,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/rzaf3eCT8pVCGvuS7P8g2nPitqC.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/iiZHqF0BfD7UI7vZXhmaD2MFBNu.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/tiJ6FupEHWyK5w7uSH5Hsje3B0V.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/3k3NJpXQSLL3UYqpuD9GweTPO61.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "姓科的人",
+      "title_en": "The Falls",
+      "year": 1980,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/stLzTxfpbQbzX5OYDY9F4u4gYuf.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/2B8hjmMuFGHBZoyr0l7D2BZv5w6.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/d9WEF4y3GfRzkkJsteDXHqPvzjg.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/3ZsQ578GsY7i4061cj9SFsjOUWg.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "逐个淹死",
+      "title_en": "Drowning by Numbers",
+      "year": 1988,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/8HiCwYGET0rHwAQnMridjgPD2uk.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/h9ndC0gPubKlcxCYDHr1Zxt2XyF.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/j9P7QPsZQNYBjWplYhWzfX9af1J.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/gLBbeubWhWYgpVNUSfjhiuiqhLU.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "繪圖師的合約",
+      "title_en": "The Draughtsman's Contract",
+      "year": 1982,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/4cExyNONv6JNlOuBH1qcUvIyd8O.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/6cfgXv2jEDTwTNlJyrkgEtPzxqz.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/msusQKLwl0CqoAc8Txlr0X4ZCe3.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/1HvreNCmPs4606utmHugRYhS5uz.jpg"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "彼得·格林纳威的视觉风格以舞台式布光为主，高饱和三原色、油画质感、红绿对比，营造出智性游戏的氛围。",
+    "lighting": "舞台式布光，高光偏高饱和色光，阴影偏对称照明，整体暖调。",
+    "composition": [],
+    "mood": [],
+    "framing": "对称构图、数字分章、画框嵌套，强调视觉层次感。",
+    "grading": "对比度高对比，色调暖调，色彩高饱和三原色、油画质感、红绿对比。",
+    "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+  }
+}

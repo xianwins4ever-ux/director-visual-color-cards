@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "163",
+    "name_en": "Jean-LucGodard",
+    "name_zh": "让-吕克·戈达尔",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "法国/瑞士",
+    "active_years": "1930-2022",
+    "era": "1930-2022"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0D47A1",
+        "name_zh": "法国蓝",
+        "name_en": "French Blue",
+        "ratio": 0.2,
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#C62828",
+        "name_zh": "革命红",
+        "name_en": "Revolution Red",
+        "ratio": 0.2,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFD600",
+        "name_zh": "宣言黄",
+        "name_en": "Manifesto Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          214,
+          0
+        ],
+        "hsl": [
+          50,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#000000",
+        "name_zh": "新浪潮黑",
+        "name_en": "New Wave Black",
+        "ratio": 0.14,
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFFFFF",
+        "name_zh": "概念白",
+        "name_en": "Concept White",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#2E7D32",
+        "name_zh": "政治绿",
+        "name_en": "Political Green",
+        "ratio": 0.16,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#C62828",
+        "name_zh": "革命激情",
+        "name_en": "革命激情",
+        "emotion": "革命激情",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#0D47A1",
+        "name_zh": "理性思辨",
+        "name_en": "理性思辨",
+        "emotion": "理性思辨",
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD600",
+        "name_zh": "挑衅宣言",
+        "name_en": "挑衅宣言",
+        "emotion": "挑衅宣言",
+        "rgb": [
+          255,
+          214,
+          0
+        ],
+        "hsl": [
+          50,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#000000",
+        "name_zh": "冷酷批判",
+        "name_en": "冷酷批判",
+        "emotion": "冷酷批判",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "街头自然光",
+    "highlight_tint": "高对比黑白",
+    "highlight_bias": "高对比黑白",
+    "shadow_tint": "彩色色块",
+    "shadow_bias": "彩色色块",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "跳切剪辑",
+    "直视镜头",
+    "文字插入",
+    "拼贴美学",
+    "政治宣言",
+    "电影论文"
+  ],
+  "color_keywords": [
+    "戈达尔三原色",
+    "革命红蓝白",
+    "拼贴色块",
+    "新浪潮撞色",
+    "政治色彩",
+    "实验电影色"
+  ],
+  "mood_keywords": [
+    "革命美学",
+    "电影论文",
+    "政治宣言",
+    "新浪潮先锋",
+    "拼贴艺术",
+    "哲学思辨"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "让-吕克·戈达尔的视觉风格：街头自然光，戈达尔三原色, 革命红蓝白, 拼贴色块。",
+    "lighting": "街头自然光，高对比黑白，彩色色块",
+    "framing": "跳切剪辑、直视镜头、文字插入。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "director": {
+    "id": "091",
+    "name_en": "PaulVerhoeven",
+    "name_zh": "保罗·范霍文",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "荷兰",
+    "era": "1938-",
+    "active_years": "1938-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#8B0000",
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "ratio": 0.22,
+        "name_zh": "血暗红",
+        "name_en": "Blood Dark Red",
+        "code": "C01"
+      },
+      {
+        "hex": "#000080",
+        "rgb": [
+          0,
+          0,
+          128
+        ],
+        "hsl": [
+          240,
+          100,
+          25
+        ],
+        "ratio": 0.18,
+        "name_zh": "海军蓝",
+        "name_en": "Navy Blue",
+        "code": "C02"
+      },
+      {
+        "hex": "#FFD700",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "ratio": 0.16,
+        "name_zh": "金黄",
+        "name_en": "Golden Yellow",
+        "code": "C03"
+      },
+      {
+        "hex": "#2F4F4F",
+        "rgb": [
+          47,
+          79,
+          79
+        ],
+        "hsl": [
+          180,
+          25,
+          25
+        ],
+        "ratio": 0.14,
+        "name_zh": "暗青灰",
+        "name_en": "Dark Slate Gray",
+        "code": "C04"
+      },
+      {
+        "hex": "#FF1493",
+        "rgb": [
+          255,
+          20,
+          147
+        ],
+        "hsl": [
+          328,
+          100,
+          54
+        ],
+        "ratio": 0.14,
+        "name_zh": "深粉",
+        "name_en": "Deep Pink",
+        "code": "C05"
+      },
+      {
+        "hex": "#1C1C1C",
+        "rgb": [
+          28,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          0,
+          11
+        ],
+        "ratio": 0.16,
+        "name_zh": "炭黑",
+        "name_en": "Charcoal Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#8B0000",
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "emotion": "暴力欲望",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#FFD700",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "emotion": "权力诱惑",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#FF1493",
+        "rgb": [
+          255,
+          20,
+          147
+        ],
+        "hsl": [
+          328,
+          100,
+          54
+        ],
+        "emotion": "情色诱惑",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#000080",
+        "rgb": [
+          0,
+          0,
+          128
+        ],
+        "hsl": [
+          240,
+          100,
+          25
+        ],
+        "emotion": "权力冷酷",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "高饱和色光",
+    "highlight_bias": "霓虹夜色",
+    "shadow_bias": "夸张戏剧光",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "大胆构图",
+    "情色暴力",
+    "讽刺社会",
+    "科幻未来",
+    "女性视角",
+    "荷兰视角"
+  ],
+  "color_keywords": [
+    "荷兰大胆色",
+    "暗红情色",
+    "科幻冷色",
+    "高饱和对比",
+    "暴力美学",
+    "黑色幽默色"
+  ],
+  "mood_keywords": [
+    "社会讽刺",
+    "暴力美学",
+    "情色主题",
+    "科幻批判",
+    "女性力量",
+    "大胆挑战"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "保罗·范霍文的视觉风格以高饱和色光为主，荷兰大胆色、暗红情色，营造出社会讽刺的氛围。",
+    "lighting": "高饱和色光，高光偏霓虹夜色，阴影偏夸张戏剧光，整体暖调。",
+    "framing": "大胆构图、情色暴力、讽刺社会。",
+    "grading": "对比度高对比，色调暖调。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

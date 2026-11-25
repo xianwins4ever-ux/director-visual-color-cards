@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "184",
+    "name_en": "TakeshiKitano",
+    "name_zh": "北野武",
+    "category": "10_东方美学与留白意境",
+    "nationality": "日本",
+    "active_years": "1947-",
+    "era": "1947-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0288D1",
+        "name_zh": "北野蓝",
+        "name_en": "Beat Blue",
+        "ratio": 0.22,
+        "rgb": [
+          2,
+          136,
+          209
+        ],
+        "hsl": [
+          201,
+          98,
+          41
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#37474F",
+        "name_zh": "海灰蓝",
+        "name_en": "Sea Gray Blue",
+        "ratio": 0.2,
+        "rgb": [
+          55,
+          71,
+          79
+        ],
+        "hsl": [
+          200,
+          18,
+          26
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#C62828",
+        "name_zh": "鲜血红",
+        "name_en": "Blood Red",
+        "ratio": 0.16,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFD54F",
+        "name_zh": "烟花金",
+        "name_en": "Fireworks Gold",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFF9C4",
+        "name_zh": "沙米白",
+        "name_en": "Sand Beige White",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          249,
+          196
+        ],
+        "hsl": [
+          54,
+          100,
+          88
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#212121",
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "ratio": 0.14,
+        "rgb": [
+          33,
+          33,
+          33
+        ],
+        "hsl": [
+          0,
+          0,
+          13
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#0288D1",
+        "name_zh": "冷酷暴力",
+        "name_en": "冷酷暴力",
+        "emotion": "冷酷暴力",
+        "rgb": [
+          2,
+          136,
+          209
+        ],
+        "hsl": [
+          201,
+          98,
+          41
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#C62828",
+        "name_zh": "鲜血死亡",
+        "name_en": "鲜血死亡",
+        "emotion": "鲜血死亡",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD54F",
+        "name_zh": "短暂温情",
+        "name_en": "短暂温情",
+        "emotion": "短暂温情",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#37474F",
+        "name_zh": "宿命感",
+        "name_en": "宿命感",
+        "emotion": "宿命感",
+        "rgb": [
+          55,
+          71,
+          79
+        ],
+        "hsl": [
+          200,
+          18,
+          26
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "海边冷光",
+    "highlight_tint": "蓝色色光",
+    "highlight_bias": "蓝色色光",
+    "shadow_tint": "高反差",
+    "shadow_bias": "高反差",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "静止画面",
+    "海边场景",
+    "黑帮暴力",
+    "蓝色基调",
+    "死面表情",
+    "长镜头静帧"
+  ],
+  "color_keywords": [
+    "北野蓝",
+    "暴力静帧色",
+    "黑帮蓝色调",
+    "鲜血点缀",
+    "海边冷色调",
+    "花火金"
+  ],
+  "mood_keywords": [
+    "暴力美学",
+    "蓝色调",
+    "黑帮电影",
+    "日本极道",
+    "冷面笑匠",
+    "宿命感"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "北野武的视觉风格：海边冷光，北野蓝, 暴力静帧色, 黑帮蓝色调。",
+    "lighting": "海边冷光，蓝色色光，高反差",
+    "framing": "静止画面、海边场景、黑帮暴力。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

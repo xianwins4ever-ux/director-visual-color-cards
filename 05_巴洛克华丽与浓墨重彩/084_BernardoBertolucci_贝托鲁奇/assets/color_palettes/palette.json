@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "084",
+    "name_en": "BernardoBertolucci",
+    "name_zh": "贝托鲁奇",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "意大利",
+    "era": "1941-2018",
+    "active_years": "1941-2018"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#B8860B",
+        "rgb": [
+          184,
+          134,
+          11
+        ],
+        "hsl": [
+          43,
+          89,
+          38
+        ],
+        "ratio": 0.2,
+        "name_zh": "暗金",
+        "name_en": "Dark Goldenrod",
+        "code": "C01"
+      },
+      {
+        "hex": "#8B0000",
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "ratio": 0.18,
+        "name_zh": "帝国红",
+        "name_en": "Imperial Red",
+        "code": "C02"
+      },
+      {
+        "hex": "#CD853F",
+        "rgb": [
+          205,
+          133,
+          63
+        ],
+        "hsl": [
+          30,
+          59,
+          53
+        ],
+        "ratio": 0.16,
+        "name_zh": "秘鲁棕",
+        "name_en": "Peru Brown",
+        "code": "C03"
+      },
+      {
+        "hex": "#2F4F4F",
+        "rgb": [
+          47,
+          79,
+          79
+        ],
+        "hsl": [
+          180,
+          25,
+          25
+        ],
+        "ratio": 0.14,
+        "name_zh": "墨绿",
+        "name_en": "Dark Slate Green",
+        "code": "C04"
+      },
+      {
+        "hex": "#F4A460",
+        "rgb": [
+          244,
+          164,
+          96
+        ],
+        "hsl": [
+          28,
+          87,
+          67
+        ],
+        "ratio": 0.14,
+        "name_zh": "沙橙",
+        "name_en": "Sandy Brown",
+        "code": "C05"
+      },
+      {
+        "hex": "#3D2B1F",
+        "rgb": [
+          61,
+          43,
+          31
+        ],
+        "hsl": [
+          24,
+          33,
+          18
+        ],
+        "ratio": 0.18,
+        "name_zh": "深棕木",
+        "name_en": "Deep Wood Brown",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "emotion": "权力辉煌",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#A52A2A",
+        "rgb": [
+          165,
+          42,
+          42
+        ],
+        "hsl": [
+          0,
+          59,
+          41
+        ],
+        "emotion": "情欲热烈",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#8B7355",
+        "rgb": [
+          139,
+          115,
+          85
+        ],
+        "hsl": [
+          33,
+          24,
+          44
+        ],
+        "emotion": "怀旧忧郁",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#1C1C1C",
+        "rgb": [
+          28,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          0,
+          11
+        ],
+        "emotion": "政治黑暗",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "暖金侧光",
+    "highlight_bias": "宫殿烛火",
+    "shadow_bias": "黄昏柔光",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "宫殿空间",
+    "政治隐喻",
+    "身体叙事",
+    "长镜头运动",
+    "东西方交融",
+    "历史与个人"
+  ],
+  "color_keywords": [
+    "红金帝国",
+    "东方宫殿色",
+    "暖金黄昏",
+    "丝绸质感",
+    "油画光",
+    "殖民色彩"
+  ],
+  "mood_keywords": [
+    "政治与情欲",
+    "东方主义",
+    "历史史诗",
+    "青春觉醒",
+    "革命理想",
+    "华丽忧伤"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "The Conformist",
+      "title_en": "The Conformist",
+      "year": 1970,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2013/02/23/the-conformist/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1020).jpg?bwg=1547462986"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1042).jpg?bwg=1547462986"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1025).jpg?bwg=1547462984"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (769).jpg?bwg=1547462985"
+        }
+      ]
+    },
+    {
+      "title_zh": "The Last Emperor",
+      "title_en": "The Last Emperor",
+      "year": 1987,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2024/08/13/the-last-emperor/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_01.jpg?bwg=1715934760"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_22.jpg?bwg=1715934758"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_44.jpg?bwg=1715934758"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_65.jpg?bwg=1715934758"
+        }
+      ]
+    },
+    {
+      "title_zh": "Stealing Beauty",
+      "title_en": "Stealing Beauty",
+      "year": 1996,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2024/04/06/stealing-beauty/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/stealing001.jpg?bwg=1551289316"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/stealing022.jpg?bwg=1551289315"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/stealing044.jpg?bwg=1551289315"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/stealing065.jpg?bwg=1551289315"
+        }
+      ]
+    },
+    {
+      "title_zh": "The Dreamers",
+      "title_en": "The Dreamers",
+      "year": 2003,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/05/25/the-dreamers/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1039).jpg?bwg=1547463863"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1061).jpg?bwg=1547463863"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (1043).jpg?bwg=1547463862"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (710).jpg?bwg=1547463862"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "贝托鲁奇的视觉风格以暖金侧光为主，红金帝国、东方宫殿色、暖金黄昏，营造出政治与情欲的氛围。",
+    "lighting": "暖金侧光，高光偏宫殿烛火，阴影偏黄昏柔光，整体暖调。",
+    "composition": [],
+    "mood": [],
+    "framing": "宫殿空间、政治隐喻、身体叙事，强调视觉层次感。",
+    "grading": "对比度高对比，色调暖调，色彩红金帝国、东方宫殿色、暖金黄昏。",
+    "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+  }
+}

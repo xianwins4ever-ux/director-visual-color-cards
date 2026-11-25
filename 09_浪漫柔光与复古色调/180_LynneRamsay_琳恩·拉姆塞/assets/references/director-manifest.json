@@ -1,0 +1,151 @@
+{
+  "director": {
+    "zh": "琳恩·拉姆塞",
+    "en": "Lynne Ramsay"
+  },
+  "style_profile": {
+    "definition": "碎片化感官、创伤记忆与强烈主观色彩形成诗性暴力",
+    "lighting": "侧逆光、暗部局部光和高亮色源，允许曝光突变",
+    "framing": "极端特写、跳切细节和主观运动，物件触发记忆",
+    "grading": "深红、脏金、青绿与浓黑，颗粒粗粝、对比坚决",
+    "avoid": [
+      "平铺叙事",
+      "光滑商业质感",
+      "廉价血浆红"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "捕鼠者",
+      "title_en": "Ratcatcher",
+      "year": 1999,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/29698/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/A5j7Q6ltJRYPZ3Wz2azcGZtwPem.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/h69UlfCi757aHhNrjlbpZcX8WZO.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/AfmSdOkmhZSIFJU6zMUNPxpDH4a.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/qKOw1VRjt9wCyCJvbJ75mQNbos0.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "默文·卡拉",
+      "title_en": "Morvern Callar",
+      "year": 2002,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/18602/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/aRFsgk8X8J6mRvgStvUDBIaDdlX.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/4sihQ2oH1vmTLzRqN0e9os1Bzaq.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/izRINHTdNwBdwkCIRbImJu5o4C5.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/oSk0a3RH8D6FLfOtWdjp9SHIfLt.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "你从未在此",
+      "title_en": "You Were Never Really Here",
+      "year": 2018,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/398181/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/g2yZ1kiGwLO5AUSmtsEJeFEWghJ.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/h4Lk8Cgfvlzz0hcnSJBTAOwNDia.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/e2oEEk8O0Ia1pU7OfNpsgToQj3.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/pBQ5QTEApg8M0icyIf83UpGaK98.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "去死吧，我的爱",
+      "title_en": "Die My Love",
+      "year": 2025,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D107-琳恩·拉姆塞·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/1033148/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/dEkFlZzj2cb5F7SShvqkL54E4lr.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/r4x0ZUfbLEQciyzfiPU8Avrbm81.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/ngJH672tWJiGh7Zd82kphzeb78u.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/qTX2H80kqY8E8nATqa4Mebx3TRV.jpg"
+        }
+      ]
+    }
+  ]
+}

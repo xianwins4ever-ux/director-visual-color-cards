@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "191",
+    "name_en": "TranAnhHung",
+    "name_zh": "陈英雄",
+    "category": "10_东方美学与留白意境",
+    "nationality": "越南/法国",
+    "active_years": "1962-",
+    "era": "1962-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#2E7D32",
+        "name_zh": "越南绿",
+        "name_en": "Vietnamese Green",
+        "ratio": 0.22,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFD54F",
+        "name_zh": "暖金",
+        "name_en": "Warm Gold",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#8D6E63",
+        "name_zh": "木棕",
+        "name_en": "Wood Brown",
+        "ratio": 0.16,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#A5D6A7",
+        "name_zh": "青木瓜绿",
+        "name_en": "Green Papaya Green",
+        "ratio": 0.14,
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#BCAAA4",
+        "name_zh": "米白",
+        "name_en": "Beige White",
+        "ratio": 0.14,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFAB91",
+        "name_zh": "朝阳橙",
+        "name_en": "Morning Orange",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          171,
+          145
+        ],
+        "hsl": [
+          14,
+          100,
+          78
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#2E7D32",
+        "name_zh": "越南绿意",
+        "name_en": "越南绿意",
+        "emotion": "越南绿意",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFD54F",
+        "name_zh": "温暖美食",
+        "name_en": "温暖美食",
+        "emotion": "温暖美食",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#8D6E63",
+        "name_zh": "乡愁记忆",
+        "name_en": "乡愁记忆",
+        "emotion": "乡愁记忆",
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#A5D6A7",
+        "name_zh": "少女青涩",
+        "name_en": "少女青涩",
+        "emotion": "少女青涩",
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "柔光漫射",
+    "highlight_tint": "窗格光影",
+    "highlight_bias": "窗格光影",
+    "shadow_tint": "自然天光",
+    "shadow_bias": "自然天光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "越南风景",
+    "美食光影",
+    "女性视角",
+    "法式诗意",
+    "战争背景",
+    "日常诗意"
+  ],
+  "color_keywords": [
+    "陈英雄绿金",
+    "青木瓜色",
+    "越南美食色",
+    "法式东方色",
+    "温暖绿意",
+    "诗意日常色"
+  ],
+  "mood_keywords": [
+    "越南诗意",
+    "美食电影",
+    "法式东方",
+    "女性成长",
+    "战争记忆",
+    "日常美学"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "陈英雄的视觉风格：柔光漫射，陈英雄绿金, 青木瓜色, 越南美食色。",
+    "lighting": "柔光漫射，窗格光影，自然天光",
+    "framing": "越南风景、美食光影、女性视角。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

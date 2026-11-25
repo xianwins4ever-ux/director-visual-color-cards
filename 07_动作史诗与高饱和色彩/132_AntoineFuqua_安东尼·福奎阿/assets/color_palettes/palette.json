@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "132",
+    "name_en": "AntoineFuqua",
+    "name_zh": "安东尼·福奎阿",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "美国",
+    "active_years": "1965-",
+    "era": "1965-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#1565C0",
+        "name_zh": "训练蓝",
+        "name_en": "Training Day Blue",
+        "ratio": 0.2,
+        "rgb": [
+          21,
+          101,
+          192
+        ],
+        "hsl": [
+          212,
+          80,
+          42
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#C62828",
+        "name_zh": "街头血",
+        "name_en": "Street Blood Red",
+        "ratio": 0.18,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FF8F00",
+        "name_zh": "日落橙",
+        "name_en": "Sunset Orange",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          143,
+          0
+        ],
+        "hsl": [
+          34,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#455A64",
+        "name_zh": "钢铁灰蓝",
+        "name_en": "Steel Gray Blue",
+        "ratio": 0.14,
+        "rgb": [
+          69,
+          90,
+          100
+        ],
+        "hsl": [
+          199,
+          18,
+          33
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#5D4037",
+        "name_zh": "街头棕",
+        "name_en": "Street Brown",
+        "ratio": 0.14,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#212121",
+        "name_zh": "暗黑",
+        "name_en": "Dark Black",
+        "ratio": 0.18,
+        "rgb": [
+          33,
+          33,
+          33
+        ],
+        "hsl": [
+          0,
+          0,
+          13
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#1565C0",
+        "name_zh": "硬汉冷酷",
+        "name_en": "硬汉冷酷",
+        "emotion": "硬汉冷酷",
+        "rgb": [
+          21,
+          101,
+          192
+        ],
+        "hsl": [
+          212,
+          80,
+          42
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#C62828",
+        "name_zh": "街头暴力",
+        "name_en": "街头暴力",
+        "emotion": "街头暴力",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FF8F00",
+        "name_zh": "日落终局",
+        "name_en": "日落终局",
+        "emotion": "日落终局",
+        "rgb": [
+          255,
+          143,
+          0
+        ],
+        "hsl": [
+          34,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#455A64",
+        "name_zh": "道德灰色",
+        "name_en": "道德灰色",
+        "emotion": "道德灰色",
+        "rgb": [
+          69,
+          90,
+          100
+        ],
+        "hsl": [
+          199,
+          18,
+          33
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "硬光侧光",
+    "highlight_tint": "冷蓝夜色",
+    "highlight_bias": "冷蓝夜色",
+    "shadow_tint": "暖黄室内",
+    "shadow_bias": "暖黄室内",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "硬汉主角",
+    "街头真实",
+    "训练日式",
+    "黑帮犯罪",
+    "军事行动",
+    "道德困境"
+  ],
+  "color_keywords": [
+    "训练日蓝调",
+    "街头真实色",
+    "硬汉冷调",
+    "蓝灰对比",
+    "日落橙金",
+    "黑帮色调"
+  ],
+  "mood_keywords": [
+    "硬汉动作",
+    "街头真实",
+    "道德模糊",
+    "黑帮犯罪",
+    "军事题材",
+    "丹泽尔华盛顿"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "安东尼·福奎阿的视觉风格：硬光侧光，训练日蓝调, 街头真实色, 硬汉冷调。",
+    "lighting": "硬光侧光，冷蓝夜色，暖黄室内",
+    "framing": "硬汉主角、街头真实、训练日式。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

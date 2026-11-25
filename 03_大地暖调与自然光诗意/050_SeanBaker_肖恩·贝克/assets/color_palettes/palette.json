@@ -1,0 +1,457 @@
+{
+  "director": {
+    "id": "050",
+    "name_en": "Sean Baker",
+    "name_zh": "肖恩·贝克",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "美国",
+    "active_years": "2004-至今",
+    "era": "2004-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FF8C42",
+        "name_zh": "佛罗里达橙",
+        "ratio": 0.22,
+        "rgb": [
+          255,
+          140,
+          66
+        ],
+        "hsl": [
+          24,
+          100,
+          63
+        ],
+        "name_en": "Orange"
+      },
+      {
+        "code": "C02",
+        "hex": "#F7C59F",
+        "name_zh": "肌肤蜜桃",
+        "ratio": 0.18,
+        "rgb": [
+          247,
+          197,
+          159
+        ],
+        "hsl": [
+          27,
+          83,
+          80
+        ],
+        "name_en": "Color 2"
+      },
+      {
+        "code": "C03",
+        "hex": "#FFD166",
+        "name_zh": "阳光柠檬黄",
+        "ratio": 0.15,
+        "rgb": [
+          255,
+          209,
+          102
+        ],
+        "hsl": [
+          43,
+          100,
+          70
+        ],
+        "name_en": "Yellow"
+      },
+      {
+        "code": "C04",
+        "hex": "#2E4057",
+        "name_zh": "暮光蓝灰",
+        "ratio": 0.13,
+        "rgb": [
+          46,
+          64,
+          87
+        ],
+        "hsl": [
+          214,
+          31,
+          26
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "C05",
+        "hex": "#C73E1D",
+        "name_zh": "落日烧红",
+        "ratio": 0.15,
+        "rgb": [
+          199,
+          62,
+          29
+        ],
+        "hsl": [
+          12,
+          74,
+          45
+        ],
+        "name_en": "Red"
+      },
+      {
+        "code": "C06",
+        "hex": "#E8A87C",
+        "name_zh": "晚霞粉橘",
+        "ratio": 0.17,
+        "rgb": [
+          232,
+          168,
+          124
+        ],
+        "hsl": [
+          24,
+          70,
+          70
+        ],
+        "name_en": "Tangerine"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FFB347",
+        "name_zh": "蜜罐黄",
+        "emotion": "童真活力",
+        "rgb": [
+          255,
+          179,
+          71
+        ],
+        "hsl": [
+          36,
+          100,
+          64
+        ],
+        "name_en": "Yellow"
+      },
+      {
+        "code": "E02",
+        "hex": "#5D4E6D",
+        "name_zh": "暮色紫",
+        "emotion": "夜晚暧昧",
+        "rgb": [
+          93,
+          78,
+          109
+        ],
+        "hsl": [
+          269,
+          16,
+          37
+        ],
+        "name_en": "Purple"
+      },
+      {
+        "code": "E03",
+        "hex": "#FF6B6B",
+        "name_zh": "霓虹珊瑚",
+        "emotion": "欲望炽热",
+        "rgb": [
+          255,
+          107,
+          107
+        ],
+        "hsl": [
+          0,
+          100,
+          71
+        ],
+        "name_en": "Coral"
+      },
+      {
+        "code": "E04",
+        "hex": "#A8A39D",
+        "name_zh": "旧墙灰",
+        "emotion": "生存疲惫",
+        "rgb": [
+          168,
+          163,
+          157
+        ],
+        "hsl": [
+          33,
+          5,
+          64
+        ],
+        "name_en": "Gray"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "harsh daylight sun, golden hour warm side light, neon night practicals",
+    "highlight_tint": "orange-yellow / warm pink",
+    "shadow_tint": "desaturated blue-purple, low detail",
+    "contrast_ratio": "high 70-85%, harsh daylight contrast",
+    "overall_tone": "warm saturated oranges, 75% warm + 25% cool"
+  },
+  "composition_keywords": [
+    "iPhone cinematography",
+    "handheld vérité",
+    "wide anamorphic look",
+    "neon practical lighting",
+    "saturated warm palette",
+    "street-level framing",
+    "non-professional cast",
+    "motel room intimacy"
+  ],
+  "color_keywords": [
+    "florida orange",
+    "neon pink motel",
+    "harsh daylight sun",
+    "sunset coral pink",
+    "trans skin warmth",
+    "motel laundry blues",
+    "fast food yellow",
+    "dusk purple sky"
+  ],
+  "mood_keywords": [
+    "marginal lives joy",
+    "working class warmth",
+    "childhood innocence in poverty",
+    "sex trade humanity",
+    "florida dream kitsch",
+    "bittersweet survival",
+    "loud color quiet despair",
+    "rainbow coalition tenderness"
+  ],
+  "style_profile": {
+    "definition": "鲜艳廉价景观与边缘人物生存压力保持同一现实温度",
+    "lighting": "硬日光、城市实景光与廉价室内照明；肤色保持自然可读，高光和黑位保留材质。",
+    "framing": "人物高度广角、汽车旅馆走廊和街头轻手持",
+    "grading": "旅馆紫、泳池蓝、草绿、日落橙和混凝土灰；局部强调色不污染整幅画面。",
+    "avoid": "统一滤镜替代真实材质、无动机环绕和随机变焦、人物身份与空间轴漂移、肤色污染、死黑和爆白、只模仿颜色不执行镜头语言。"
+  },
+  "real_palettes": [
+    {
+      "title_zh": "佛罗里达乐园",
+      "title_en": "The Florida Project",
+      "year": 2017,
+      "palette": [
+        {
+          "hex": "#E3D0C8",
+          "ratio": 15.5,
+          "luminance": 0.6561,
+          "saturation": 0.1189
+        },
+        {
+          "hex": "#BCDAF2",
+          "ratio": 15.1,
+          "luminance": 0.6724,
+          "saturation": 0.2231
+        },
+        {
+          "hex": "#8C7974",
+          "ratio": 13.7,
+          "luminance": 0.2051,
+          "saturation": 0.1714
+        },
+        {
+          "hex": "#282123",
+          "ratio": 12.3,
+          "luminance": 0.0166,
+          "saturation": 0.175
+        },
+        {
+          "hex": "#3D393A",
+          "ratio": 12.1,
+          "luminance": 0.0422,
+          "saturation": 0.0656
+        },
+        {
+          "hex": "#BFB9B8",
+          "ratio": 10.8,
+          "luminance": 0.4923,
+          "saturation": 0.0366
+        },
+        {
+          "hex": "#404D5E",
+          "ratio": 10.4,
+          "luminance": 0.0721,
+          "saturation": 0.3191
+        },
+        {
+          "hex": "#A9988A",
+          "ratio": 10.1,
+          "luminance": 0.3273,
+          "saturation": 0.1834
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "橘色",
+      "title_en": "Tangerine",
+      "year": 2015,
+      "palette": [
+        {
+          "hex": "#6F5F42",
+          "ratio": 16.1,
+          "luminance": 0.1196,
+          "saturation": 0.4054
+        },
+        {
+          "hex": "#FAF9EF",
+          "ratio": 14.6,
+          "luminance": 0.9431,
+          "saturation": 0.044
+        },
+        {
+          "hex": "#0E1525",
+          "ratio": 13.5,
+          "luminance": 0.0076,
+          "saturation": 0.6216
+        },
+        {
+          "hex": "#DF7C72",
+          "ratio": 11.8,
+          "luminance": 0.3132,
+          "saturation": 0.4888
+        },
+        {
+          "hex": "#564329",
+          "ratio": 11.5,
+          "luminance": 0.0615,
+          "saturation": 0.5233
+        },
+        {
+          "hex": "#6992C8",
+          "ratio": 11.3,
+          "luminance": 0.2773,
+          "saturation": 0.475
+        },
+        {
+          "hex": "#F09B71",
+          "ratio": 11.2,
+          "luminance": 0.4316,
+          "saturation": 0.5292
+        },
+        {
+          "hex": "#EE784B",
+          "ratio": 10.0,
+          "luminance": 0.3212,
+          "saturation": 0.6849
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "红色火箭",
+      "title_en": "Red Rocket",
+      "year": 2021,
+      "palette": [
+        {
+          "hex": "#FBF7EC",
+          "ratio": 38.0,
+          "luminance": 0.9309,
+          "saturation": 0.0598
+        },
+        {
+          "hex": "#767689",
+          "ratio": 14.1,
+          "luminance": 0.1861,
+          "saturation": 0.1387
+        },
+        {
+          "hex": "#8DB6B3",
+          "ratio": 10.8,
+          "luminance": 0.4237,
+          "saturation": 0.2253
+        },
+        {
+          "hex": "#918064",
+          "ratio": 8.4,
+          "luminance": 0.2238,
+          "saturation": 0.3103
+        },
+        {
+          "hex": "#855C41",
+          "ratio": 7.8,
+          "luminance": 0.1302,
+          "saturation": 0.5113
+        },
+        {
+          "hex": "#513C43",
+          "ratio": 7.4,
+          "luminance": 0.0539,
+          "saturation": 0.2593
+        },
+        {
+          "hex": "#3C231D",
+          "ratio": 6.7,
+          "luminance": 0.0225,
+          "saturation": 0.5167
+        },
+        {
+          "hex": "#010101",
+          "ratio": 6.8,
+          "luminance": 0.0003,
+          "saturation": 0.0
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "阿诺拉",
+      "title_en": "Anora",
+      "year": 2024,
+      "palette": [
+        {
+          "hex": "#8F9591",
+          "ratio": 18.8,
+          "luminance": 0.2938,
+          "saturation": 0.0403
+        },
+        {
+          "hex": "#643B28",
+          "ratio": 14.7,
+          "luminance": 0.0599,
+          "saturation": 0.6
+        },
+        {
+          "hex": "#0F151A",
+          "ratio": 14.3,
+          "luminance": 0.0071,
+          "saturation": 0.4231
+        },
+        {
+          "hex": "#89A9A0",
+          "ratio": 11.0,
+          "luminance": 0.3623,
+          "saturation": 0.1893
+        },
+        {
+          "hex": "#3C2A19",
+          "ratio": 10.5,
+          "luminance": 0.0269,
+          "saturation": 0.5833
+        },
+        {
+          "hex": "#061346",
+          "ratio": 10.3,
+          "luminance": 0.0095,
+          "saturation": 0.9143
+        },
+        {
+          "hex": "#7B573E",
+          "ratio": 10.2,
+          "luminance": 0.1138,
+          "saturation": 0.4959
+        },
+        {
+          "hex": "#AB8159",
+          "ratio": 10.2,
+          "luminance": 0.2508,
+          "saturation": 0.4795
+        }
+      ],
+      "sources": []
+    }
+  ]
+}

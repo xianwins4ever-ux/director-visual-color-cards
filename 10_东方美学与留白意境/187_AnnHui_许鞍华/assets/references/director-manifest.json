@@ -1,0 +1,151 @@
+{
+  "director": {
+    "zh": "许鞍华",
+    "en": "Ann Hui"
+  },
+  "style_profile": {
+    "definition": "社会变迁与女性命运以细腻现实主义跨越阶层和年代",
+    "lighting": "自然光与实用灯优先，时期色温准确",
+    "framing": "稳定群像、生活化近景和空间完整性，表演优先",
+    "grading": "米灰、木褐、城市蓝与温暖肤色，综合色克制",
+    "avoid": [
+      "苦情滤镜",
+      "宏大空镜堆砌",
+      "过分复古黄"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "胡越的故事",
+      "title_en": "The Story of Woo Viet",
+      "year": 1981,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/256071/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/1SNYSn35kEWumR8Z83Jh1s2mqA0.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/79zNrRkKeOjaGP3RCsHfw4C1MQi.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/fj34a4hj30hhDSHDtwVR11fl5PM.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/lZLguNeA2JZT0eAyZzcOlHIUVrH.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "阿金",
+      "title_en": "The Stunt Woman",
+      "year": 1996,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/142451/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/yKMSFi2qGbMEzrRfimW18azxfj.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/nNDNJpwrU5mFmg3fKQO349DmlyD.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/rx0509ZmGTD98vg2dfydyH9tU8Y.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/kBi4QcbNRPdHKmFcIBzFVvLmDJQ.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "桃姐",
+      "title_en": "A Simple Life",
+      "year": 2011,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/91186/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/qgL2W53BCTgyhOcX9mjlDpJA4SP.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/hrJbkWXhRsX6NHYKgjmlOpzUD7S.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/4Z2LpzIGl3Mb4EdVfZ0X9E77U2j.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/3Y9klIwp5bc47ckV9PEqqOH5fDv.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "七人乐队",
+      "title_en": "Septet: The Story of Hong Kong",
+      "year": 2022,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D127-许鞍华·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/537761/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/nVrOKITGnyonbHCEcUucBPlgeVp.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/4qHlZzg67CUim9OMD5bwtpQVtco.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/6gPHYmKJMyhWAGOdIqg0WHZGNbL.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/ch03GjBTajPa3IdNj9x44mX6DWY.jpg"
+        }
+      ]
+    }
+  ]
+}

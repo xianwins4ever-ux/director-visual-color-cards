@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "130",
+    "name_en": "ChadStahelski",
+    "name_zh": "查德·斯塔赫斯基",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "美国",
+    "active_years": "1968-",
+    "era": "1968-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#D500F9",
+        "name_zh": "霓虹紫",
+        "name_en": "Neon Purple",
+        "ratio": 0.2,
+        "rgb": [
+          213,
+          0,
+          249
+        ],
+        "hsl": [
+          291,
+          100,
+          49
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#00E5FF",
+        "name_zh": "电青",
+        "name_en": "Electric Cyan",
+        "ratio": 0.18,
+        "rgb": [
+          0,
+          229,
+          255
+        ],
+        "hsl": [
+          186,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FF1744",
+        "name_zh": "血红",
+        "name_en": "Blood Red",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          23,
+          68
+        ],
+        "hsl": [
+          348,
+          100,
+          55
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFD600",
+        "name_zh": "金尊黄",
+        "name_en": "Continental Gold",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          214,
+          0
+        ],
+        "hsl": [
+          50,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#1A1A2E",
+        "name_zh": "深夜蓝黑",
+        "name_en": "Midnight Blue Black",
+        "ratio": 0.14,
+        "rgb": [
+          26,
+          26,
+          46
+        ],
+        "hsl": [
+          240,
+          28,
+          14
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#76FF03",
+        "name_zh": "荧光绿",
+        "name_en": "Fluorescent Green",
+        "ratio": 0.16,
+        "rgb": [
+          118,
+          255,
+          3
+        ],
+        "hsl": [
+          93,
+          100,
+          51
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#D500F9",
+        "name_zh": "杀手美学",
+        "name_en": "杀手美学",
+        "emotion": "杀手美学",
+        "rgb": [
+          213,
+          0,
+          249
+        ],
+        "hsl": [
+          291,
+          100,
+          49
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FF1744",
+        "name_zh": "复仇怒火",
+        "name_en": "复仇怒火",
+        "emotion": "复仇怒火",
+        "rgb": [
+          255,
+          23,
+          68
+        ],
+        "hsl": [
+          348,
+          100,
+          55
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#00E5FF",
+        "name_zh": "冷酷精准",
+        "name_en": "冷酷精准",
+        "emotion": "冷酷精准",
+        "rgb": [
+          0,
+          229,
+          255
+        ],
+        "hsl": [
+          186,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFD600",
+        "name_zh": "荣耀规则",
+        "name_en": "荣耀规则",
+        "emotion": "荣耀规则",
+        "rgb": [
+          255,
+          214,
+          0
+        ],
+        "hsl": [
+          50,
+          100,
+          50
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "霓虹色光",
+    "highlight_tint": "雨夜反光",
+    "highlight_bias": "雨夜反光",
+    "shadow_tint": "俱乐部彩光",
+    "shadow_bias": "俱乐部彩光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "长镜头格斗",
+    "霓虹夜景",
+    "杀手酒店",
+    "西装革履",
+    "雨景动作",
+    "仪式感"
+  ],
+  "color_keywords": [
+    "疾速追杀霓虹色",
+    "紫青对比",
+    "高饱和动作色",
+    "杀手酒店金色",
+    "雨夜反光",
+    "动作美学色"
+  ],
+  "mood_keywords": [
+    "杀手美学",
+    "复仇之路",
+    "动作芭蕾",
+    "地下世界",
+    "荣誉规则",
+    "霓虹夜都市"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "查德·斯塔赫斯基的视觉风格：霓虹色光，疾速追杀霓虹色, 紫青对比, 高饱和动作色。",
+    "lighting": "霓虹色光，雨夜反光，俱乐部彩光",
+    "framing": "长镜头格斗、霓虹夜景、杀手酒店。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

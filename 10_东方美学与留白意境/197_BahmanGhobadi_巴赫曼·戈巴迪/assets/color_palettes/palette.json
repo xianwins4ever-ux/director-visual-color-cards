@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "197",
+    "name_en": "BahmanGhobadi",
+    "name_zh": "巴赫曼·戈巴迪",
+    "category": "10_东方美学与留白意境",
+    "nationality": "伊朗/库尔德",
+    "active_years": "1969-",
+    "era": "1969-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FF8F00",
+        "name_zh": "库尔德金",
+        "name_en": "Kurdish Gold",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          143,
+          0
+        ],
+        "hsl": [
+          34,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#8D6E63",
+        "name_zh": "山野棕",
+        "name_en": "Mountain Brown",
+        "ratio": 0.18,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#2E7D32",
+        "name_zh": "草原绿",
+        "name_en": "Meadow Green",
+        "ratio": 0.16,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFFFFF",
+        "name_zh": "雪山白",
+        "name_en": "Snow Mountain White",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#78909C",
+        "name_zh": "天空灰",
+        "name_en": "Sky Gray",
+        "ratio": 0.14,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#C62828",
+        "name_zh": "血与土",
+        "name_en": "Blood and Earth",
+        "ratio": 0.18,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF8F00",
+        "name_zh": "土地热爱",
+        "name_en": "土地热爱",
+        "emotion": "土地热爱",
+        "rgb": [
+          255,
+          143,
+          0
+        ],
+        "hsl": [
+          34,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#2E7D32",
+        "name_zh": "音乐生命力",
+        "name_en": "音乐生命力",
+        "emotion": "音乐生命力",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFFFFF",
+        "name_zh": "苦难纯洁",
+        "name_en": "苦难纯洁",
+        "emotion": "苦难纯洁",
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#8D6E63",
+        "name_zh": "库尔德身份",
+        "name_en": "库尔德身份",
+        "emotion": "库尔德身份",
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "荒野金光",
+    "highlight_tint": "自然天光",
+    "highlight_bias": "自然天光",
+    "shadow_tint": "雪国冷光",
+    "shadow_bias": "雪国冷光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "库尔德山区",
+    "音乐主题",
+    "边境故事",
+    "诗性纪录",
+    "非职业演员",
+    "动物意象"
+  ],
+  "color_keywords": [
+    "戈巴迪金棕",
+    "库尔德山野色",
+    "诗性纪录色",
+    "音乐电影色",
+    "边境土黄色",
+    "雪国冷调"
+  ],
+  "mood_keywords": [
+    "库尔德身份",
+    "诗性纪录",
+    "音乐电影",
+    "边境故事",
+    "伊朗库尔德",
+    "土地之歌"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "巴赫曼·戈巴迪的视觉风格：荒野金光，戈巴迪金棕, 库尔德山野色, 诗性纪录色。",
+    "lighting": "荒野金光，自然天光，雪国冷光",
+    "framing": "库尔德山区、音乐主题、边境故事。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

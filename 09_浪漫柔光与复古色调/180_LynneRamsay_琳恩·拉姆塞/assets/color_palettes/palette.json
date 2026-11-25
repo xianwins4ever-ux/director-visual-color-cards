@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "180",
+    "name_en": "LynneRamsay",
+    "name_zh": "琳恩·拉姆塞",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "苏格兰",
+    "active_years": "1969-",
+    "era": "1969-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#C62828",
+        "name_zh": "暴力红",
+        "name_en": "Violence Red",
+        "ratio": 0.22,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#37474F",
+        "name_zh": "格拉斯哥灰",
+        "name_en": "Glasgow Gray",
+        "ratio": 0.2,
+        "rgb": [
+          55,
+          71,
+          79
+        ],
+        "hsl": [
+          200,
+          18,
+          26
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFD54F",
+        "name_zh": "记忆金",
+        "name_en": "Memory Gold",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#5D4037",
+        "name_zh": "黑暗棕",
+        "name_en": "Dark Brown",
+        "ratio": 0.14,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#1A237E",
+        "name_zh": "深夜蓝",
+        "name_en": "Deep Night Blue",
+        "ratio": 0.14,
+        "rgb": [
+          26,
+          35,
+          126
+        ],
+        "hsl": [
+          235,
+          66,
+          30
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#000000",
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "ratio": 0.14,
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#C62828",
+        "name_zh": "暴力创伤",
+        "name_en": "暴力创伤",
+        "emotion": "暴力创伤",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#37474F",
+        "name_zh": "压抑阴郁",
+        "name_en": "压抑阴郁",
+        "emotion": "压抑阴郁",
+        "rgb": [
+          55,
+          71,
+          79
+        ],
+        "hsl": [
+          200,
+          18,
+          26
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD54F",
+        "name_zh": "记忆闪光",
+        "name_en": "记忆闪光",
+        "emotion": "记忆闪光",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#5D4037",
+        "name_zh": "黑暗心理",
+        "name_en": "黑暗心理",
+        "emotion": "黑暗心理",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "高对比色光",
+    "highlight_tint": "红色重点光",
+    "highlight_bias": "红色重点光",
+    "shadow_tint": "暗调阴影",
+    "shadow_bias": "暗调阴影",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "主观视角",
+    "碎片叙事",
+    "红色意象",
+    "暴力诗意",
+    "儿童视角",
+    "心理惊悚"
+  ],
+  "color_keywords": [
+    "拉姆塞血红",
+    "暴力诗意思",
+    "主观碎片色",
+    "红色意象色",
+    "格拉斯哥灰调",
+    "心理惊悚色"
+  ],
+  "mood_keywords": [
+    "暴力诗意",
+    "心理创伤",
+    "主观叙事",
+    "女性导演",
+    "黑暗美学",
+    "碎片记忆"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "琳恩·拉姆塞的视觉风格：高对比色光，拉姆塞血红, 暴力诗意思, 主观碎片色。",
+    "lighting": "高对比色光，红色重点光，暗调阴影",
+    "framing": "主观视角、碎片叙事、红色意象。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

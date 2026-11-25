@@ -1,0 +1,153 @@
+{
+  "director": {
+    "zh": "徐克",
+    "en": "Tsui Hark"
+  },
+  "style_profile": {
+    "definition": "历史空间、工业现代性和群体运动在高速奇观中碰撞",
+    "lighting": "硬侧光、烟尘、火光和变化迅速的自然光；肤色保持自然可读，高光和黑位保留材质。",
+    "framing": "广角群像、斜线建筑和多层前景组织复杂动作",
+    "grading": "木棕、布蓝、工业黑、火橙和旗帜红；局部强调色不污染整幅画面。",
+    "avoid": [
+      "统一滤镜替代真实材质",
+      "无动机环绕和随机变焦",
+      "人物身份与空间轴漂移",
+      "肤色污染、死黑和爆白",
+      "只模仿颜色不执行镜头语言。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "黄飞鸿",
+      "title_en": "Once Upon a Time in China",
+      "year": 1991,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/10617/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/shl0ELODK3VgHr7pu8VTz2a8olW.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/xfd6aLdSAAeR8lFppCozPYPnyj2.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/fqLxSZpPTfPFjAzS6zUdGYJXSv.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/4w3RGMaqwgnmh1PQ4lxrGmzYKPr.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "青蛇",
+      "title_en": "Green Snake",
+      "year": 1993,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/39915/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/sofHRGQgG6LvKYJWpaxQRFKe4or.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/1y2NkdmDwkMmHGNNdM5SBDecHfk.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/majFQjuyWVO1j7fzCHawenp7Gzx.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/1CZ3a57nsit1Af584CNyWcMZZCk.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "刀",
+      "title_en": "The Blade",
+      "year": 1995,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/42845/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/92HhhtM2yT0ffV1kAkVDv16an9b.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/oLZ4pfQOSnIzdD11XE8qYH6q2JY.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/lgq4uTM7FSTczO6DX87xrLz12WW.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/9qOe487vAuwoXW0Yg72Me1eWVPa.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "顺流逆流",
+      "title_en": "Time and Tide",
+      "year": 2000,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D165-徐克·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/49291/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/k6RUUIiJDVn6Rs1jmenk0uNUwaY.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/wP0WxbtZsGX3IRjRGwetyUqbyrY.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/9W7mDhkdiIUHKYF0lbh5gaPRGuZ.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/etFbWyKellA9rgCDkxzcNw2ndKK.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "085",
+    "name_en": "FrancisFordCoppola",
+    "name_zh": "科波拉",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "美国",
+    "era": "1939-",
+    "active_years": "1939-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#8B4513",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "ratio": 0.2,
+        "name_zh": "马鞍棕",
+        "name_en": "Saddle Brown",
+        "code": "C01"
+      },
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "ratio": 0.18,
+        "name_zh": "金菊黄",
+        "name_en": "Goldenrod",
+        "code": "C02"
+      },
+      {
+        "hex": "#2F2F2F",
+        "rgb": [
+          47,
+          47,
+          47
+        ],
+        "hsl": [
+          0,
+          0,
+          18
+        ],
+        "ratio": 0.16,
+        "name_zh": "暗炭灰",
+        "name_en": "Dark Charcoal",
+        "code": "C03"
+      },
+      {
+        "hex": "#800000",
+        "rgb": [
+          128,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          25
+        ],
+        "ratio": 0.14,
+        "name_zh": "栗色红",
+        "name_en": "Maroon Red",
+        "code": "C04"
+      },
+      {
+        "hex": "#556B2F",
+        "rgb": [
+          85,
+          107,
+          47
+        ],
+        "hsl": [
+          82,
+          39,
+          30
+        ],
+        "ratio": 0.14,
+        "name_zh": "暗橄榄",
+        "name_en": "Dark Olive",
+        "code": "C05"
+      },
+      {
+        "hex": "#1C1C1C",
+        "rgb": [
+          28,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          0,
+          11
+        ],
+        "ratio": 0.18,
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#D4AF37",
+        "rgb": [
+          212,
+          175,
+          55
+        ],
+        "hsl": [
+          46,
+          65,
+          52
+        ],
+        "emotion": "权力与荣耀",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#8B0000",
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "emotion": "暴力与死亡",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#CD853F",
+        "rgb": [
+          205,
+          133,
+          63
+        ],
+        "hsl": [
+          30,
+          59,
+          53
+        ],
+        "emotion": "家族温暖",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#0F0F0F",
+        "rgb": [
+          15,
+          15,
+          15
+        ],
+        "hsl": [
+          0,
+          0,
+          6
+        ],
+        "emotion": "黑暗阴谋",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "暗调侧光",
+    "highlight_bias": "烛火暖金",
+    "shadow_bias": "烟雾光束",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "教父式构图",
+    "家族群像",
+    "烟雾光影",
+    "历史史诗",
+    "门与框景",
+    "明暗对比"
+  ],
+  "color_keywords": [
+    "暗金烛光",
+    "棕木色调",
+    "烟雾阴影",
+    "教父调色",
+    "暖调室内",
+    "暗色史诗"
+  ],
+  "mood_keywords": [
+    "家族荣耀",
+    "美国梦碎",
+    "暴力循环",
+    "史诗感",
+    "新好莱坞",
+    "父权与继承"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "The Rain People",
+      "title_en": "The Rain People",
+      "year": 1969,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/04/11/the-rain-people/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_01.jpg?bwg=1680017276"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_21.jpg?bwg=1680017275"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_42.jpg?bwg=1680017275"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Rain_People_62.jpg?bwg=1680017275"
+        }
+      ]
+    },
+    {
+      "title_zh": "Apocalypse Now",
+      "title_en": "Apocalypse Now",
+      "year": 1979,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2012/11/10/apocalypse-now/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (90).jpg?bwg=1547146677"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (92).jpg?bwg=1547146677"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (91).jpg?bwg=1547146676"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (65).jpg?bwg=1547146676"
+        }
+      ]
+    },
+    {
+      "title_zh": "The Cotton Club",
+      "title_en": "The Cotton Club",
+      "year": 1984,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/03/22/the-cotton-club/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1023).jpg?bwg=1547463123"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1045).jpg?bwg=1547463121"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1028).jpg?bwg=1547463121"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (772).jpg?bwg=1547463121"
+        }
+      ]
+    },
+    {
+      "title_zh": "Twixt",
+      "title_en": "Twixt",
+      "year": 2011,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/07/09/twixt/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_01.jpg?bwg=1710765359"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_22.jpg?bwg=1710765358"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_44.jpg?bwg=1710765358"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Twixt_65.jpg?bwg=1710765358"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "科波拉的视觉风格以暗调侧光为主，暗金烛光、棕木色调、烟雾阴影，营造出家族荣耀的氛围。",
+    "lighting": "暗调侧光，高光偏烛火暖金，阴影偏烟雾光束，整体暖调。",
+    "composition": [],
+    "mood": [],
+    "framing": "教父式构图、家族群像、烟雾光影，强调视觉层次感。",
+    "grading": "对比度高对比，色调暖调，色彩暗金烛光、棕木色调、烟雾阴影。",
+    "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+  }
+}

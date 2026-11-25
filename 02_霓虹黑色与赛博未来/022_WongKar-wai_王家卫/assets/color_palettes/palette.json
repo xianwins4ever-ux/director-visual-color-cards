@@ -1,0 +1,457 @@
+{
+  "director": {
+    "id": "022",
+    "name_en": "Wong Kar-wai",
+    "name_zh": "王家卫",
+    "category": "02_霓虹黑色与赛博未来",
+    "nationality": "中国香港",
+    "active_years": "1988-至今",
+    "era": "1988-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#1A0A1F",
+        "name_zh": "午夜深紫",
+        "ratio": 0.3,
+        "rgb": [
+          26,
+          10,
+          31
+        ],
+        "hsl": [
+          286,
+          51,
+          8
+        ],
+        "name_en": "Purple"
+      },
+      {
+        "code": "C02",
+        "hex": "#C41E3A",
+        "name_zh": "霓虹正红",
+        "ratio": 0.15,
+        "rgb": [
+          196,
+          30,
+          58
+        ],
+        "hsl": [
+          350,
+          73,
+          44
+        ],
+        "name_en": "Red"
+      },
+      {
+        "code": "C03",
+        "hex": "#006B54",
+        "name_zh": "墨绿翡翠",
+        "ratio": 0.15,
+        "rgb": [
+          0,
+          107,
+          84
+        ],
+        "hsl": [
+          167,
+          100,
+          21
+        ],
+        "name_en": "Green"
+      },
+      {
+        "code": "C04",
+        "hex": "#F4A460",
+        "name_zh": "暖沙黄",
+        "ratio": 0.12,
+        "rgb": [
+          244,
+          164,
+          96
+        ],
+        "hsl": [
+          28,
+          87,
+          67
+        ],
+        "name_en": "Yellow"
+      },
+      {
+        "code": "C05",
+        "hex": "#4169E1",
+        "name_zh": "霓虹蓝",
+        "ratio": 0.13,
+        "rgb": [
+          65,
+          105,
+          225
+        ],
+        "hsl": [
+          225,
+          73,
+          57
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "C06",
+        "hex": "#FFDAB9",
+        "name_zh": "蜜桃肤",
+        "ratio": 0.15,
+        "rgb": [
+          255,
+          218,
+          185
+        ],
+        "hsl": [
+          28,
+          100,
+          86
+        ],
+        "name_en": "Color 6"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF1493",
+        "name_zh": "霓虹粉",
+        "emotion": "暧昧欲望",
+        "rgb": [
+          255,
+          20,
+          147
+        ],
+        "hsl": [
+          328,
+          100,
+          54
+        ],
+        "name_en": "Pink"
+      },
+      {
+        "code": "E02",
+        "hex": "#00FFFF",
+        "name_zh": "电子青",
+        "emotion": "疏离时间",
+        "rgb": [
+          0,
+          255,
+          255
+        ],
+        "hsl": [
+          180,
+          100,
+          50
+        ],
+        "name_en": "Cyan"
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD700",
+        "name_zh": "回忆金",
+        "emotion": "怀旧记忆",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "name_en": "Gold"
+      },
+      {
+        "code": "E04",
+        "hex": "#8B0000",
+        "name_zh": "暗血红",
+        "emotion": "心碎遗憾",
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "name_en": "Red"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "step-printed slow shutter, neon color bleeding, soft colored fill",
+    "highlight_tint": "neon pink/red/green",
+    "shadow_tint": "deep purple-black",
+    "contrast_ratio": "medium-high 65-80%",
+    "overall_tone": "warm saturated neon, 55% warm + 45% cool"
+  },
+  "composition_keywords": [
+    "step printing slow shutter",
+    "neon color framing",
+    "wide-angle distortion",
+    "through glass/window",
+    "mirror reflection",
+    "slow motion",
+    "smoke and haze",
+    "close-up intimacy"
+  ],
+  "color_keywords": [
+    "neon saturated red-green",
+    "step-printed color bleed",
+    "1960s hong kong neon",
+    "warm tungsten gold",
+    "neon blue night",
+    "cheongsam red patterns",
+    "cigarette smoke haze",
+    "rain-streaked neon"
+  ],
+  "mood_keywords": [
+    "urban loneliness",
+    "romantic melancholy",
+    "missed connections",
+    "hong kong nocturne",
+    "time and memory",
+    "unrequited love",
+    "neon poetry",
+    "emotional saturation"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "爱神（手）",
+      "title_en": "Eros",
+      "year": 2004,
+      "palette": [
+        {
+          "hex": "#A79892",
+          "ratio": 13.8,
+          "luminance": 0.3275,
+          "saturation": 0.1257
+        },
+        {
+          "hex": "#726D66",
+          "ratio": 13.4,
+          "luminance": 0.1547,
+          "saturation": 0.1053
+        },
+        {
+          "hex": "#403D3F",
+          "ratio": 13.4,
+          "luminance": 0.0479,
+          "saturation": 0.0469
+        },
+        {
+          "hex": "#040308",
+          "ratio": 12.1,
+          "luminance": 0.0011,
+          "saturation": 0.625
+        },
+        {
+          "hex": "#867A6B",
+          "ratio": 11.9,
+          "luminance": 0.2005,
+          "saturation": 0.2015
+        },
+        {
+          "hex": "#2F2D30",
+          "ratio": 11.9,
+          "luminance": 0.0269,
+          "saturation": 0.0625
+        },
+        {
+          "hex": "#1E1B1D",
+          "ratio": 11.9,
+          "luminance": 0.0115,
+          "saturation": 0.1
+        },
+        {
+          "hex": "#580409",
+          "ratio": 11.6,
+          "luminance": 0.0218,
+          "saturation": 0.9545
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "东邪西毒：终极版",
+      "title_en": "Ashes Of Time Redux",
+      "year": 1994,
+      "palette": [
+        {
+          "hex": "#010900",
+          "ratio": 17.4,
+          "luminance": 0.002,
+          "saturation": 1.0
+        },
+        {
+          "hex": "#F9F9D6",
+          "ratio": 13.8,
+          "luminance": 0.9275,
+          "saturation": 0.1406
+        },
+        {
+          "hex": "#A14403",
+          "ratio": 12.6,
+          "luminance": 0.1172,
+          "saturation": 0.9814
+        },
+        {
+          "hex": "#8B3702",
+          "ratio": 12.2,
+          "luminance": 0.0823,
+          "saturation": 0.9856
+        },
+        {
+          "hex": "#A29152",
+          "ratio": 11.7,
+          "luminance": 0.2854,
+          "saturation": 0.4938
+        },
+        {
+          "hex": "#C99740",
+          "ratio": 11.2,
+          "luminance": 0.3492,
+          "saturation": 0.6816
+        },
+        {
+          "hex": "#201101",
+          "ratio": 10.9,
+          "luminance": 0.0071,
+          "saturation": 0.9688
+        },
+        {
+          "hex": "#683002",
+          "ratio": 10.2,
+          "luminance": 0.0506,
+          "saturation": 0.9808
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "花样年华",
+      "title_en": "In The Mood For Love",
+      "year": 2000,
+      "palette": [
+        {
+          "hex": "#564941",
+          "ratio": 16.7,
+          "luminance": 0.0713,
+          "saturation": 0.2442
+        },
+        {
+          "hex": "#1F0203",
+          "ratio": 14.7,
+          "luminance": 0.0034,
+          "saturation": 0.9355
+        },
+        {
+          "hex": "#32281F",
+          "ratio": 13.5,
+          "luminance": 0.0229,
+          "saturation": 0.38
+        },
+        {
+          "hex": "#6D5E54",
+          "ratio": 12.1,
+          "luminance": 0.119,
+          "saturation": 0.2294
+        },
+        {
+          "hex": "#32130F",
+          "ratio": 11.8,
+          "luminance": 0.0118,
+          "saturation": 0.7
+        },
+        {
+          "hex": "#262515",
+          "ratio": 11.2,
+          "luminance": 0.0179,
+          "saturation": 0.4474
+        },
+        {
+          "hex": "#0B0705",
+          "ratio": 10.0,
+          "luminance": 0.0023,
+          "saturation": 0.5455
+        },
+        {
+          "hex": "#252826",
+          "ratio": 10.0,
+          "luminance": 0.0205,
+          "saturation": 0.075
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "一代宗师",
+      "title_en": "The Grandmaster",
+      "year": 2013,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 17.9,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#2F332F",
+          "ratio": 13.7,
+          "luminance": 0.0318,
+          "saturation": 0.0784
+        },
+        {
+          "hex": "#584F46",
+          "ratio": 12.3,
+          "luminance": 0.0811,
+          "saturation": 0.2045
+        },
+        {
+          "hex": "#626861",
+          "ratio": 11.7,
+          "luminance": 0.1336,
+          "saturation": 0.0673
+        },
+        {
+          "hex": "#919388",
+          "ratio": 11.5,
+          "luminance": 0.2866,
+          "saturation": 0.0748
+        },
+        {
+          "hex": "#181917",
+          "ratio": 11.1,
+          "luminance": 0.0095,
+          "saturation": 0.08
+        },
+        {
+          "hex": "#3B4542",
+          "ratio": 10.9,
+          "luminance": 0.0558,
+          "saturation": 0.1449
+        },
+        {
+          "hex": "#271816",
+          "ratio": 10.9,
+          "luminance": 0.0114,
+          "saturation": 0.4359
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "酒红、墨绿和钨丝金包围人物，偏色与拖影把城市变成记忆。",
+    "lighting": "低照度钨丝与绿色荧光混合；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "门框遮挡、缓慢横移、短暂拖影；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "轻欠曝，高光晕染，阴影蓝绿；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "洁白棚光、全局青橙、赛博霓虹堆叠、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  }
+}

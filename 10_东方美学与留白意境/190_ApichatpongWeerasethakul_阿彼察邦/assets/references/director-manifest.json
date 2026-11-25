@@ -1,0 +1,153 @@
+{
+  "director": {
+    "zh": "阿彼察邦·韦拉斯哈古",
+    "en": "Apichatpong Weerasethakul"
+  },
+  "style_profile": {
+    "definition": "热带森林绿、夜蓝和火光橙在静止时间中连接梦与现实。",
+    "lighting": "自然暮光、月光感、林间散射；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "固定长镜、缓慢横移、让环境先动；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "低对比湿润绿蓝，暖火克制；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": [
+      "商业旅游艳色",
+      "虚假蓝月光",
+      "急促剪辑",
+      "无动机环绕和随机变焦",
+      "用统一滤镜替代色彩比例、光源和材质。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "正午显影",
+      "title_en": "Mysterious Object at Noon",
+      "year": 2000,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2022/02/24/mysterious-object-at-noon/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Mysterious_Object_at_Noon_001.jpg?bwg=1642586028"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Mysterious_Object_at_Noon_013.jpg?bwg=1642586028"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Mysterious_Object_at_Noon_025.jpg?bwg=1642586028"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Mysterious_Object_at_Noon_037.jpg?bwg=1642586028"
+        }
+      ]
+    },
+    {
+      "title_zh": "热带疾病",
+      "title_en": "Tropical Malady",
+      "year": 2004,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/11/21/tropical-malady/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tropicalmalady01.jpg?bwg=1547036429"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tropicalmalady22.jpg?bwg=1547036428"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tropicalmalady44.jpg?bwg=1547036428"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/tropicalmalady65.jpg?bwg=1547036428"
+        }
+      ]
+    },
+    {
+      "title_zh": "能召回前世的布米叔叔",
+      "title_en": "Uncle Boonmee",
+      "year": 2010,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/04/13/uncle-boonme-who-can-recall-his-past-lives/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1257).jpg?bwg=1547478471"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/21 (1281).jpg?bwg=1547478470"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/42 (1265).jpg?bwg=1547478470"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/62 (1056).jpg?bwg=1547478470"
+        }
+      ]
+    },
+    {
+      "title_zh": "记忆",
+      "title_en": "Memoria",
+      "year": 2021,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D024-阿彼察邦·韦拉斯哈古·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2022/09/05/memoria/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Memoria_001.jpg?bwg=1660726258"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Memoria_008.jpg?bwg=1660726258"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Memoria_016.jpg?bwg=1660726258"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Memoria_023.jpg?bwg=1660726258"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "director": {
+    "zh": "北野武",
+    "en": "Takeshi Kitano"
+  },
+  "style_profile": {
+    "definition": "静止海岸、冷面人物与突然暴力形成极简节奏",
+    "lighting": "自然硬日光、冷白室内光和干净阴影；肤色保持自然可读，高光和黑位保留材质。",
+    "framing": "固定中远景、大面积空地与正面人物关系",
+    "grading": "海蓝、水泥灰、白衬衫与少量血红，低饱和硬质；局部强调色不污染整幅画面。",
+    "avoid": [
+      "统一滤镜替代真实材质",
+      "无动机环绕和随机变焦",
+      "人物身份与空间轴漂移",
+      "肤色污染、死黑和爆白",
+      "只模仿颜色不执行镜头语言。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "奏鸣曲",
+      "title_en": "Sonatine",
+      "year": 1993,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/7500/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/wVQbMLpczyxlPKJWo6Qk3A1v2rB.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/qyGqUYDetXe4PcsRaCh4SLFwFQc.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/2hSEnXTQNtrg3oQTOxGJzyD1JoV.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/kpQhN50bZJnpjRMxdeW1D1xkauJ.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "花火",
+      "title_en": "Hana-bi",
+      "year": 1997,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/5910/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/mdQ6oH7GLM9VerAb8JhsEAyJnHs.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/zla8dwuIom4ZabzZzqlR8RqGUAx.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/laN1DvCS3xEvj95F4rhanUFjn7F.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/f0894w1k56uIpa2gwu0Jip7Cx56.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "菊次郎的夏天",
+      "title_en": "Kikujiro",
+      "year": 1999,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/4291/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/htvZHcNr7pNvZvoUOTDXigG9pf2.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/maxp4hu52uhfNuJmumD5NpZyrRo.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/1hxmq2IlDDVutg38uYYS9b6gi5k.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/7XGpiBC8Q11K7TP5QwvUwv02bIP.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "极恶非道",
+      "title_en": "Outrage",
+      "year": 2010,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D152-北野武·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/45284/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/tNr8lv3OeLD0OCJPUuazBN3DnTT.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/cj26ilFxdeXcz77ethkmtBMN5u8.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/7OoUFKH92Q03zphjx1SO0vtigsx.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/5UaePqHONe768ZERjRkXGsDHszz.jpg"
+        }
+      ]
+    }
+  ]
+}

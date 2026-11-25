@@ -1,0 +1,56 @@
+{
+  "director": {"zh": "奉俊昊", "en": "Bong Joon-ho"},
+  "style_profile": {
+    "definition": "看似自然的家居色逐步被冷绿、地下灰和危险红污染。",
+    "lighting": "阶级空间采用不同曝光和色温；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "垂直层级构图、平滑跟移、突然类型转折；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "自然起步，危机时压黑并偏绿；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": ["全程阴冷", "夸张漫画色", "阶层空间同质化", "无动机环绕和随机变焦", "用统一滤镜替代色彩比例、光源和材质"]
+  },
+  "films": [
+    {
+      "title_zh": "杀人回忆", "title_en": "Memories of Murder", "year": 2003,
+      "frames": ["source-frames/film-01/frame-01.jpg", "source-frames/film-01/frame-02.jpg", "source-frames/film-01/frame-03.jpg", "source-frames/film-01/frame-04.jpg"],
+      "sources": [
+        {"label": "FilmGrab 真实电影截图图库", "url": "https://film-grab.com/2025/06/05/memories-of-murder/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Memories_of_Murder_01.jpg?bwg=1705677403"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Memories_of_Murder_22.jpg?bwg=1705677401"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Memories_of_Murder_44.jpg?bwg=1705677401"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Memories_of_Murder_65.jpg?bwg=1705677401"}
+      ]
+    },
+    {
+      "title_zh": "母亲", "title_en": "Mother", "year": 2009,
+      "frames": ["source-frames/film-02/frame-01.jpg", "source-frames/film-02/frame-02.jpg", "source-frames/film-02/frame-03.jpg", "source-frames/film-02/frame-04.jpg"],
+      "sources": [
+        {"label": "FilmGrab 真实电影截图图库", "url": "https://film-grab.com/2020/08/06/mother-2/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Mother(_001.jpg?bwg=1596550067"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Mother(_018.jpg?bwg=1596550067"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Mother(_035.jpg?bwg=1596550067"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Mother(_050.jpg?bwg=1596550067"}
+      ]
+    },
+    {
+      "title_zh": "雪国列车", "title_en": "Snowpiercer", "year": 2013,
+      "frames": ["source-frames/film-03/frame-01.jpg", "source-frames/film-03/frame-02.jpg", "source-frames/film-03/frame-03.jpg", "source-frames/film-03/frame-04.jpg"],
+      "sources": [
+        {"label": "FilmGrab 真实电影截图图库", "url": "https://film-grab.com/2020/01/08/snowpiercer/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Snowpiercer_001.jpg?bwg=1569839186"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Snowpiercer_022.jpg?bwg=1569839183"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Snowpiercer_044.jpg?bwg=1569839183"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Snowpiercer_065.jpg?bwg=1569839182"}
+      ]
+    },
+    {
+      "title_zh": "寄生虫", "title_en": "Parasite", "year": 2019,
+      "frames": ["source-frames/film-04/frame-01.jpg", "source-frames/film-04/frame-02.jpg", "source-frames/film-04/frame-03.jpg", "source-frames/film-04/frame-04.jpg"],
+      "sources": [
+        {"label": "FilmGrab 真实电影截图图库", "url": "https://film-grab.com/2024/02/05/parasite/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parasite_01.jpg?bwg=1699894053"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parasite_22.jpg?bwg=1699894052"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parasite_44.jpg?bwg=1699894052"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Parasite_65.jpg?bwg=1699894052"}
+      ]
+    }
+  ]
+}

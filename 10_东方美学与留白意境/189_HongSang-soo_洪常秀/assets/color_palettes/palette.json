@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "189",
+    "name_en": "HongSang-soo",
+    "name_zh": "洪常秀",
+    "category": "10_东方美学与留白意境",
+    "nationality": "韩国",
+    "active_years": "1960-",
+    "era": "1960-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#000000",
+        "name_zh": "黑白黑",
+        "name_en": "B&W Black",
+        "ratio": 0.18,
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFFFFF",
+        "name_zh": "白白白",
+        "name_en": "B&W White",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#8D6E63",
+        "name_zh": "酒馆棕",
+        "name_en": "Bar Brown",
+        "ratio": 0.16,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFCC80",
+        "name_zh": "暖黄",
+        "name_en": "Warm Yellow",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#78909C",
+        "name_zh": "首尔灰",
+        "name_en": "Seoul Gray",
+        "ratio": 0.14,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#BCAAA4",
+        "name_zh": "街道米",
+        "name_en": "Street Beige",
+        "ratio": 0.2,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#8D6E63",
+        "name_zh": "酒后微醺",
+        "name_en": "酒后微醺",
+        "emotion": "酒后微醺",
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#78909C",
+        "name_zh": "日常疏离",
+        "name_en": "日常疏离",
+        "emotion": "日常疏离",
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFCC80",
+        "name_zh": "暧昧温暖",
+        "name_en": "暧昧温暖",
+        "emotion": "暧昧温暖",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#000000",
+        "name_zh": "存在空虚",
+        "name_en": "存在空虚",
+        "emotion": "存在空虚",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然光效",
+    "highlight_tint": "室内暖光",
+    "highlight_bias": "室内暖光",
+    "shadow_tint": "街景柔光",
+    "shadow_bias": "街景柔光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "酒馆场景",
+    "男女对话",
+    "结构游戏",
+    "首尔街景",
+    "导演自我投射",
+    "变焦镜头"
+  ],
+  "color_keywords": [
+    "洪常秀黑白",
+    "酒馆棕调",
+    "日常对话色",
+    "首尔街景色",
+    "结构游戏色",
+    "淡彩美学"
+  ],
+  "mood_keywords": [
+    "日常对话",
+    "男女关系",
+    "结构游戏",
+    "酒桌哲学",
+    "首尔故事",
+    "存在主义"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "洪常秀的视觉风格：自然光效，洪常秀黑白, 酒馆棕调, 日常对话色。",
+    "lighting": "自然光效，室内暖光，街景柔光",
+    "framing": "酒馆场景、男女对话、结构游戏。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

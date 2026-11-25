@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "068",
+    "name_en": "BrunoDumont",
+    "name_zh": "布鲁诺·杜蒙",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "法国",
+    "era": "1958-",
+    "active_years": "1958-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#7A8690",
+        "rgb": [
+          122,
+          134,
+          144
+        ],
+        "hsl": [
+          207,
+          9,
+          52
+        ],
+        "ratio": 0.22,
+        "name_zh": "北方灰蓝",
+        "name_en": "Northern Gray Blue",
+        "code": "C01"
+      },
+      {
+        "hex": "#5A6670",
+        "rgb": [
+          90,
+          102,
+          112
+        ],
+        "hsl": [
+          207,
+          11,
+          40
+        ],
+        "ratio": 0.18,
+        "name_zh": "铸铁灰",
+        "name_en": "Cast Iron Gray",
+        "code": "C02"
+      },
+      {
+        "hex": "#9DA5AC",
+        "rgb": [
+          157,
+          165,
+          172
+        ],
+        "hsl": [
+          208,
+          8,
+          65
+        ],
+        "ratio": 0.16,
+        "name_zh": "铅白灰",
+        "name_en": "Lead White Gray",
+        "code": "C03"
+      },
+      {
+        "hex": "#8B8378",
+        "rgb": [
+          139,
+          131,
+          120
+        ],
+        "hsl": [
+          35,
+          8,
+          51
+        ],
+        "ratio": 0.14,
+        "name_zh": "荒地棕灰",
+        "name_en": "Wasteland Brown Gray",
+        "code": "C04"
+      },
+      {
+        "hex": "#B8B0A4",
+        "rgb": [
+          184,
+          176,
+          164
+        ],
+        "hsl": [
+          36,
+          12,
+          68
+        ],
+        "ratio": 0.14,
+        "name_zh": "枯草原色",
+        "name_en": "Dry Grass Color",
+        "code": "C05"
+      },
+      {
+        "hex": "#3A424A",
+        "rgb": [
+          58,
+          66,
+          74
+        ],
+        "hsl": [
+          210,
+          12,
+          26
+        ],
+        "ratio": 0.16,
+        "name_zh": "深青灰",
+        "name_en": "Deep Cyan Gray",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#6A7680",
+        "rgb": [
+          106,
+          118,
+          128
+        ],
+        "hsl": [
+          207,
+          9,
+          46
+        ],
+        "emotion": "道德冷峻",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#4A525A",
+        "rgb": [
+          74,
+          82,
+          90
+        ],
+        "hsl": [
+          210,
+          10,
+          32
+        ],
+        "emotion": "存在暴力",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#90989E",
+        "rgb": [
+          144,
+          152,
+          158
+        ],
+        "hsl": [
+          206,
+          7,
+          59
+        ],
+        "emotion": "自然无情",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#2A323A",
+        "rgb": [
+          42,
+          50,
+          58
+        ],
+        "hsl": [
+          210,
+          16,
+          20
+        ],
+        "emotion": "深渊凝视",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "阴散射光",
+    "highlight_bias": "北方冷光",
+    "shadow_bias": "自然写实",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "自然风景",
+    "人物渺小",
+    "北方地貌",
+    "宗教意象",
+    "暴力场面",
+    "静默对峙"
+  ],
+  "color_keywords": [
+    "北方灰调",
+    "粗粝质感",
+    "荒地棕",
+    "阴天散射",
+    "冷白天光",
+    "泥土色"
+  ],
+  "mood_keywords": [
+    "道德困境",
+    "存在主义",
+    "暴力冷观",
+    "宗教神秘",
+    "北方荒凉",
+    "人性深渊"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "人之子",
+      "title_en": "La Vie de Jésus",
+      "year": 1997,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/27067/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/8nzazBKjnS4VlV74MKbPsnpbKaX.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/y9VDaRvZa51cROIHLzZia8q9WNL.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/sWfebb0NriMbfluoqGopr7JveBW.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/nM0gWdnBXBTrkvSHMTtBxMR2jZr.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "十字謎情",
+      "title_en": "Hadewijch",
+      "year": 2009,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/72852/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/htzZCK8c6DEkR1QyM0fiBTkhapx.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/fWcNL0PAX9mzD310ralR38m1hEd.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/sWtvIUX4RmeuqAkR5sLz3l6v4zu.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/5129gp6qRRRe3OmRGm1qpZiDR84.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "童女貞德",
+      "title_en": "Jeannette: The Childhood of Joan of Arc",
+      "year": 2017,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/399049/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/7MIkTB74n7s1crHiEXU3WTq8X0.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/8vtsVKvuPbbo4SXBF9Yj9pSzRcu.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/qDj3BwiEzh6mSnmwi0QWjStbOPK.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/mbiq7zST7eVbEtM2WdQW7rxnOn4.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "腥際大帝國",
+      "title_en": "The Empire",
+      "year": 2024,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/929831/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/4BC3dC3Bz8241rSuYHoccEsoM0h.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/nsgbwCqISx25gRBPQlxqILv6cC8.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/LzHxlFD4u97xxcVLzLLIvOMMni.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/etZly0uC6V9xee44UEJoYIhsXhP.jpg"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "布鲁诺·杜蒙的视觉风格以阴散射光为主，北方灰调、粗粝质感、荒地棕，营造出道德困境的氛围。",
+    "lighting": "阴散射光，高光偏北方冷光，阴影偏自然写实，整体冷调。",
+    "composition": [],
+    "mood": [],
+    "framing": "自然风景、人物渺小、北方地貌，强调视觉层次感。",
+    "grading": "对比度中高对比，色调冷调，色彩北方灰调、粗粝质感、荒地棕。",
+    "avoid": "避免快速剪辑、避免强烈明暗对比、避免色彩杂乱"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "164",
+    "name_en": "ShunjiIwai",
+    "name_zh": "岩井俊二",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "日本",
+    "active_years": "1963-",
+    "era": "1963-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#F8BBD0",
+        "name_zh": "樱花粉",
+        "name_en": "Sakura Pink",
+        "ratio": 0.2,
+        "rgb": [
+          248,
+          187,
+          208
+        ],
+        "hsl": [
+          339,
+          81,
+          85
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFCC80",
+        "name_zh": "柔光黄",
+        "name_en": "Soft Light Yellow",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#90CAF9",
+        "name_zh": "天空蓝",
+        "name_en": "Sky Blue",
+        "ratio": 0.16,
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#A5D6A7",
+        "name_zh": "青春绿",
+        "name_en": "Youth Green",
+        "ratio": 0.14,
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFFFFF",
+        "name_zh": "纯白",
+        "name_en": "Pure White",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#D7CCC8",
+        "name_zh": "回忆米",
+        "name_en": "Memory Beige",
+        "ratio": 0.18,
+        "rgb": [
+          215,
+          204,
+          200
+        ],
+        "hsl": [
+          16,
+          16,
+          81
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#F8BBD0",
+        "name_zh": "青春悸动",
+        "name_en": "青春悸动",
+        "emotion": "青春悸动",
+        "rgb": [
+          248,
+          187,
+          208
+        ],
+        "hsl": [
+          339,
+          81,
+          85
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFCC80",
+        "name_zh": "温暖回忆",
+        "name_en": "温暖回忆",
+        "emotion": "温暖回忆",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#90CAF9",
+        "name_zh": "青春忧伤",
+        "name_en": "青春忧伤",
+        "emotion": "青春忧伤",
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#D7CCC8",
+        "name_zh": "岁月温柔",
+        "name_en": "岁月温柔",
+        "emotion": "岁月温柔",
+        "rgb": [
+          215,
+          204,
+          200
+        ],
+        "hsl": [
+          16,
+          16,
+          81
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "柔光漫射",
+    "highlight_tint": "窗光逆光",
+    "highlight_bias": "窗光逆光",
+    "shadow_tint": "樱花粉色",
+    "shadow_bias": "樱花粉色",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "书信影像",
+    "樱花飘落",
+    "青春校园",
+    "朦胧柔光",
+    "女性成长",
+    "音乐叙事"
+  ],
+  "color_keywords": [
+    "岩井俊二粉",
+    "樱花色调",
+    "青春柔光色",
+    "情书白色",
+    "莉莉周青",
+    "残酷青春色"
+  ],
+  "mood_keywords": [
+    "青春残酷",
+    "书信浪漫",
+    "樱花意象",
+    "成长疼痛",
+    "音乐电影",
+    "日本青春"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "岩井俊二的视觉风格：柔光漫射，岩井俊二粉, 樱花色调, 青春柔光色。",
+    "lighting": "柔光漫射，窗光逆光，樱花粉色",
+    "framing": "书信影像、樱花飘落、青春校园。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

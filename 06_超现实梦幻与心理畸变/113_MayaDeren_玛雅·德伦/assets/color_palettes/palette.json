@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "113",
+    "name_en": "MayaDeren",
+    "name_zh": "玛雅·德伦",
+    "category": "06_超现实梦幻与心理畸变",
+    "nationality": "美国",
+    "active_years": "1917-1961",
+    "era": "1917-1961"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FFFFFF",
+        "name_zh": "纯白",
+        "name_en": "Pure White",
+        "ratio": 0.22,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#000000",
+        "name_zh": "纯黑",
+        "name_en": "Pure Black",
+        "ratio": 0.22,
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#808080",
+        "name_zh": "中灰",
+        "name_en": "Mid Gray",
+        "ratio": 0.18,
+        "rgb": [
+          128,
+          128,
+          128
+        ],
+        "hsl": [
+          0,
+          0,
+          50
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#C0C0C0",
+        "name_zh": "银灰",
+        "name_en": "Silver Gray",
+        "ratio": 0.14,
+        "rgb": [
+          192,
+          192,
+          192
+        ],
+        "hsl": [
+          0,
+          0,
+          75
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#404040",
+        "name_zh": "深灰",
+        "name_en": "Dark Gray",
+        "ratio": 0.12,
+        "rgb": [
+          64,
+          64,
+          64
+        ],
+        "hsl": [
+          0,
+          0,
+          25
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#E0E0E0",
+        "name_zh": "浅灰",
+        "name_en": "Light Gray",
+        "ratio": 0.12,
+        "rgb": [
+          224,
+          224,
+          224
+        ],
+        "hsl": [
+          0,
+          0,
+          88
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#808080",
+        "name_zh": "梦境诗意",
+        "name_en": "梦境诗意",
+        "emotion": "梦境诗意",
+        "rgb": [
+          128,
+          128,
+          128
+        ],
+        "hsl": [
+          0,
+          0,
+          50
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#000000",
+        "name_zh": "神秘深渊",
+        "name_en": "神秘深渊",
+        "emotion": "神秘深渊",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFFFFF",
+        "name_zh": "灵性升华",
+        "name_en": "灵性升华",
+        "emotion": "灵性升华",
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#404040",
+        "name_zh": "内在焦虑",
+        "name_en": "内在焦虑",
+        "emotion": "内在焦虑",
+        "rgb": [
+          64,
+          64,
+          64
+        ],
+        "hsl": [
+          0,
+          0,
+          25
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "高反差黑白",
+    "highlight_tint": "侧光雕刻",
+    "highlight_bias": "侧光雕刻",
+    "shadow_tint": "自然光",
+    "shadow_bias": "自然光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "舞蹈身体",
+    "多重曝光",
+    "慢动作",
+    "空间折叠",
+    "仪式动作",
+    "海与树"
+  ],
+  "color_keywords": [
+    "高反差黑白",
+    "实验电影色",
+    "16mm颗粒",
+    "舞蹈光影",
+    "梦境灰阶",
+    "诗意黑白"
+  ],
+  "mood_keywords": [
+    "诗意实验",
+    "女性先锋",
+    "梦的逻辑",
+    "仪式舞蹈",
+    "神秘主义",
+    "身体空间"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "玛雅·德伦的视觉风格：高反差黑白，高反差黑白, 实验电影色, 16mm颗粒。",
+    "lighting": "高反差黑白，侧光雕刻，自然光",
+    "framing": "舞蹈身体、多重曝光、慢动作。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

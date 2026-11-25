@@ -1,0 +1,76 @@
+{
+  "director": {"zh": "是枝裕和", "en": "Hirokazu Kore-eda"},
+  "style_profile": {
+    "definition": "自然窗光和低饱和家居色保存普通人的细微情绪。",
+    "lighting": "实景窗光、阴天光与室内暖灯并存，肤色自然可读。",
+    "framing": "平视中景、轻微跟随，让表演在生活空间中完整发生。",
+    "grading": "温和低对比，肤色自然，黑位不压死，局部颜色不污染全画面。",
+    "avoid": ["广告棚光", "强烈互补色", "煽情慢动作", "无动机环绕和随机变焦", "用统一滤镜替代色彩比例、光源和材质"]
+  },
+  "films": [
+    {
+      "title_zh": "步履不停", "title_en": "Still Walking", "year": 2008,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-01/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-01/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-01/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-01/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "FilmGrab《步履不停》真实电影截图", "url": "https://film-grab.com/2025/04/23/still-walking/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Still_Walking_01.jpg?bwg=1717148963"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Still_Walking_22.jpg?bwg=1717148961"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Still_Walking_44.jpg?bwg=1717148961"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Still_Walking_65.jpg?bwg=1717148961"}
+      ]
+    },
+    {
+      "title_zh": "空气人偶", "title_en": "Air Doll", "year": 2009,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-02/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-02/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-02/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-02/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "FilmGrab《空气人偶》真实电影截图", "url": "https://film-grab.com/2024/03/02/air-doll/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Air_Doll_01.jpg?bwg=1705675867"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Air_Doll_22.jpg?bwg=1705675867"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Air_Doll_44.jpg?bwg=1705675866"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Air_Doll_65.jpg?bwg=1705675866"}
+      ]
+    },
+    {
+      "title_zh": "小偷家族", "title_en": "Shoplifters", "year": 2018,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-03/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-03/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-03/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-03/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "FilmGrab《小偷家族》真实电影截图", "url": "https://film-grab.com/2019/11/09/shoplifters/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shoplifters_001.jpg?bwg=1569602832"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shoplifters_020.jpg?bwg=1569602829"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shoplifters_040.jpg?bwg=1569602829"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shoplifters_059.jpg?bwg=1569602829"}
+      ]
+    },
+    {
+      "title_zh": "怪物", "title_en": "Monster", "year": 2023,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-04/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-04/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-04/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D010-是枝裕和·电影色调常用色卡/source-frames/film-04/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "FilmGrab《怪物》真实电影截图", "url": "https://film-grab.com/2024/08/09/monster/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Monster_01.jpg?bwg=1710709803"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Monster_22.jpg?bwg=1710709801"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Monster_44.jpg?bwg=1710709801"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Monster_65.jpg?bwg=1710709800"}
+      ]
+    }
+  ]
+}

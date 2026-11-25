@@ -1,0 +1,457 @@
+{
+  "director": {
+    "id": "053",
+    "name_en": "Steven Spielberg",
+    "name_zh": "史蒂文·斯皮尔伯格",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "美国",
+    "active_years": "1971-至今",
+    "era": "1971-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FFD080",
+        "name_zh": "神圣晨光金",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          208,
+          128
+        ],
+        "hsl": [
+          40,
+          100,
+          75
+        ],
+        "name_en": "Gold"
+      },
+      {
+        "code": "C02",
+        "hex": "#B85C28",
+        "name_zh": "史诗橙褐",
+        "ratio": 0.18,
+        "rgb": [
+          184,
+          92,
+          40
+        ],
+        "hsl": [
+          23,
+          64,
+          44
+        ],
+        "name_en": "Orange"
+      },
+      {
+        "code": "C03",
+        "hex": "#2C3E55",
+        "name_zh": "深幽蓝",
+        "ratio": 0.15,
+        "rgb": [
+          44,
+          62,
+          85
+        ],
+        "hsl": [
+          212,
+          32,
+          25
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "C04",
+        "hex": "#8A7A5C",
+        "name_zh": "战火灰土",
+        "ratio": 0.12,
+        "rgb": [
+          138,
+          122,
+          92
+        ],
+        "hsl": [
+          40,
+          20,
+          45
+        ],
+        "name_en": "Gray"
+      },
+      {
+        "code": "C05",
+        "hex": "#E8D4A8",
+        "name_zh": "柔焦肤",
+        "ratio": 0.15,
+        "rgb": [
+          232,
+          212,
+          168
+        ],
+        "hsl": [
+          42,
+          51,
+          78
+        ],
+        "name_en": "Color 5"
+      },
+      {
+        "code": "C06",
+        "hex": "#4A443A",
+        "name_zh": "暗影褐",
+        "ratio": 0.2,
+        "rgb": [
+          74,
+          68,
+          58
+        ],
+        "hsl": [
+          38,
+          12,
+          26
+        ],
+        "name_en": "Ochre"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FFF5E0",
+        "name_zh": "圣光白",
+        "emotion": "奇迹敬畏",
+        "rgb": [
+          255,
+          245,
+          224
+        ],
+        "hsl": [
+          43,
+          100,
+          94
+        ],
+        "name_en": "White"
+      },
+      {
+        "code": "E02",
+        "hex": "#6B6054",
+        "name_zh": "硝烟灰",
+        "emotion": "战争残酷",
+        "rgb": [
+          107,
+          96,
+          84
+        ],
+        "hsl": [
+          32,
+          12,
+          37
+        ],
+        "name_en": "Gray"
+      },
+      {
+        "code": "E03",
+        "hex": "#E8915A",
+        "name_zh": "落日橙",
+        "emotion": "童年温情",
+        "rgb": [
+          232,
+          145,
+          90
+        ],
+        "hsl": [
+          24,
+          76,
+          63
+        ],
+        "name_en": "Orange"
+      },
+      {
+        "code": "E04",
+        "hex": "#1A1A24",
+        "name_zh": "深夜蓝黑",
+        "emotion": "未知神秘",
+        "rgb": [
+          26,
+          26,
+          36
+        ],
+        "hsl": [
+          240,
+          16,
+          12
+        ],
+        "name_en": "Black"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "backlight rim light, warm golden hour, diffusion glow",
+    "highlight_tint": "warm golden halo / warm white",
+    "shadow_tint": "cool blue-teal, deep shadow detail",
+    "contrast_ratio": "high 70-85%, anamorphic contrast",
+    "overall_tone": "orange-teal epic, 60% warm + 40% cool"
+  },
+  "composition_keywords": [
+    "backlit silhouette",
+    "dolly zoom (vertigo effect)",
+    "oners tracking shot",
+    "warm rim light",
+    "dust motes in light beam",
+    "low angle awe",
+    "anamorphic wide",
+    "fog and haze"
+  ],
+  "color_keywords": [
+    "golden hour magic light",
+    "teal and orange epic",
+    "silver screen black and white",
+    "warm skin halo",
+    "battlefield desaturated",
+    "suburban childhood warm",
+    "alien glow pale",
+    "historical sepia tone"
+  ],
+  "mood_keywords": [
+    "childlike wonder",
+    "hollywood epic grandeur",
+    "moral gravity",
+    "suburban nostalgia",
+    "awe of the unknown",
+    "wartime sacrifice",
+    "divine intervention",
+    "father absence theme"
+  ],
+  "style_profile": {
+    "definition": "清晰轮廓、暖家庭光与冷危险空间形成可读性极强的视觉叙事。",
+    "lighting": "强逆光、轮廓光、烟雾光束；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "低机位儿童视角、清楚揭示、动机推镜；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "暖家庭对冷冒险，高光有光晕；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "全程金蓝、无轮廓暗场、炫技镜头、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  },
+  "real_palettes": [
+    {
+      "title_zh": "Duel",
+      "title_en": "Duel",
+      "year": 1971,
+      "palette": [
+        {
+          "hex": "#514131",
+          "ratio": 13.9,
+          "luminance": 0.0575,
+          "saturation": 0.3951
+        },
+        {
+          "hex": "#3D4245",
+          "ratio": 13.7,
+          "luminance": 0.0532,
+          "saturation": 0.1159
+        },
+        {
+          "hex": "#340501",
+          "ratio": 13.6,
+          "luminance": 0.0084,
+          "saturation": 0.9808
+        },
+        {
+          "hex": "#5D5349",
+          "ratio": 13.3,
+          "luminance": 0.0899,
+          "saturation": 0.2151
+        },
+        {
+          "hex": "#CBCACD",
+          "ratio": 13.2,
+          "luminance": 0.5935,
+          "saturation": 0.0146
+        },
+        {
+          "hex": "#726961",
+          "ratio": 11.7,
+          "luminance": 0.1454,
+          "saturation": 0.1491
+        },
+        {
+          "hex": "#C9A881",
+          "ratio": 10.5,
+          "luminance": 0.4201,
+          "saturation": 0.3582
+        },
+        {
+          "hex": "#737477",
+          "ratio": 10.1,
+          "luminance": 0.1747,
+          "saturation": 0.0336
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Jurassic Park",
+      "title_en": "Jurassic Park",
+      "year": 1993,
+      "palette": [
+        {
+          "hex": "#241C1E",
+          "ratio": 15.7,
+          "luminance": 0.013,
+          "saturation": 0.2222
+        },
+        {
+          "hex": "#653C38",
+          "ratio": 13.4,
+          "luminance": 0.0628,
+          "saturation": 0.4455
+        },
+        {
+          "hex": "#050405",
+          "ratio": 12.7,
+          "luminance": 0.0013,
+          "saturation": 0.2
+        },
+        {
+          "hex": "#336C86",
+          "ratio": 12.3,
+          "luminance": 0.1315,
+          "saturation": 0.6194
+        },
+        {
+          "hex": "#072947",
+          "ratio": 12.2,
+          "luminance": 0.0209,
+          "saturation": 0.9014
+        },
+        {
+          "hex": "#562C27",
+          "ratio": 11.6,
+          "luminance": 0.0393,
+          "saturation": 0.5465
+        },
+        {
+          "hex": "#BFB8B0",
+          "ratio": 11.2,
+          "luminance": 0.4849,
+          "saturation": 0.0785
+        },
+        {
+          "hex": "#9B6D63",
+          "ratio": 10.9,
+          "luminance": 0.1881,
+          "saturation": 0.3613
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Minority Report",
+      "title_en": "Minority Report",
+      "year": 2002,
+      "palette": [
+        {
+          "hex": "#040404",
+          "ratio": 22.9,
+          "luminance": 0.0012,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#837354",
+          "ratio": 13.5,
+          "luminance": 0.1773,
+          "saturation": 0.3588
+        },
+        {
+          "hex": "#C59A69",
+          "ratio": 11.9,
+          "luminance": 0.36,
+          "saturation": 0.467
+        },
+        {
+          "hex": "#F7EDD4",
+          "ratio": 11.7,
+          "luminance": 0.851,
+          "saturation": 0.1417
+        },
+        {
+          "hex": "#3B2917",
+          "ratio": 11.2,
+          "luminance": 0.0258,
+          "saturation": 0.6102
+        },
+        {
+          "hex": "#3B382C",
+          "ratio": 10.4,
+          "luminance": 0.0394,
+          "saturation": 0.2542
+        },
+        {
+          "hex": "#202721",
+          "ratio": 9.4,
+          "luminance": 0.0187,
+          "saturation": 0.1795
+        },
+        {
+          "hex": "#46514D",
+          "ratio": 9.0,
+          "luminance": 0.0772,
+          "saturation": 0.1358
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "The Fabelmans",
+      "title_en": "The Fabelmans",
+      "year": 2022,
+      "palette": [
+        {
+          "hex": "#ACCAC1",
+          "ratio": 15.3,
+          "luminance": 0.5486,
+          "saturation": 0.1485
+        },
+        {
+          "hex": "#E5E4C8",
+          "ratio": 13.6,
+          "luminance": 0.7631,
+          "saturation": 0.1266
+        },
+        {
+          "hex": "#312C25",
+          "ratio": 12.7,
+          "luminance": 0.0259,
+          "saturation": 0.2449
+        },
+        {
+          "hex": "#898161",
+          "ratio": 12.6,
+          "luminance": 0.2188,
+          "saturation": 0.292
+        },
+        {
+          "hex": "#0B090C",
+          "ratio": 12.2,
+          "luminance": 0.0029,
+          "saturation": 0.25
+        },
+        {
+          "hex": "#515045",
+          "ratio": 11.9,
+          "luminance": 0.0792,
+          "saturation": 0.1481
+        },
+        {
+          "hex": "#1D2A2D",
+          "ratio": 11.2,
+          "luminance": 0.0211,
+          "saturation": 0.3556
+        },
+        {
+          "hex": "#A39876",
+          "ratio": 10.5,
+          "luminance": 0.3155,
+          "saturation": 0.2761
+        }
+      ],
+      "sources": []
+    }
+  ]
+}

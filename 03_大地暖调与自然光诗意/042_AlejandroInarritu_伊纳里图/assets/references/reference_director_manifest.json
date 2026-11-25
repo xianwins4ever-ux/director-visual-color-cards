@@ -1,0 +1,153 @@
+{
+  "director": {
+    "zh": "亚历杭德罗·冈萨雷斯·伊纳里图",
+    "en": "Alejandro G. Iñárritu"
+  },
+  "style_profile": {
+    "definition": "自然金、寒冷蓝与泥土黑把肉身置于极端环境。",
+    "lighting": "自然逆光、火光、低温环境光；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "贴身长镜、广角环境、连续移动；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "低饱和冷环境，肤色和火光保留温度；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": [
+      "旅游风景色",
+      "肤色灰死",
+      "无重量稳定器",
+      "无动机环绕和随机变焦",
+      "用统一滤镜替代色彩比例、光源和材质。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "Amores Perros",
+      "title_en": "Amores Perros",
+      "year": 2000,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/04/09/amores-perros/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_01.jpg?bwg=1718099316"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_22.jpg?bwg=1718099315"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_44.jpg?bwg=1718099315"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Amores_Perros_65.jpg?bwg=1718099315"
+        }
+      ]
+    },
+    {
+      "title_zh": "Babel",
+      "title_en": "Babel",
+      "year": 2006,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/11/24/babel/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_01.jpg?bwg=1721915968"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_20.jpg?bwg=1721915966"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_39.jpg?bwg=1721915966"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Babel_58.jpg?bwg=1721915966"
+        }
+      ]
+    },
+    {
+      "title_zh": "Birdman",
+      "title_en": "Birdman",
+      "year": 2014,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/05/08/birdman/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (146).jpg?bwg=1547150414"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/18 (149).jpg?bwg=1547150414"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/34 (148).jpg?bwg=1547150414"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/51 (139).jpg?bwg=1547150414"
+        }
+      ]
+    },
+    {
+      "title_zh": "Bardo: False Chronicle of a Handful of Truths",
+      "title_en": "Bardo: False Chronicle of a Handful of Truths",
+      "year": 2022,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D086-亚历杭德罗·冈萨雷斯·伊纳里图·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/09/25/bardo-false-chronicle-of-a-handful-of-truths/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_01.jpg?bwg=1680014122"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_17.jpg?bwg=1680014122"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_34.jpg?bwg=1680014122"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Bardo_50.jpg?bwg=1680014122"
+        }
+      ]
+    }
+  ]
+}

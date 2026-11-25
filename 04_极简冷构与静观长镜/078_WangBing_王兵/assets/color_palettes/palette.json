@@ -1,0 +1,222 @@
+{
+  "director": {
+    "id": "078",
+    "name_en": "WangBing",
+    "name_zh": "王兵",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "中国",
+    "era": "1967-",
+    "active_years": "1967-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#6A6A60",
+        "rgb": [
+          106,
+          106,
+          96
+        ],
+        "hsl": [
+          60,
+          5,
+          40
+        ],
+        "ratio": 0.24,
+        "name_zh": "工业锈灰",
+        "name_en": "Industrial Rust Gray",
+        "code": "C01"
+      },
+      {
+        "hex": "#4A4A42",
+        "rgb": [
+          74,
+          74,
+          66
+        ],
+        "hsl": [
+          60,
+          6,
+          27
+        ],
+        "ratio": 0.2,
+        "name_zh": "深铁锈",
+        "name_en": "Deep Iron Rust",
+        "code": "C02"
+      },
+      {
+        "hex": "#8A8A7A",
+        "rgb": [
+          138,
+          138,
+          122
+        ],
+        "hsl": [
+          60,
+          6,
+          51
+        ],
+        "ratio": 0.16,
+        "name_zh": "水泥灰",
+        "name_en": "Concrete Gray",
+        "code": "C03"
+      },
+      {
+        "hex": "#B8A888",
+        "rgb": [
+          184,
+          168,
+          136
+        ],
+        "hsl": [
+          40,
+          25,
+          63
+        ],
+        "ratio": 0.14,
+        "name_zh": "锈黄",
+        "name_en": "Rust Yellow",
+        "code": "C04"
+      },
+      {
+        "hex": "#3A3A32",
+        "rgb": [
+          58,
+          58,
+          50
+        ],
+        "hsl": [
+          60,
+          7,
+          21
+        ],
+        "ratio": 0.14,
+        "name_zh": "深煤黑",
+        "name_en": "Deep Coal Black",
+        "code": "C05"
+      },
+      {
+        "hex": "#AAA088",
+        "rgb": [
+          170,
+          160,
+          136
+        ],
+        "hsl": [
+          42,
+          17,
+          60
+        ],
+        "ratio": 0.12,
+        "name_zh": "灰土色",
+        "name_en": "Dusty Earth Color",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#5A5A50",
+        "rgb": [
+          90,
+          90,
+          80
+        ],
+        "hsl": [
+          60,
+          6,
+          33
+        ],
+        "emotion": "历史沉重",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#8A806A",
+        "rgb": [
+          138,
+          128,
+          106
+        ],
+        "hsl": [
+          41,
+          13,
+          48
+        ],
+        "emotion": "工人苦难",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#707068",
+        "rgb": [
+          112,
+          112,
+          104
+        ],
+        "hsl": [
+          60,
+          4,
+          42
+        ],
+        "emotion": "时间重量",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#2A2A22",
+        "rgb": [
+          42,
+          42,
+          34
+        ],
+        "hsl": [
+          60,
+          11,
+          15
+        ],
+        "emotion": "时代遗忘",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然光纪实",
+    "highlight_bias": "工厂暗光",
+    "shadow_bias": "室外天光",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "长镜头纪实",
+    "工业废墟",
+    "工人空间",
+    "手持跟拍",
+    "巨型工厂",
+    "家庭日常"
+  ],
+  "color_keywords": [
+    "工业锈色",
+    "工厂灰调",
+    "纪实质感",
+    "煤黑色",
+    "水泥色",
+    "铁锈黄"
+  ],
+  "mood_keywords": [
+    "工人史诗",
+    "历史记忆",
+    "时间重量",
+    "中国工业",
+    "底层生存",
+    "纪实力量"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "王兵的视觉风格以自然光纪实为主，工业锈色、工厂灰调，营造出工人史诗的氛围。",
+    "lighting": "自然光纪实，高光偏工厂暗光，阴影偏室外天光，整体冷调。",
+    "framing": "长镜头纪实、工业废墟、工人空间。",
+    "grading": "对比度中高对比，色调冷调。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

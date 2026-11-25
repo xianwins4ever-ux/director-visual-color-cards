@@ -1,0 +1,56 @@
+{
+  "director": {"zh": "贾樟柯", "en": "Jia Zhangke"},
+  "style_profile": {
+    "definition": "工业灰、江水绿和县城霓虹记录现代化留下的痕迹。",
+    "lighting": "阴天漫射光与简陋实景灯；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "固定远观、缓慢横移、人物穿越真实空间；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "低饱和、轻雾、保留脏色差；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": ["精致商业调色", "假复古黄", "过度虚化背景", "无动机环绕和随机变焦", "用统一滤镜替代色彩比例、光源和材质"]
+  },
+  "films": [
+    {
+      "title_zh": "三峡好人", "title_en": "Still Life", "year": 2006,
+      "frames": ["source-frames/film-01/frame-01.jpg", "source-frames/film-01/frame-02.jpg", "source-frames/film-01/frame-03.jpg", "source-frames/film-01/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/2346/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/1McjlKoYhOYYnB3HhSEpt75WGK5.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/7ztSRSFQtDpOh9285yhbP53uvur.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/8TIRO8lxg3yGRqQNIAE11FFfWZS.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/bTyDnRQ9k0ULFt4KcpFmaBBVqFW.jpg"}
+      ]
+    },
+    {
+      "title_zh": "天注定", "title_en": "A Touch of Sin", "year": 2013,
+      "frames": ["source-frames/film-02/frame-01.jpg", "source-frames/film-02/frame-02.jpg", "source-frames/film-02/frame-03.jpg", "source-frames/film-02/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/187022/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/1hAAM6eHsSXBHkXMYwMrHxzhkc0.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/2uELP0BxvYanlPnszSbJnGXLy4A.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/5lHfcLCL3pNFV5qTX1h3xL92dpN.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/cJOW9fpnGMfT0qZWX9v6ag5NaU7.jpg"}
+      ]
+    },
+    {
+      "title_zh": "山河故人", "title_en": "Mountains May Depart", "year": 2015,
+      "frames": ["source-frames/film-03/frame-01.jpg", "source-frames/film-03/frame-02.jpg", "source-frames/film-03/frame-03.jpg", "source-frames/film-03/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/314388/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/1yWVWs2nrUCd4iDvQfKaaR1xV1c.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/bMwYJlJJVVmU1VOsJDKZLqSEPJK.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/gAJgUS1DfkamTfvwehp0enR8dJ3.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/x86fmN6Ot5gGHiNcOY7lPwfBGKV.jpg"}
+      ]
+    },
+    {
+      "title_zh": "江湖儿女", "title_en": "Ash Is Purest White", "year": 2018,
+      "frames": ["source-frames/film-04/frame-01.jpg", "source-frames/film-04/frame-02.jpg", "source-frames/film-04/frame-03.jpg", "source-frames/film-04/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/441393/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/2Py3NcPP1NzL6JeflswufPQYcUY.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/36mt6Ca5dX5wB7UggmaZKKcuRk8.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/8eHY7S9upDwElJwj8oSZ7TtOICJ.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/9n2xYO3Cj9UEM91nZwZ8qAlvk0.jpg"}
+      ]
+    }
+  ]
+}

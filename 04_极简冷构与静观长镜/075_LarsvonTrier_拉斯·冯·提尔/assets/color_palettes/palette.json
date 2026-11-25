@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "075",
+    "name_en": "LarsvonTrier",
+    "name_zh": "拉斯·冯·提尔",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "丹麦",
+    "era": "1956-",
+    "active_years": "1956-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#5A7A6A",
+        "rgb": [
+          90,
+          122,
+          106
+        ],
+        "hsl": [
+          150,
+          15,
+          42
+        ],
+        "ratio": 0.22,
+        "name_zh": "北欧冷绿",
+        "name_en": "Nordic Cold Green",
+        "code": "C01"
+      },
+      {
+        "hex": "#7A8A7A",
+        "rgb": [
+          122,
+          138,
+          122
+        ],
+        "hsl": [
+          120,
+          6,
+          51
+        ],
+        "ratio": 0.18,
+        "name_zh": "苔绿灰",
+        "name_en": "Moss Green Gray",
+        "code": "C02"
+      },
+      {
+        "hex": "#8B7B6B",
+        "rgb": [
+          139,
+          123,
+          107
+        ],
+        "hsl": [
+          30,
+          13,
+          48
+        ],
+        "ratio": 0.16,
+        "name_zh": "旧木棕",
+        "name_en": "Old Wood Brown",
+        "code": "C03"
+      },
+      {
+        "hex": "#3A5A4A",
+        "rgb": [
+          58,
+          90,
+          74
+        ],
+        "hsl": [
+          150,
+          22,
+          29
+        ],
+        "ratio": 0.14,
+        "name_zh": "深冷绿",
+        "name_en": "Deep Cold Green",
+        "code": "C04"
+      },
+      {
+        "hex": "#A09A8A",
+        "rgb": [
+          160,
+          154,
+          138
+        ],
+        "hsl": [
+          44,
+          10,
+          58
+        ],
+        "ratio": 0.14,
+        "name_zh": "枯米灰",
+        "name_en": "Withered Beige Gray",
+        "code": "C05"
+      },
+      {
+        "hex": "#2A4A3A",
+        "rgb": [
+          42,
+          74,
+          58
+        ],
+        "hsl": [
+          150,
+          28,
+          23
+        ],
+        "ratio": 0.16,
+        "name_zh": "暗绿黑",
+        "name_en": "Dark Green Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#6A8A7A",
+        "rgb": [
+          106,
+          138,
+          122
+        ],
+        "hsl": [
+          150,
+          13,
+          48
+        ],
+        "emotion": "苦难圣洁",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#4A6A5A",
+        "rgb": [
+          74,
+          106,
+          90
+        ],
+        "hsl": [
+          150,
+          18,
+          35
+        ],
+        "emotion": "心理折磨",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#8A7A6A",
+        "rgb": [
+          138,
+          122,
+          106
+        ],
+        "hsl": [
+          30,
+          13,
+          48
+        ],
+        "emotion": "人性复杂",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#1A3A2A",
+        "rgb": [
+          26,
+          58,
+          42
+        ],
+        "hsl": [
+          150,
+          38,
+          16
+        ],
+        "emotion": "存在深渊",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然光为主",
+    "highlight_bias": "手持跟拍",
+    "shadow_bias": "室内弱光",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "手持摄影",
+    "Dogme美学",
+    "女性主角",
+    "心理空间",
+    "舞台感",
+    "章节结构"
+  ],
+  "color_keywords": [
+    "北欧冷绿",
+    "Dogme95色",
+    "去装饰",
+    "手持颗粒",
+    "高饱和段落",
+    "黑白交替"
+  ],
+  "mood_keywords": [
+    "女性苦难",
+    "心理惊悚",
+    "存在主义",
+    "挑衅观众",
+    "宗教主题",
+    "实验精神"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "Breaking The Waves",
+      "title_en": "Breaking The Waves",
+      "year": 1996,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/07/28/breaking-the-waves/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (179).jpg?bwg=1547151965"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/15 (182).jpg?bwg=1547151965"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/28 (182).jpg?bwg=1547151965"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/42 (181).jpg?bwg=1547151965"
+        }
+      ]
+    },
+    {
+      "title_zh": "Manderlay",
+      "title_en": "Manderlay",
+      "year": 2005,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2022/01/03/manderlay/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay001.jpg?bwg=1551286855"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay018.jpg?bwg=1551286854"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay036.jpg?bwg=1551286854"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/manderlay053.jpg?bwg=1551286854"
+        }
+      ]
+    },
+    {
+      "title_zh": "Melancholia",
+      "title_en": "Melancholia",
+      "year": 2011,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/01/29/melancholia/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (679).jpg?bwg=1547236183"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (693).jpg?bwg=1547236182"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (681).jpg?bwg=1547236182"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (512).jpg?bwg=1547236182"
+        }
+      ]
+    },
+    {
+      "title_zh": "The House That Jack Built",
+      "title_en": "The House That Jack Built",
+      "year": 2018,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2020/04/24/the-house-that-jack-built/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_001.jpg?bwg=1569841535"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_020.jpg?bwg=1569841531"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_040.jpg?bwg=1569841531"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_House_That_Jack_Built_059.jpg?bwg=1569841531"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "拉斯·冯·提尔的视觉风格以自然光为主为主，北欧冷绿、Dogme95色、去装饰，营造出女性苦难的氛围。",
+    "lighting": "自然光为主，高光偏手持跟拍，阴影偏室内弱光，整体冷调。",
+    "composition": [],
+    "mood": [],
+    "framing": "手持摄影、Dogme美学、女性主角，强调视觉层次感。",
+    "grading": "对比度中高对比，色调冷调，色彩北欧冷绿、Dogme95色、去装饰。",
+    "avoid": "避免快速剪辑、避免强烈明暗对比、避免色彩杂乱"
+  }
+}

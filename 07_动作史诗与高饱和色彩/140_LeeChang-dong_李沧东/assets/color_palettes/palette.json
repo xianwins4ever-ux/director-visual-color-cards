@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "140",
+    "name_en": "LeeChang-dong",
+    "name_zh": "李沧东",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "韩国",
+    "active_years": "1954-",
+    "era": "1954-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#2E7D32",
+        "name_zh": "诗之绿",
+        "name_en": "Poetry Green",
+        "ratio": 0.2,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFCC80",
+        "name_zh": "暖黄",
+        "name_en": "Warm Yellow",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#78909C",
+        "name_zh": "冷灰蓝",
+        "name_en": "Cold Gray Blue",
+        "ratio": 0.16,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#8D6E63",
+        "name_zh": "土地棕",
+        "name_en": "Earth Brown",
+        "ratio": 0.14,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFF9C4",
+        "name_zh": "米白",
+        "name_en": "Cream White",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          249,
+          196
+        ],
+        "hsl": [
+          54,
+          100,
+          88
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#C62828",
+        "name_zh": "隐忍红",
+        "name_en": "Repressed Red",
+        "ratio": 0.18,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#2E7D32",
+        "name_zh": "诗意生命力",
+        "name_en": "诗意生命力",
+        "emotion": "诗意生命力",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFCC80",
+        "name_zh": "温暖悲悯",
+        "name_en": "温暖悲悯",
+        "emotion": "温暖悲悯",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#78909C",
+        "name_zh": "存在压抑",
+        "name_en": "存在压抑",
+        "emotion": "存在压抑",
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#C62828",
+        "name_zh": "隐忍愤怒",
+        "name_en": "隐忍愤怒",
+        "emotion": "隐忍愤怒",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然柔光",
+    "highlight_tint": "绿色绿意",
+    "highlight_bias": "绿色绿意",
+    "shadow_tint": "黄昏暖光",
+    "shadow_bias": "黄昏暖光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "文学影像",
+    "绿色意象",
+    "底层人物",
+    "长镜头",
+    "存在困境",
+    "燃烧美学"
+  ],
+  "color_keywords": [
+    "李沧东绿",
+    "诗意暖调",
+    "文学电影色",
+    "隐忍色彩",
+    "韩国乡村色",
+    "存在灰调"
+  ],
+  "mood_keywords": [
+    "诗意暴力",
+    "存在主义",
+    "文学质感",
+    "底层悲悯",
+    "韩国社会",
+    "燃烧之谜"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "李沧东的视觉风格：自然柔光，李沧东绿, 诗意暖调, 文学电影色。",
+    "lighting": "自然柔光，绿色绿意，黄昏暖光",
+    "framing": "文学影像、绿色意象、底层人物。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

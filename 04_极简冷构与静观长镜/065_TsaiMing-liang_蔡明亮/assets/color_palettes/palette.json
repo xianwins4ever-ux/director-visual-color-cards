@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "065",
+    "name_en": "TsaiMing-liang",
+    "name_zh": "蔡明亮",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "马来西亚/中国台湾",
+    "era": "1957-",
+    "active_years": "1957-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#5B6770",
+        "rgb": [
+          91,
+          103,
+          112
+        ],
+        "hsl": [
+          206,
+          10,
+          40
+        ],
+        "ratio": 0.22,
+        "name_zh": "都市冷灰蓝",
+        "name_en": "Urban Cool Gray Blue",
+        "code": "C01"
+      },
+      {
+        "hex": "#8A959E",
+        "rgb": [
+          138,
+          149,
+          158
+        ],
+        "hsl": [
+          207,
+          9,
+          58
+        ],
+        "ratio": 0.18,
+        "name_zh": "水泥灰",
+        "name_en": "Concrete Gray",
+        "code": "C02"
+      },
+      {
+        "hex": "#3D474E",
+        "rgb": [
+          61,
+          71,
+          78
+        ],
+        "hsl": [
+          205,
+          12,
+          27
+        ],
+        "ratio": 0.16,
+        "name_zh": "深夜蓝灰",
+        "name_en": "Late Night Blue Gray",
+        "code": "C03"
+      },
+      {
+        "hex": "#7A8985",
+        "rgb": [
+          122,
+          137,
+          133
+        ],
+        "hsl": [
+          164,
+          6,
+          51
+        ],
+        "ratio": 0.14,
+        "name_zh": "霉绿灰",
+        "name_en": "Mold Green Gray",
+        "code": "C04"
+      },
+      {
+        "hex": "#B8C0C5",
+        "rgb": [
+          184,
+          192,
+          197
+        ],
+        "hsl": [
+          203,
+          10,
+          75
+        ],
+        "ratio": 0.14,
+        "name_zh": "日光灯白",
+        "name_en": "Fluorescent White",
+        "code": "C05"
+      },
+      {
+        "hex": "#2A3238",
+        "rgb": [
+          42,
+          50,
+          56
+        ],
+        "hsl": [
+          206,
+          14,
+          19
+        ],
+        "ratio": 0.16,
+        "name_zh": "暗室青黑",
+        "name_en": "Dark Room Cyan Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#6B7A85",
+        "rgb": [
+          107,
+          122,
+          133
+        ],
+        "hsl": [
+          205,
+          11,
+          47
+        ],
+        "emotion": "都市孤独",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#9DA7AD",
+        "rgb": [
+          157,
+          167,
+          173
+        ],
+        "hsl": [
+          203,
+          9,
+          65
+        ],
+        "emotion": "疏离漠然",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#4A5860",
+        "rgb": [
+          74,
+          88,
+          96
+        ],
+        "hsl": [
+          202,
+          13,
+          33
+        ],
+        "emotion": "欲望压抑",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#1F282D",
+        "rgb": [
+          31,
+          40,
+          45
+        ],
+        "hsl": [
+          201,
+          18,
+          15
+        ],
+        "emotion": "存在虚无",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "日光灯冷白",
+    "highlight_bias": "霓虹冷光",
+    "shadow_bias": "室内暗光",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "极慢长镜",
+    "固定机位",
+    "门框构图",
+    "楼梯空间",
+    "水意象",
+    "身体独处"
+  ],
+  "color_keywords": [
+    "冷灰调",
+    "日光灯色",
+    "水泥质感",
+    "雨天灰蒙",
+    "霓虹冷光",
+    "漏水水渍"
+  ],
+  "mood_keywords": [
+    "孤独",
+    "疏离",
+    "欲望",
+    "都市异化",
+    "时间停滞",
+    "静默无言"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "青少年哪吒",
+      "title_en": "Rebels of the Neon God",
+      "year": 1992,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/57564/images/backdrops"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/6dpOYVAnPx52J6ibj9f9pVdZnV9.jpg"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/8qF4kkqTYzRJqScGEYFGdAncPLo.jpg"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/uxZ5xuXMyJnBmrhQj6jGJ67caQU.jpg"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/WsnQS5wcEzbsIWcaJm4TqoImT3.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "爱情万岁",
+      "title_en": "Vive L'Amour",
+      "year": 1994,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/11985/images/backdrops"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/18jd8NhQ9iGZ85pMYhic2isGRRk.jpg"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/8TOsKCNZsewLJJMYts2uwdjbRHg.jpg"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/A5bKPxO6Ab24O6YEDd1fg8t8upx.jpg"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/fRdkG0Kp3fJdRggA3hBN80mSYw1.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "不散",
+      "title_en": "Goodbye, Dragon Inn",
+      "year": 2003,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/56616/images/backdrops"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/1gYRuQgzOmncpQzFGAIp3ZYoByZ.jpg"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/7nuAUq8FaHnmuyTQCpGs5Umbo6B.jpg"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/c2S9zmWXT722CHDmbg7iIRtcQKQ.jpg"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/cyvyIVwyx6fwiVfp8U8PebWNtlQ.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "郊游",
+      "title_en": "Stray Dogs",
+      "year": 2013,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影横幅画面页",
+          "url": "https://www.themoviedb.org/movie/209840/images/backdrops"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://image.tmdb.org/t/p/original/3dQcrjOwuives5wwdHF9LbES1c4.jpg"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://image.tmdb.org/t/p/original/fMPqDEFx22SmaxYgr3GugkztFD8.jpg"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://image.tmdb.org/t/p/original/l5x7DwzL50mzUH84Rz7kdgVpBRL.jpg"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://image.tmdb.org/t/p/original/wY63GAssmaUwFX8futj7E4hpgVc.jpg"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "蔡明亮的视觉风格以日光灯冷白为主，冷灰调、日光灯色、水泥质感，营造出孤独的氛围。",
+    "lighting": "日光灯冷白，高光偏霓虹冷光，阴影偏室内暗光，整体冷调。",
+    "composition": [],
+    "mood": [],
+    "framing": "极慢长镜、固定机位、门框构图，强调视觉层次感。",
+    "grading": "对比度中高对比，色调冷调，色彩冷灰调、日光灯色、水泥质感。",
+    "avoid": "避免快速剪辑、避免强烈明暗对比、避免色彩杂乱"
+  }
+}

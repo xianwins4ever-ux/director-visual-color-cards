@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "179",
+    "name_en": "JoachimTrier",
+    "name_zh": "约阿希姆·特里尔",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "挪威",
+    "active_years": "1974-",
+    "era": "1974-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#607D8B",
+        "name_zh": "奥斯陆灰",
+        "name_en": "Oslo Gray",
+        "ratio": 0.2,
+        "rgb": [
+          96,
+          125,
+          139
+        ],
+        "hsl": [
+          200,
+          18,
+          46
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#0288D1",
+        "name_zh": "峡湾蓝",
+        "name_en": "Fjord Blue",
+        "ratio": 0.18,
+        "rgb": [
+          2,
+          136,
+          209
+        ],
+        "hsl": [
+          201,
+          98,
+          41
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFCC80",
+        "name_zh": "暖黄",
+        "name_en": "Warm Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#8D6E63",
+        "name_zh": "复古棕",
+        "name_en": "Vintage Brown",
+        "ratio": 0.14,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFFFFF",
+        "name_zh": "雪国白",
+        "name_en": "Snow White",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#2E7D32",
+        "name_zh": "森林绿",
+        "name_en": "Forest Green",
+        "ratio": 0.18,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#607D8B",
+        "name_zh": "北欧忧郁",
+        "name_en": "北欧忧郁",
+        "emotion": "北欧忧郁",
+        "rgb": [
+          96,
+          125,
+          139
+        ],
+        "hsl": [
+          200,
+          18,
+          46
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#0288D1",
+        "name_zh": "内心清澈",
+        "name_en": "内心清澈",
+        "emotion": "内心清澈",
+        "rgb": [
+          2,
+          136,
+          209
+        ],
+        "hsl": [
+          201,
+          98,
+          41
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFCC80",
+        "name_zh": "青春温暖",
+        "name_en": "青春温暖",
+        "emotion": "青春温暖",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#8D6E63",
+        "name_zh": "回忆厚重",
+        "name_en": "回忆厚重",
+        "emotion": "回忆厚重",
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "北欧冷光",
+    "highlight_tint": "奥斯陆冬光",
+    "highlight_bias": "奥斯陆冬光",
+    "shadow_tint": "室内暖光",
+    "shadow_bias": "室内暖光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "奥斯陆风景",
+    "内心独白",
+    "青春回忆",
+    "北欧都市",
+    "存在焦虑",
+    "文学气质"
+  ],
+  "color_keywords": [
+    "奥斯陆灰蓝",
+    "北欧冷调",
+    "青春暖黄",
+    "奥斯陆三部曲色",
+    "存在主义色",
+    "森林绿色"
+  ],
+  "mood_keywords": [
+    "奥斯陆三部曲",
+    "北欧忧郁",
+    "青春回忆",
+    "存在焦虑",
+    "文学电影",
+    "内心独白"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "约阿希姆·特里尔的视觉风格：北欧冷光，奥斯陆灰蓝, 北欧冷调, 青春暖黄。",
+    "lighting": "北欧冷光，奥斯陆冬光，室内暖光",
+    "framing": "奥斯陆风景、内心独白、青春回忆。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

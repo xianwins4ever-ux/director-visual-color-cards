@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "173",
+    "name_en": "MiaHansen-Love",
+    "name_zh": "米娅·汉森-洛夫",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "法国",
+    "active_years": "1981-",
+    "era": "1981-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#90CAF9",
+        "name_zh": "巴黎蓝",
+        "name_en": "Paris Blue",
+        "ratio": 0.18,
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#A5D6A7",
+        "name_zh": "生活绿",
+        "name_en": "Life Green",
+        "ratio": 0.18,
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFCC80",
+        "name_zh": "暖黄",
+        "name_en": "Warm Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#BCAAA4",
+        "name_zh": "巴黎米",
+        "name_en": "Paris Beige",
+        "ratio": 0.14,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#EF9A9A",
+        "name_zh": "温柔粉",
+        "name_en": "Gentle Pink",
+        "ratio": 0.14,
+        "rgb": [
+          239,
+          154,
+          154
+        ],
+        "hsl": [
+          0,
+          73,
+          77
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#78909C",
+        "name_zh": "知性灰",
+        "name_en": "Intellectual Gray",
+        "ratio": 0.2,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#90CAF9",
+        "name_zh": "知性清明",
+        "name_en": "知性清明",
+        "emotion": "知性清明",
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#A5D6A7",
+        "name_zh": "生活温柔",
+        "name_en": "生活温柔",
+        "emotion": "生活温柔",
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFCC80",
+        "name_zh": "时间暖光",
+        "name_en": "时间暖光",
+        "emotion": "时间暖光",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#78909C",
+        "name_zh": "存在忧郁",
+        "name_en": "存在忧郁",
+        "emotion": "存在忧郁",
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "巴黎自然光",
+    "highlight_tint": "柔光漫射",
+    "highlight_bias": "柔光漫射",
+    "shadow_tint": "窗光侧光",
+    "shadow_bias": "窗光侧光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "巴黎街景",
+    "人生岔路",
+    "知识分子",
+    "父女关系",
+    "时间流逝",
+    "日常诗意"
+  ],
+  "color_keywords": [
+    "汉森洛夫蓝绿",
+    "法国知性色",
+    "巴黎日常光",
+    "时间暖调",
+    "人生岔路色",
+    "温柔电影色"
+  ],
+  "mood_keywords": [
+    "时间流逝",
+    "人生选择",
+    "法国知性",
+    "女性视角",
+    "日常诗意",
+    "父女关系"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "米娅·汉森-洛夫的视觉风格：巴黎自然光，汉森洛夫蓝绿, 法国知性色, 巴黎日常光。",
+    "lighting": "巴黎自然光，柔光漫射，窗光侧光",
+    "framing": "巴黎街景、人生岔路、知识分子。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

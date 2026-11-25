@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "174",
+    "name_en": "SofiaCoppola",
+    "name_zh": "索菲亚·科波拉",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "美国",
+    "active_years": "1971-",
+    "era": "1971-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#F48FB1",
+        "name_zh": "少女粉",
+        "name_en": "Teen Girl Pink",
+        "ratio": 0.2,
+        "rgb": [
+          244,
+          143,
+          177
+        ],
+        "hsl": [
+          340,
+          82,
+          76
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#78909C",
+        "name_zh": "迷失灰",
+        "name_en": "Lost Gray",
+        "ratio": 0.18,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFCC80",
+        "name_zh": "暖金",
+        "name_en": "Warm Gold",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#90CAF9",
+        "name_zh": "东京蓝",
+        "name_en": "Tokyo Blue",
+        "ratio": 0.14,
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#BA68C8",
+        "name_zh": "玛丽紫",
+        "name_en": "Marie Purple",
+        "ratio": 0.14,
+        "rgb": [
+          186,
+          104,
+          200
+        ],
+        "hsl": [
+          291,
+          47,
+          60
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFFFFF",
+        "name_zh": "纯白",
+        "name_en": "Pure White",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#F48FB1",
+        "name_zh": "少女忧伤",
+        "name_en": "少女忧伤",
+        "emotion": "少女忧伤",
+        "rgb": [
+          244,
+          143,
+          177
+        ],
+        "hsl": [
+          340,
+          82,
+          76
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#78909C",
+        "name_zh": "迷失孤独",
+        "name_en": "迷失孤独",
+        "emotion": "迷失孤独",
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFCC80",
+        "name_zh": "温柔回忆",
+        "name_en": "温柔回忆",
+        "emotion": "温柔回忆",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#BA68C8",
+        "name_zh": "奢华空虚",
+        "name_en": "奢华空虚",
+        "emotion": "奢华空虚",
+        "rgb": [
+          186,
+          104,
+          200
+        ],
+        "hsl": [
+          291,
+          47,
+          60
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "柔光漫射",
+    "highlight_tint": "霓虹夜色",
+    "highlight_bias": "霓虹夜色",
+    "shadow_tint": "自然晨光",
+    "shadow_bias": "自然晨光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "少女视角",
+    "柔光镜头",
+    "东京夜色",
+    "玛丽皇后",
+    "孤独女性",
+    "时尚美学"
+  ],
+  "color_keywords": [
+    "索菲亚粉调",
+    "迷失东京蓝",
+    "少女柔粉色",
+    "玛丽皇后金粉",
+    "孤独女性色",
+    "时尚电影色"
+  ],
+  "mood_keywords": [
+    "少女忧伤",
+    "迷失孤独",
+    "女性视角",
+    "时尚美学",
+    "家庭背景",
+    "独立女性"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "索菲亚·科波拉的视觉风格：柔光漫射，索菲亚粉调, 迷失东京蓝, 少女柔粉色。",
+    "lighting": "柔光漫射，霓虹夜色，自然晨光",
+    "framing": "少女视角、柔光镜头、东京夜色。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

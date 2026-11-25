@@ -1,0 +1,231 @@
+{
+  "director": {
+    "id": "027",
+    "name_en": "Luc Besson",
+    "name_zh": "吕克·贝松",
+    "category": "02_霓虹黑色与赛博未来",
+    "nationality": "法国",
+    "active_years": "1983-至今",
+    "era": "1983-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0D1B2A",
+        "name_zh": "巴黎深蓝",
+        "ratio": 0.25,
+        "rgb": [
+          13,
+          27,
+          42
+        ],
+        "hsl": [
+          211,
+          53,
+          11
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "C02",
+        "hex": "#FF8C00",
+        "name_zh": "法式橙",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          140,
+          0
+        ],
+        "hsl": [
+          33,
+          100,
+          50
+        ],
+        "name_en": "Orange"
+      },
+      {
+        "code": "C03",
+        "hex": "#00CED1",
+        "name_zh": "未来青",
+        "ratio": 0.15,
+        "rgb": [
+          0,
+          206,
+          209
+        ],
+        "hsl": [
+          181,
+          100,
+          41
+        ],
+        "name_en": "Cyan"
+      },
+      {
+        "code": "C04",
+        "hex": "#FFD700",
+        "name_zh": "黄金光",
+        "ratio": 0.12,
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "name_en": "Yellow"
+      },
+      {
+        "code": "C05",
+        "hex": "#DC143C",
+        "name_zh": "法式红",
+        "ratio": 0.12,
+        "rgb": [
+          220,
+          20,
+          60
+        ],
+        "hsl": [
+          348,
+          83,
+          47
+        ],
+        "name_en": "Red"
+      },
+      {
+        "code": "C06",
+        "hex": "#F5DEB3",
+        "name_zh": "少女肤",
+        "ratio": 0.18,
+        "rgb": [
+          245,
+          222,
+          179
+        ],
+        "hsl": [
+          39,
+          77,
+          83
+        ],
+        "name_en": "Color 6"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF1493",
+        "name_zh": "爱之粉",
+        "emotion": "爱情少女",
+        "rgb": [
+          255,
+          20,
+          147
+        ],
+        "hsl": [
+          328,
+          100,
+          54
+        ],
+        "name_en": "Pink"
+      },
+      {
+        "code": "E02",
+        "hex": "#00BFFF",
+        "name_zh": "未来蓝",
+        "emotion": "科幻太空",
+        "rgb": [
+          0,
+          191,
+          255
+        ],
+        "hsl": [
+          195,
+          100,
+          50
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD700",
+        "name_zh": "神圣金",
+        "emotion": "神性救赎",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "name_en": "Gold"
+      },
+      {
+        "code": "E04",
+        "hex": "#8B0000",
+        "name_zh": "暗血红",
+        "emotion": "暴力死亡",
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "name_en": "Red"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "polished commercial lighting, golden hour, futuristic colored sources",
+    "highlight_tint": "orange-gold / future cyan",
+    "shadow_tint": "deep Parisian blue",
+    "contrast_ratio": "medium-high 65-80%",
+    "overall_tone": "polished French commercial 50/50"
+  },
+  "composition_keywords": [
+    "smooth dolly crane shots",
+    "wide angle futuristic cityscapes",
+    "slow motion heroic",
+    "symmetrical framing",
+    "color-coded design",
+    "floating camera",
+    "iconic costume",
+    "vertical city compositions"
+  ],
+  "color_keywords": [
+    "French blue-orange",
+    "pop futurism cyan",
+    "golden divine light",
+    "Leon plant green",
+    "Mathilda red jacket",
+    "fifth element orange hair",
+    "cinema du look",
+    "polished commercial sheen"
+  ],
+  "mood_keywords": [
+    "French cinematic cool",
+    "pop sci-fi spectacle",
+    "hitman with heart",
+    "young female protagonist",
+    "operatic violence",
+    "romantic criminal world",
+    "euro-pulp aesthetic",
+    "divine feminine"
+  ],
+  "style_profile": {
+    "definition": "吕克·贝松的视觉风格以polished commercial lighting, golden hour, futuristic colored sources为主，French blue-orange、pop futurism cyan，营造出French cinematic cool的氛围。",
+    "lighting": "polished commercial lighting, golden hour, futuristic colored sources，高光偏orange-gold / future cyan，阴影偏deep Parisian blue，整体polished French commercial 50/50。",
+    "framing": "smooth dolly crane shots、wide angle futuristic cityscapes、slow motion heroic。",
+    "grading": "对比度medium-high 65-80%，色调polished French commercial 50/50。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

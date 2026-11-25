@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "186",
+    "name_en": "EdwardYang",
+    "name_zh": "杨德昌",
+    "category": "10_东方美学与留白意境",
+    "nationality": "中国台湾",
+    "active_years": "1947-2007",
+    "era": "1947-2007"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#546E7A",
+        "name_zh": "台北灰蓝",
+        "name_en": "Taipei Gray Blue",
+        "ratio": 0.2,
+        "rgb": [
+          84,
+          110,
+          122
+        ],
+        "hsl": [
+          199,
+          18,
+          40
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#455A64",
+        "name_zh": "都市冷灰",
+        "name_en": "Urban Cold Gray",
+        "ratio": 0.18,
+        "rgb": [
+          69,
+          90,
+          100
+        ],
+        "hsl": [
+          199,
+          18,
+          33
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#8D6E63",
+        "name_zh": "中产棕",
+        "name_en": "Middle Class Brown",
+        "ratio": 0.16,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFD54F",
+        "name_zh": "暖灯黄",
+        "name_en": "Warm Lamp Yellow",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#0288D1",
+        "name_zh": "玻璃蓝",
+        "name_en": "Glass Blue",
+        "ratio": 0.14,
+        "rgb": [
+          2,
+          136,
+          209
+        ],
+        "hsl": [
+          201,
+          98,
+          41
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#BCAAA4",
+        "name_zh": "公寓米",
+        "name_en": "Apartment Beige",
+        "ratio": 0.18,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#546E7A",
+        "name_zh": "都市疏离",
+        "name_en": "都市疏离",
+        "emotion": "都市疏离",
+        "rgb": [
+          84,
+          110,
+          122
+        ],
+        "hsl": [
+          199,
+          18,
+          40
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#8D6E63",
+        "name_zh": "中产阶级压抑",
+        "name_en": "中产阶级压抑",
+        "emotion": "中产阶级压抑",
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD54F",
+        "name_zh": "家庭微温",
+        "name_en": "家庭微温",
+        "emotion": "家庭微温",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#0288D1",
+        "name_zh": "玻璃般透明",
+        "name_en": "玻璃般透明",
+        "emotion": "玻璃般透明",
+        "rgb": [
+          2,
+          136,
+          209
+        ],
+        "hsl": [
+          201,
+          98,
+          41
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "冷白荧光",
+    "highlight_tint": "玻璃窗光",
+    "highlight_bias": "玻璃窗光",
+    "shadow_tint": "都市霓虹",
+    "shadow_bias": "都市霓虹",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "都市空间",
+    "中产阶级",
+    "长镜头观察",
+    "台北街景",
+    "家庭关系",
+    "多线叙事"
+  ],
+  "color_keywords": [
+    "杨德昌冷灰",
+    "台北都巿色",
+    "中产棕调",
+    "玻璃窗蓝色",
+    "疏离冷色调",
+    "长镜头观察色"
+  ],
+  "mood_keywords": [
+    "都市疏离",
+    "中产阶级",
+    "台北故事",
+    "理性观察",
+    "台湾新电影",
+    "存在焦虑"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "杨德昌的视觉风格：冷白荧光，杨德昌冷灰, 台北都巿色, 中产棕调。",
+    "lighting": "冷白荧光，玻璃窗光，都市霓虹",
+    "framing": "都市空间、中产阶级、长镜头观察。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

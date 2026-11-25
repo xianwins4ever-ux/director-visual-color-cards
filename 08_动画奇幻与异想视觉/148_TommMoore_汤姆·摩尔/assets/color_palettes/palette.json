@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "148",
+    "name_en": "TommMoore",
+    "name_zh": "汤姆·摩尔",
+    "category": "08_动画奇幻与异想视觉",
+    "nationality": "爱尔兰",
+    "active_years": "1977-",
+    "era": "1977-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#1B5E20",
+        "name_zh": "爱尔兰绿",
+        "name_en": "Irish Green",
+        "ratio": 0.2,
+        "rgb": [
+          27,
+          94,
+          32
+        ],
+        "hsl": [
+          124,
+          55,
+          24
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFD54F",
+        "name_zh": "凯尔金",
+        "name_en": "Kells Gold",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#0D47A1",
+        "name_zh": "深海蓝",
+        "name_en": "Deep Sea Blue",
+        "ratio": 0.16,
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#C62828",
+        "name_zh": "圣血红",
+        "name_en": "Holy Blood Red",
+        "ratio": 0.14,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#6A1B9A",
+        "name_zh": "神秘紫",
+        "name_en": "Mystical Purple",
+        "ratio": 0.14,
+        "rgb": [
+          106,
+          27,
+          154
+        ],
+        "hsl": [
+          277,
+          70,
+          35
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFF9C4",
+        "name_zh": "羊皮纸黄",
+        "name_en": "Parchment Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          249,
+          196
+        ],
+        "hsl": [
+          54,
+          100,
+          88
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#1B5E20",
+        "name_zh": "自然灵性",
+        "name_en": "自然灵性",
+        "emotion": "自然灵性",
+        "rgb": [
+          27,
+          94,
+          32
+        ],
+        "hsl": [
+          124,
+          55,
+          24
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFD54F",
+        "name_zh": "神圣之光",
+        "name_en": "神圣之光",
+        "emotion": "神圣之光",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#0D47A1",
+        "name_zh": "海洋神秘",
+        "name_en": "海洋神秘",
+        "emotion": "海洋神秘",
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#C62828",
+        "name_zh": "牺牲奉献",
+        "name_en": "牺牲奉献",
+        "emotion": "牺牲奉献",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "教堂彩光",
+    "highlight_tint": "森林柔光",
+    "highlight_bias": "森林柔光",
+    "shadow_tint": "黄金时刻",
+    "shadow_bias": "黄金时刻",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "平面装饰",
+    "凯尔特图案",
+    "对称构图",
+    "神话叙事",
+    "森林海洋",
+    "儿童视角"
+  ],
+  "color_keywords": [
+    "凯尔经色彩",
+    "爱尔兰绿金",
+    "凯尔特装饰色",
+    "森林神秘色",
+    "海洋深蓝",
+    "神圣金光"
+  ],
+  "mood_keywords": [
+    "凯尔特神话",
+    "手绘灵魂",
+    "自然灵性",
+    "爱尔兰文化",
+    "儿童成长",
+    "艺术动画"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "汤姆·摩尔的视觉风格：教堂彩光，凯尔经色彩, 爱尔兰绿金, 凯尔特装饰色。",
+    "lighting": "教堂彩光，森林柔光，黄金时刻",
+    "framing": "平面装饰、凯尔特图案、对称构图。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "079",
+    "name_en": "CarlosReygadas",
+    "name_zh": "卡洛斯·雷加达斯",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "墨西哥",
+    "era": "1971-",
+    "active_years": "1971-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#7A8A7A",
+        "rgb": [
+          122,
+          138,
+          122
+        ],
+        "hsl": [
+          120,
+          6,
+          51
+        ],
+        "ratio": 0.22,
+        "name_zh": "墨西哥乡村绿",
+        "name_en": "Mexican Rural Green",
+        "code": "C01"
+      },
+      {
+        "hex": "#9A9080",
+        "rgb": [
+          154,
+          144,
+          128
+        ],
+        "hsl": [
+          37,
+          11,
+          55
+        ],
+        "ratio": 0.18,
+        "name_zh": "土棕灰",
+        "name_en": "Earth Brown Gray",
+        "code": "C02"
+      },
+      {
+        "hex": "#5A6A5A",
+        "rgb": [
+          90,
+          106,
+          90
+        ],
+        "hsl": [
+          120,
+          8,
+          38
+        ],
+        "ratio": 0.16,
+        "name_zh": "深林绿灰",
+        "name_en": "Deep Forest Green Gray",
+        "code": "C03"
+      },
+      {
+        "hex": "#B8A890",
+        "rgb": [
+          184,
+          168,
+          144
+        ],
+        "hsl": [
+          36,
+          22,
+          64
+        ],
+        "ratio": 0.14,
+        "name_zh": "干土米",
+        "name_en": "Dry Earth Beige",
+        "code": "C04"
+      },
+      {
+        "hex": "#D4C8A8",
+        "rgb": [
+          212,
+          200,
+          168
+        ],
+        "hsl": [
+          44,
+          34,
+          75
+        ],
+        "ratio": 0.14,
+        "name_zh": "阳光麦",
+        "name_en": "Sunny Wheat",
+        "code": "C05"
+      },
+      {
+        "hex": "#3A4A3A",
+        "rgb": [
+          58,
+          74,
+          58
+        ],
+        "hsl": [
+          120,
+          12,
+          26
+        ],
+        "ratio": 0.16,
+        "name_zh": "暗绿黑",
+        "name_en": "Dark Green Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#8A9A8A",
+        "rgb": [
+          138,
+          154,
+          138
+        ],
+        "hsl": [
+          120,
+          7,
+          57
+        ],
+        "emotion": "神圣自然",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#6A5A4A",
+        "rgb": [
+          106,
+          90,
+          74
+        ],
+        "hsl": [
+          30,
+          18,
+          35
+        ],
+        "emotion": "原始欲望",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#A89878",
+        "rgb": [
+          168,
+          152,
+          120
+        ],
+        "hsl": [
+          40,
+          22,
+          56
+        ],
+        "emotion": "乡村静谧",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#2A3A2A",
+        "rgb": [
+          42,
+          58,
+          42
+        ],
+        "hsl": [
+          120,
+          16,
+          20
+        ],
+        "emotion": "死亡神秘",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然光神圣",
+    "highlight_bias": "黄金时刻",
+    "shadow_bias": "雾中柔光",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "自然风景",
+    "极端长镜",
+    "宗教意象",
+    "乡村空间",
+    "性与死亡",
+    "手持跟拍"
+  ],
+  "color_keywords": [
+    "墨西哥乡村色",
+    "自然光神圣",
+    "土棕色调",
+    "雾林绿",
+    "金色阳光",
+    "低饱和"
+  ],
+  "mood_keywords": [
+    "宗教迷思",
+    "自然神性",
+    "存在主义",
+    "原始欲望",
+    "死亡主题",
+    "诗意缓慢"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "生命最後之旅",
+      "title_en": "Japón",
+      "year": 2002,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/36211/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/3jLbq8i0QStXfPIxfOgFJQaeGPV.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/kR5BoKg1CBWkZABmrB2nlzlpuHF.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/sdMZBl317LyoyG5AEUqmNTQsLmW.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/8hIt0N6gJkMAr1BxPsFCauI5Fxw.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "天堂煉獄",
+      "title_en": "Battle in Heaven",
+      "year": 2005,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/17247/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/lKc9mOjyvImvZji9tBBsv2KWSsG.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/ttLJUrRMY3t4L0yWElYdQxIZ5AL.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/x9T69CnsURzeW4qcbopRIrqgSs1.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/6xyrdSezHMzUt6TFuSxL98GyazU.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "舐夢人",
+      "title_en": "Post Tenebras Lux",
+      "year": 2012,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/103689/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/udEbtrxgQmP5rBtcWQRjQaWpL4w.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/mamTKETCDpzFxvvcmwt75YOhA3g.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/dVJ2y6I9V1PisKfM8eqVyMkf9yu.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/7P6EtWE5fxH5Ev3A1f9yj9r8AeD.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "愛·牧",
+      "title_en": "Our Time",
+      "year": 2018,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/389218/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/8Y8o6YPcJE6MbAiByoTyjRY74ll.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/g6LcYUf3lFQB6DIuY4ZS24VpYoo.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/392RGbBfj2jNZVOmAG0IK14lCEz.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/bxystKNwqS8S6AHlhFViZI44fib.jpg"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "卡洛斯·雷加达斯的视觉风格以自然光神圣为主，墨西哥乡村色、自然光神圣、土棕色调，营造出宗教迷思的氛围。",
+    "lighting": "自然光神圣，高光偏黄金时刻，阴影偏雾中柔光，整体冷调。",
+    "composition": [],
+    "mood": [],
+    "framing": "自然风景、极端长镜、宗教意象，强调视觉层次感。",
+    "grading": "对比度中高对比，色调冷调，色彩墨西哥乡村色、自然光神圣、土棕色调。",
+    "avoid": "避免快速剪辑、避免强烈明暗对比、避免色彩杂乱"
+  }
+}

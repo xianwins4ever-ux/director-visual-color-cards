@@ -1,0 +1,231 @@
+{
+  "director": {
+    "id": "048",
+    "name_en": "Andrea Arnold",
+    "name_zh": "安德烈·阿诺德",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "英国",
+    "active_years": "2006-至今",
+    "era": "2006-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#8B7355",
+        "name_zh": "荒原褐",
+        "ratio": 0.22,
+        "rgb": [
+          139,
+          115,
+          85
+        ],
+        "hsl": [
+          34,
+          24,
+          44
+        ],
+        "name_en": "Ochre"
+      },
+      {
+        "code": "C02",
+        "hex": "#C9A24A",
+        "name_zh": "黄昏金",
+        "ratio": 0.18,
+        "rgb": [
+          201,
+          162,
+          74
+        ],
+        "hsl": [
+          43,
+          55,
+          54
+        ],
+        "name_en": "Yellow"
+      },
+      {
+        "code": "C03",
+        "hex": "#5A6B4A",
+        "name_zh": "野草绿",
+        "ratio": 0.15,
+        "rgb": [
+          90,
+          107,
+          74
+        ],
+        "hsl": [
+          88,
+          18,
+          35
+        ],
+        "name_en": "Green"
+      },
+      {
+        "code": "C04",
+        "hex": "#E8C090",
+        "name_zh": "肌肤麦",
+        "ratio": 0.15,
+        "rgb": [
+          232,
+          192,
+          144
+        ],
+        "hsl": [
+          34,
+          65,
+          74
+        ],
+        "name_en": "Color 4"
+      },
+      {
+        "code": "C05",
+        "hex": "#4A4A44",
+        "name_zh": "烟煤灰",
+        "ratio": 0.15,
+        "rgb": [
+          74,
+          74,
+          68
+        ],
+        "hsl": [
+          60,
+          4,
+          28
+        ],
+        "name_en": "Gray"
+      },
+      {
+        "code": "C06",
+        "hex": "#D97A3C",
+        "name_zh": "落日橙",
+        "ratio": 0.15,
+        "rgb": [
+          217,
+          122,
+          60
+        ],
+        "hsl": [
+          25,
+          68,
+          54
+        ],
+        "name_en": "Orange"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#F5DEB3",
+        "name_zh": "暖麦金",
+        "emotion": "青春希望",
+        "rgb": [
+          245,
+          222,
+          179
+        ],
+        "hsl": [
+          41,
+          77,
+          83
+        ],
+        "name_en": "Gold"
+      },
+      {
+        "code": "E02",
+        "hex": "#6B5D4E",
+        "name_zh": "旧木褐",
+        "emotion": "困顿压抑",
+        "rgb": [
+          107,
+          93,
+          78
+        ],
+        "hsl": [
+          32,
+          16,
+          36
+        ],
+        "name_en": "Ochre"
+      },
+      {
+        "code": "E03",
+        "hex": "#B5651D",
+        "name_zh": "琥珀火",
+        "emotion": "欲望躁动",
+        "rgb": [
+          181,
+          101,
+          29
+        ],
+        "hsl": [
+          30,
+          72,
+          41
+        ],
+        "name_en": "Emotional 3"
+      },
+      {
+        "code": "E04",
+        "hex": "#2F3A2A",
+        "name_zh": "苔原绿",
+        "emotion": "孤独疏离",
+        "rgb": [
+          47,
+          58,
+          42
+        ],
+        "hsl": [
+          99,
+          16,
+          20
+        ],
+        "name_en": "Green"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "natural daylight, golden hour side light, handheld documentary style",
+    "highlight_tint": "golden amber / warm yellow",
+    "shadow_tint": "earthy brown-gray, no fill light",
+    "contrast_ratio": "medium 50-65%, soft natural rolloff",
+    "overall_tone": "warm earthy natural, 70% warm + 30% cool"
+  },
+  "composition_keywords": [
+    "handheld cinéma vérité",
+    "golden hour natural light",
+    "tight close-up intimacy",
+    "aspect ratio 4:3",
+    "shallow depth of field",
+    "dirty frame",
+    "natural location",
+    "unscripted movement"
+  ],
+  "color_keywords": [
+    "golden hour amber",
+    "natural earth tones",
+    "moorland heather green",
+    "council estate grey",
+    "skin tone warmth",
+    "overcast soft daylight",
+    "firelight orange",
+    "wet pavement sheen"
+  ],
+  "mood_keywords": [
+    "working-class intimacy",
+    "raw youth vulnerability",
+    "social realism poetry",
+    "feral tenderness",
+    "british social landscape",
+    "transient freedom",
+    "quiet desperation",
+    "tactile warmth"
+  ],
+  "style_profile": {
+    "definition": "荒原褐、黄昏金和野草绿包裹底层人物，手持摄影机把粗糙现实拍出温柔诗意。",
+    "lighting": "自然光为主，黄金时刻侧光，阴天柔光；不用补光模拟真实环境，阴影保留脏感。",
+    "framing": "4:3窄画幅挤压人物空间，手持贴身跟随，极端特写切入肌肤纹理和微表情；脏构图增强真实感。",
+    "grading": "略欠曝，高光暖调柔化，阴影偏褐绿；保持肤色自然，环境色不抢夺面部主导。",
+    "avoid": "棚内三点布光、高饱和滤镜、稳定器丝滑运动、好莱坞式金调美化、用统一滤镜替代真实环境光质感"
+  }
+}

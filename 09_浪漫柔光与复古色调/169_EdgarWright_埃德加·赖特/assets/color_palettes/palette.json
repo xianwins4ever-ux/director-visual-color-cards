@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "169",
+    "name_en": "EdgarWright",
+    "name_zh": "埃德加·赖特",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "英国",
+    "active_years": "1974-",
+    "era": "1974-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#E53935",
+        "name_zh": "血与冰淇淋红",
+        "name_en": "Cornetto Red",
+        "ratio": 0.2,
+        "rgb": [
+          229,
+          57,
+          53
+        ],
+        "hsl": [
+          1,
+          77,
+          55
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#0D47A1",
+        "name_zh": "警探蓝",
+        "name_en": "Detective Blue",
+        "ratio": 0.18,
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFD600",
+        "name_zh": "喜剧黄",
+        "name_en": "Comedy Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          214,
+          0
+        ],
+        "hsl": [
+          50,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#2E7D32",
+        "name_zh": "僵尸绿",
+        "name_en": "Zombie Green",
+        "ratio": 0.14,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#6A1B9A",
+        "name_zh": "科幻紫",
+        "name_en": "Sci-Fi Purple",
+        "ratio": 0.14,
+        "rgb": [
+          106,
+          27,
+          154
+        ],
+        "hsl": [
+          277,
+          70,
+          35
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FF6D00",
+        "name_zh": "动作橙",
+        "name_en": "Action Orange",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          109,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#E53935",
+        "name_zh": "热血喜剧",
+        "name_en": "热血喜剧",
+        "emotion": "热血喜剧",
+        "rgb": [
+          229,
+          57,
+          53
+        ],
+        "hsl": [
+          1,
+          77,
+          55
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#0D47A1",
+        "name_zh": "悬疑推理",
+        "name_en": "悬疑推理",
+        "emotion": "悬疑推理",
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD600",
+        "name_zh": "英式幽默",
+        "name_en": "英式幽默",
+        "emotion": "英式幽默",
+        "rgb": [
+          255,
+          214,
+          0
+        ],
+        "hsl": [
+          50,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#6A1B9A",
+        "name_zh": "科幻迷幻",
+        "name_en": "科幻迷幻",
+        "emotion": "科幻迷幻",
+        "rgb": [
+          106,
+          27,
+          154
+        ],
+        "hsl": [
+          277,
+          70,
+          35
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "高饱和色光",
+    "highlight_tint": "类型片布光",
+    "highlight_bias": "类型片布光",
+    "shadow_tint": "快速切换光",
+    "shadow_bias": "快速切换光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "快速剪辑",
+    "类型解构",
+    "英式幽默",
+    "血与冰淇淋三部曲",
+    "转场神技",
+    "同步剪辑"
+  ],
+  "color_keywords": [
+    "埃德加赖特高饱和",
+    "类型片色彩",
+    "英式喜剧色",
+    "血与冰淇淋三色",
+    "快速转场色",
+    "漫画撞色"
+  ],
+  "mood_keywords": [
+    "英式幽默",
+    "类型解构",
+    "快速剪辑",
+    "极客文化",
+    "音乐电影",
+    "热血喜剧"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "埃德加·赖特的视觉风格：高饱和色光，埃德加赖特高饱和, 类型片色彩, 英式喜剧色。",
+    "lighting": "高饱和色光，类型片布光，快速切换光",
+    "framing": "快速剪辑、类型解构、英式幽默。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

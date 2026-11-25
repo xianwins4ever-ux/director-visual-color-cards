@@ -1,0 +1,153 @@
+{
+  "director": {
+    "zh": "阿巴斯·基亚罗斯塔米",
+    "en": "Abbas Kiarostami"
+  },
+  "style_profile": {
+    "definition": "道路、土墙、橄榄树和天空保持朴素，颜色服务真实时间与选择。",
+    "lighting": "真实日光、车内反射光、黄昏；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "固定观察、车内对话、远景留白；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "自然低对比，不做戏剧化偏色；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": [
+      "旅行广告色",
+      "重滤镜",
+      "炫技运镜",
+      "无动机环绕和随机变焦",
+      "用统一滤镜替代色彩比例、光源和材质。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "特写",
+      "title_en": "Close-Up",
+      "year": 1990,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/08/07/close-up/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Close_Up_01.jpg?bwg=1715852287"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Close_Up_11.jpg?bwg=1715852287"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Close_Up_20.jpg?bwg=1715852287"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Close_Up_30.jpg?bwg=1715852287"
+        }
+      ]
+    },
+    {
+      "title_zh": "穿越橄榄树林",
+      "title_en": "Through The Olive Trees",
+      "year": 1994,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2026/01/27/through-the-olive-trees/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Through_The_Olive_Trees_01.jpg?bwg=1719562815"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Through_The_Olive_Trees_10.jpg?bwg=1719562815"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Through_The_Olive_Trees_20.jpg?bwg=1719562815"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Through_The_Olive_Trees_29.jpg?bwg=1719562815"
+        }
+      ]
+    },
+    {
+      "title_zh": "随风而逝",
+      "title_en": "The Wind Will Carry Us",
+      "year": 1999,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2021/05/20/the-wind-will-carry-us/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Wind_Will_Carry_Us_001.jpg?bwg=1618573769"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Wind_Will_Carry_Us_017.jpg?bwg=1618573769"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Wind_Will_Carry_Us_033.jpg?bwg=1618573769"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Wind_Will_Carry_Us_049.jpg?bwg=1618573769"
+        }
+      ]
+    },
+    {
+      "title_zh": "如沐爱河",
+      "title_en": "Like Someone In Love",
+      "year": 2012,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D029-阿巴斯·基亚罗斯塔米·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/05/09/like-someone-in-love/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Like_Someone_In_Love_01.jpg?bwg=1715862074"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Like_Someone_In_Love_12.jpg?bwg=1715862074"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Like_Someone_In_Love_22.jpg?bwg=1715862074"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Like_Someone_In_Love_33.jpg?bwg=1715862074"
+        }
+      ]
+    }
+  ]
+}

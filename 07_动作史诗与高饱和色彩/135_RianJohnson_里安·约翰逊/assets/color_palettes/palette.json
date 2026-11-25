@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "135",
+    "name_en": "RianJohnson",
+    "name_zh": "里安·约翰逊",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "美国",
+    "active_years": "1973-",
+    "era": "1973-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FF8F00",
+        "name_zh": "复古橙",
+        "name_en": "Vintage Orange",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          143,
+          0
+        ],
+        "hsl": [
+          34,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#6A1B9A",
+        "name_zh": "悬疑紫",
+        "name_en": "Mystery Purple",
+        "ratio": 0.18,
+        "rgb": [
+          106,
+          27,
+          154
+        ],
+        "hsl": [
+          277,
+          70,
+          35
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#C62828",
+        "name_zh": "推理红",
+        "name_en": "Mystery Red",
+        "ratio": 0.16,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#2E7D32",
+        "name_zh": "庄园绿",
+        "name_en": "Manor Green",
+        "ratio": 0.14,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFD54F",
+        "name_zh": "暖金",
+        "name_en": "Warm Gold",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#5D4037",
+        "name_zh": "木质棕",
+        "name_en": "Wood Brown",
+        "ratio": 0.18,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF8F00",
+        "name_zh": "复古怀旧",
+        "name_en": "复古怀旧",
+        "emotion": "复古怀旧",
+        "rgb": [
+          255,
+          143,
+          0
+        ],
+        "hsl": [
+          34,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#6A1B9A",
+        "name_zh": "悬疑迷雾",
+        "name_en": "悬疑迷雾",
+        "emotion": "悬疑迷雾",
+        "rgb": [
+          106,
+          27,
+          154
+        ],
+        "hsl": [
+          277,
+          70,
+          35
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#C62828",
+        "name_zh": "罪案血色",
+        "name_en": "罪案血色",
+        "emotion": "罪案血色",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#2E7D32",
+        "name_zh": "庄园秘密",
+        "name_en": "庄园秘密",
+        "emotion": "庄园秘密",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "复古暖光",
+    "highlight_tint": "推理阴影",
+    "highlight_bias": "推理阴影",
+    "shadow_tint": "彩色玻璃光",
+    "shadow_bias": "彩色玻璃光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "推理构图",
+    "庄园密室",
+    "复古美学",
+    "类型解构",
+    "玻璃洋葱",
+    "侦探形象"
+  ],
+  "color_keywords": [
+    "复古暖橙",
+    "推理色调",
+    "庄园色彩",
+    "高饱和暖调",
+    "悬疑紫",
+    "侦探片色"
+  ],
+  "mood_keywords": [
+    "推理悬疑",
+    "复古美学",
+    "类型解构",
+    "黑色幽默",
+    "阶级批判",
+    "侦探故事"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "里安·约翰逊的视觉风格：复古暖光，复古暖橙, 推理色调, 庄园色彩。",
+    "lighting": "复古暖光，推理阴影，彩色玻璃光",
+    "framing": "推理构图、庄园密室、复古美学。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

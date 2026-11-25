@@ -1,0 +1,56 @@
+{
+  "director": {"zh": "蔡明亮", "en": "Tsai Ming-liang"},
+  "style_profile": {
+    "definition": "霉绿、积水灰和病态荧光让城市身体处于缓慢腐蚀。",
+    "lighting": "长时间实景荧光和阴湿自然光；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "固定长镜、空空间、人物缓慢进入离开；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "压低亮度和彩度，保留潮湿反光；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": ["洁净极简", "明快糖果色", "快速蒙太奇", "无动机环绕和随机变焦", "用统一滤镜替代色彩比例、光源和材质"]
+  },
+  "films": [
+    {
+      "title_zh": "青少年哪吒", "title_en": "Rebels of the Neon God", "year": 1992,
+      "frames": ["source-frames/film-01/frame-01.jpg", "source-frames/film-01/frame-02.jpg", "source-frames/film-01/frame-03.jpg", "source-frames/film-01/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/57564/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/6dpOYVAnPx52J6ibj9f9pVdZnV9.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/8qF4kkqTYzRJqScGEYFGdAncPLo.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/uxZ5xuXMyJnBmrhQj6jGJ67caQU.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/WsnQS5wcEzbsIWcaJm4TqoImT3.jpg"}
+      ]
+    },
+    {
+      "title_zh": "爱情万岁", "title_en": "Vive L'Amour", "year": 1994,
+      "frames": ["source-frames/film-02/frame-01.jpg", "source-frames/film-02/frame-02.jpg", "source-frames/film-02/frame-03.jpg", "source-frames/film-02/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/11985/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/18jd8NhQ9iGZ85pMYhic2isGRRk.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/8TOsKCNZsewLJJMYts2uwdjbRHg.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/A5bKPxO6Ab24O6YEDd1fg8t8upx.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/fRdkG0Kp3fJdRggA3hBN80mSYw1.jpg"}
+      ]
+    },
+    {
+      "title_zh": "不散", "title_en": "Goodbye, Dragon Inn", "year": 2003,
+      "frames": ["source-frames/film-03/frame-01.jpg", "source-frames/film-03/frame-02.jpg", "source-frames/film-03/frame-03.jpg", "source-frames/film-03/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/56616/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/1gYRuQgzOmncpQzFGAIp3ZYoByZ.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/7nuAUq8FaHnmuyTQCpGs5Umbo6B.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/c2S9zmWXT722CHDmbg7iIRtcQKQ.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/cyvyIVwyx6fwiVfp8U8PebWNtlQ.jpg"}
+      ]
+    },
+    {
+      "title_zh": "郊游", "title_en": "Stray Dogs", "year": 2013,
+      "frames": ["source-frames/film-04/frame-01.jpg", "source-frames/film-04/frame-02.jpg", "source-frames/film-04/frame-03.jpg", "source-frames/film-04/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/209840/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/3dQcrjOwuives5wwdHF9LbES1c4.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/fMPqDEFx22SmaxYgr3GugkztFD8.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/l5x7DwzL50mzUH84Rz7kdgVpBRL.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/wY63GAssmaUwFX8futj7E4hpgVc.jpg"}
+      ]
+    }
+  ]
+}

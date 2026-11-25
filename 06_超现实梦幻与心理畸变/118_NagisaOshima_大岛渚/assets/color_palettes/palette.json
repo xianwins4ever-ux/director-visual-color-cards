@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "118",
+    "name_en": "NagisaOshima",
+    "name_zh": "大岛渚",
+    "category": "06_超现实梦幻与心理畸变",
+    "nationality": "日本",
+    "active_years": "1932-2013",
+    "era": "1932-2013"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#B71C1C",
+        "name_zh": "血樱红",
+        "name_en": "Blood Sakura Red",
+        "ratio": 0.22,
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#0D47A1",
+        "name_zh": "深夜蓝",
+        "name_en": "Late Night Blue",
+        "ratio": 0.18,
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#5D4037",
+        "name_zh": "木皮棕",
+        "name_en": "Wood Bark Brown",
+        "ratio": 0.16,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFD54F",
+        "name_zh": "灯笼金",
+        "name_en": "Lantern Gold",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#1B5E20",
+        "name_zh": "竹林绿",
+        "name_en": "Bamboo Green",
+        "ratio": 0.14,
+        "rgb": [
+          27,
+          94,
+          32
+        ],
+        "hsl": [
+          124,
+          55,
+          24
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#212121",
+        "name_zh": "墨黑",
+        "name_en": "Ink Black",
+        "ratio": 0.16,
+        "rgb": [
+          33,
+          33,
+          33
+        ],
+        "hsl": [
+          0,
+          0,
+          13
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#B71C1C",
+        "name_zh": "禁忌情欲",
+        "name_en": "禁忌情欲",
+        "emotion": "禁忌情欲",
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#0D47A1",
+        "name_zh": "社会压抑",
+        "name_en": "社会压抑",
+        "emotion": "社会压抑",
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD54F",
+        "name_zh": "仪式温暖",
+        "name_en": "仪式温暖",
+        "emotion": "仪式温暖",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#5D4037",
+        "name_zh": "肉身沉重",
+        "name_en": "肉身沉重",
+        "emotion": "肉身沉重",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "高对比暖光",
+    "highlight_tint": "红色重点光",
+    "highlight_bias": "红色重点光",
+    "shadow_tint": "日式纸窗光",
+    "shadow_bias": "日式纸窗光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "日式空间",
+    "身体特写",
+    "仪式构图",
+    "政治隐喻",
+    "自然风景",
+    "对称与失衡"
+  ],
+  "color_keywords": [
+    "血樱红",
+    "日式纸窗光",
+    "禁忌色",
+    "木棕暖调",
+    "日本蓝",
+    "仪式色彩"
+  ],
+  "mood_keywords": [
+    "禁忌之爱",
+    "政治批判",
+    "身体越界",
+    "日本新浪潮",
+    "死亡美学",
+    "情欲政治"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "大岛渚的视觉风格：高对比暖光，血樱红, 日式纸窗光, 禁忌色。",
+    "lighting": "高对比暖光，红色重点光，日式纸窗光",
+    "framing": "日式空间、身体特写、仪式构图。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

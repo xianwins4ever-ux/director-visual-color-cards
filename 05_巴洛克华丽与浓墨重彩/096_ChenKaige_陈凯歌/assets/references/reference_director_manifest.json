@@ -1,0 +1,93 @@
+{
+  "director": {
+    "zh": "陈凯歌",
+    "en": "Chen Kaige"
+  },
+  "style_profile": {
+    "definition": "土黄历史空间中以戏服红蓝和舞台金连接个人命运与时代。",
+    "lighting": "尘雾自然光与舞台暖光对照；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "纵深群像、舞台正面构图、克制推进；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "暖土中间调，红蓝局部浓烈；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": [
+      "现代 LED 色",
+      "塑料古装",
+      "无层次暖黄",
+      "无动机环绕和随机变焦",
+      "用统一滤镜替代色彩比例、光源和材质"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "黄土地",
+      "title_en": "Yellow Earth",
+      "year": 1984,
+      "frames": [
+        "source-frames/film-01/frame-01.jpg",
+        "source-frames/film-01/frame-02.jpg",
+        "source-frames/film-01/frame-03.jpg",
+        "source-frames/film-01/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/92990/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/38zIq2YfTkNZ8BFCCsIPobxXkwV.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/9a8rTHiVxVphC02qqz7lTpjvT4s.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/hbltqIBcoMmOBdYAcCeJB2TDPI4.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/tq4D8eICdEXdJtre2bHnjl9K1Yy.jpg"}
+      ]
+    },
+    {
+      "title_zh": "霸王别姬",
+      "title_en": "Farewell My Concubine",
+      "year": 1993,
+      "frames": [
+        "source-frames/film-02/frame-01.jpg",
+        "source-frames/film-02/frame-02.jpg",
+        "source-frames/film-02/frame-03.jpg",
+        "source-frames/film-02/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/10997/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/9iBkK8jEmSRyimc4A9dAM9zeVhu.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/dGT485hwTEVeQYa1Cj1luZKjk4C.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/lsxfxygPbT5kCM7fgFu7e1eM214.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/o8W8thcjurUvD2rVhak2KqbWwOL.jpg"}
+      ]
+    },
+    {
+      "title_zh": "风月",
+      "title_en": "Temptress Moon",
+      "year": 1996,
+      "frames": [
+        "source-frames/film-03/frame-01.jpg",
+        "source-frames/film-03/frame-02.jpg",
+        "source-frames/film-03/frame-03.jpg",
+        "source-frames/film-03/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/47694/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/3lffczLphk8UMF4GydD2i6O1wri.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/7NTyplHpKITKd6LGaMwvfouJK6h.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/qzz8VqnKk41AWm28KWgd2ujlTo4.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/sBtcMCdVMdE8kgytlJsLyABQjLk.jpg"}
+      ]
+    },
+    {
+      "title_zh": "荆轲刺秦王",
+      "title_en": "The Emperor and the Assassin",
+      "year": 1998,
+      "frames": [
+        "source-frames/film-04/frame-01.jpg",
+        "source-frames/film-04/frame-02.jpg",
+        "source-frames/film-04/frame-03.jpg",
+        "source-frames/film-04/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/10387/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/AuFT4H6W90auDlD2dYSKSRM2D9T.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/dHqeT5bqd70k2fab4HmVq8nRsDd.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/kK1QI1XEqBGIgVN2EwsI22rTwsC.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/rqwbQAdA9XG5nZTEhE2E8hUPsO5.jpg"}
+      ]
+    }
+  ]
+}

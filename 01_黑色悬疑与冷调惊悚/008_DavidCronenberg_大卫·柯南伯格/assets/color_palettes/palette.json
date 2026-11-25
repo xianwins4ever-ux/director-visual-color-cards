@@ -1,0 +1,519 @@
+{
+  "director": {
+    "id": "008",
+    "name_en": "David Cronenberg",
+    "name_zh": "大卫·柯南伯格",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "nationality": "加拿大",
+    "active_years": "1969-至今",
+    "era": "1969-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#2C3639",
+        "name_zh": "临床灰绿",
+        "name_en": "Clinical Gray Green",
+        "ratio": 0.38,
+        "rgb": [
+          44,
+          54,
+          57
+        ],
+        "hsl": [
+          194,
+          13,
+          20
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#6B7F73",
+        "name_zh": "冷灰绿",
+        "name_en": "Cold Gray Green",
+        "ratio": 0.2,
+        "rgb": [
+          107,
+          127,
+          115
+        ],
+        "hsl": [
+          144,
+          9,
+          46
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#8B3A3A",
+        "name_zh": "血肉暗红",
+        "name_en": "Flesh Dark Red",
+        "ratio": 0.13,
+        "rgb": [
+          139,
+          58,
+          58
+        ],
+        "hsl": [
+          0,
+          41,
+          39
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#D4A574",
+        "name_zh": "肉肤色",
+        "name_en": "Flesh Tone Beige",
+        "ratio": 0.1,
+        "rgb": [
+          212,
+          165,
+          116
+        ],
+        "hsl": [
+          31,
+          53,
+          64
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#3D5A50",
+        "name_zh": "深菌绿",
+        "name_en": "Deep Fungus Green",
+        "ratio": 0.09,
+        "rgb": [
+          61,
+          90,
+          80
+        ],
+        "hsl": [
+          159,
+          19,
+          30
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#B8A082",
+        "name_zh": "羊皮纸棕",
+        "name_en": "Parchment Brown",
+        "ratio": 0.1,
+        "rgb": [
+          184,
+          160,
+          130
+        ],
+        "hsl": [
+          33,
+          28,
+          62
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF6B6B",
+        "name_zh": "血肉粉红",
+        "name_en": "Flesh Pink Red",
+        "emotion": "身体变形、痛苦与快感交织",
+        "rgb": [
+          255,
+          107,
+          107
+        ],
+        "hsl": [
+          0,
+          100,
+          71
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#6B8E23",
+        "name_zh": "病变绿",
+        "name_en": "Pathological Green",
+        "emotion": "感染、变异、身体的背叛",
+        "rgb": [
+          107,
+          142,
+          35
+        ],
+        "hsl": [
+          80,
+          60,
+          35
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#4682B4",
+        "name_zh": "科技蓝",
+        "name_en": "Tech Blue",
+        "emotion": "科技入侵人体、未来医学的恐惧",
+        "rgb": [
+          70,
+          130,
+          180
+        ],
+        "hsl": [
+          207,
+          44,
+          49
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#DEB887",
+        "name_zh": "裸肤色",
+        "name_en": "Nude Beige",
+        "emotion": "脆弱、暴露、存在的赤裸",
+        "rgb": [
+          222,
+          184,
+          135
+        ],
+        "hsl": [
+          34,
+          57,
+          70
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "散射柔光为主，局部硬光突出肉体质感",
+    "highlight_tint": "冷白偏绿（荧光灯/实验室灯）",
+    "shadow_tint": "深灰绿偏褐（暗部/阴影/生物组织）",
+    "contrast_ratio": "中对比（55-70%），肉体质感细节丰富",
+    "overall_tone": "冷调绿褐，65%冷绿 + 35%暖肉色"
+  },
+  "composition_keywords": [
+    "肉体特写",
+    "对称构图",
+    "临床空间",
+    "有机与机械融合",
+    "身体变形镜头",
+    "镜面反射",
+    "解剖式构图",
+    "心理空间外化",
+    "生物质感纹理",
+    "性与暴力重叠"
+  ],
+  "color_keywords": [
+    "临床冷调",
+    "肉肤色",
+    "病变绿",
+    "血肉暗红",
+    "生物质感",
+    "金属冷灰",
+    "湿滑质感",
+    "裸露皮肤",
+    "有机形态",
+    "医学冷白"
+  ],
+  "mood_keywords": [
+    "肉体恐怖",
+    "身体哲学",
+    "科技焦虑",
+    "性与暴力",
+    "身份消解",
+    "心理畸变",
+    "存在恐惧",
+    "科技与人性",
+    "欲望变形",
+    "禁忌边界"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "录像带谋杀案",
+      "title_en": "Videodrome",
+      "year": 1983,
+      "palette": [
+        {
+          "hex": "#010101",
+          "ratio": 22.7,
+          "luminance": 0.0003,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#707B79",
+          "ratio": 12.1,
+          "luminance": 0.1899,
+          "saturation": 0.0894
+        },
+        {
+          "hex": "#2A2D27",
+          "ratio": 11.8,
+          "luminance": 0.0252,
+          "saturation": 0.1333
+        },
+        {
+          "hex": "#061432",
+          "ratio": 11.5,
+          "luminance": 0.0077,
+          "saturation": 0.88
+        },
+        {
+          "hex": "#987F6B",
+          "ratio": 10.9,
+          "luminance": 0.2292,
+          "saturation": 0.2961
+        },
+        {
+          "hex": "#453D3A",
+          "ratio": 10.8,
+          "luminance": 0.0491,
+          "saturation": 0.1594
+        },
+        {
+          "hex": "#595254",
+          "ratio": 10.6,
+          "luminance": 0.088,
+          "saturation": 0.0787
+        },
+        {
+          "hex": "#CACEC5",
+          "ratio": 9.6,
+          "luminance": 0.6073,
+          "saturation": 0.0437
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "孽扣",
+      "title_en": "Dead Ringers",
+      "year": 1988,
+      "palette": [
+        {
+          "hex": "#020001",
+          "ratio": 25.1,
+          "luminance": 0.0002,
+          "saturation": 1.0
+        },
+        {
+          "hex": "#93898B",
+          "ratio": 12.9,
+          "luminance": 0.2596,
+          "saturation": 0.068
+        },
+        {
+          "hex": "#363230",
+          "ratio": 11.7,
+          "luminance": 0.0328,
+          "saturation": 0.1111
+        },
+        {
+          "hex": "#615250",
+          "ratio": 11.3,
+          "luminance": 0.0916,
+          "saturation": 0.1753
+        },
+        {
+          "hex": "#201F1A",
+          "ratio": 10.6,
+          "luminance": 0.0136,
+          "saturation": 0.1875
+        },
+        {
+          "hex": "#3F6290",
+          "ratio": 9.6,
+          "luminance": 0.1181,
+          "saturation": 0.5625
+        },
+        {
+          "hex": "#9F9FA6",
+          "ratio": 9.5,
+          "luminance": 0.3492,
+          "saturation": 0.0422
+        },
+        {
+          "hex": "#44453C",
+          "ratio": 9.3,
+          "luminance": 0.0581,
+          "saturation": 0.1304
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "欲望号快车",
+      "title_en": "Crash",
+      "year": 1996,
+      "palette": [
+        {
+          "hex": "#081D4F",
+          "ratio": 18.6,
+          "luminance": 0.0149,
+          "saturation": 0.8987
+        },
+        {
+          "hex": "#434848",
+          "ratio": 15.5,
+          "luminance": 0.063,
+          "saturation": 0.0694
+        },
+        {
+          "hex": "#2F2A2B",
+          "ratio": 14.6,
+          "luminance": 0.0243,
+          "saturation": 0.1064
+        },
+        {
+          "hex": "#080200",
+          "ratio": 13.0,
+          "luminance": 0.001,
+          "saturation": 1.0
+        },
+        {
+          "hex": "#03091B",
+          "ratio": 11.7,
+          "luminance": 0.0029,
+          "saturation": 0.8889
+        },
+        {
+          "hex": "#1E1C1B",
+          "ratio": 10.0,
+          "luminance": 0.0119,
+          "saturation": 0.1
+        },
+        {
+          "hex": "#2F343F",
+          "ratio": 8.8,
+          "luminance": 0.0342,
+          "saturation": 0.254
+        },
+        {
+          "hex": "#6F7277",
+          "ratio": 7.8,
+          "luminance": 0.1675,
+          "saturation": 0.0672
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "变蝇人",
+      "title_en": "The Fly",
+      "year": 1986,
+      "palette": [
+        {
+          "hex": "#44352B",
+          "ratio": 14.2,
+          "luminance": 0.0395,
+          "saturation": 0.3676
+        },
+        {
+          "hex": "#6A82AF",
+          "ratio": 13.8,
+          "luminance": 0.2212,
+          "saturation": 0.3943
+        },
+        {
+          "hex": "#2E0C06",
+          "ratio": 13.8,
+          "luminance": 0.0086,
+          "saturation": 0.8696
+        },
+        {
+          "hex": "#010101",
+          "ratio": 13.2,
+          "luminance": 0.0003,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#585966",
+          "ratio": 11.7,
+          "luminance": 0.1018,
+          "saturation": 0.1373
+        },
+        {
+          "hex": "#62473B",
+          "ratio": 11.3,
+          "luminance": 0.0742,
+          "saturation": 0.398
+        },
+        {
+          "hex": "#9CC1E8",
+          "ratio": 11.0,
+          "luminance": 0.5103,
+          "saturation": 0.3276
+        },
+        {
+          "hex": "#1E1811",
+          "ratio": 11.0,
+          "luminance": 0.0097,
+          "saturation": 0.4333
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "暴力史",
+      "title_en": "A History of Violence",
+      "year": 2005,
+      "palette": [
+        {
+          "hex": "#446026",
+          "ratio": 16.9,
+          "luminance": 0.0973,
+          "saturation": 0.6042
+        },
+        {
+          "hex": "#3D453A",
+          "ratio": 13.4,
+          "luminance": 0.0555,
+          "saturation": 0.1594
+        },
+        {
+          "hex": "#73624C",
+          "ratio": 13.1,
+          "luminance": 0.129,
+          "saturation": 0.3391
+        },
+        {
+          "hex": "#000000",
+          "ratio": 12.7,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#CDE3E2",
+          "ratio": 12.6,
+          "luminance": 0.7341,
+          "saturation": 0.0969
+        },
+        {
+          "hex": "#A6B6B3",
+          "ratio": 11.1,
+          "luminance": 0.4482,
+          "saturation": 0.0879
+        },
+        {
+          "hex": "#687B64",
+          "ratio": 10.5,
+          "luminance": 0.1803,
+          "saturation": 0.187
+        },
+        {
+          "hex": "#1D251A",
+          "ratio": 9.7,
+          "luminance": 0.0166,
+          "saturation": 0.2973
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "肉色、金属灰和病态蓝绿让身体与机器互相污染。",
+    "lighting": "冷医疗光、湿润高光、低调侧光。",
+    "framing": "临床近景、身体细节、冷静观察。",
+    "grading": "突出皮肤纹理、有机湿感和金属表面，综合色不过艳。",
+    "avoid": "干净科幻蓝、塑料血肉、美颜磨皮、全局青橙、无动机环绕和随机变焦"
+  }
+}

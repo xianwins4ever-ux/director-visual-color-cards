@@ -1,0 +1,222 @@
+{
+  "director": {
+    "id": "092",
+    "name_en": "DerekJarman",
+    "name_zh": "德里克·贾曼",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "英国",
+    "era": "1942-1994",
+    "active_years": "1942-1994"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#0000FF",
+        "rgb": [
+          0,
+          0,
+          255
+        ],
+        "hsl": [
+          240,
+          100,
+          50
+        ],
+        "ratio": 0.22,
+        "name_zh": "贾曼蓝",
+        "name_en": "Jarman Blue",
+        "code": "C01"
+      },
+      {
+        "hex": "#FF0000",
+        "rgb": [
+          255,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          50
+        ],
+        "ratio": 0.18,
+        "name_zh": "血红色",
+        "name_en": "Blood Red",
+        "code": "C02"
+      },
+      {
+        "hex": "#FFD700",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "ratio": 0.16,
+        "name_zh": "金盏黄",
+        "name_en": "Marigold",
+        "code": "C03"
+      },
+      {
+        "hex": "#228B22",
+        "rgb": [
+          34,
+          139,
+          34
+        ],
+        "hsl": [
+          120,
+          61,
+          34
+        ],
+        "ratio": 0.14,
+        "name_zh": "森林绿",
+        "name_en": "Forest Green",
+        "code": "C04"
+      },
+      {
+        "hex": "#FFFFFF",
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ],
+        "ratio": 0.14,
+        "name_zh": "纯白",
+        "name_en": "Pure White",
+        "code": "C05"
+      },
+      {
+        "hex": "#000000",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ],
+        "ratio": 0.16,
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#0000FF",
+        "rgb": [
+          0,
+          0,
+          255
+        ],
+        "hsl": [
+          240,
+          100,
+          50
+        ],
+        "emotion": "永恒与死亡",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#FF0000",
+        "rgb": [
+          255,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          50
+        ],
+        "emotion": "欲望与生命",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#FFD700",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "emotion": "神圣与光芒",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#228B22",
+        "rgb": [
+          34,
+          139,
+          34
+        ],
+        "hsl": [
+          120,
+          61,
+          34
+        ],
+        "emotion": "自然与生长",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "单色滤镜",
+    "highlight_bias": "投影光线",
+    "shadow_bias": "烛光暖调",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "单色实验",
+    "投影拼贴",
+    "绘画质感",
+    "酷儿身体",
+    "花园意象",
+    "文字影像"
+  ],
+  "color_keywords": [
+    "单色实验",
+    "高饱和滤镜",
+    "绘画光影",
+    "酷儿色彩",
+    "蓝白红",
+    "花园色调"
+  ],
+  "mood_keywords": [
+    "酷儿美学",
+    "死亡诗学",
+    "先锋实验",
+    "艾滋年代",
+    "艺术反抗",
+    "自然神性"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "德里克·贾曼的视觉风格以单色滤镜为主，单色实验、高饱和滤镜，营造出酷儿美学的氛围。",
+    "lighting": "单色滤镜，高光偏投影光线，阴影偏烛光暖调，整体暖调。",
+    "framing": "单色实验、投影拼贴、绘画质感。",
+    "grading": "对比度高对比，色调暖调。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

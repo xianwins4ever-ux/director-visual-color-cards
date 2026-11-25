@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "161",
+    "name_en": "EricRohmer",
+    "name_zh": "埃里克·侯麦",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "法国",
+    "active_years": "1920-2010",
+    "era": "1920-2010"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#81C784",
+        "name_zh": "春夏绿",
+        "name_en": "Spring Summer Green",
+        "ratio": 0.18,
+        "rgb": [
+          129,
+          199,
+          132
+        ],
+        "hsl": [
+          123,
+          38,
+          64
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFCC80",
+        "name_zh": "秋日黄",
+        "name_en": "Autumn Yellow",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#90CAF9",
+        "name_zh": "天空蓝",
+        "name_en": "Sky Blue",
+        "ratio": 0.16,
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#BCAAA4",
+        "name_zh": "巴黎米",
+        "name_en": "Paris Beige",
+        "ratio": 0.14,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#EF9A9A",
+        "name_zh": "玫瑰粉",
+        "name_en": "Rose Pink",
+        "ratio": 0.14,
+        "rgb": [
+          239,
+          154,
+          154
+        ],
+        "hsl": [
+          0,
+          73,
+          77
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#A5D6A7",
+        "name_zh": "草地绿",
+        "name_en": "Meadow Green",
+        "ratio": 0.2,
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#81C784",
+        "name_zh": "自然生机",
+        "name_en": "自然生机",
+        "emotion": "自然生机",
+        "rgb": [
+          129,
+          199,
+          132
+        ],
+        "hsl": [
+          123,
+          38,
+          64
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFCC80",
+        "name_zh": "温暖暧昧",
+        "name_en": "温暖暧昧",
+        "emotion": "温暖暧昧",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#90CAF9",
+        "name_zh": "理智清明",
+        "name_en": "理智清明",
+        "emotion": "理智清明",
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#EF9A9A",
+        "name_zh": "爱情微妙",
+        "name_en": "爱情微妙",
+        "emotion": "爱情微妙",
+        "rgb": [
+          239,
+          154,
+          154
+        ],
+        "hsl": [
+          0,
+          73,
+          77
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然柔光",
+    "highlight_tint": "窗光漫射",
+    "highlight_bias": "窗光漫射",
+    "shadow_tint": "阳光斑驳",
+    "shadow_bias": "阳光斑驳",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "对话场景",
+    "四季自然",
+    "巴黎街景",
+    "海滨度假",
+    "道德抉择",
+    "男女关系"
+  ],
+  "color_keywords": [
+    "侯麦四季色",
+    "自然光效",
+    "法国乡村色",
+    "巴黎米色",
+    "对话暖调",
+    "四季色彩"
+  ],
+  "mood_keywords": [
+    "对话哲学",
+    "道德故事",
+    "四季人生",
+    "法国情调",
+    "爱情微妙",
+    "知识分子"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "埃里克·侯麦的视觉风格：自然柔光，侯麦四季色, 自然光效, 法国乡村色。",
+    "lighting": "自然柔光，窗光漫射，阳光斑驳",
+    "framing": "对话场景、四季自然、巴黎街景。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

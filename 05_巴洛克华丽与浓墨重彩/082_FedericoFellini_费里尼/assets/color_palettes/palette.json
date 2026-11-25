@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "082",
+    "name_en": "FedericoFellini",
+    "name_zh": "费里尼",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "意大利",
+    "era": "1920-1993",
+    "active_years": "1920-1993"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#E8E0D0",
+        "rgb": [
+          232,
+          224,
+          208
+        ],
+        "hsl": [
+          40,
+          34,
+          86
+        ],
+        "ratio": 0.2,
+        "name_zh": "银灰白",
+        "name_en": "Silver Gray White",
+        "code": "C01"
+      },
+      {
+        "hex": "#D4A058",
+        "rgb": [
+          212,
+          160,
+          88
+        ],
+        "hsl": [
+          35,
+          59,
+          59
+        ],
+        "ratio": 0.18,
+        "name_zh": "暖金",
+        "name_en": "Warm Gold",
+        "code": "C02"
+      },
+      {
+        "hex": "#8B0000",
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "ratio": 0.16,
+        "name_zh": "深红",
+        "name_en": "Deep Crimson",
+        "code": "C03"
+      },
+      {
+        "hex": "#2F4F4F",
+        "rgb": [
+          47,
+          79,
+          79
+        ],
+        "hsl": [
+          180,
+          25,
+          25
+        ],
+        "ratio": 0.14,
+        "name_zh": "暗青灰",
+        "name_en": "Dark Slate Gray",
+        "code": "C04"
+      },
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "ratio": 0.14,
+        "name_zh": "金菊黄",
+        "name_en": "Goldenrod",
+        "code": "C05"
+      },
+      {
+        "hex": "#1C1C1C",
+        "rgb": [
+          28,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          0,
+          11
+        ],
+        "ratio": 0.18,
+        "name_zh": "炭黑",
+        "name_en": "Charcoal Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#F5E6C8",
+        "rgb": [
+          245,
+          230,
+          200
+        ],
+        "hsl": [
+          40,
+          69,
+          87
+        ],
+        "emotion": "梦幻回忆",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#B22222",
+        "rgb": [
+          178,
+          34,
+          34
+        ],
+        "hsl": [
+          0,
+          68,
+          42
+        ],
+        "emotion": "热情与欲望",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#D2B48C",
+        "rgb": [
+          210,
+          180,
+          140
+        ],
+        "hsl": [
+          34,
+          44,
+          69
+        ],
+        "emotion": "怀旧温暖",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#2C2C2C",
+        "rgb": [
+          44,
+          44,
+          44
+        ],
+        "hsl": [
+          0,
+          0,
+          17
+        ],
+        "emotion": "荒诞与迷思",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "柔光梦幻",
+    "highlight_bias": "舞台聚光",
+    "shadow_bias": "暖金回忆",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "马戏团构图",
+    "夸张广角",
+    "梦幻场景",
+    "记忆碎片",
+    "小丑意象",
+    "人群涌动"
+  ],
+  "color_keywords": [
+    "银白梦幻",
+    "暖金回忆",
+    "马戏团色",
+    "高饱和装饰",
+    "黑白/彩色交替",
+    "罗马暖调"
+  ],
+  "mood_keywords": [
+    "梦幻荒诞",
+    "记忆迷宫",
+    "意式狂欢",
+    "自传色彩",
+    "马戏团美学",
+    "生命热情"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "卖艺春秋",
+      "title_en": "Variety Lights",
+      "year": 1950,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/08/22/variety-lights/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1271).jpg?bwg=1547479248"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (1295).jpg?bwg=1547479245"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/43 (1276).jpg?bwg=1547479245"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (963).jpg?bwg=1547479245"
+        }
+      ]
+    },
+    {
+      "title_zh": "甜蜜的生活",
+      "title_en": "La Dolce Vita",
+      "year": 1960,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/10/03/la-dolce-vita/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (570).jpg?bwg=1547226256"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (582).jpg?bwg=1547226256"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (571).jpg?bwg=1547226256"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (398).jpg?bwg=1547226256"
+        }
+      ]
+    },
+    {
+      "title_zh": "阿玛柯德",
+      "title_en": "Amarcord",
+      "year": 1973,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/11/14/amarcord/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (60).jpg?bwg=1547143566"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (62).jpg?bwg=1547143564"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (61).jpg?bwg=1547143564"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (39).jpg?bwg=1547143564"
+        }
+      ]
+    },
+    {
+      "title_zh": "月吟",
+      "title_en": "The Voice of the Moon",
+      "year": 1990,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2015/01/16/the-voice-of-the-moon/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (1191).jpg?bwg=1547475027"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/20 (1215).jpg?bwg=1547475026"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/39 (1208).jpg?bwg=1547475026"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/58 (1097).jpg?bwg=1547475026"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "费里尼的视觉风格以柔光梦幻为主，银白梦幻、暖金回忆、马戏团色，营造出梦幻荒诞的氛围。",
+    "lighting": "柔光梦幻，高光偏舞台聚光，阴影偏暖金回忆，整体暖调。",
+    "composition": [],
+    "mood": [],
+    "framing": "马戏团构图、夸张广角、梦幻场景，强调视觉层次感。",
+    "grading": "对比度高对比，色调暖调，色彩银白梦幻、暖金回忆、马戏团色。",
+    "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+  }
+}

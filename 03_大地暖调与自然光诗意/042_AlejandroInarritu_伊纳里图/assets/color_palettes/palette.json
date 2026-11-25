@@ -1,0 +1,457 @@
+{
+  "director": {
+    "id": "042",
+    "name_en": "Alejandro G. Iñárritu",
+    "name_zh": "伊纳里图",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "墨西哥",
+    "active_years": "2000-至今",
+    "era": "2000-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#6B4423",
+        "name_zh": "泥土棕",
+        "name_en": "Mud Brown",
+        "ratio": 0.25,
+        "rgb": [
+          107,
+          68,
+          35
+        ],
+        "hsl": [
+          29,
+          51,
+          28
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#A87C50",
+        "name_zh": "兽皮黄",
+        "name_en": "Hide Yellow",
+        "ratio": 0.18,
+        "rgb": [
+          168,
+          124,
+          80
+        ],
+        "hsl": [
+          30,
+          35,
+          49
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#8B261A",
+        "name_zh": "凝血红",
+        "name_en": "Clotted Blood Red",
+        "ratio": 0.12,
+        "rgb": [
+          139,
+          38,
+          26
+        ],
+        "hsl": [
+          6,
+          68,
+          32
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#D9C4A3",
+        "name_zh": "暖米肤",
+        "name_en": "Warm Beige Skin",
+        "ratio": 0.15,
+        "rgb": [
+          217,
+          196,
+          163
+        ],
+        "hsl": [
+          37,
+          42,
+          75
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#4A5D6B",
+        "name_zh": "冷雾灰蓝",
+        "name_en": "Cold Mist Grey-Blue",
+        "ratio": 0.15,
+        "rgb": [
+          74,
+          93,
+          107
+        ],
+        "hsl": [
+          204,
+          18,
+          35
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#E8A84C",
+        "name_zh": "夕照金",
+        "name_en": "Sunset Gold",
+        "ratio": 0.15,
+        "rgb": [
+          232,
+          168,
+          76
+        ],
+        "hsl": [
+          36,
+          77,
+          60
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#C0392B",
+        "name_zh": "赤红痛楚",
+        "name_en": "Crimson Pain",
+        "emotion": "生存挣扎",
+        "rgb": [
+          192,
+          57,
+          43
+        ],
+        "hsl": [
+          6,
+          63,
+          46
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#F4D03F",
+        "name_zh": "金色救赎",
+        "name_en": "Golden Redemption",
+        "emotion": "命运转机",
+        "rgb": [
+          244,
+          208,
+          63
+        ],
+        "hsl": [
+          48,
+          89,
+          60
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#566573",
+        "name_zh": "灰蓝孤寂",
+        "name_en": "Grey-Blue Solitude",
+        "emotion": "存在疏离",
+        "rgb": [
+          86,
+          101,
+          115
+        ],
+        "hsl": [
+          208,
+          14,
+          39
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#6E2C00",
+        "name_zh": "深棕大地",
+        "name_en": "Deep Brown Earth",
+        "emotion": "根脉归属",
+        "rgb": [
+          110,
+          44,
+          0
+        ],
+        "hsl": [
+          24,
+          100,
+          22
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "natural available light, long take practical lighting, soft window fill",
+    "highlight_tint": "warm amber / dirty gold",
+    "shadow_tint": "earthy brown / muted cool gray",
+    "contrast_ratio": "medium-high 60-75%, natural depth preserved",
+    "overall_tone": "warm earth and blood, 65% warm + 35% cool"
+  },
+  "composition_keywords": [
+    "long take roving camera",
+    "handheld intimate",
+    "wide-angle immersive",
+    "natural framing",
+    "continuous shot choreography",
+    "low angle grit",
+    "mirror/reflection framing",
+    "visceral close-up"
+  ],
+  "color_keywords": [
+    "mud and blood warm tones",
+    "natural available light",
+    "amber interior glow",
+    "cold winter grey-blue",
+    "warm skin under stress",
+    "dirt and sweat",
+    "firelight flicker",
+    "dust in air"
+  ],
+  "mood_keywords": [
+    "existential weight",
+    "human survival",
+    "interconnected fate",
+    "visceral physicality",
+    "cultural collision",
+    "spiritual longing",
+    "bitter triumph",
+    "breath and exhaustion"
+  ],
+  "style_profile": {
+    "definition": "自然金、寒冷蓝与泥土黑把肉身置于极端环境。",
+    "lighting": "自然逆光、火光、低温环境光；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "贴身长镜、广角环境、连续移动；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "低饱和冷环境，肤色和火光保留温度；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "旅游风景色、肤色灰死、无重量稳定器、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  },
+  "real_palettes": [
+    {
+      "title_zh": "Amores Perros",
+      "title_en": "Amores Perros",
+      "year": 2000,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 17.8,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#ACC9DA",
+          "ratio": 14.5,
+          "luminance": 0.5561,
+          "saturation": 0.211
+        },
+        {
+          "hex": "#484C43",
+          "ratio": 13.2,
+          "luminance": 0.0695,
+          "saturation": 0.1184
+        },
+        {
+          "hex": "#2F3933",
+          "ratio": 11.8,
+          "luminance": 0.0377,
+          "saturation": 0.1754
+        },
+        {
+          "hex": "#7C8782",
+          "ratio": 11.5,
+          "luminance": 0.2322,
+          "saturation": 0.0815
+        },
+        {
+          "hex": "#CDE2EC",
+          "ratio": 11.0,
+          "luminance": 0.7343,
+          "saturation": 0.1314
+        },
+        {
+          "hex": "#241E19",
+          "ratio": 10.4,
+          "luminance": 0.0137,
+          "saturation": 0.3056
+        },
+        {
+          "hex": "#17231F",
+          "ratio": 9.8,
+          "luminance": 0.0148,
+          "saturation": 0.3429
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Babel",
+      "title_en": "Babel",
+      "year": 2006,
+      "palette": [
+        {
+          "hex": "#2C1C11",
+          "ratio": 15.5,
+          "luminance": 0.0141,
+          "saturation": 0.6136
+        },
+        {
+          "hex": "#9D8371",
+          "ratio": 15.0,
+          "luminance": 0.2459,
+          "saturation": 0.2803
+        },
+        {
+          "hex": "#F2F0D9",
+          "ratio": 14.1,
+          "luminance": 0.8621,
+          "saturation": 0.1033
+        },
+        {
+          "hex": "#03050A",
+          "ratio": 12.5,
+          "luminance": 0.0015,
+          "saturation": 0.7
+        },
+        {
+          "hex": "#7A665A",
+          "ratio": 11.1,
+          "luminance": 0.1438,
+          "saturation": 0.2623
+        },
+        {
+          "hex": "#84786E",
+          "ratio": 10.8,
+          "luminance": 0.1946,
+          "saturation": 0.1667
+        },
+        {
+          "hex": "#665C55",
+          "ratio": 10.7,
+          "luminance": 0.1113,
+          "saturation": 0.1667
+        },
+        {
+          "hex": "#474B48",
+          "ratio": 10.3,
+          "luminance": 0.0684,
+          "saturation": 0.0533
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Birdman",
+      "title_en": "Birdman",
+      "year": 2014,
+      "palette": [
+        {
+          "hex": "#292312",
+          "ratio": 17.0,
+          "luminance": 0.0172,
+          "saturation": 0.561
+        },
+        {
+          "hex": "#4B4533",
+          "ratio": 13.0,
+          "luminance": 0.0599,
+          "saturation": 0.32
+        },
+        {
+          "hex": "#707D7E",
+          "ratio": 12.6,
+          "luminance": 0.1962,
+          "saturation": 0.1111
+        },
+        {
+          "hex": "#0B0809",
+          "ratio": 12.5,
+          "luminance": 0.0026,
+          "saturation": 0.2727
+        },
+        {
+          "hex": "#6D9EB7",
+          "ratio": 12.3,
+          "luminance": 0.3112,
+          "saturation": 0.4044
+        },
+        {
+          "hex": "#011036",
+          "ratio": 11.8,
+          "luminance": 0.0064,
+          "saturation": 0.9815
+        },
+        {
+          "hex": "#3B7EA2",
+          "ratio": 10.9,
+          "luminance": 0.1846,
+          "saturation": 0.6358
+        },
+        {
+          "hex": "#0B4167",
+          "ratio": 9.9,
+          "luminance": 0.0483,
+          "saturation": 0.8932
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Bardo: False Chronicle of a Handful of Truths",
+      "title_en": "Bardo: False Chronicle of a Handful of Truths",
+      "year": 2022,
+      "palette": [
+        {
+          "hex": "#130E0E",
+          "ratio": 16.8,
+          "luminance": 0.0048,
+          "saturation": 0.2632
+        },
+        {
+          "hex": "#857A6A",
+          "ratio": 14.3,
+          "luminance": 0.1995,
+          "saturation": 0.203
+        },
+        {
+          "hex": "#3D423C",
+          "ratio": 13.4,
+          "luminance": 0.0521,
+          "saturation": 0.0909
+        },
+        {
+          "hex": "#2A1506",
+          "ratio": 12.6,
+          "luminance": 0.0104,
+          "saturation": 0.8571
+        },
+        {
+          "hex": "#6F6255",
+          "ratio": 11.8,
+          "luminance": 0.1277,
+          "saturation": 0.2342
+        },
+        {
+          "hex": "#35322B",
+          "ratio": 11.8,
+          "luminance": 0.0321,
+          "saturation": 0.1887
+        },
+        {
+          "hex": "#B4977E",
+          "ratio": 10.1,
+          "luminance": 0.3334,
+          "saturation": 0.3
+        },
+        {
+          "hex": "#1D211D",
+          "ratio": 9.2,
+          "luminance": 0.0144,
+          "saturation": 0.1212
+        }
+      ],
+      "sources": []
+    }
+  ]
+}

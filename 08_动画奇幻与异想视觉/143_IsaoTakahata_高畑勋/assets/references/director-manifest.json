@@ -1,0 +1,84 @@
+{
+  "director": {"zh": "高畑勋", "en": "Isao Takahata"},
+  "style_profile": {
+    "definition": "水彩留白、泥土暖色与季节光线让悲伤保持人性温度。",
+    "lighting": "柔漫射自然光，避免亮面反射，保留纸张和手绘颜料的呼吸感。",
+    "framing": "观察式中景，让动作完整发生，先交代环境再进入人物。",
+    "grading": "低对比、轻纸感、颜色边缘柔和，强调色只在情绪转折出现。",
+    "avoid": ["高饱和动漫光", "金属锐化", "霓虹描边", "无动机环绕和随机变焦", "用统一滤镜替代色彩比例、光源和材质"]
+  },
+  "films": [
+    {
+      "title_zh": "岁月的童话",
+      "title_en": "Only Yesterday",
+      "year": 1991,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-01/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-01/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-01/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-01/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "吉卜力官网《岁月的童话》作品静止画", "url": "https://www.ghibli.jp/works/omoide/"},
+        {"label": "截图 01", "url": "https://www.ghibli.jp/gallery/omoide001.jpg"},
+        {"label": "截图 02", "url": "https://www.ghibli.jp/gallery/omoide017.jpg"},
+        {"label": "截图 03", "url": "https://www.ghibli.jp/gallery/omoide034.jpg"},
+        {"label": "截图 04", "url": "https://www.ghibli.jp/gallery/omoide050.jpg"}
+      ]
+    },
+    {
+      "title_zh": "平成狸合战",
+      "title_en": "Pom Poko",
+      "year": 1994,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-02/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-02/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-02/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-02/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "吉卜力官网《平成狸合战》作品静止画", "url": "https://www.ghibli.jp/works/tanuki/"},
+        {"label": "截图 01", "url": "https://www.ghibli.jp/gallery/tanuki001.jpg"},
+        {"label": "截图 02", "url": "https://www.ghibli.jp/gallery/tanuki017.jpg"},
+        {"label": "截图 03", "url": "https://www.ghibli.jp/gallery/tanuki034.jpg"},
+        {"label": "截图 04", "url": "https://www.ghibli.jp/gallery/tanuki050.jpg"}
+      ]
+    },
+    {
+      "title_zh": "我的邻居山田君",
+      "title_en": "My Neighbors the Yamadas",
+      "year": 1999,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-03/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-03/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-03/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-03/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "吉卜力官网《我的邻居山田君》作品静止画", "url": "https://www.ghibli.jp/works/yamada/"},
+        {"label": "截图 01", "url": "https://www.ghibli.jp/gallery/yamada001.jpg"},
+        {"label": "截图 02", "url": "https://www.ghibli.jp/gallery/yamada017.jpg"},
+        {"label": "截图 03", "url": "https://www.ghibli.jp/gallery/yamada034.jpg"},
+        {"label": "截图 04", "url": "https://www.ghibli.jp/gallery/yamada050.jpg"}
+      ]
+    },
+    {
+      "title_zh": "辉夜姬物语",
+      "title_en": "The Tale of the Princess Kaguya",
+      "year": 2013,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-04/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-04/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-04/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D009-高畑勋·电影色调常用色卡/source-frames/film-04/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "吉卜力官网《辉夜姬物语》作品静止画", "url": "https://www.ghibli.jp/works/kaguyahime/"},
+        {"label": "截图 01", "url": "https://www.ghibli.jp/gallery/kaguyahime001.jpg"},
+        {"label": "截图 02", "url": "https://www.ghibli.jp/gallery/kaguyahime017.jpg"},
+        {"label": "截图 03", "url": "https://www.ghibli.jp/gallery/kaguyahime034.jpg"},
+        {"label": "截图 04", "url": "https://www.ghibli.jp/gallery/kaguyahime050.jpg"}
+      ]
+    }
+  ]
+}

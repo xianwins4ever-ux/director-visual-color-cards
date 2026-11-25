@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "157",
+    "name_en": "DonBluth",
+    "name_zh": "唐·布鲁斯",
+    "category": "08_动画奇幻与异想视觉",
+    "nationality": "美国",
+    "active_years": "1937-",
+    "era": "1937-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#7B1FA2",
+        "name_zh": "奇幻紫",
+        "name_en": "Fantasy Purple",
+        "ratio": 0.2,
+        "rgb": [
+          123,
+          31,
+          162
+        ],
+        "hsl": [
+          282,
+          68,
+          38
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#2E7D32",
+        "name_zh": "森林绿",
+        "name_en": "Forest Green",
+        "ratio": 0.18,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFA000",
+        "name_zh": "80s橙",
+        "name_en": "80s Orange",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          160,
+          0
+        ],
+        "hsl": [
+          38,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#00695C",
+        "name_zh": "深海绿",
+        "name_en": "Deep Sea Green",
+        "ratio": 0.14,
+        "rgb": [
+          0,
+          105,
+          92
+        ],
+        "hsl": [
+          173,
+          100,
+          21
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#E57373",
+        "name_zh": "粉红红",
+        "name_en": "Pink Red",
+        "ratio": 0.14,
+        "rgb": [
+          229,
+          115,
+          115
+        ],
+        "hsl": [
+          0,
+          69,
+          67
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFD54F",
+        "name_zh": "金光",
+        "name_en": "Golden Light",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#7B1FA2",
+        "name_zh": "魔法奇幻",
+        "name_en": "魔法奇幻",
+        "emotion": "魔法奇幻",
+        "rgb": [
+          123,
+          31,
+          162
+        ],
+        "hsl": [
+          282,
+          68,
+          38
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#2E7D32",
+        "name_zh": "自然冒险",
+        "name_en": "自然冒险",
+        "emotion": "自然冒险",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFA000",
+        "name_zh": "80年代怀旧",
+        "name_en": "80年代怀旧",
+        "emotion": "80年代怀旧",
+        "rgb": [
+          255,
+          160,
+          0
+        ],
+        "hsl": [
+          38,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#00695C",
+        "name_zh": "深海神秘",
+        "name_en": "深海神秘",
+        "emotion": "深海神秘",
+        "rgb": [
+          0,
+          105,
+          92
+        ],
+        "hsl": [
+          173,
+          100,
+          21
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "童话柔光",
+    "highlight_tint": "森林色光",
+    "highlight_bias": "森林色光",
+    "shadow_tint": "80年代粉彩",
+    "shadow_bias": "80年代粉彩",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "迪士尼风格",
+    "黑暗童话",
+    "动物主角",
+    "奇幻冒险",
+    "80年代动画",
+    "手绘质感"
+  ],
+  "color_keywords": [
+    "80年代动画色",
+    "黑暗童话紫绿",
+    "迪士尼叛将色",
+    "手绘暖调",
+    "奇幻粉彩",
+    "森林深色调"
+  ],
+  "mood_keywords": [
+    "80年代动画",
+    "黑暗童话",
+    "迪士尼对手",
+    "手绘黄金",
+    "奇幻冒险",
+    "童年记忆"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "唐·布鲁斯的视觉风格：童话柔光，80年代动画色, 黑暗童话紫绿, 迪士尼叛将色。",
+    "lighting": "童话柔光，森林色光，80年代粉彩",
+    "framing": "迪士尼风格、黑暗童话、动物主角。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

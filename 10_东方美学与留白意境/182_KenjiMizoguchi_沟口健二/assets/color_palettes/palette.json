@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "182",
+    "name_en": "KenjiMizoguchi",
+    "name_zh": "沟口健二",
+    "category": "10_东方美学与留白意境",
+    "nationality": "日本",
+    "active_years": "1898-1956",
+    "era": "1898-1956"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#5D4037",
+        "name_zh": "卷轴棕",
+        "name_en": "Scroll Brown",
+        "ratio": 0.2,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#78909C",
+        "name_zh": "雨雾灰",
+        "name_en": "Rain Fog Gray",
+        "ratio": 0.18,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFD54F",
+        "name_zh": "纸灯金",
+        "name_en": "Paper Lantern Gold",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#B71C1C",
+        "name_zh": "悲壮红",
+        "name_en": "Tragic Red",
+        "ratio": 0.14,
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#1A1A1A",
+        "name_zh": "墨黑",
+        "name_en": "Ink Black",
+        "ratio": 0.14,
+        "rgb": [
+          26,
+          26,
+          26
+        ],
+        "hsl": [
+          0,
+          0,
+          10
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#D7CCC8",
+        "name_zh": "绢米",
+        "name_en": "Silk Beige",
+        "ratio": 0.18,
+        "rgb": [
+          215,
+          204,
+          200
+        ],
+        "hsl": [
+          16,
+          16,
+          81
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#5D4037",
+        "name_zh": "历史厚重",
+        "name_en": "历史厚重",
+        "emotion": "历史厚重",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#B71C1C",
+        "name_zh": "女性悲剧",
+        "name_en": "女性悲剧",
+        "emotion": "女性悲剧",
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD54F",
+        "name_zh": "人性微光",
+        "name_en": "人性微光",
+        "emotion": "人性微光",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#78909C",
+        "name_zh": "命运无常",
+        "name_en": "命运无常",
+        "emotion": "命运无常",
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "卷轴画侧光",
+    "highlight_tint": "日式纸窗光",
+    "highlight_bias": "日式纸窗光",
+    "shadow_tint": "高反差",
+    "shadow_bias": "高反差",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "一卷一场",
+    "卷轴画构图",
+    "女性受难",
+    "历史剧",
+    "长镜头",
+    "雨雾场景"
+  ],
+  "color_keywords": [
+    "沟口卷轴棕",
+    "女性悲歌色",
+    "日本古典色",
+    "雨雾灰调",
+    "纸灯金色",
+    "历史剧色调"
+  ],
+  "mood_keywords": [
+    "女性悲歌",
+    "卷轴画美学",
+    "长镜头诗",
+    "日本古典",
+    "命运悲剧",
+    "人道主义"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "沟口健二的视觉风格：卷轴画侧光，沟口卷轴棕, 女性悲歌色, 日本古典色。",
+    "lighting": "卷轴画侧光，日式纸窗光，高反差",
+    "framing": "一卷一场、卷轴画构图、女性受难。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

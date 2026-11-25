@@ -1,0 +1,457 @@
+{
+  "director": {
+    "id": "044",
+    "name_en": "Guillermo del Toro",
+    "name_zh": "吉尔莫·德尔·托罗",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "墨西哥",
+    "active_years": "1993-至今",
+    "era": "1993-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#3B220F",
+        "name_zh": "深棕琥珀",
+        "name_en": "Deep Amber Brown",
+        "ratio": 0.25,
+        "rgb": [
+          59,
+          34,
+          15
+        ],
+        "hsl": [
+          26,
+          59,
+          15
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#B8860B",
+        "name_zh": "暗金神话",
+        "name_en": "Dark Gold Mythic",
+        "ratio": 0.2,
+        "rgb": [
+          184,
+          134,
+          11
+        ],
+        "hsl": [
+          42,
+          89,
+          38
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#1C1C1C",
+        "name_zh": "暖黑哥特",
+        "name_en": "Warm Black Gothic",
+        "ratio": 0.18,
+        "rgb": [
+          28,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          0,
+          11
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#D4A574",
+        "name_zh": "大地金棕",
+        "name_en": "Earth Golden Brown",
+        "ratio": 0.15,
+        "rgb": [
+          212,
+          165,
+          116
+        ],
+        "hsl": [
+          32,
+          52,
+          64
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#8B4513",
+        "name_zh": "赭石红木",
+        "name_en": "Sienna Wood",
+        "ratio": 0.12,
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#F0E68C",
+        "name_zh": "蜜光黄",
+        "name_en": "Honey Light Yellow",
+        "ratio": 0.1,
+        "rgb": [
+          240,
+          230,
+          140
+        ],
+        "hsl": [
+          54,
+          77,
+          75
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FFD700",
+        "name_zh": "童话金",
+        "name_en": "Fairy Tale Gold",
+        "emotion": "纯真奇幻",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#4682B4",
+        "name_zh": "深海蓝",
+        "name_en": "Deep Sea Blue",
+        "emotion": "孤寂爱意",
+        "rgb": [
+          70,
+          130,
+          180
+        ],
+        "hsl": [
+          207,
+          44,
+          49
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#8B0000",
+        "name_zh": "暗红血",
+        "name_en": "Dark Blood Red",
+        "emotion": "战争残酷",
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#556B2F",
+        "name_zh": "苔藓绿",
+        "name_en": "Moss Green",
+        "emotion": "神秘自然",
+        "rgb": [
+          85,
+          107,
+          47
+        ],
+        "hsl": [
+          82,
+          39,
+          30
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "warm side lighting, amber practicals, soft fairy tale diffusion",
+    "highlight_tint": "honey gold / amber yellow",
+    "shadow_tint": "warm black / deep brown (never pure cool black)",
+    "contrast_ratio": "high 70-85%, amber detail preserved in darkness",
+    "overall_tone": "warm amber gothic, 80% warm + 20% cool"
+  },
+  "composition_keywords": [
+    "fairy tale symmetry",
+    "creature feature framing",
+    "gothic architecture",
+    "low angle monster reveal",
+    "warm candlelit interior",
+    "fantasy portal",
+    "symmetrical wide shot",
+    "creature close-up empathy"
+  ],
+  "color_keywords": [
+    "amber fairy tale palette",
+    "warm black gothic",
+    "dark gold mythic tones",
+    "honey light diffusion",
+    "teal laboratory contrast",
+    "moss green forest magic",
+    "blood red violence",
+    "sepia memory glow"
+  ],
+  "mood_keywords": [
+    "dark fairy tale wonder",
+    "sympathetic monsters",
+    "gothic romance",
+    "childhood imagination",
+    "anti-fascist resistance",
+    "love across difference",
+    "magical realism",
+    "melancholic beauty"
+  ],
+  "style_profile": {
+    "definition": "古金、血红、海洋青绿与潮湿黑让怪物童话既温暖又危险。",
+    "lighting": "烛光、月光、潮湿反射、体积光；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "童话对称、缓慢揭示、怪物细节；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "暖金对冷青绿，材质湿润，红色克制；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "糖果奇幻、干净塑料怪物、蓝光糊脸、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  },
+  "real_palettes": [
+    {
+      "title_zh": "Cronos",
+      "title_en": "Cronos",
+      "year": 1993,
+      "palette": [
+        {
+          "hex": "#211C1C",
+          "ratio": 16.6,
+          "luminance": 0.0124,
+          "saturation": 0.1515
+        },
+        {
+          "hex": "#140302",
+          "ratio": 16.1,
+          "luminance": 0.0022,
+          "saturation": 0.9
+        },
+        {
+          "hex": "#404350",
+          "ratio": 14.8,
+          "luminance": 0.0568,
+          "saturation": 0.2
+        },
+        {
+          "hex": "#212733",
+          "ratio": 12.1,
+          "luminance": 0.0201,
+          "saturation": 0.3529
+        },
+        {
+          "hex": "#573228",
+          "ratio": 11.8,
+          "luminance": 0.0446,
+          "saturation": 0.5402
+        },
+        {
+          "hex": "#6E4844",
+          "ratio": 11.0,
+          "luminance": 0.0837,
+          "saturation": 0.3818
+        },
+        {
+          "hex": "#392118",
+          "ratio": 8.9,
+          "luminance": 0.0202,
+          "saturation": 0.5789
+        },
+        {
+          "hex": "#433131",
+          "ratio": 8.7,
+          "luminance": 0.0361,
+          "saturation": 0.2687
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Hellboy",
+      "title_en": "Hellboy",
+      "year": 2004,
+      "palette": [
+        {
+          "hex": "#0A1732",
+          "ratio": 16.6,
+          "luminance": 0.0091,
+          "saturation": 0.8
+        },
+        {
+          "hex": "#03284D",
+          "ratio": 15.1,
+          "luminance": 0.0207,
+          "saturation": 0.961
+        },
+        {
+          "hex": "#57070E",
+          "ratio": 13.6,
+          "luminance": 0.0221,
+          "saturation": 0.9195
+        },
+        {
+          "hex": "#010B21",
+          "ratio": 13.4,
+          "luminance": 0.0036,
+          "saturation": 0.9697
+        },
+        {
+          "hex": "#05121D",
+          "ratio": 13.2,
+          "luminance": 0.0055,
+          "saturation": 0.8276
+        },
+        {
+          "hex": "#02233D",
+          "ratio": 10.5,
+          "luminance": 0.0155,
+          "saturation": 0.9672
+        },
+        {
+          "hex": "#183B6D",
+          "ratio": 8.9,
+          "luminance": 0.0443,
+          "saturation": 0.7798
+        },
+        {
+          "hex": "#000008",
+          "ratio": 8.7,
+          "luminance": 0.0002,
+          "saturation": 1.0
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Crimson Peak",
+      "title_en": "Crimson Peak",
+      "year": 2015,
+      "palette": [
+        {
+          "hex": "#020202",
+          "ratio": 19.7,
+          "luminance": 0.0006,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#5D0102",
+          "ratio": 13.1,
+          "luminance": 0.0235,
+          "saturation": 0.9892
+        },
+        {
+          "hex": "#676988",
+          "ratio": 12.1,
+          "luminance": 0.1476,
+          "saturation": 0.2426
+        },
+        {
+          "hex": "#071020",
+          "ratio": 12.0,
+          "luminance": 0.0052,
+          "saturation": 0.7812
+        },
+        {
+          "hex": "#444763",
+          "ratio": 10.9,
+          "luminance": 0.0664,
+          "saturation": 0.3131
+        },
+        {
+          "hex": "#921818",
+          "ratio": 10.8,
+          "luminance": 0.0683,
+          "saturation": 0.8356
+        },
+        {
+          "hex": "#460202",
+          "ratio": 10.7,
+          "luminance": 0.0135,
+          "saturation": 0.9714
+        },
+        {
+          "hex": "#88A1D9",
+          "ratio": 10.7,
+          "luminance": 0.3573,
+          "saturation": 0.3733
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Frankenstein (2025)",
+      "title_en": "Frankenstein (2025)",
+      "year": 2025,
+      "palette": [
+        {
+          "hex": "#316174",
+          "ratio": 15.2,
+          "luminance": 0.1046,
+          "saturation": 0.5776
+        },
+        {
+          "hex": "#09120D",
+          "ratio": 14.0,
+          "luminance": 0.0052,
+          "saturation": 0.5
+        },
+        {
+          "hex": "#757B75",
+          "ratio": 14.0,
+          "luminance": 0.1923,
+          "saturation": 0.0488
+        },
+        {
+          "hex": "#93978B",
+          "ratio": 12.5,
+          "luminance": 0.302,
+          "saturation": 0.0795
+        },
+        {
+          "hex": "#27251D",
+          "ratio": 11.9,
+          "luminance": 0.0184,
+          "saturation": 0.2564
+        },
+        {
+          "hex": "#144451",
+          "ratio": 11.2,
+          "luminance": 0.0488,
+          "saturation": 0.7531
+        },
+        {
+          "hex": "#9FACA3",
+          "ratio": 10.7,
+          "luminance": 0.3952,
+          "saturation": 0.0756
+        },
+        {
+          "hex": "#182921",
+          "ratio": 10.5,
+          "luminance": 0.0189,
+          "saturation": 0.4146
+        }
+      ],
+      "sources": []
+    }
+  ]
+}

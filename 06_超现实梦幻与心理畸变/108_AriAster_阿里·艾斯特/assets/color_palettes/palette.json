@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "108",
+    "name_en": "AriAster",
+    "name_zh": "阿里·艾斯特",
+    "category": "06_超现实梦幻与心理畸变",
+    "nationality": "美国",
+    "active_years": "1986-",
+    "era": "1986-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FFB300",
+        "name_zh": "仲夏夜金",
+        "name_en": "Midsommar Gold",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          179,
+          0
+        ],
+        "hsl": [
+          42,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#8D6E63",
+        "name_zh": "木屋棕",
+        "name_en": "Cabin Brown",
+        "ratio": 0.18,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#33691E",
+        "name_zh": "青草绿",
+        "name_en": "Meadow Green",
+        "ratio": 0.16,
+        "rgb": [
+          51,
+          105,
+          30
+        ],
+        "hsl": [
+          103,
+          56,
+          26
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#B71C1C",
+        "name_zh": "血暗红",
+        "name_en": "Blood Dark Red",
+        "ratio": 0.14,
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFF9C4",
+        "name_zh": "日光黄",
+        "name_en": "Sunlight Yellow",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          249,
+          196
+        ],
+        "hsl": [
+          54,
+          100,
+          88
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#3E2723",
+        "name_zh": "暗棕黑",
+        "name_en": "Dark Brown Black",
+        "ratio": 0.18,
+        "rgb": [
+          62,
+          39,
+          35
+        ],
+        "hsl": [
+          9,
+          28,
+          19
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FFB300",
+        "name_zh": "日光恐惧",
+        "name_en": "日光恐惧",
+        "emotion": "日光恐惧",
+        "rgb": [
+          255,
+          179,
+          0
+        ],
+        "hsl": [
+          42,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#8D6E63",
+        "name_zh": "家庭压抑",
+        "name_en": "家庭压抑",
+        "emotion": "家庭压抑",
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#B71C1C",
+        "name_zh": "血腥暴力",
+        "name_en": "血腥暴力",
+        "emotion": "血腥暴力",
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#33691E",
+        "name_zh": "自然恐怖",
+        "name_en": "自然恐怖",
+        "emotion": "自然恐怖",
+        "rgb": [
+          51,
+          105,
+          30
+        ],
+        "hsl": [
+          103,
+          56,
+          26
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然日光",
+    "highlight_tint": "暖色火光",
+    "highlight_bias": "暖色火光",
+    "shadow_tint": "室内柔光",
+    "shadow_bias": "室内柔光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "对称构图",
+    "家庭空间",
+    "微缩模型",
+    "民俗仪式",
+    "缓慢恐怖",
+    "女性心理"
+  ],
+  "color_keywords": [
+    "日光恐怖色",
+    "民俗暖黄",
+    "木屋棕调",
+    "白昼恐惧",
+    "瑞典夏日色",
+    "家庭暖色"
+  ],
+  "mood_keywords": [
+    "日光恐怖",
+    "家庭创伤",
+    "民俗恐怖",
+    "悲伤恐惧",
+    "女性心理",
+    "存在焦虑"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "阿里·艾斯特的视觉风格：自然日光，日光恐怖色, 民俗暖黄, 木屋棕调。",
+    "lighting": "自然日光，暖色火光，室内柔光",
+    "framing": "对称构图、家庭空间、微缩模型。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

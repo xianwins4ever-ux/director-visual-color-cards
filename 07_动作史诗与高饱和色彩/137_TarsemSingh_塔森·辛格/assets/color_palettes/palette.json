@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "137",
+    "name_en": "TarsemSingh",
+    "name_zh": "塔森·辛格",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "印度/美国",
+    "active_years": "1961-",
+    "era": "1961-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FF6D00",
+        "name_zh": "沙漠橙",
+        "name_en": "Desert Orange",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          109,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#6A1B9A",
+        "name_zh": "王室紫",
+        "name_en": "Royal Purple",
+        "ratio": 0.18,
+        "rgb": [
+          106,
+          27,
+          154
+        ],
+        "hsl": [
+          277,
+          70,
+          35
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#00695C",
+        "name_zh": "松石绿",
+        "name_en": "Turquoise Green",
+        "ratio": 0.16,
+        "rgb": [
+          0,
+          105,
+          92
+        ],
+        "hsl": [
+          173,
+          100,
+          21
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFD600",
+        "name_zh": "黄金色",
+        "name_en": "Gold Yellow",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          214,
+          0
+        ],
+        "hsl": [
+          50,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#C62828",
+        "name_zh": "血红色",
+        "name_en": "Blood Red",
+        "ratio": 0.14,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#1A237E",
+        "name_zh": "深夜蓝",
+        "name_en": "Deep Night Blue",
+        "ratio": 0.18,
+        "rgb": [
+          26,
+          35,
+          126
+        ],
+        "hsl": [
+          235,
+          66,
+          30
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF6D00",
+        "name_zh": "异域迷幻",
+        "name_en": "异域迷幻",
+        "emotion": "异域迷幻",
+        "rgb": [
+          255,
+          109,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#6A1B9A",
+        "name_zh": "王室神秘",
+        "name_en": "王室神秘",
+        "emotion": "王室神秘",
+        "rgb": [
+          106,
+          27,
+          154
+        ],
+        "hsl": [
+          277,
+          70,
+          35
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#00695C",
+        "name_zh": "异国情调",
+        "name_en": "异国情调",
+        "emotion": "异国情调",
+        "rgb": [
+          0,
+          105,
+          92
+        ],
+        "hsl": [
+          173,
+          100,
+          21
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFD600",
+        "name_zh": "童话梦境",
+        "name_en": "童话梦境",
+        "emotion": "童话梦境",
+        "rgb": [
+          255,
+          214,
+          0
+        ],
+        "hsl": [
+          50,
+          100,
+          50
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "画框式布光",
+    "highlight_tint": "彩色色光",
+    "highlight_bias": "彩色色光",
+    "shadow_tint": "自然天光",
+    "shadow_bias": "自然天光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "画框构图",
+    "极致美术",
+    "异域风景",
+    "童话叙事",
+    "色彩构图",
+    "每一帧都是画"
+  ],
+  "color_keywords": [
+    "印度异域色",
+    "极致美术色彩",
+    "画框式配色",
+    "沙漠橙紫",
+    "松石绿金",
+    "童话饱和色"
+  ],
+  "mood_keywords": [
+    "视觉盛宴",
+    "异域童话",
+    "极致美术",
+    "画框美学",
+    "梦境现实",
+    "印度美学"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "塔森·辛格的视觉风格：画框式布光，印度异域色, 极致美术色彩, 画框式配色。",
+    "lighting": "画框式布光，彩色色光，自然天光",
+    "framing": "画框构图、极致美术、异域风景。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

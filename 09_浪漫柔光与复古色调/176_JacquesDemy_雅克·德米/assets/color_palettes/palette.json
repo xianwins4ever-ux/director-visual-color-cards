@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "176",
+    "name_en": "JacquesDemy",
+    "name_zh": "雅克·德米",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "法国",
+    "active_years": "1931-1990",
+    "era": "1931-1990"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#F48FB1",
+        "name_zh": "罗什福尔粉",
+        "name_en": "Rochefort Pink",
+        "ratio": 0.2,
+        "rgb": [
+          244,
+          143,
+          177
+        ],
+        "hsl": [
+          340,
+          82,
+          76
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#64B5F6",
+        "name_zh": "雨伞蓝",
+        "name_en": "Umbrella Blue",
+        "ratio": 0.2,
+        "rgb": [
+          100,
+          181,
+          246
+        ],
+        "hsl": [
+          207,
+          89,
+          68
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFD54F",
+        "name_zh": "港口金",
+        "name_en": "Port Gold",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFAB91",
+        "name_zh": "珊瑚橙",
+        "name_en": "Coral Orange",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          171,
+          145
+        ],
+        "hsl": [
+          14,
+          100,
+          78
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#BA68C8",
+        "name_zh": "梦幻紫",
+        "name_en": "Dreamy Purple",
+        "ratio": 0.12,
+        "rgb": [
+          186,
+          104,
+          200
+        ],
+        "hsl": [
+          291,
+          47,
+          60
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFFFFF",
+        "name_zh": "纯白",
+        "name_en": "Pure White",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#F48FB1",
+        "name_zh": "浪漫梦幻",
+        "name_en": "浪漫梦幻",
+        "emotion": "浪漫梦幻",
+        "rgb": [
+          244,
+          143,
+          177
+        ],
+        "hsl": [
+          340,
+          82,
+          76
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#64B5F6",
+        "name_zh": "雨伞忧伤",
+        "name_en": "雨伞忧伤",
+        "emotion": "雨伞忧伤",
+        "rgb": [
+          100,
+          181,
+          246
+        ],
+        "hsl": [
+          207,
+          89,
+          68
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD54F",
+        "name_zh": "港口温情",
+        "name_en": "港口温情",
+        "emotion": "港口温情",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFAB91",
+        "name_zh": "初恋甜蜜",
+        "name_en": "初恋甜蜜",
+        "emotion": "初恋甜蜜",
+        "rgb": [
+          255,
+          171,
+          145
+        ],
+        "hsl": [
+          14,
+          100,
+          78
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "童话柔光",
+    "highlight_tint": "粉蓝彩色",
+    "highlight_bias": "粉蓝彩色",
+    "shadow_tint": "港口阳光",
+    "shadow_bias": "港口阳光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "歌舞场面",
+    "南特港口",
+    "雨伞店",
+    "童话色彩",
+    "年轻恋人",
+    "命运巧合"
+  ],
+  "color_keywords": [
+    "雅克德米粉蓝",
+    "雨伞店蓝色",
+    "罗什福尔粉",
+    "法国歌舞片色",
+    "童话色彩",
+    "港口暖光"
+  ],
+  "mood_keywords": [
+    "浪漫歌舞",
+    "童话色彩",
+    "南特回忆",
+    "雨伞忧伤",
+    "命运爱情",
+    "法国诗意"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "雅克·德米的视觉风格：童话柔光，雅克德米粉蓝, 雨伞店蓝色, 罗什福尔粉。",
+    "lighting": "童话柔光，粉蓝彩色，港口阳光",
+    "framing": "歌舞场面、南特港口、雨伞店。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

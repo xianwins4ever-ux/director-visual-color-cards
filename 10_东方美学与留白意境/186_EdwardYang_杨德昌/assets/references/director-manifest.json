@@ -1,0 +1,56 @@
+{
+  "director": {"zh": "杨德昌", "en": "Edward Yang"},
+  "style_profile": {
+    "definition": "冷静都市中用灰蓝玻璃、荧光绿和家庭暖黄区分公共与私人。",
+    "lighting": "自然窗光与办公室荧光并存；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "建筑框架、平视中远景、多人空间关系；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "中性低饱和，暖黄只留在亲密空间；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": ["过度怀旧黄", "浮夸霓虹", "滥用特写", "无动机环绕和随机变焦", "用统一滤镜替代色彩比例、光源和材质"]
+  },
+  "films": [
+    {
+      "title_zh": "恐怖分子", "title_en": "The Terrorizers", "year": 1986,
+      "frames": ["source-frames/film-01/frame-01.jpg", "source-frames/film-01/frame-02.jpg", "source-frames/film-01/frame-03.jpg", "source-frames/film-01/frame-04.jpg"],
+      "sources": [
+        {"label": "FilmGrab 真实电影截图图库", "url": "https://film-grab.com/2018/09/02/the-terrorizers/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/terrorizers001.jpg?bwg=1546976384"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/terrorizers022.jpg?bwg=1546976383"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/terrorizers044.jpg?bwg=1546976383"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/terrorizers065.jpg?bwg=1546976383"}
+      ]
+    },
+    {
+      "title_zh": "牯岭街少年杀人事件", "title_en": "A Brighter Summer Day", "year": 1991,
+      "frames": ["source-frames/film-02/frame-01.jpg", "source-frames/film-02/frame-02.jpg", "source-frames/film-02/frame-03.jpg", "source-frames/film-02/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/15804/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/15SaK2kGdXwMuVANzHdKyciexo.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/1Bqj2q0yUWdGmgcJCuXJFzO61mo.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/1G2NRMKNjXDndAMkXd2CR5fRQeZ.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/2LMgkmtnmhjUHvFXNDruHzrUFKK.jpg"}
+      ]
+    },
+    {
+      "title_zh": "独立时代", "title_en": "A Confucian Confusion", "year": 1994,
+      "frames": ["source-frames/film-03/frame-01.jpg", "source-frames/film-03/frame-02.jpg", "source-frames/film-03/frame-03.jpg", "source-frames/film-03/frame-04.jpg"],
+      "sources": [
+        {"label": "FilmGrab 真实电影截图图库", "url": "https://film-grab.com/2025/07/19/a-confucian-confusion/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/A_Confucian_Confusion_01.jpg?bwg=1715851280"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/A_Confucian_Confusion_21.jpg?bwg=1715851278"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/A_Confucian_Confusion_40.jpg?bwg=1715851278"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/A_Confucian_Confusion_60.jpg?bwg=1715851278"}
+      ]
+    },
+    {
+      "title_zh": "一一", "title_en": "Yi Yi", "year": 2000,
+      "frames": ["source-frames/film-04/frame-01.jpg", "source-frames/film-04/frame-02.jpg", "source-frames/film-04/frame-03.jpg", "source-frames/film-04/frame-04.jpg"],
+      "sources": [
+        {"label": "FilmGrab 真实电影截图图库", "url": "https://film-grab.com/2018/05/29/yi-yi-a-one-and-a-two/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/aoneandatwo001.jpg?bwg=1546982405"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/aoneandatwo022.jpg?bwg=1546982404"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/aoneandatwo044.jpg?bwg=1546982403"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/aoneandatwo065.jpg?bwg=1546982403"}
+      ]
+    }
+  ]
+}

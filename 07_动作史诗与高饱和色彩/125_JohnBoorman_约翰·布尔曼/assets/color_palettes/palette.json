@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "125",
+    "name_en": "JohnBoorman",
+    "name_zh": "约翰·布尔曼",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "英国",
+    "active_years": "1933-2024",
+    "era": "1933-2024"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#1B5E20",
+        "name_zh": "丛林深绿",
+        "name_en": "Jungle Deep Green",
+        "ratio": 0.22,
+        "rgb": [
+          27,
+          94,
+          32
+        ],
+        "hsl": [
+          124,
+          55,
+          24
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFD54F",
+        "name_zh": "圣剑金",
+        "name_en": "Excalibur Gold",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#0D47A1",
+        "name_zh": "湖水蓝",
+        "name_en": "Lake Blue",
+        "ratio": 0.16,
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#6D4C41",
+        "name_zh": "皮甲棕",
+        "name_en": "Leather Brown",
+        "ratio": 0.14,
+        "rgb": [
+          109,
+          76,
+          65
+        ],
+        "hsl": [
+          15,
+          25,
+          34
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#B71C1C",
+        "name_zh": "血锈红",
+        "name_en": "Blood Rust Red",
+        "ratio": 0.14,
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#1A237E",
+        "name_zh": "深夜蓝",
+        "name_en": "Deep Night Blue",
+        "ratio": 0.14,
+        "rgb": [
+          26,
+          35,
+          126
+        ],
+        "hsl": [
+          235,
+          66,
+          30
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#1B5E20",
+        "name_zh": "自然原力",
+        "name_en": "自然原力",
+        "emotion": "自然原力",
+        "rgb": [
+          27,
+          94,
+          32
+        ],
+        "hsl": [
+          124,
+          55,
+          24
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFD54F",
+        "name_zh": "神话荣光",
+        "name_en": "神话荣光",
+        "emotion": "神话荣光",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#0D47A1",
+        "name_zh": "神秘湖水",
+        "name_en": "神秘湖水",
+        "emotion": "神秘湖水",
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#B71C1C",
+        "name_zh": "暴力血腥",
+        "name_en": "暴力血腥",
+        "emotion": "暴力血腥",
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "森林光斑",
+    "highlight_tint": "水光反射",
+    "highlight_bias": "水光反射",
+    "shadow_tint": "黄金时刻",
+    "shadow_bias": "黄金时刻",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "丛林穿越",
+    "亚瑟王传奇",
+    "镜面反射",
+    "自然神秘",
+    "剑光闪烁",
+    "英雄旅程"
+  ],
+  "color_keywords": [
+    "丛林翠绿",
+    "圣剑金光",
+    "湖水深蓝",
+    "自然原色",
+    "神话色彩",
+    "绿色饱和"
+  ],
+  "mood_keywords": [
+    "神话史诗",
+    "自然神秘",
+    "英雄旅程",
+    "亚瑟王传奇",
+    "丛林冒险",
+    "命运预言"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "约翰·布尔曼的视觉风格：森林光斑，丛林翠绿, 圣剑金光, 湖水深蓝。",
+    "lighting": "森林光斑，水光反射，黄金时刻",
+    "framing": "丛林穿越、亚瑟王传奇、镜面反射。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

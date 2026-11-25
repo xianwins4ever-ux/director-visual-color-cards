@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "177",
+    "name_en": "HirokazuKoreeda",
+    "name_zh": "是枝裕和",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "日本",
+    "active_years": "1962-",
+    "era": "1962-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#81C784",
+        "name_zh": "夏日绿",
+        "name_en": "Summer Green",
+        "ratio": 0.2,
+        "rgb": [
+          129,
+          199,
+          132
+        ],
+        "hsl": [
+          123,
+          38,
+          64
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFCC80",
+        "name_zh": "暖黄",
+        "name_en": "Warm Yellow",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#BCAAA4",
+        "name_zh": "榻榻米米",
+        "name_en": "Tatami Beige",
+        "ratio": 0.16,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#90CAF9",
+        "name_zh": "夏日蓝",
+        "name_en": "Summer Blue",
+        "ratio": 0.14,
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#A1887F",
+        "name_zh": "木质棕",
+        "name_en": "Wood Brown",
+        "ratio": 0.14,
+        "rgb": [
+          161,
+          136,
+          127
+        ],
+        "hsl": [
+          16,
+          15,
+          56
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFF9C4",
+        "name_zh": "阳光黄",
+        "name_en": "Sunshine Yellow",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          249,
+          196
+        ],
+        "hsl": [
+          54,
+          100,
+          88
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#81C784",
+        "name_zh": "家庭温暖",
+        "name_en": "家庭温暖",
+        "emotion": "家庭温暖",
+        "rgb": [
+          129,
+          199,
+          132
+        ],
+        "hsl": [
+          123,
+          38,
+          64
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFCC80",
+        "name_zh": "记忆微光",
+        "name_en": "记忆微光",
+        "emotion": "记忆微光",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#BCAAA4",
+        "name_zh": "日常平静",
+        "name_en": "日常平静",
+        "emotion": "日常平静",
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#90CAF9",
+        "name_zh": "夏日清澈",
+        "name_en": "夏日清澈",
+        "emotion": "夏日清澈",
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然柔光",
+    "highlight_tint": "夏日绿意",
+    "highlight_bias": "夏日绿意",
+    "shadow_tint": "室内暖光",
+    "shadow_bias": "室内暖光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "家庭群像",
+    "夏日风景",
+    "静帧长镜",
+    "庶民生活",
+    "父子母女",
+    "餐桌场景"
+  ],
+  "color_keywords": [
+    "是枝裕和绿",
+    "家庭暖调",
+    "夏日绿蓝",
+    "庶民剧色",
+    "榻榻米米白",
+    "静水流深色"
+  ],
+  "mood_keywords": [
+    "家庭温情",
+    "庶民剧",
+    "静水流深",
+    "日本家庭",
+    "夏日记忆",
+    "生死主题"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "是枝裕和的视觉风格：自然柔光，是枝裕和绿, 家庭暖调, 夏日绿蓝。",
+    "lighting": "自然柔光，夏日绿意，室内暖光",
+    "framing": "家庭群像、夏日风景、静帧长镜。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "196",
+    "name_en": "MohsenMakhmalbaf",
+    "name_zh": "莫森·玛克玛尔巴夫",
+    "category": "10_东方美学与留白意境",
+    "nationality": "伊朗",
+    "active_years": "1957-",
+    "era": "1957-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#C62828",
+        "name_zh": "革命红",
+        "name_en": "Revolution Red",
+        "ratio": 0.22,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFD54F",
+        "name_zh": "沙漠金",
+        "name_en": "Desert Gold",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#1565C0",
+        "name_zh": "天空蓝",
+        "name_en": "Sky Blue",
+        "ratio": 0.16,
+        "rgb": [
+          21,
+          101,
+          192
+        ],
+        "hsl": [
+          212,
+          80,
+          42
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#2E7D32",
+        "name_zh": "生命绿",
+        "name_en": "Life Green",
+        "ratio": 0.14,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#6D4C41",
+        "name_zh": "土地棕",
+        "name_en": "Land Brown",
+        "ratio": 0.14,
+        "rgb": [
+          109,
+          76,
+          65
+        ],
+        "hsl": [
+          15,
+          25,
+          34
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FF6D00",
+        "name_zh": "落日橙",
+        "name_en": "Sunset Orange",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          109,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#C62828",
+        "name_zh": "革命激情",
+        "name_en": "革命激情",
+        "emotion": "革命激情",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFD54F",
+        "name_zh": "生命坚韧",
+        "name_en": "生命坚韧",
+        "emotion": "生命坚韧",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#1565C0",
+        "name_zh": "自由渴望",
+        "name_en": "自由渴望",
+        "emotion": "自由渴望",
+        "rgb": [
+          21,
+          101,
+          192
+        ],
+        "hsl": [
+          212,
+          80,
+          42
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#2E7D32",
+        "name_zh": "希望绿意",
+        "name_en": "希望绿意",
+        "emotion": "希望绿意",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "强烈色光",
+    "highlight_tint": "自然天光",
+    "highlight_bias": "自然天光",
+    "shadow_tint": "高饱和色彩",
+    "shadow_bias": "高饱和色彩",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "强烈色彩",
+    "政治隐喻",
+    "阿富汗题材",
+    "诗意影像",
+    "非职业演员",
+    "手持摄影"
+  ],
+  "color_keywords": [
+    "玛克玛尔巴夫红金",
+    "伊朗革命色",
+    "阿富汗色彩",
+    "诗意政治色",
+    "高饱和色光",
+    "沙漠金红色"
+  ],
+  "mood_keywords": [
+    "诗意政治",
+    "伊朗新浪潮",
+    "阿富汗",
+    "色彩革命",
+    "流亡导演",
+    "人性关怀"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "莫森·玛克玛尔巴夫的视觉风格：强烈色光，玛克玛尔巴夫红金, 伊朗革命色, 阿富汗色彩。",
+    "lighting": "强烈色光，自然天光，高饱和色彩",
+    "framing": "强烈色彩、政治隐喻、阿富汗题材。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

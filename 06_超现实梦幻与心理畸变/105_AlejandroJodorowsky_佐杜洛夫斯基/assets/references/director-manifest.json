@@ -1,0 +1,153 @@
+{
+  "director": {
+    "zh": "亚历桑德罗·佐杜洛夫斯基",
+    "en": "Alejandro Jodorowsky"
+  },
+  "style_profile": {
+    "definition": "炼金金、血红、沙漠白和宗教黑组成超现实仪式图谱。",
+    "lighting": "正面烈日、舞台色光、仪式火光；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "固定圣像、广角畸变、队列仪式；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "高纯度象征色分块，质感粗粝；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": [
+      "柔和自然主义",
+      "随机迷幻渐变",
+      "精致广告感",
+      "无动机环绕和随机变焦",
+      "用统一滤镜替代色彩比例、光源和材质。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "Fando y Lis",
+      "title_en": "Fando y Lis",
+      "year": 1968,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/06/27/fando-y-lis/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (369).jpg?bwg=1547216150"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/18 (376).jpg?bwg=1547216149"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/36 (373).jpg?bwg=1547216148"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/53 (348).jpg?bwg=1547216148"
+        }
+      ]
+    },
+    {
+      "title_zh": "The Holy Mountain",
+      "title_en": "The Holy Mountain",
+      "year": 1973,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2014/09/15/the-holy-mountain/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (461).jpg?bwg=1547220733"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (470).jpg?bwg=1547220733"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (460).jpg?bwg=1547220732"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (309).jpg?bwg=1547220732"
+        }
+      ]
+    },
+    {
+      "title_zh": "Santa Sangre",
+      "title_en": "Santa Sangre",
+      "year": 1989,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2016/06/01/santa-sangre/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/01 (878).jpg?bwg=1547383073"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/22 (897).jpg?bwg=1547383072"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/44 (882).jpg?bwg=1547383071"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/65 (602).jpg?bwg=1547383071"
+        }
+      ]
+    },
+    {
+      "title_zh": "Dance of Reality",
+      "title_en": "Dance of Reality",
+      "year": 2013,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D090-亚历桑德罗·佐杜洛夫斯基·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2019/02/04/dance-of-reality/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/danceofreality001.jpg?bwg=1546962403"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/danceofreality022.jpg?bwg=1546962401"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/danceofreality044.jpg?bwg=1546962401"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/danceofreality065.jpg?bwg=1546962401"
+        }
+      ]
+    }
+  ]
+}

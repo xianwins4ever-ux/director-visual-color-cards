@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "199",
+    "name_en": "RithyPanh",
+    "name_zh": "潘礼德",
+    "category": "10_东方美学与留白意境",
+    "nationality": "柬埔寨/法国",
+    "active_years": "1964-",
+    "era": "1964-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#5D4037",
+        "name_zh": "土黄棕",
+        "name_en": "Earth Yellow Brown",
+        "ratio": 0.2,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#2E7D32",
+        "name_zh": "丛林绿",
+        "name_en": "Jungle Green",
+        "ratio": 0.18,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#78909C",
+        "name_zh": "雨季灰",
+        "name_en": "Rainy Season Gray",
+        "ratio": 0.16,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#C62828",
+        "name_zh": "血红",
+        "name_en": "Blood Red",
+        "ratio": 0.14,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFD54F",
+        "name_zh": "烛火金",
+        "name_en": "Candle Gold",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#BCAAA4",
+        "name_zh": "土米",
+        "name_en": "Earth Beige",
+        "ratio": 0.18,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#5D4037",
+        "name_zh": "创伤记忆",
+        "name_en": "创伤记忆",
+        "emotion": "创伤记忆",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#C62828",
+        "name_zh": "血色历史",
+        "name_en": "血色历史",
+        "emotion": "血色历史",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#2E7D32",
+        "name_zh": "丛林求生",
+        "name_en": "丛林求生",
+        "emotion": "丛林求生",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFD54F",
+        "name_zh": "生命微光",
+        "name_en": "生命微光",
+        "emotion": "生命微光",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "丛林绿光",
+    "highlight_tint": "土黄回忆",
+    "highlight_bias": "土黄回忆",
+    "shadow_tint": "雨季灰光",
+    "shadow_bias": "雨季灰光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "柬埔寨丛林",
+    "红色高棉",
+    "儿童视角",
+    "纪录片式",
+    "个人记忆",
+    "历史伤痕"
+  ],
+  "color_keywords": [
+    "潘礼德土黄",
+    "柬埔寨伤痕色",
+    "红色高棉色",
+    "丛林绿棕",
+    "雨季灰调",
+    "创伤记忆色"
+  ],
+  "mood_keywords": [
+    "红色高棉记忆",
+    "柬埔寨伤痕",
+    "儿童视角",
+    "历史创伤",
+    "流亡导演",
+    "纪录片式"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "潘礼德的视觉风格：丛林绿光，潘礼德土黄, 柬埔寨伤痕色, 红色高棉色。",
+    "lighting": "丛林绿光，土黄回忆，雨季灰光",
+    "framing": "柬埔寨丛林、红色高棉、儿童视角。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

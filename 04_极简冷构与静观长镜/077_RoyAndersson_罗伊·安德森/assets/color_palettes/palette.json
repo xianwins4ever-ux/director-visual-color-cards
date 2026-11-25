@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "077",
+    "name_en": "RoyAndersson",
+    "name_zh": "罗伊·安德森",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "瑞典",
+    "era": "1943-",
+    "active_years": "1943-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#8AA898",
+        "rgb": [
+          138,
+          168,
+          152
+        ],
+        "hsl": [
+          148,
+          15,
+          60
+        ],
+        "ratio": 0.24,
+        "name_zh": "瑞典灰绿",
+        "name_en": "Swedish Gray Green",
+        "code": "C01"
+      },
+      {
+        "hex": "#A8B8A8",
+        "rgb": [
+          168,
+          184,
+          168
+        ],
+        "hsl": [
+          120,
+          10,
+          69
+        ],
+        "ratio": 0.2,
+        "name_zh": "浅灰绿",
+        "name_en": "Light Gray Green",
+        "code": "C02"
+      },
+      {
+        "hex": "#6A8878",
+        "rgb": [
+          106,
+          136,
+          120
+        ],
+        "hsl": [
+          148,
+          12,
+          47
+        ],
+        "ratio": 0.16,
+        "name_zh": "深绿灰",
+        "name_en": "Dark Green Gray",
+        "code": "C03"
+      },
+      {
+        "hex": "#C8C0B0",
+        "rgb": [
+          200,
+          192,
+          176
+        ],
+        "hsl": [
+          40,
+          18,
+          74
+        ],
+        "ratio": 0.14,
+        "name_zh": "旧米白",
+        "name_en": "Aged Beige White",
+        "code": "C04"
+      },
+      {
+        "hex": "#B8A898",
+        "rgb": [
+          184,
+          168,
+          152
+        ],
+        "hsl": [
+          30,
+          18,
+          66
+        ],
+        "ratio": 0.14,
+        "name_zh": "枯木棕",
+        "name_en": "Dead Wood Brown",
+        "code": "C05"
+      },
+      {
+        "hex": "#5A7868",
+        "rgb": [
+          90,
+          120,
+          104
+        ],
+        "hsl": [
+          148,
+          14,
+          41
+        ],
+        "ratio": 0.12,
+        "name_zh": "暗苔绿",
+        "name_en": "Dark Moss Green",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#7A9A8A",
+        "rgb": [
+          122,
+          154,
+          138
+        ],
+        "hsl": [
+          150,
+          14,
+          54
+        ],
+        "emotion": "荒诞存在",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#9AACA2",
+        "rgb": [
+          154,
+          172,
+          162
+        ],
+        "hsl": [
+          147,
+          10,
+          64
+        ],
+        "emotion": "生活平庸",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#B0A898",
+        "rgb": [
+          176,
+          168,
+          152
+        ],
+        "hsl": [
+          40,
+          13,
+          64
+        ],
+        "emotion": "温情默默",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#4A6858",
+        "rgb": [
+          74,
+          104,
+          88
+        ],
+        "hsl": [
+          148,
+          17,
+          35
+        ],
+        "emotion": "死亡阴影",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "平光均匀",
+    "highlight_bias": "影棚式打光",
+    "shadow_bias": "灰绿色调",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "固定机位",
+    "平面构图",
+    "室内空间",
+    "静态画面",
+    "人偶式表演",
+    "章节结构"
+  ],
+  "color_keywords": [
+    "灰绿色调",
+    "舞台平光",
+    "瑞典式荒诞",
+    "低饱和",
+    "粉彩质感",
+    "室内色"
+  ],
+  "mood_keywords": [
+    "存在主义幽默",
+    "荒诞不经",
+    "瑞典式忧郁",
+    "死亡主题",
+    "生活琐碎",
+    "超现实"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "瑞典爱情故事",
+      "title_en": "A Swedish Love Story",
+      "year": 1970,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/31304/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/hdX3esdD6u0gUdU1oSAaNMFlFQk.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/bnZiXKIkXRB8SxVoBeo7OULUrLs.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/y9U4ZEaFGzPhmpbt7l7kveD2VYN.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/666P96JJCF4Wd91JUzcZYRMl47y.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "二樓傳來的歌聲",
+      "title_en": "Songs from the Second Floor",
+      "year": 2000,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/34070/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/y1aEoBFePjJJUSdD6RtoyEvKJo5.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/7YWVwRvreMqxWmhLrgMKi33wIao.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/8cTtgaKagrDgt13eu2DPD8XxXd9.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "寒枝雀靜",
+      "title_en": "A Pigeon Sat on a Branch Reflecting on Existence",
+      "year": 2014,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/110390/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/gNBrmb0zabXmRY1IKVgcBXSo2F0.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/ljl1Qbs42WWDhx61mXz424u2vZQ.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/u8CxCqbR2LMFhbB1oqWQ4QVBuAs.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/uXeMfLCsKX4qJLjbPDCmgQelxrQ.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "千日千夜",
+      "title_en": "About Endlessness",
+      "year": 2019,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/348672/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/dQgqxHUdcNSmhiM4zebekZnnUII.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/84pCpSmZVpYOSIggr0hAfplWua7.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/rS82bCzK8l35MGxsYAx6fegiXIs.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/sP3TdFwhwLbodffXDfZvybyUdCc.jpg"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "罗伊·安德森的视觉风格以平光均匀为主，灰绿色调、舞台平光、瑞典式荒诞，营造出存在主义幽默的氛围。",
+    "lighting": "平光均匀，高光偏影棚式打光，阴影偏灰绿色调，整体冷调。",
+    "composition": [],
+    "mood": [],
+    "framing": "固定机位、平面构图、室内空间，强调视觉层次感。",
+    "grading": "对比度中高对比，色调冷调，色彩灰绿色调、舞台平光、瑞典式荒诞。",
+    "avoid": "避免快速剪辑、避免强烈明暗对比、避免色彩杂乱"
+  }
+}

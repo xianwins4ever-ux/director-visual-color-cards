@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "071",
+    "name_en": "LavDiaz",
+    "name_zh": "拉夫·迪亚兹",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "菲律宾",
+    "era": "1958-",
+    "active_years": "1958-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#1A1A1A",
+        "rgb": [
+          26,
+          26,
+          26
+        ],
+        "hsl": [
+          0,
+          0,
+          10
+        ],
+        "ratio": 0.26,
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "code": "C01"
+      },
+      {
+        "hex": "#4A4A4A",
+        "rgb": [
+          74,
+          74,
+          74
+        ],
+        "hsl": [
+          0,
+          0,
+          29
+        ],
+        "ratio": 0.2,
+        "name_zh": "暗灰",
+        "name_en": "Dark Gray",
+        "code": "C02"
+      },
+      {
+        "hex": "#7A7A7A",
+        "rgb": [
+          122,
+          122,
+          122
+        ],
+        "hsl": [
+          0,
+          0,
+          48
+        ],
+        "ratio": 0.16,
+        "name_zh": "中灰",
+        "name_en": "Mid Gray",
+        "code": "C03"
+      },
+      {
+        "hex": "#AAAAAA",
+        "rgb": [
+          170,
+          170,
+          170
+        ],
+        "hsl": [
+          0,
+          0,
+          67
+        ],
+        "ratio": 0.14,
+        "name_zh": "浅灰",
+        "name_en": "Light Gray",
+        "code": "C04"
+      },
+      {
+        "hex": "#D4D4D4",
+        "rgb": [
+          212,
+          212,
+          212
+        ],
+        "hsl": [
+          0,
+          0,
+          83
+        ],
+        "ratio": 0.12,
+        "name_zh": "灰白",
+        "name_en": "Gray White",
+        "code": "C05"
+      },
+      {
+        "hex": "#0A0A0A",
+        "rgb": [
+          10,
+          10,
+          10
+        ],
+        "hsl": [
+          0,
+          0,
+          4
+        ],
+        "ratio": 0.12,
+        "name_zh": "漆黑暗",
+        "name_en": "Pitch Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#333333",
+        "rgb": [
+          51,
+          51,
+          51
+        ],
+        "hsl": [
+          0,
+          0,
+          20
+        ],
+        "emotion": "历史创伤",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#666666",
+        "rgb": [
+          102,
+          102,
+          102
+        ],
+        "hsl": [
+          0,
+          0,
+          40
+        ],
+        "emotion": "时间沉重",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#999999",
+        "rgb": [
+          153,
+          153,
+          153
+        ],
+        "hsl": [
+          0,
+          0,
+          60
+        ],
+        "emotion": "苦难记忆",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#050505",
+        "rgb": [
+          5,
+          5,
+          5
+        ],
+        "hsl": [
+          0,
+          0,
+          2
+        ],
+        "emotion": "黑暗深处",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "高反差黑白",
+    "highlight_bias": "热带强光",
+    "shadow_bias": "室内暗影",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "超长镜头",
+    "黑白影像",
+    "菲律宾乡村",
+    "政治隐喻",
+    "行走叙事",
+    "家庭创伤"
+  ],
+  "color_keywords": [
+    "高反差黑白",
+    "热带阳光",
+    "丛林暗影",
+    "街头夜色",
+    "室内暗光",
+    "颗粒质感"
+  ],
+  "mood_keywords": [
+    "历史沉重",
+    "政治批判",
+    "时间缓慢",
+    "菲律宾现实",
+    "创伤记忆",
+    "存在苦难"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "一个菲律宾家庭的进化",
+      "title_en": "Evolution of a Filipino Family",
+      "year": 2004,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/163957/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/daYYyhugFo1skbvXRakSgaluulp.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/nWkihEjs2WepoVDw0BbxxVZJfMP.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/Au9ippQUt3Zgd1fF6p0lVo3w01H.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/2V1JVhXHa3sgMlwD1nZZl3agSW8.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "歷史的終結",
+      "title_en": "Norte, the End of History",
+      "year": 2013,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/186975/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/mkLPEV7raBVlpKZTlJjZ3LpsXSj.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/1rLzztXHOckbxrsWcOY3z4fVi8n.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/AYeHhAzNy4YXJZKd4kblvg8NvF.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/mv97NlttMeWk2q3naiTnzHZZ7wx.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "离去的女人",
+      "title_en": "The Woman Who Left",
+      "year": 2016,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/408542/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/l2r4MIWwrYOmD4vUHVrhvyRzumJ.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/9idm8gUOMQBlJNLzzXjdJUHaQVx.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/dwg1SM52ZcX9TFSknjmblsk8lyP.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/k2zhiqN0RVfJjVB6LT7xGHSnICG.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "麥哲倫之死",
+      "title_en": "Magellan",
+      "year": 2025,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照页",
+          "url": "https://www.themoviedb.org/movie/975335/images/backdrops"
+        },
+        {
+          "label": "TMDB 真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/8nv5MUtEBMX4DDkrFkDhkppRxuD.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/AiqZxSQEWbA8LQGiESwUXmo2HWV.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/j3ZvqYDmlSExJVTU41Lb7cKuEiT.jpg"
+        },
+        {
+          "label": "TMDB 真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/boaujR3sA5SkY5LGPmBkbPB7ZZb.jpg"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "拉夫·迪亚兹的视觉风格以高反差黑白为主，高反差黑白、热带阳光、丛林暗影，营造出历史沉重的氛围。",
+    "lighting": "高反差黑白，高光偏热带强光，阴影偏室内暗影，整体冷调。",
+    "composition": [],
+    "mood": [],
+    "framing": "超长镜头、黑白影像、菲律宾乡村，强调视觉层次感。",
+    "grading": "对比度中高对比，色调冷调，色彩高反差黑白、热带阳光、丛林暗影。",
+    "avoid": "避免快速剪辑、避免强烈明暗对比、避免色彩杂乱"
+  }
+}

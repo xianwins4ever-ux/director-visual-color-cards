@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "143",
+    "name_en": "IsaoTakahata",
+    "name_zh": "高畑勋",
+    "category": "08_动画奇幻与异想视觉",
+    "nationality": "日本",
+    "active_years": "1935-2018",
+    "era": "1935-2018"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#8D6E63",
+        "name_zh": "平民棕",
+        "name_en": "Civilian Brown",
+        "ratio": 0.18,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#A5D6A7",
+        "name_zh": "田野绿",
+        "name_en": "Field Green",
+        "ratio": 0.18,
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFCC80",
+        "name_zh": "夕阳橙",
+        "name_en": "Sunset Orange",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#90CAF9",
+        "name_zh": "夏日蓝",
+        "name_en": "Summer Blue",
+        "ratio": 0.14,
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#BCAAA4",
+        "name_zh": "土黄",
+        "name_en": "Earth Yellow",
+        "ratio": 0.14,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFF9C4",
+        "name_zh": "米白",
+        "name_en": "Cream White",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          249,
+          196
+        ],
+        "hsl": [
+          54,
+          100,
+          88
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#8D6E63",
+        "name_zh": "平民苦难",
+        "name_en": "平民苦难",
+        "emotion": "平民苦难",
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#A5D6A7",
+        "name_zh": "自然田园",
+        "name_en": "自然田园",
+        "emotion": "自然田园",
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFCC80",
+        "name_zh": "家庭温暖",
+        "name_en": "家庭温暖",
+        "emotion": "家庭温暖",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#90CAF9",
+        "name_zh": "夏日回忆",
+        "name_en": "夏日回忆",
+        "emotion": "夏日回忆",
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然天光",
+    "highlight_tint": "柔和散射",
+    "highlight_bias": "柔和散射",
+    "shadow_tint": "水彩质感",
+    "shadow_bias": "水彩质感",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "水彩质感",
+    "平民生活",
+    "自然风景",
+    "社会写实",
+    "长镜头",
+    "日常细节"
+  ],
+  "color_keywords": [
+    "吉卜力写实色",
+    "水彩质感色",
+    "平民棕绿",
+    "自然主义色",
+    "夏日色调",
+    "战争灰调"
+  ],
+  "mood_keywords": [
+    "社会写实",
+    "平民史诗",
+    "反战和平",
+    "自然田园",
+    "家庭温情",
+    "人文关怀"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "高畑勋的视觉风格：自然天光，吉卜力写实色, 水彩质感色, 平民棕绿。",
+    "lighting": "自然天光，柔和散射，水彩质感",
+    "framing": "水彩质感、平民生活、自然风景。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

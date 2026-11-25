@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "147",
+    "name_en": "SylvainChomet",
+    "name_zh": "希尔万·肖梅",
+    "category": "08_动画奇幻与异想视觉",
+    "nationality": "法国",
+    "active_years": "1963-",
+    "era": "1963-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FFCC80",
+        "name_zh": "怀旧黄",
+        "name_en": "Nostalgic Yellow",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#8D6E63",
+        "name_zh": "老城棕",
+        "name_en": "Old Town Brown",
+        "ratio": 0.18,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#90CAF9",
+        "name_zh": "雨空蓝",
+        "name_en": "Rainy Sky Blue",
+        "ratio": 0.16,
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#EF9A9A",
+        "name_zh": "玫瑰粉",
+        "name_en": "Rose Pink",
+        "ratio": 0.14,
+        "rgb": [
+          239,
+          154,
+          154
+        ],
+        "hsl": [
+          0,
+          73,
+          77
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#A5D6A7",
+        "name_zh": "乡村绿",
+        "name_en": "Country Green",
+        "ratio": 0.14,
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#BCAAA4",
+        "name_zh": "米色",
+        "name_en": "Beige",
+        "ratio": 0.18,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FFCC80",
+        "name_zh": "怀旧温情",
+        "name_en": "怀旧温情",
+        "emotion": "怀旧温情",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#8D6E63",
+        "name_zh": "老城记忆",
+        "name_en": "老城记忆",
+        "emotion": "老城记忆",
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#90CAF9",
+        "name_zh": "雨中忧伤",
+        "name_en": "雨中忧伤",
+        "emotion": "雨中忧伤",
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#EF9A9A",
+        "name_zh": "温柔爱情",
+        "name_en": "温柔爱情",
+        "emotion": "温柔爱情",
+        "rgb": [
+          239,
+          154,
+          154
+        ],
+        "hsl": [
+          0,
+          73,
+          77
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "暖黄街灯",
+    "highlight_tint": "雨天柔光",
+    "highlight_bias": "雨天柔光",
+    "shadow_tint": "室内暖光",
+    "shadow_bias": "室内暖光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "法式街景",
+    "水彩插画",
+    "音乐叙事",
+    "默片风格",
+    "夸张造型",
+    "温情人物"
+  ],
+  "color_keywords": [
+    "法式怀旧色",
+    "水彩插画色",
+    "暖黄街灯色",
+    "雨空蓝调",
+    "老城棕调",
+    "温情粉彩"
+  ],
+  "mood_keywords": [
+    "法式温情",
+    "音乐叙事",
+    "怀旧记忆",
+    "默片美学",
+    "雅克塔蒂致敬",
+    "手绘优雅"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "希尔万·肖梅的视觉风格：暖黄街灯，法式怀旧色, 水彩插画色, 暖黄街灯色。",
+    "lighting": "暖黄街灯，雨天柔光，室内暖光",
+    "framing": "法式街景、水彩插画、音乐叙事。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

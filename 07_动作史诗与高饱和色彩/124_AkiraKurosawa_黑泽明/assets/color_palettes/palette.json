@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "124",
+    "name_en": "AkiraKurosawa",
+    "name_zh": "黑泽明",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "日本",
+    "active_years": "1910-1998",
+    "era": "1910-1998"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#000000",
+        "name_zh": "墨黑",
+        "name_en": "Ink Black",
+        "ratio": 0.22,
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFFFFF",
+        "name_zh": "纯白",
+        "name_en": "Pure White",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#808080",
+        "name_zh": "中灰",
+        "name_en": "Mid Gray",
+        "ratio": 0.16,
+        "rgb": [
+          128,
+          128,
+          128
+        ],
+        "hsl": [
+          0,
+          0,
+          50
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#C0C0C0",
+        "name_zh": "银灰",
+        "name_en": "Silver Gray",
+        "ratio": 0.14,
+        "rgb": [
+          192,
+          192,
+          192
+        ],
+        "hsl": [
+          0,
+          0,
+          75
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#404040",
+        "name_zh": "深灰",
+        "name_en": "Dark Gray",
+        "ratio": 0.14,
+        "rgb": [
+          64,
+          64,
+          64
+        ],
+        "hsl": [
+          0,
+          0,
+          25
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#E0E0E0",
+        "name_zh": "浅灰",
+        "name_en": "Light Gray",
+        "ratio": 0.14,
+        "rgb": [
+          224,
+          224,
+          224
+        ],
+        "hsl": [
+          0,
+          0,
+          88
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#000000",
+        "name_zh": "命运沉重",
+        "name_en": "命运沉重",
+        "emotion": "命运沉重",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFFFFF",
+        "name_zh": "正义希望",
+        "name_en": "正义希望",
+        "emotion": "正义希望",
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#808080",
+        "name_zh": "人性灰色",
+        "name_en": "人性灰色",
+        "emotion": "人性灰色",
+        "rgb": [
+          128,
+          128,
+          128
+        ],
+        "hsl": [
+          0,
+          0,
+          50
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#C0C0C0",
+        "name_zh": "武士荣耀",
+        "name_en": "武士荣耀",
+        "emotion": "武士荣耀",
+        "rgb": [
+          192,
+          192,
+          192
+        ],
+        "hsl": [
+          0,
+          0,
+          75
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "高反差黑白",
+    "highlight_tint": "侧光雕刻",
+    "highlight_bias": "侧光雕刻",
+    "shadow_tint": "雨幕光线",
+    "shadow_bias": "雨幕光线",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "雨幕构图",
+    "运动长镜",
+    "武士群像",
+    "自然元素",
+    "低角度仰拍",
+    "画面纵深"
+  ],
+  "color_keywords": [
+    "高反差黑白",
+    "雨幕质感",
+    "武士道黑白",
+    "运动光影",
+    "自然灰阶",
+    "史诗黑白"
+  ],
+  "mood_keywords": [
+    "武士道精神",
+    "人性探讨",
+    "史诗格局",
+    "命运无常",
+    "人道主义",
+    "东方哲学"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "黑泽明的视觉风格：高反差黑白，高反差黑白, 雨幕质感, 武士道黑白。",
+    "lighting": "高反差黑白，侧光雕刻，雨幕光线",
+    "framing": "雨幕构图、运动长镜、武士群像。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

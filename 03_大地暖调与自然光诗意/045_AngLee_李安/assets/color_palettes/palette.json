@@ -1,0 +1,457 @@
+{
+  "director": {
+    "id": "045",
+    "name_en": "Ang Lee",
+    "name_zh": "李安",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "中国台湾 / 美国",
+    "active_years": "1991-至今",
+    "era": "1991-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#C2A676",
+        "name_zh": "温润玉黄",
+        "name_en": "Jade Warm Yellow",
+        "ratio": 0.2,
+        "rgb": [
+          194,
+          166,
+          118
+        ],
+        "hsl": [
+          39,
+          38,
+          61
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#5A6B4A",
+        "name_zh": "竹林青灰",
+        "name_en": "Bamboo Grey-Green",
+        "ratio": 0.18,
+        "rgb": [
+          90,
+          107,
+          74
+        ],
+        "hsl": [
+          88,
+          18,
+          35
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#8B7355",
+        "name_zh": "大地赭棕",
+        "name_en": "Earth Ochre Brown",
+        "ratio": 0.17,
+        "rgb": [
+          139,
+          115,
+          85
+        ],
+        "hsl": [
+          33,
+          24,
+          44
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#E8D5B7",
+        "name_zh": "暖沙米白",
+        "name_en": "Warm Sand Beige",
+        "ratio": 0.15,
+        "rgb": [
+          232,
+          213,
+          183
+        ],
+        "hsl": [
+          37,
+          52,
+          81
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#3D4F3F",
+        "name_zh": "深松绿",
+        "name_en": "Deep Pine Green",
+        "ratio": 0.15,
+        "rgb": [
+          61,
+          79,
+          63
+        ],
+        "hsl": [
+          129,
+          13,
+          27
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#D68C45",
+        "name_zh": "暖阳橙",
+        "name_en": "Warm Sun Orange",
+        "ratio": 0.15,
+        "rgb": [
+          214,
+          140,
+          69
+        ],
+        "hsl": [
+          31,
+          65,
+          55
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#98D8C8",
+        "name_zh": "翡翠青",
+        "name_en": "Jadeite Green",
+        "emotion": "东方诗意",
+        "rgb": [
+          152,
+          216,
+          200
+        ],
+        "hsl": [
+          166,
+          45,
+          72
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#F4A460",
+        "name_zh": "夕阳橙",
+        "name_en": "Sunset Orange",
+        "emotion": "禁忌爱恋",
+        "rgb": [
+          244,
+          164,
+          96
+        ],
+        "hsl": [
+          28,
+          87,
+          67
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#1E3A5F",
+        "name_zh": "深海蓝",
+        "name_en": "Deep Ocean Blue",
+        "emotion": "命运孤独",
+        "rgb": [
+          30,
+          58,
+          95
+        ],
+        "hsl": [
+          213,
+          52,
+          25
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#DEB887",
+        "name_zh": "暖棕茶",
+        "name_en": "Warm Tea Brown",
+        "emotion": "家庭温情",
+        "rgb": [
+          222,
+          184,
+          135
+        ],
+        "hsl": [
+          33,
+          56,
+          70
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "soft diffused natural light, gentle side lighting, warm window fill",
+    "highlight_tint": "warm sand yellow / pale gold",
+    "shadow_tint": "earth brown / muted green (never harsh)",
+    "contrast_ratio": "low-medium 40-55%, gentle and soft",
+    "overall_tone": "warm earth and soft green, 65% warm + 35% cool"
+  },
+  "composition_keywords": [
+    "soft diffused light",
+    "landscape meditation",
+    "static balanced frame",
+    "gentle tracking",
+    "nature as emotional mirror",
+    "martial arts poetry",
+    "family interior warmth",
+    "water surface reflection"
+  ],
+  "color_keywords": [
+    "warm earth natural palette",
+    "soft jade green",
+    "bamboo forest light",
+    "golden hour meadow",
+    "warm family interior",
+    "ocean twilight blue",
+    "tea brown nostalgia",
+    "pastel restraint"
+  ],
+  "mood_keywords": [
+    "quiet restraint",
+    "eastern-western fusion",
+    "forbidden longing",
+    "family duty vs freedom",
+    "poetic nature",
+    "gentle melancholy",
+    "spiritual journey",
+    "compassionate humanity"
+  ],
+  "style_profile": {
+    "definition": "礼法秩序与压抑欲望通过自然景观、人物距离和材质显现",
+    "lighting": "柔和自然天光、室内窗光与克制月夜冷光；肤色保持自然可读，高光和黑位保留材质。",
+    "framing": "古典平衡构图、门窗层次与山水远景",
+    "grading": "竹青、瓦灰、木棕、丝绸白与少量朱红；局部强调色不污染整幅画面。",
+    "avoid": "统一滤镜替代真实材质、无动机环绕和随机变焦、人物身份与空间轴漂移、肤色污染、死黑和爆白、只模仿颜色不执行镜头语言。"
+  },
+  "real_palettes": [
+    {
+      "title_zh": "卧虎藏龙",
+      "title_en": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 22.6,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#37403D",
+          "ratio": 12.5,
+          "luminance": 0.0482,
+          "saturation": 0.1406
+        },
+        {
+          "hex": "#4A6870",
+          "ratio": 12.2,
+          "luminance": 0.1253,
+          "saturation": 0.3393
+        },
+        {
+          "hex": "#74899F",
+          "ratio": 12.0,
+          "luminance": 0.2411,
+          "saturation": 0.2704
+        },
+        {
+          "hex": "#6A7C89",
+          "ratio": 11.4,
+          "luminance": 0.1929,
+          "saturation": 0.2263
+        },
+        {
+          "hex": "#212725",
+          "ratio": 10.5,
+          "luminance": 0.0191,
+          "saturation": 0.1538
+        },
+        {
+          "hex": "#435252",
+          "ratio": 9.5,
+          "luminance": 0.0784,
+          "saturation": 0.1829
+        },
+        {
+          "hex": "#131615",
+          "ratio": 9.3,
+          "luminance": 0.0077,
+          "saturation": 0.1364
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "饮食男女",
+      "title_en": "Eat Drink Man Woman",
+      "year": 1994,
+      "palette": [
+        {
+          "hex": "#3B281D",
+          "ratio": 15.9,
+          "luminance": 0.0254,
+          "saturation": 0.5085
+        },
+        {
+          "hex": "#B46B43",
+          "ratio": 13.2,
+          "luminance": 0.2062,
+          "saturation": 0.6278
+        },
+        {
+          "hex": "#2A1913",
+          "ratio": 13.2,
+          "luminance": 0.0123,
+          "saturation": 0.5476
+        },
+        {
+          "hex": "#010104",
+          "ratio": 12.9,
+          "luminance": 0.0004,
+          "saturation": 0.75
+        },
+        {
+          "hex": "#6A625F",
+          "ratio": 11.9,
+          "luminance": 0.1263,
+          "saturation": 0.1038
+        },
+        {
+          "hex": "#4D332C",
+          "ratio": 11.4,
+          "luminance": 0.0413,
+          "saturation": 0.4286
+        },
+        {
+          "hex": "#3A1C16",
+          "ratio": 10.8,
+          "luminance": 0.0179,
+          "saturation": 0.6207
+        },
+        {
+          "hex": "#825E49",
+          "ratio": 10.7,
+          "luminance": 0.1323,
+          "saturation": 0.4385
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "断背山",
+      "title_en": "Brokeback Mountain",
+      "year": 2005,
+      "palette": [
+        {
+          "hex": "#575246",
+          "ratio": 14.8,
+          "luminance": 0.085,
+          "saturation": 0.1954
+        },
+        {
+          "hex": "#718491",
+          "ratio": 13.9,
+          "luminance": 0.2206,
+          "saturation": 0.2207
+        },
+        {
+          "hex": "#EDF4F7",
+          "ratio": 12.5,
+          "luminance": 0.8942,
+          "saturation": 0.0405
+        },
+        {
+          "hex": "#44516B",
+          "ratio": 12.1,
+          "luminance": 0.0818,
+          "saturation": 0.3645
+        },
+        {
+          "hex": "#0D2327",
+          "ratio": 12.0,
+          "luminance": 0.0143,
+          "saturation": 0.6667
+        },
+        {
+          "hex": "#373C43",
+          "ratio": 11.6,
+          "luminance": 0.0445,
+          "saturation": 0.1791
+        },
+        {
+          "hex": "#A59A8C",
+          "ratio": 11.6,
+          "luminance": 0.33,
+          "saturation": 0.1515
+        },
+        {
+          "hex": "#1C1418",
+          "ratio": 11.5,
+          "luminance": 0.0081,
+          "saturation": 0.2857
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "少年派的奇幻漂流",
+      "title_en": "Life of Pi",
+      "year": 2012,
+      "palette": [
+        {
+          "hex": "#0C225A",
+          "ratio": 14.1,
+          "luminance": 0.0196,
+          "saturation": 0.8667
+        },
+        {
+          "hex": "#082127",
+          "ratio": 13.6,
+          "luminance": 0.0129,
+          "saturation": 0.7949
+        },
+        {
+          "hex": "#84815C",
+          "ratio": 12.8,
+          "luminance": 0.2138,
+          "saturation": 0.303
+        },
+        {
+          "hex": "#070E13",
+          "ratio": 12.8,
+          "luminance": 0.0041,
+          "saturation": 0.6316
+        },
+        {
+          "hex": "#081038",
+          "ratio": 12.1,
+          "luminance": 0.0071,
+          "saturation": 0.8571
+        },
+        {
+          "hex": "#1F4189",
+          "ratio": 11.9,
+          "luminance": 0.0588,
+          "saturation": 0.7737
+        },
+        {
+          "hex": "#7D5D3B",
+          "ratio": 11.7,
+          "luminance": 0.125,
+          "saturation": 0.528
+        },
+        {
+          "hex": "#D0CFB3",
+          "ratio": 11.0,
+          "luminance": 0.6129,
+          "saturation": 0.1394
+        }
+      ],
+      "sources": []
+    }
+  ]
+}

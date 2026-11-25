@@ -1,0 +1,457 @@
+{
+  "director": {
+    "id": "026",
+    "name_en": "Michael Mann",
+    "name_zh": "迈克尔·曼",
+    "category": "02_霓虹黑色与赛博未来",
+    "nationality": "美国",
+    "active_years": "1981-至今",
+    "era": "1981-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0A1628",
+        "name_zh": "数码深蓝",
+        "ratio": 0.35,
+        "rgb": [
+          10,
+          22,
+          40
+        ],
+        "hsl": [
+          216,
+          60,
+          10
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "C02",
+        "hex": "#2C3E50",
+        "name_zh": "城市钢灰",
+        "ratio": 0.2,
+        "rgb": [
+          44,
+          62,
+          80
+        ],
+        "hsl": [
+          210,
+          29,
+          24
+        ],
+        "name_en": "Gray"
+      },
+      {
+        "code": "C03",
+        "hex": "#4A90D9",
+        "name_zh": "电子冷蓝",
+        "ratio": 0.12,
+        "rgb": [
+          74,
+          144,
+          217
+        ],
+        "hsl": [
+          211,
+          65,
+          57
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "C04",
+        "hex": "#C4A35A",
+        "name_zh": "都市暖钨",
+        "ratio": 0.12,
+        "rgb": [
+          196,
+          163,
+          90
+        ],
+        "hsl": [
+          41,
+          47,
+          56
+        ],
+        "name_en": "Color 4"
+      },
+      {
+        "code": "C05",
+        "hex": "#8B4513",
+        "name_zh": "皮革棕",
+        "ratio": 0.11,
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "name_en": "Brown"
+      },
+      {
+        "code": "C06",
+        "hex": "#B0C4DE",
+        "name_zh": "冷钢肤",
+        "ratio": 0.1,
+        "rgb": [
+          176,
+          196,
+          222
+        ],
+        "hsl": [
+          214,
+          41,
+          78
+        ],
+        "name_en": "Color 6"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#1E90FF",
+        "name_zh": "枪口蓝",
+        "emotion": "专业精准",
+        "rgb": [
+          30,
+          144,
+          255
+        ],
+        "hsl": [
+          210,
+          100,
+          56
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "E02",
+        "hex": "#FF6B35",
+        "name_zh": "枪火橙",
+        "emotion": "暴力瞬间",
+        "rgb": [
+          255,
+          107,
+          53
+        ],
+        "hsl": [
+          16,
+          100,
+          60
+        ],
+        "name_en": "Orange"
+      },
+      {
+        "code": "E03",
+        "hex": "#708090",
+        "name_zh": "钢灰寂",
+        "emotion": "孤独疏离",
+        "rgb": [
+          112,
+          128,
+          144
+        ],
+        "hsl": [
+          210,
+          13,
+          50
+        ],
+        "name_en": "Gray"
+      },
+      {
+        "code": "E04",
+        "hex": "#DAA520",
+        "name_zh": "暖钨灯",
+        "emotion": "短暂温暖",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "digital cold blue night, practical sources, tungsten warm accents",
+    "highlight_tint": "electronic cold blue screens neon",
+    "shadow_tint": "deep digital blue-black",
+    "contrast_ratio": "medium-high 65-80%",
+    "overall_tone": "cool steel blue noir 75/25"
+  },
+  "composition_keywords": [
+    "digital cinematography",
+    "practical light sources",
+    "city night aerial",
+    "wide anamorphic framing",
+    "gunfight choreography",
+    "reflections glass water",
+    "driving plates",
+    "architectural framing"
+  ],
+  "color_keywords": [
+    "digital cold blue",
+    "steel grey urban",
+    "tungsten warm accent",
+    "practical neon",
+    "LA night chrome",
+    "anamorphic lens flares",
+    "ocean blue night",
+    "wet street reflections"
+  ],
+  "mood_keywords": [
+    "professional criminals",
+    "existential male loneliness",
+    "urban alienation",
+    "precision craft",
+    "fate destiny",
+    "noir fatalism",
+    "cool professionalism",
+    "LA nocturne"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "Thief",
+      "title_en": "Thief",
+      "year": 1981,
+      "palette": [
+        {
+          "hex": "#010101",
+          "ratio": 29.2,
+          "luminance": 0.0003,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#1C1915",
+          "ratio": 15.5,
+          "luminance": 0.01,
+          "saturation": 0.25
+        },
+        {
+          "hex": "#2D2F2A",
+          "ratio": 13.4,
+          "luminance": 0.0276,
+          "saturation": 0.1064
+        },
+        {
+          "hex": "#5D5A5B",
+          "ratio": 11.2,
+          "luminance": 0.1039,
+          "saturation": 0.0323
+        },
+        {
+          "hex": "#869193",
+          "ratio": 9.2,
+          "luminance": 0.2743,
+          "saturation": 0.0884
+        },
+        {
+          "hex": "#6E7578",
+          "ratio": 9.1,
+          "luminance": 0.1739,
+          "saturation": 0.0833
+        },
+        {
+          "hex": "#3F3F40",
+          "ratio": 8.0,
+          "luminance": 0.0498,
+          "saturation": 0.0156
+        },
+        {
+          "hex": "#302527",
+          "ratio": 4.4,
+          "luminance": 0.021,
+          "saturation": 0.2292
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Heat",
+      "title_en": "Heat",
+      "year": 1995,
+      "palette": [
+        {
+          "hex": "#393C45",
+          "ratio": 15.8,
+          "luminance": 0.0453,
+          "saturation": 0.1739
+        },
+        {
+          "hex": "#676E7F",
+          "ratio": 14.6,
+          "luminance": 0.1557,
+          "saturation": 0.189
+        },
+        {
+          "hex": "#8E8A98",
+          "ratio": 13.4,
+          "luminance": 0.2619,
+          "saturation": 0.0921
+        },
+        {
+          "hex": "#050A09",
+          "ratio": 13.1,
+          "luminance": 0.0027,
+          "saturation": 0.5
+        },
+        {
+          "hex": "#222629",
+          "ratio": 11.9,
+          "luminance": 0.0189,
+          "saturation": 0.1707
+        },
+        {
+          "hex": "#382F30",
+          "ratio": 11.1,
+          "luminance": 0.0309,
+          "saturation": 0.1607
+        },
+        {
+          "hex": "#B8B8C7",
+          "ratio": 10.4,
+          "luminance": 0.4859,
+          "saturation": 0.0754
+        },
+        {
+          "hex": "#827075",
+          "ratio": 9.7,
+          "luminance": 0.1762,
+          "saturation": 0.1385
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Ali",
+      "title_en": "Ali",
+      "year": 2001,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 21.9,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#516E96",
+          "ratio": 12.8,
+          "luminance": 0.151,
+          "saturation": 0.46
+        },
+        {
+          "hex": "#7992B0",
+          "ratio": 12.4,
+          "luminance": 0.2776,
+          "saturation": 0.3125
+        },
+        {
+          "hex": "#391309",
+          "ratio": 11.8,
+          "luminance": 0.0136,
+          "saturation": 0.8421
+        },
+        {
+          "hex": "#8BA8C4",
+          "ratio": 10.8,
+          "luminance": 0.3748,
+          "saturation": 0.2908
+        },
+        {
+          "hex": "#FFFFFD",
+          "ratio": 10.3,
+          "luminance": 0.9987,
+          "saturation": 0.0078
+        },
+        {
+          "hex": "#AAA99B",
+          "ratio": 10.2,
+          "luminance": 0.3929,
+          "saturation": 0.0882
+        },
+        {
+          "hex": "#ABCBD3",
+          "ratio": 9.8,
+          "luminance": 0.5607,
+          "saturation": 0.1896
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Ferrari",
+      "title_en": "Ferrari",
+      "year": 2023,
+      "palette": [
+        {
+          "hex": "#9CA7A6",
+          "ratio": 16.6,
+          "luminance": 0.3746,
+          "saturation": 0.0659
+        },
+        {
+          "hex": "#757873",
+          "ratio": 13.5,
+          "luminance": 0.1845,
+          "saturation": 0.0417
+        },
+        {
+          "hex": "#191407",
+          "ratio": 13.0,
+          "luminance": 0.0072,
+          "saturation": 0.72
+        },
+        {
+          "hex": "#977F5B",
+          "ratio": 12.5,
+          "luminance": 0.2251,
+          "saturation": 0.3974
+        },
+        {
+          "hex": "#5C5F59",
+          "ratio": 11.7,
+          "luminance": 0.1118,
+          "saturation": 0.0632
+        },
+        {
+          "hex": "#B98A54",
+          "ratio": 11.3,
+          "luminance": 0.2913,
+          "saturation": 0.5459
+        },
+        {
+          "hex": "#584026",
+          "ratio": 11.2,
+          "luminance": 0.0588,
+          "saturation": 0.5682
+        },
+        {
+          "hex": "#40321A",
+          "ratio": 10.2,
+          "luminance": 0.0345,
+          "saturation": 0.5938
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "钢蓝城市、钠灯金和数字夜色呈现职业者的孤独精度。",
+    "lighting": "实景夜灯、数字低照度、冷暖反射；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "长焦监视、精准跟拍、城市横移；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "冷蓝阴影、暖金高光、保持夜色层次；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "霓虹糖果色、过度降噪、肤色橙、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  }
+}

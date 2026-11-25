@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "099",
+    "name_en": "HouHsiao-hsien",
+    "name_zh": "侯孝贤",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "中国台湾",
+    "era": "1947-",
+    "active_years": "1947-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#5F7D6B",
+        "rgb": [
+          95,
+          125,
+          107
+        ],
+        "hsl": [
+          144,
+          14,
+          43
+        ],
+        "ratio": 0.2,
+        "name_zh": "青绿山水",
+        "name_en": "Cyan-Green Landscape",
+        "code": "C01"
+      },
+      {
+        "hex": "#8B7355",
+        "rgb": [
+          139,
+          115,
+          85
+        ],
+        "hsl": [
+          33,
+          24,
+          44
+        ],
+        "ratio": 0.18,
+        "name_zh": "旧木棕",
+        "name_en": "Aged Wood Brown",
+        "code": "C02"
+      },
+      {
+        "hex": "#A89F8A",
+        "rgb": [
+          168,
+          159,
+          138
+        ],
+        "hsl": [
+          42,
+          15,
+          60
+        ],
+        "ratio": 0.16,
+        "name_zh": "灰米白",
+        "name_en": "Gray Rice White",
+        "code": "C03"
+      },
+      {
+        "hex": "#4A5D52",
+        "rgb": [
+          74,
+          93,
+          82
+        ],
+        "hsl": [
+          145,
+          11,
+          33
+        ],
+        "ratio": 0.14,
+        "name_zh": "深青绿",
+        "name_en": "Deep Cyan Green",
+        "code": "C04"
+      },
+      {
+        "hex": "#CD853F",
+        "rgb": [
+          205,
+          133,
+          63
+        ],
+        "hsl": [
+          30,
+          59,
+          53
+        ],
+        "ratio": 0.14,
+        "name_zh": "琥珀棕",
+        "name_en": "Amber Brown",
+        "code": "C05"
+      },
+      {
+        "hex": "#2C3A32",
+        "rgb": [
+          44,
+          58,
+          50
+        ],
+        "hsl": [
+          146,
+          14,
+          20
+        ],
+        "ratio": 0.18,
+        "name_zh": "暗松绿",
+        "name_en": "Dark Pine Green",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#5F7D6B",
+        "rgb": [
+          95,
+          125,
+          107
+        ],
+        "hsl": [
+          144,
+          14,
+          43
+        ],
+        "emotion": "诗意宁静",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#8B7355",
+        "rgb": [
+          139,
+          115,
+          85
+        ],
+        "hsl": [
+          33,
+          24,
+          44
+        ],
+        "emotion": "历史记忆",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#A89F8A",
+        "rgb": [
+          168,
+          159,
+          138
+        ],
+        "hsl": [
+          42,
+          15,
+          60
+        ],
+        "emotion": "留白含蓄",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#2C3A32",
+        "rgb": [
+          44,
+          58,
+          50
+        ],
+        "hsl": [
+          146,
+          14,
+          20
+        ],
+        "emotion": "深沉内敛",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然光为主",
+    "highlight_bias": "柔光散射",
+    "shadow_bias": "窗棂光影",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "长镜头静观",
+    "东方留白",
+    "框景构图",
+    "自然风景",
+    "历史记忆",
+    "家庭日常"
+  ],
+  "color_keywords": [
+    "唐代青绿",
+    "东方素雅",
+    "自然光色",
+    "历史灰调",
+    "台湾乡土",
+    "留白意境"
+  ],
+  "mood_keywords": [
+    "东方诗意",
+    "历史记忆",
+    "台湾乡土",
+    "家庭变迁",
+    "静默力量",
+    "时间之河"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "风柜来的人",
+      "title_en": "The Boys From Fengkuei",
+      "year": 1983,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2018/09/09/the-boys-from-fengkuei/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei001.jpg?bwg=1546980260"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei019.jpg?bwg=1546980259"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei038.jpg?bwg=1546980259"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/fengkuei056.jpg?bwg=1546980259"
+        }
+      ]
+    },
+    {
+      "title_zh": "童年往事",
+      "title_en": "A Time to Live, A Time to Die",
+      "year": 1985,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2018/09/30/a-time-to-love-and-a-time-to-die/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive001.jpg?bwg=1546982247"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive019.jpg?bwg=1546982246"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive037.jpg?bwg=1546982246"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/timetolive055.jpg?bwg=1546982245"
+        }
+      ]
+    },
+    {
+      "title_zh": "海上花",
+      "title_en": "Flowers of Shanghai",
+      "year": 1998,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/08/31/flowers-of-shanghai/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_01.jpg?bwg=1715852714"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_09.jpg?bwg=1715852714"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_16.jpg?bwg=1715852714"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Flowers_of_Shanghai_24.jpg?bwg=1715852714"
+        }
+      ]
+    },
+    {
+      "title_zh": "刺客聂隐娘",
+      "title_en": "The Assassin",
+      "year": 2015,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2017/02/24/the-assassin/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin001.jpg?bwg=1546896481"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin019.jpg?bwg=1546896479"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin037.jpg?bwg=1546896479"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/theassassin055.jpg?bwg=1546896479"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "侯孝贤的视觉风格以自然光为主为主，唐代青绿、东方素雅、自然光色，营造出东方诗意的氛围。",
+    "lighting": "自然光为主，高光偏柔光散射，阴影偏窗棂光影，整体暖调。",
+    "composition": [],
+    "mood": [],
+    "framing": "长镜头静观、东方留白、框景构图，强调视觉层次感。",
+    "grading": "对比度高对比，色调暖调，色彩唐代青绿、东方素雅、自然光色。",
+    "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+  }
+}

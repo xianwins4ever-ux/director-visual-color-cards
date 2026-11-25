@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "126",
+    "name_en": "HayaoMiyazaki",
+    "name_zh": "宫崎骏",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "日本",
+    "active_years": "1941-",
+    "era": "1941-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#4FC3F7",
+        "name_zh": "天空蓝",
+        "name_en": "Sky Blue",
+        "ratio": 0.2,
+        "rgb": [
+          79,
+          195,
+          247
+        ],
+        "hsl": [
+          199,
+          91,
+          64
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#66BB6A",
+        "name_zh": "森林绿",
+        "name_en": "Forest Green",
+        "ratio": 0.18,
+        "rgb": [
+          102,
+          187,
+          106
+        ],
+        "hsl": [
+          123,
+          38,
+          57
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFCC80",
+        "name_zh": "奶油黄",
+        "name_en": "Cream Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFAB91",
+        "name_zh": "夕照橙",
+        "name_en": "Sunset Orange",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          171,
+          145
+        ],
+        "hsl": [
+          14,
+          100,
+          78
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#CE93D8",
+        "name_zh": "梦幻紫",
+        "name_en": "Dreamy Purple",
+        "ratio": 0.12,
+        "rgb": [
+          206,
+          147,
+          216
+        ],
+        "hsl": [
+          291,
+          47,
+          71
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFF9C4",
+        "name_zh": "阳光黄",
+        "name_en": "Sunny Yellow",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          249,
+          196
+        ],
+        "hsl": [
+          54,
+          100,
+          88
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#4FC3F7",
+        "name_zh": "自由飞翔",
+        "name_en": "自由飞翔",
+        "emotion": "自由飞翔",
+        "rgb": [
+          79,
+          195,
+          247
+        ],
+        "hsl": [
+          199,
+          91,
+          64
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#66BB6A",
+        "name_zh": "自然治愈",
+        "name_en": "自然治愈",
+        "emotion": "自然治愈",
+        "rgb": [
+          102,
+          187,
+          106
+        ],
+        "hsl": [
+          123,
+          38,
+          57
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFCC80",
+        "name_zh": "温暖回忆",
+        "name_en": "温暖回忆",
+        "emotion": "温暖回忆",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFAB91",
+        "name_zh": "勇气成长",
+        "name_en": "勇气成长",
+        "emotion": "勇气成长",
+        "rgb": [
+          255,
+          171,
+          145
+        ],
+        "hsl": [
+          14,
+          100,
+          78
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "柔和天光",
+    "highlight_tint": "自然漫射",
+    "highlight_bias": "自然漫射",
+    "shadow_tint": "温暖阳光",
+    "shadow_bias": "温暖阳光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "飞行场景",
+    "自然风景",
+    "少女主角",
+    "奇幻生物",
+    "欧洲小镇",
+    "手绘质感"
+  ],
+  "color_keywords": [
+    "吉卜力蓝",
+    "自然绿",
+    "手绘色彩",
+    "温暖黄调",
+    "天空飞行色",
+    "梦幻粉彩"
+  ],
+  "mood_keywords": [
+    "飞行梦想",
+    "自然精灵",
+    "反战和平",
+    "少女成长",
+    "手绘温暖",
+    "奇幻治愈"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "宫崎骏的视觉风格：柔和天光，吉卜力蓝, 自然绿, 手绘色彩。",
+    "lighting": "柔和天光，自然漫射，温暖阳光",
+    "framing": "飞行场景、自然风景、少女主角。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

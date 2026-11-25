@@ -1,0 +1,84 @@
+{
+  "director": {"zh": "沟口健二", "en": "Kenji Mizoguchi"},
+  "style_profile": {
+    "definition": "长镜头沿空间层次移动，以银灰、墨黑和雾白呈现克制悲剧。",
+    "lighting": "阴天或柔和顶侧光，黑白层次丰富；肤色保持可读。",
+    "framing": "横向长镜与深景调度，先交代空间，再进入人物与关键物件。",
+    "grading": "降低彩度，保留银灰和材质纹理；高光、中间调与阴影分别处理。",
+    "avoid": ["纯黑死影", "现代霓虹", "快切炫技", "无动机环绕和随机变焦", "用统一滤镜替代色彩比例、光源和材质"]
+  },
+  "films": [
+    {
+      "title_zh": "元禄忠臣藏·前篇",
+      "title_en": "The 47 Ronin: Part 1",
+      "year": 1941,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-01/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-01/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-01/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-01/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "Janus Films《元禄忠臣藏·前篇》官方真实电影剧照", "url": "https://www.janusfilms.com/films/1831"},
+        {"label": "截图 01", "url": "https://s3.amazonaws.com/criterion-production/janus_stills/2644-/27606id_040_w1600.jpg"},
+        {"label": "截图 02", "url": "https://s3.amazonaws.com/criterion-production/janus_stills/2646-/27606id_088_w1600.jpg"},
+        {"label": "截图 03", "url": "https://s3.amazonaws.com/criterion-production/janus_stills/2645-/27606id_047_w1600.jpg"},
+        {"label": "截图 04", "url": "https://s3.amazonaws.com/criterion-production/janus_stills/2647-/27606id_107_w1600.jpg"}
+      ]
+    },
+    {
+      "title_zh": "雨月物语",
+      "title_en": "Ugetsu",
+      "year": 1953,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-02/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-02/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-02/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-02/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "FilmGrab《雨月物语》真实电影截图", "url": "https://film-grab.com/2022/11/02/ugetsu/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Ugetsu_001.jpg?bwg=1642590169"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Ugetsu_009.jpg?bwg=1642590169"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Ugetsu_016.jpg?bwg=1642590169"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Ugetsu_024.jpg?bwg=1642590169"}
+      ]
+    },
+    {
+      "title_zh": "山椒大夫",
+      "title_en": "Sansho the Bailiff",
+      "year": 1954,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-03/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-03/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-03/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-03/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "Janus Films《山椒大夫》官方真实电影剧照", "url": "https://www.janusfilms.com/films/1217"},
+        {"label": "截图 01", "url": "https://s3.amazonaws.com/criterion-production/janus_stills/1359-/823id_1021_009_primary_w1600.jpg"},
+        {"label": "截图 02", "url": "https://s3.amazonaws.com/criterion-production/janus_stills/1360-/823id_1021_014_w1600.jpg"},
+        {"label": "截图 03", "url": "https://s3.amazonaws.com/criterion-production/janus_stills/2265-/823id_1021_010_w1600.jpg"},
+        {"label": "截图 04", "url": "https://s3.amazonaws.com/criterion-production/janus_stills/2266-/823id_1021_028_w1600.jpg"}
+      ]
+    },
+    {
+      "title_zh": "赤线地带",
+      "title_en": "Street of Shame",
+      "year": 1956,
+      "frames": [
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-04/frame-01.jpg",
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-04/frame-02.jpg",
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-04/frame-03.jpg",
+        "outputs/director-palettes/batch-99/cards/D003-沟口健二·电影色调常用色卡/source-frames/film-04/frame-04.jpg"
+      ],
+      "sources": [
+        {"label": "Janus Films《赤线地带》官方真实电影剧照", "url": "https://www.janusfilms.com/films/1271"},
+        {"label": "截图 01", "url": "https://s3.amazonaws.com/criterion-production/janus_stills/1834-/970id_453_001_primary_w1600.jpg"},
+        {"label": "截图 02", "url": "https://s3.amazonaws.com/criterion-production/janus_stills/1831-/970id_453_007_w1600.jpg"},
+        {"label": "截图 03", "url": "https://s3.amazonaws.com/criterion-production/janus_stills/1833-/970id_453_011_w1600.jpg"},
+        {"label": "截图 04", "url": "https://s3.amazonaws.com/criterion-production/janus_stills/1832-/970id_453_010_w1600.jpg"}
+      ]
+    }
+  ]
+}

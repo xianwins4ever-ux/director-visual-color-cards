@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "119",
+    "name_en": "HarmonyKorine",
+    "name_zh": "哈蒙尼·科林",
+    "category": "06_超现实梦幻与心理畸变",
+    "nationality": "美国",
+    "active_years": "1973-",
+    "era": "1973-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FF1744",
+        "name_zh": "霓虹红",
+        "name_en": "Neon Red",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          23,
+          68
+        ],
+        "hsl": [
+          348,
+          100,
+          55
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#00E5FF",
+        "name_zh": "电青",
+        "name_en": "Electric Cyan",
+        "ratio": 0.18,
+        "rgb": [
+          0,
+          229,
+          255
+        ],
+        "hsl": [
+          186,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FF9100",
+        "name_zh": "橙粉",
+        "name_en": "Orange Pink",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          145,
+          0
+        ],
+        "hsl": [
+          34,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#EA80FC",
+        "name_zh": "紫粉",
+        "name_en": "Purple Pink",
+        "ratio": 0.14,
+        "rgb": [
+          234,
+          128,
+          252
+        ],
+        "hsl": [
+          291,
+          95,
+          75
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#76FF03",
+        "name_zh": "毒绿",
+        "name_en": "Toxic Green",
+        "ratio": 0.14,
+        "rgb": [
+          118,
+          255,
+          3
+        ],
+        "hsl": [
+          93,
+          100,
+          51
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#121212",
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "ratio": 0.18,
+        "rgb": [
+          18,
+          18,
+          18
+        ],
+        "hsl": [
+          0,
+          0,
+          7
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF1744",
+        "name_zh": "青春毁灭",
+        "name_en": "青春毁灭",
+        "emotion": "青春毁灭",
+        "rgb": [
+          255,
+          23,
+          68
+        ],
+        "hsl": [
+          348,
+          100,
+          55
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#00E5FF",
+        "name_zh": "迷幻狂欢",
+        "name_en": "迷幻狂欢",
+        "emotion": "迷幻狂欢",
+        "rgb": [
+          0,
+          229,
+          255
+        ],
+        "hsl": [
+          186,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FF9100",
+        "name_zh": "危险活力",
+        "name_en": "危险活力",
+        "emotion": "危险活力",
+        "rgb": [
+          255,
+          145,
+          0
+        ],
+        "hsl": [
+          34,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#EA80FC",
+        "name_zh": "梦幻堕落",
+        "name_en": "梦幻堕落",
+        "emotion": "梦幻堕落",
+        "rgb": [
+          234,
+          128,
+          252
+        ],
+        "hsl": [
+          291,
+          95,
+          75
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "霓虹色光",
+    "highlight_tint": "VHS噪点",
+    "highlight_bias": "VHS噪点",
+    "shadow_tint": "日光直射",
+    "shadow_bias": "日光直射",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "VHS质感",
+    "手持混乱",
+    "青少年群像",
+    "霓虹夜景",
+    "垃圾美学",
+    "南方小镇"
+  ],
+  "color_keywords": [
+    "VHS迷幻色",
+    "霓虹粉青",
+    "青春堕落色",
+    "日光毒绿",
+    "垃圾美学色",
+    "派对彩光"
+  ],
+  "mood_keywords": [
+    "迷幻青春",
+    "边缘文化",
+    "美国南方",
+    "毁灭美学",
+    "儿童视角",
+    "无政府主义"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "哈蒙尼·科林的视觉风格：霓虹色光，VHS迷幻色, 霓虹粉青, 青春堕落色。",
+    "lighting": "霓虹色光，VHS噪点，日光直射",
+    "framing": "VHS质感、手持混乱、青少年群像。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

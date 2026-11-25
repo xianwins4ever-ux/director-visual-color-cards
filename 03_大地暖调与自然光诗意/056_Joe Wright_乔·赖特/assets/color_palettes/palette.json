@@ -1,0 +1,231 @@
+{
+  "director": {
+    "id": "056",
+    "name_en": "Joe Wright",
+    "name_zh": "乔·赖特",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "英国",
+    "active_years": "2000-至今",
+    "era": "2000-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#D4A574",
+        "name_zh": "落日暖金",
+        "rgb": [
+          212,
+          165,
+          116
+        ],
+        "hsl": [
+          31,
+          53,
+          64
+        ],
+        "ratio": 0.22,
+        "name_en": "Gold"
+      },
+      {
+        "code": "C02",
+        "hex": "#6B8E4E",
+        "name_zh": "田园草绿",
+        "rgb": [
+          107,
+          142,
+          78
+        ],
+        "hsl": [
+          93,
+          29,
+          43
+        ],
+        "ratio": 0.18,
+        "name_en": "Green"
+      },
+      {
+        "code": "C03",
+        "hex": "#8B4513",
+        "name_zh": "胡桃木棕",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "ratio": 0.15,
+        "name_en": "Brown"
+      },
+      {
+        "code": "C04",
+        "hex": "#C9B896",
+        "name_zh": "奶油米色",
+        "rgb": [
+          201,
+          184,
+          150
+        ],
+        "hsl": [
+          40,
+          32,
+          69
+        ],
+        "ratio": 0.15,
+        "name_en": "Cream"
+      },
+      {
+        "code": "C05",
+        "hex": "#4A6741",
+        "name_zh": "松柏深绿",
+        "rgb": [
+          74,
+          103,
+          65
+        ],
+        "hsl": [
+          106,
+          23,
+          33
+        ],
+        "ratio": 0.15,
+        "name_en": "Green"
+      },
+      {
+        "code": "C06",
+        "hex": "#9E7B5E",
+        "name_zh": "陶土砖红",
+        "rgb": [
+          158,
+          123,
+          94
+        ],
+        "hsl": [
+          27,
+          25,
+          49
+        ],
+        "ratio": 0.15,
+        "name_en": "Red"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FFD700",
+        "name_zh": "黄金时刻",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "emotion": "浪漫狂喜",
+        "name_en": "Yellow"
+      },
+      {
+        "code": "E02",
+        "hex": "#8B0000",
+        "name_zh": "暗红血渍",
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "emotion": "战争悲剧",
+        "name_en": "Red"
+      },
+      {
+        "code": "E03",
+        "hex": "#E6E6FA",
+        "name_zh": "薰衣草紫",
+        "rgb": [
+          230,
+          230,
+          250
+        ],
+        "hsl": [
+          240,
+          67,
+          94
+        ],
+        "emotion": "初恋心动",
+        "name_en": "Purple"
+      },
+      {
+        "code": "E04",
+        "hex": "#2F4F4F",
+        "name_zh": "暗松绿",
+        "rgb": [
+          47,
+          79,
+          79
+        ],
+        "hsl": [
+          180,
+          25,
+          25
+        ],
+        "emotion": "压抑隐忍",
+        "name_en": "Green"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "golden hour long take, soft pastoral diffused light, classical painting chiaroscuro",
+    "highlight_tint": "warm honey gold / butter yellow",
+    "shadow_tint": "deep forest green / umber brown",
+    "contrast_ratio": "medium 55-70%",
+    "overall_tone": "warm golden pastoral, 70% warm + 30% cool"
+  },
+  "composition_keywords": [
+    "long tracking take",
+    "fluid camera movement",
+    "symmetrical framing",
+    "painterly composition",
+    "depth through doorways",
+    "low-angle romantic",
+    "dancing camera",
+    "period costume detail"
+  ],
+  "color_keywords": [
+    "golden hour wheat field",
+    "pastoral green meadow",
+    "walnut wood interior",
+    "cream skin tones",
+    "english country garden",
+    "candlelight amber",
+    "dusty window light",
+    "oil painting palette"
+  ],
+  "mood_keywords": [
+    "literary romance",
+    "british period elegance",
+    "melancholic nostalgia",
+    "golden memory",
+    "wartime tragedy",
+    "social constraint",
+    "whispered passion",
+    "classical beauty"
+  ],
+  "style_profile": {
+    "definition": "金麦、草绿与胡桃棕包围人物，柔光与长镜把文学化为流动的油画。",
+    "lighting": "黄金时刻侧逆光与窗纱漫射；肤色奶油暖调，发丝镶金边，空气微粒可见。",
+    "framing": "长镜头跟拍、对称构图、门框透视；先交代空间氛围，再潜入人物内心。",
+    "grading": "高光暖金，阴影绿棕；回忆片段偏暖饱和，现实片段偏冷压抑，对比推动叙事。",
+    "avoid": "硬直射光、现代冷白调色、快速切镜碎切、手持晃动、用统一滤镜替代光线、场景和表演"
+  }
+}

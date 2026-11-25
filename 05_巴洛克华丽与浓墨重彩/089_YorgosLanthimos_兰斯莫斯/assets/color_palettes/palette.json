@@ -1,0 +1,341 @@
+{
+  "director": {
+    "id": "089",
+    "name_en": "YorgosLanthimos",
+    "name_zh": "兰斯莫斯",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "希腊",
+    "era": "1973-",
+    "active_years": "1973-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#8B4513",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "ratio": 0.2,
+        "name_zh": "烛光棕",
+        "name_en": "Candle Brown",
+        "code": "C01"
+      },
+      {
+        "hex": "#2F4F4F",
+        "rgb": [
+          47,
+          79,
+          79
+        ],
+        "hsl": [
+          180,
+          25,
+          25
+        ],
+        "ratio": 0.18,
+        "name_zh": "暗青灰",
+        "name_en": "Dark Slate Gray",
+        "code": "C02"
+      },
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "ratio": 0.16,
+        "name_zh": "金菊黄",
+        "name_en": "Goldenrod",
+        "code": "C03"
+      },
+      {
+        "hex": "#556B2F",
+        "rgb": [
+          85,
+          107,
+          47
+        ],
+        "hsl": [
+          82,
+          39,
+          30
+        ],
+        "ratio": 0.14,
+        "name_zh": "暗橄榄绿",
+        "name_en": "Dark Olive Green",
+        "code": "C04"
+      },
+      {
+        "hex": "#8B0000",
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "ratio": 0.14,
+        "name_zh": "深红",
+        "name_en": "Dark Red",
+        "code": "C05"
+      },
+      {
+        "hex": "#1C1C1C",
+        "rgb": [
+          28,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          0,
+          11
+        ],
+        "ratio": 0.18,
+        "name_zh": "炭黑",
+        "name_en": "Charcoal Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "emotion": "权力荒诞",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#556B2F",
+        "rgb": [
+          85,
+          107,
+          47
+        ],
+        "hsl": [
+          82,
+          39,
+          30
+        ],
+        "emotion": "自然野性",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#8B4513",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "emotion": "古典压抑",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#0F0F0F",
+        "rgb": [
+          15,
+          15,
+          15
+        ],
+        "hsl": [
+          0,
+          0,
+          6
+        ],
+        "emotion": "存在黑色",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "烛光照明",
+    "highlight_bias": "自然窗光",
+    "shadow_bias": "低照度室内",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "鱼眼广角",
+    "畸变构图",
+    "古典宫廷",
+    "荒诞礼仪",
+    "动物隐喻",
+    "冷调幽默"
+  ],
+  "color_keywords": [
+    "烛光暖调",
+    "古典油画色",
+    "鱼眼畸变色",
+    "自然绿灰",
+    "宫廷金红",
+    "冷调荒诞"
+  ],
+  "mood_keywords": [
+    "荒诞主义",
+    "社会规训",
+    "黑色幽默",
+    "权力游戏",
+    "存在困境",
+    "希腊怪诞"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "圣鹿之死",
+      "title_en": "The Killing of a Sacred Deer",
+      "year": 2017,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/399057/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/kJwQXgAk440l2vZOspUJee6inim.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/ntehnWyhRvfJgezt8hx1O6qKE5p.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/4BErdbVUAsGxYxHlKtYsYTCJohN.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/hOFuKcG5Rkg41DVgA574nk1GDCK.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "龙虾",
+      "title_en": "The Lobster",
+      "year": 2015,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/460689/images/backdrops"
+        },
+        {
+          "label": "FilmGrab电影截图图库",
+          "url": "https://film-grab.com/2016/12/09/the-lobster/"
+        },
+        {
+          "label": "FilmGrab真实电影截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster001.jpg?bwg=1546967689"
+        },
+        {
+          "label": "FilmGrab真实电影截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster022.jpg?bwg=1546967687"
+        },
+        {
+          "label": "FilmGrab真实电影截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster044.jpg?bwg=1546967687"
+        },
+        {
+          "label": "FilmGrab真实电影截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thelobster065.jpg?bwg=1546967687"
+        }
+      ]
+    },
+    {
+      "title_zh": "宠儿",
+      "title_en": "The Favourite",
+      "year": 2018,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/375262/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/iSskYDN193CJfTbSpFfscSwZ9Sx.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/y3k6gcX8E104C3GgDpa94cwHR2i.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/hPSN9y7bx2JSrKR2E7bEilT36Fp.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/oM81ZUHP3MNpZz8vrQlVSsUAlxq.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "可怜的东西",
+      "title_en": "Poor Things",
+      "year": 2023,
+      "palette": [],
+      "sources": [
+        {
+          "label": "TMDB电影剧照页",
+          "url": "https://www.themoviedb.org/movie/792307/images/backdrops"
+        },
+        {
+          "label": "TMDB真实电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/zh6IdheEYinU4TPtorWsjx6qPQE.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/w7sZjH6dBR0xQyyDZLX4qKhAz9q.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/rqU66Ds1jmU43AAOJ0AzMMKmUiD.jpg"
+        },
+        {
+          "label": "TMDB真实电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/dvm78pXmypJ9bp44t56Wc0X03gT.jpg"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "兰斯莫斯的视觉风格以烛光照明为主，烛光暖调、古典油画色、鱼眼畸变色，营造出荒诞主义的氛围。",
+    "lighting": "烛光照明，高光偏自然窗光，阴影偏低照度室内，整体暖调。",
+    "composition": [],
+    "mood": [],
+    "framing": "鱼眼广角、畸变构图、古典宫廷，强调视觉层次感。",
+    "grading": "对比度高对比，色调暖调，色彩烛光暖调、古典油画色、鱼眼畸变色。",
+    "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+  }
+}

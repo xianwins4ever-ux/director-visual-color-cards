@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "141",
+    "name_en": "SatoshiKon",
+    "name_zh": "今敏",
+    "category": "08_动画奇幻与异想视觉",
+    "nationality": "日本",
+    "active_years": "1963-2010",
+    "era": "1963-2010"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#E91E63",
+        "name_zh": "偶像粉",
+        "name_en": "Idol Pink",
+        "ratio": 0.2,
+        "rgb": [
+          233,
+          30,
+          99
+        ],
+        "hsl": [
+          340,
+          82,
+          52
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#00BCD4",
+        "name_zh": "都市青",
+        "name_en": "Urban Cyan",
+        "ratio": 0.18,
+        "rgb": [
+          0,
+          188,
+          212
+        ],
+        "hsl": [
+          187,
+          100,
+          42
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFC107",
+        "name_zh": "舞台金",
+        "name_en": "Stage Gold",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          193,
+          7
+        ],
+        "hsl": [
+          45,
+          100,
+          51
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#7B1FA2",
+        "name_zh": "梦幻紫",
+        "name_en": "Dreamy Purple",
+        "ratio": 0.14,
+        "rgb": [
+          123,
+          31,
+          162
+        ],
+        "hsl": [
+          282,
+          68,
+          38
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#455A64",
+        "name_zh": "都市灰",
+        "name_en": "Urban Gray",
+        "ratio": 0.14,
+        "rgb": [
+          69,
+          90,
+          100
+        ],
+        "hsl": [
+          199,
+          18,
+          33
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FCE4EC",
+        "name_zh": "樱花粉",
+        "name_en": "Sakura Pink",
+        "ratio": 0.18,
+        "rgb": [
+          252,
+          228,
+          236
+        ],
+        "hsl": [
+          340,
+          80,
+          94
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#E91E63",
+        "name_zh": "欲望痴迷",
+        "name_en": "欲望痴迷",
+        "emotion": "欲望痴迷",
+        "rgb": [
+          233,
+          30,
+          99
+        ],
+        "hsl": [
+          340,
+          82,
+          52
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#00BCD4",
+        "name_zh": "都市疏离",
+        "name_en": "都市疏离",
+        "emotion": "都市疏离",
+        "rgb": [
+          0,
+          188,
+          212
+        ],
+        "hsl": [
+          187,
+          100,
+          42
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#7B1FA2",
+        "name_zh": "梦境迷离",
+        "name_en": "梦境迷离",
+        "emotion": "梦境迷离",
+        "rgb": [
+          123,
+          31,
+          162
+        ],
+        "hsl": [
+          282,
+          68,
+          38
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFC107",
+        "name_zh": "舞台光芒",
+        "name_en": "舞台光芒",
+        "emotion": "舞台光芒",
+        "rgb": [
+          255,
+          193,
+          7
+        ],
+        "hsl": [
+          45,
+          100,
+          51
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "柔光现实",
+    "highlight_tint": "梦境彩光",
+    "highlight_bias": "梦境彩光",
+    "shadow_tint": "城市霓虹",
+    "shadow_bias": "城市霓虹",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "蒙太奇剪辑",
+    "现实梦境交融",
+    "女性心理",
+    "东京都市",
+    "镜中倒影",
+    "身份迷失"
+  ],
+  "color_keywords": [
+    "今敏粉紫",
+    "梦境色彩",
+    "都市霓虹",
+    "心理色光",
+    "舞台金光",
+    "现实虚幻交错色"
+  ],
+  "mood_keywords": [
+    "心理迷宫",
+    "身份迷失",
+    "现实梦境",
+    "都市异化",
+    "女性物语",
+    "剪辑魔法"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "今敏的视觉风格：柔光现实，今敏粉紫, 梦境色彩, 都市霓虹。",
+    "lighting": "柔光现实，梦境彩光，城市霓虹",
+    "framing": "蒙太奇剪辑、现实梦境交融、女性心理。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

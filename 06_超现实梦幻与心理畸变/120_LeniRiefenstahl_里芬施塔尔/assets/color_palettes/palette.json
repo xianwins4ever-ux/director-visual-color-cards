@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "120",
+    "name_en": "LeniRiefenstahl",
+    "name_zh": "里芬施塔尔",
+    "category": "06_超现实梦幻与心理畸变",
+    "nationality": "德国",
+    "active_years": "1902-2003",
+    "era": "1902-2003"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#D4AF37",
+        "name_zh": "金铂色",
+        "name_en": "Gold Platinum",
+        "ratio": 0.2,
+        "rgb": [
+          212,
+          175,
+          55
+        ],
+        "hsl": [
+          46,
+          65,
+          52
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#0D47A1",
+        "name_zh": "山岳蓝",
+        "name_en": "Mountain Blue",
+        "ratio": 0.18,
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFFFFF",
+        "name_zh": "雪白",
+        "name_en": "Snow White",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#5D4037",
+        "name_zh": "古铜棕",
+        "name_en": "Bronze Brown",
+        "ratio": 0.14,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#1A237E",
+        "name_zh": "深渊蓝",
+        "name_en": "Abyss Blue",
+        "ratio": 0.14,
+        "rgb": [
+          26,
+          35,
+          126
+        ],
+        "hsl": [
+          235,
+          66,
+          30
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#3E2723",
+        "name_zh": "深褐",
+        "name_en": "Dark Brown",
+        "ratio": 0.18,
+        "rgb": [
+          62,
+          39,
+          35
+        ],
+        "hsl": [
+          9,
+          28,
+          19
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#D4AF37",
+        "name_zh": "壮美崇拜",
+        "name_en": "壮美崇拜",
+        "emotion": "壮美崇拜",
+        "rgb": [
+          212,
+          175,
+          55
+        ],
+        "hsl": [
+          46,
+          65,
+          52
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#0D47A1",
+        "name_zh": "山岳崇高",
+        "name_en": "山岳崇高",
+        "emotion": "山岳崇高",
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFFFFF",
+        "name_zh": "纯净理想",
+        "name_en": "纯净理想",
+        "emotion": "纯净理想",
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#5D4037",
+        "name_zh": "身体雕塑",
+        "name_en": "身体雕塑",
+        "emotion": "身体雕塑",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "侧光雕刻",
+    "highlight_tint": "阳光塑形",
+    "highlight_bias": "阳光塑形",
+    "shadow_tint": "云雾光束",
+    "shadow_bias": "云雾光束",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "对称壮美",
+    "人体雕塑",
+    "山岳仰拍",
+    "群众场面",
+    "动态剪辑",
+    "光与影"
+  ],
+  "color_keywords": [
+    "壮美金色",
+    "山岳蓝白",
+    "雕塑光感",
+    "史诗色调",
+    "人体古铜色",
+    "云隙光束"
+  ],
+  "mood_keywords": [
+    "壮美美学",
+    "身体崇拜",
+    "山岳精神",
+    "史诗感",
+    "争议美学",
+    "意志胜利"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "里芬施塔尔的视觉风格：侧光雕刻，壮美金色, 山岳蓝白, 雕塑光感。",
+    "lighting": "侧光雕刻，阳光塑形，云雾光束",
+    "framing": "对称壮美、人体雕塑、山岳仰拍。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

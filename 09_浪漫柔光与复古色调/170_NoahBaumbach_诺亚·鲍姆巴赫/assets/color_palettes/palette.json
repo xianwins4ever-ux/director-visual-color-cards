@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "170",
+    "name_en": "NoahBaumbach",
+    "name_zh": "诺亚·鲍姆巴赫",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "美国",
+    "active_years": "1969-",
+    "era": "1969-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#5D4037",
+        "name_zh": "纽约棕",
+        "name_en": "NYC Brown",
+        "ratio": 0.18,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#78909C",
+        "name_zh": "布鲁克林灰",
+        "name_en": "Brooklyn Gray",
+        "ratio": 0.18,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFCC80",
+        "name_zh": "暖黄",
+        "name_en": "Warm Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#000000",
+        "name_zh": "黑白黑",
+        "name_en": "B&W Black",
+        "ratio": 0.14,
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFFFFF",
+        "name_zh": "白白白",
+        "name_en": "B&W White",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#BCAAA4",
+        "name_zh": "公寓米",
+        "name_en": "Apartment Beige",
+        "ratio": 0.2,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#78909C",
+        "name_zh": "知识分子忧郁",
+        "name_en": "知识分子忧郁",
+        "emotion": "知识分子忧郁",
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFCC80",
+        "name_zh": "家庭温暖",
+        "name_en": "家庭温暖",
+        "emotion": "家庭温暖",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#5D4037",
+        "name_zh": "纽约沧桑",
+        "name_en": "纽约沧桑",
+        "emotion": "纽约沧桑",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#000000",
+        "name_zh": "关系破裂",
+        "name_en": "关系破裂",
+        "emotion": "关系破裂",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "纽约自然光",
+    "highlight_tint": "室内暖光",
+    "highlight_bias": "室内暖光",
+    "shadow_tint": "黑白高对比",
+    "shadow_bias": "黑白高对比",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "纽约公寓",
+    "家庭对话",
+    "离婚故事",
+    "知识分子",
+    "兄弟情谊",
+    "成长烦恼"
+  ],
+  "color_keywords": [
+    "鲍姆巴赫暖调",
+    "纽约知识分子色",
+    "家庭对话色",
+    "黑白散文色",
+    "布鲁克林棕灰",
+    "婚姻故事色"
+  ],
+  "mood_keywords": [
+    "知识分子",
+    "家庭解体",
+    "纽约故事",
+    "对话电影",
+    "成长烦恼",
+    "黑白散文"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "诺亚·鲍姆巴赫的视觉风格：纽约自然光，鲍姆巴赫暖调, 纽约知识分子色, 家庭对话色。",
+    "lighting": "纽约自然光，室内暖光，黑白高对比",
+    "framing": "纽约公寓、家庭对话、离婚故事。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

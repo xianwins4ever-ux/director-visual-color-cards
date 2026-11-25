@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "188",
+    "name_en": "KimKi-duk",
+    "name_zh": "金基德",
+    "category": "10_东方美学与留白意境",
+    "nationality": "韩国",
+    "active_years": "1960-2020",
+    "era": "1960-2020"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#006064",
+        "name_zh": "深水青",
+        "name_en": "Deep Water Teal",
+        "ratio": 0.22,
+        "rgb": [
+          0,
+          96,
+          100
+        ],
+        "hsl": [
+          182,
+          100,
+          20
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#5D4037",
+        "name_zh": "木头棕",
+        "name_en": "Wood Brown",
+        "ratio": 0.2,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#2E7D32",
+        "name_zh": "寺庙绿",
+        "name_en": "Temple Green",
+        "ratio": 0.16,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#C62828",
+        "name_zh": "血腥红",
+        "name_en": "Blood Red",
+        "ratio": 0.14,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFD54F",
+        "name_zh": "佛灯金",
+        "name_en": "Buddha Lamp Gold",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#1A1A1A",
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "ratio": 0.14,
+        "rgb": [
+          26,
+          26,
+          26
+        ],
+        "hsl": [
+          0,
+          0,
+          10
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#006064",
+        "name_zh": "沉默压抑",
+        "name_en": "沉默压抑",
+        "emotion": "沉默压抑",
+        "rgb": [
+          0,
+          96,
+          100
+        ],
+        "hsl": [
+          182,
+          100,
+          20
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#C62828",
+        "name_zh": "暴力欲望",
+        "name_en": "暴力欲望",
+        "emotion": "暴力欲望",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#2E7D32",
+        "name_zh": "佛教救赎",
+        "name_en": "佛教救赎",
+        "emotion": "佛教救赎",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#5D4037",
+        "name_zh": "原始本真",
+        "name_en": "原始本真",
+        "emotion": "原始本真",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "水光反射",
+    "highlight_tint": "自然天光",
+    "highlight_bias": "自然天光",
+    "shadow_tint": "寺庙暖光",
+    "shadow_bias": "寺庙暖光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "水与岛",
+    "寺庙漂浮",
+    "沉默对白",
+    "身体暴力",
+    "佛教意象",
+    "四季轮回"
+  ],
+  "color_keywords": [
+    "金基德水色",
+    "寺庙绿棕",
+    "沉默暴力色",
+    "佛教意象色",
+    "水与岛色调",
+    "极端美学色"
+  ],
+  "mood_keywords": [
+    "沉默暴力",
+    "佛教意象",
+    "水与岛",
+    "极端美学",
+    "韩国电影",
+    "人性边缘"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "金基德的视觉风格：水光反射，金基德水色, 寺庙绿棕, 沉默暴力色。",
+    "lighting": "水光反射，自然天光，寺庙暖光",
+    "framing": "水与岛、寺庙漂浮、沉默对白。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

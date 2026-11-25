@@ -1,0 +1,231 @@
+{
+  "director": {
+    "id": "057",
+    "name_en": "Cary Fukunaga",
+    "name_zh": "凯瑞·福永",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "美国",
+    "active_years": "2006-至今",
+    "era": "2006-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#B8864A",
+        "name_zh": "沙漠土黄",
+        "rgb": [
+          184,
+          134,
+          74
+        ],
+        "hsl": [
+          33,
+          44,
+          51
+        ],
+        "ratio": 0.22,
+        "name_en": "Yellow"
+      },
+      {
+        "code": "C02",
+        "hex": "#8B5A2B",
+        "name_zh": "焦土棕褐",
+        "rgb": [
+          139,
+          90,
+          43
+        ],
+        "hsl": [
+          29,
+          53,
+          36
+        ],
+        "ratio": 0.18,
+        "name_en": "Brown"
+      },
+      {
+        "code": "C03",
+        "hex": "#3D5A3D",
+        "name_zh": "沼泽深绿",
+        "rgb": [
+          61,
+          90,
+          61
+        ],
+        "hsl": [
+          120,
+          19,
+          30
+        ],
+        "ratio": 0.15,
+        "name_en": "Green"
+      },
+      {
+        "code": "C04",
+        "hex": "#D4B896",
+        "name_zh": "暖沙肤色",
+        "rgb": [
+          212,
+          184,
+          150
+        ],
+        "hsl": [
+          33,
+          42,
+          71
+        ],
+        "ratio": 0.15,
+        "name_en": "Skin Tone"
+      },
+      {
+        "code": "C05",
+        "hex": "#5C4033",
+        "name_zh": "深棕暗影",
+        "rgb": [
+          92,
+          64,
+          51
+        ],
+        "hsl": [
+          19,
+          29,
+          28
+        ],
+        "ratio": 0.15,
+        "name_en": "Brown"
+      },
+      {
+        "code": "C06",
+        "hex": "#C9A26A",
+        "name_zh": "金晖夕照",
+        "rgb": [
+          201,
+          162,
+          106
+        ],
+        "hsl": [
+          35,
+          47,
+          60
+        ],
+        "ratio": 0.15,
+        "name_en": "Gold"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF6347",
+        "name_zh": "战场血橙",
+        "rgb": [
+          255,
+          99,
+          71
+        ],
+        "hsl": [
+          9,
+          100,
+          64
+        ],
+        "emotion": "残酷暴力",
+        "name_en": "Orange"
+      },
+      {
+        "code": "E02",
+        "hex": "#DAA520",
+        "name_zh": "非洲金",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "emotion": "希望与求生",
+        "name_en": "Gold"
+      },
+      {
+        "code": "E03",
+        "hex": "#2F4F4F",
+        "name_zh": "沼泽蓝灰",
+        "rgb": [
+          47,
+          79,
+          79
+        ],
+        "hsl": [
+          180,
+          25,
+          25
+        ],
+        "emotion": "压抑迷思",
+        "name_en": "Blue"
+      },
+      {
+        "code": "E04",
+        "hex": "#FFDAB9",
+        "name_zh": "柔光回忆",
+        "rgb": [
+          255,
+          218,
+          185
+        ],
+        "hsl": [
+          28,
+          100,
+          86
+        ],
+        "emotion": "温暖过往",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "golden hour desert light, soft dust diffusion, naturalism with poetic framing",
+    "highlight_tint": "warm ochre / golden desert",
+    "shadow_tint": "deep umber / swamp teal",
+    "contrast_ratio": "medium-high 65-80%",
+    "overall_tone": "warm earth tones, 65% warm + 35% cool"
+  },
+  "composition_keywords": [
+    "long tracking shots",
+    "elegant slow pan",
+    "symmetrical violence",
+    "low angle heroic",
+    "silhouette against sunset",
+    "dust particles in light",
+    "depth through doorways",
+    "lingering wide shots"
+  ],
+  "color_keywords": [
+    "desert sand ochre",
+    "burnt earth brown",
+    "swamp moss green",
+    "golden african sunset",
+    "warm dust haze",
+    "blood orange violence",
+    "teal-green shadows",
+    "natural skin warmth"
+  ],
+  "mood_keywords": [
+    "quiet violence",
+    "existential dread",
+    "african resilience",
+    "southern gothic",
+    "elegant brutality",
+    "nostalgic warmth",
+    "moral ambiguity",
+    "lonesome journey"
+  ],
+  "style_profile": {
+    "definition": "土黄、焦棕与沼泽绿包裹人物，优雅镜头把暴力化为荒野诗行。",
+    "lighting": "黄金时刻侧逆光与尘土漫射；肤色暖沙，暗影深褐，烟尘在光中流淌。",
+    "framing": "长镜头跟拍、对称构图、剪影夕照；先铺展荒凉天地，再聚焦个体命运。",
+    "grading": "高光偏金，阴影偏青绿；非洲场景偏暖饱和，沼泽场景偏冷压抑，制造地域差异。",
+    "avoid": "过度手持晃动、冷白现代调色、快速碎切暴力、塑料质感CG、用统一滤镜替代地域光线与质地"
+  }
+}

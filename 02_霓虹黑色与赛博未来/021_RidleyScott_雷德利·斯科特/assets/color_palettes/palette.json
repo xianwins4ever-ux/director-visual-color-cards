@@ -1,0 +1,463 @@
+{
+  "director": {
+    "id": "021",
+    "name_en": "Ridley Scott",
+    "name_zh": "雷德利·斯科特",
+    "category": "02_霓虹黑色与赛博未来",
+    "nationality": "英国",
+    "active_years": "1977-至今",
+    "era": "1977-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0A0F1A",
+        "name_zh": "深空夜黑",
+        "ratio": 0.35,
+        "rgb": [
+          10,
+          15,
+          26
+        ],
+        "hsl": [
+          221,
+          44,
+          7
+        ],
+        "name_en": "Black"
+      },
+      {
+        "code": "C02",
+        "hex": "#1A3A5C",
+        "name_zh": "雨夜钢蓝",
+        "ratio": 0.2,
+        "rgb": [
+          26,
+          58,
+          92
+        ],
+        "hsl": [
+          211,
+          56,
+          23
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "C03",
+        "hex": "#C9A84C",
+        "name_zh": "霓虹暗金",
+        "ratio": 0.15,
+        "rgb": [
+          201,
+          168,
+          76
+        ],
+        "hsl": [
+          44,
+          54,
+          54
+        ],
+        "name_en": "Gold"
+      },
+      {
+        "code": "C04",
+        "hex": "#8B0000",
+        "name_zh": "暗红血锈",
+        "ratio": 0.1,
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "name_en": "Red"
+      },
+      {
+        "code": "C05",
+        "hex": "#2F4F4F",
+        "name_zh": "暗青绿",
+        "ratio": 0.12,
+        "rgb": [
+          47,
+          79,
+          79
+        ],
+        "hsl": [
+          180,
+          25,
+          25
+        ],
+        "name_en": "Green"
+      },
+      {
+        "code": "C06",
+        "hex": "#D4A574",
+        "name_zh": "肤色暖金",
+        "ratio": 0.08,
+        "rgb": [
+          212,
+          165,
+          116
+        ],
+        "hsl": [
+          31,
+          53,
+          64
+        ],
+        "name_en": "Gold"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF6B35",
+        "name_zh": "霓虹橙",
+        "emotion": "未来都市诱惑、危险信号",
+        "rgb": [
+          255,
+          107,
+          53
+        ],
+        "hsl": [
+          16,
+          100,
+          60
+        ],
+        "name_en": "Orange"
+      },
+      {
+        "code": "E02",
+        "hex": "#00CED1",
+        "name_zh": "电子青",
+        "emotion": "科技冰冷、人工智能",
+        "rgb": [
+          0,
+          206,
+          209
+        ],
+        "hsl": [
+          181,
+          100,
+          41
+        ],
+        "name_en": "Cyan"
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD700",
+        "name_zh": "广告金",
+        "emotion": "消费主义幻象、好莱坞浮华",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "name_en": "Gold"
+      },
+      {
+        "code": "E04",
+        "hex": "#4A0E0E",
+        "name_zh": "深渊红",
+        "emotion": "恐惧、外星恐怖、生命的脆弱",
+        "rgb": [
+          74,
+          14,
+          14
+        ],
+        "hsl": [
+          0,
+          68,
+          17
+        ],
+        "name_en": "Red"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "penetrating light beams through smoke/rain, hard edge rim light",
+    "highlight_tint": "neon gold-orange / electronic cyan (neon, screens, ads)",
+    "shadow_tint": "deep blue-black (night, space, dark alleys)",
+    "contrast_ratio": "high, 75-90%, light beams slicing frame",
+    "overall_tone": "cold dark future, 55% cool blue-cyan + 45% warm gold-red"
+  },
+  "composition_keywords": [
+    "giant scale composition",
+    "smoke light beams",
+    "silhouette rim lighting",
+    "low angle architecture",
+    "rain wet reflections",
+    "slow push-in dolly",
+    "neon reflections",
+    "corridor perspective",
+    "mirror reflections",
+    "atmospheric haze"
+  ],
+  "color_keywords": [
+    "smoke piercing beams",
+    "dark golden future",
+    "rainy night neon",
+    "high contrast chiaroscuro",
+    "electronic cyan blue",
+    "neon orange gold",
+    "rain street reflections",
+    "industrial cold light",
+    "giant ad projections",
+    "atmospheric fog"
+  ],
+  "mood_keywords": [
+    "cyberpunk",
+    "existential loneliness",
+    "replicant questioning",
+    "cosmic horror",
+    "corporate monopoly",
+    "future noir",
+    "replicant elegy",
+    "epic gloom",
+    "visual grandeur",
+    "rain sorrow"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "The Duellists",
+      "title_en": "The Duellists",
+      "year": 1977,
+      "palette": [
+        {
+          "hex": "#6782A5",
+          "ratio": 13.6,
+          "luminance": 0.2157,
+          "saturation": 0.3758
+        },
+        {
+          "hex": "#4B382D",
+          "ratio": 13.1,
+          "luminance": 0.0451,
+          "saturation": 0.4
+        },
+        {
+          "hex": "#665147",
+          "ratio": 12.7,
+          "luminance": 0.0916,
+          "saturation": 0.3039
+        },
+        {
+          "hex": "#271B14",
+          "ratio": 12.6,
+          "luminance": 0.0127,
+          "saturation": 0.4872
+        },
+        {
+          "hex": "#262B3A",
+          "ratio": 12.6,
+          "luminance": 0.0245,
+          "saturation": 0.3448
+        },
+        {
+          "hex": "#C3C7CB",
+          "ratio": 12.1,
+          "luminance": 0.5676,
+          "saturation": 0.0394
+        },
+        {
+          "hex": "#4B4A43",
+          "ratio": 12.0,
+          "luminance": 0.068,
+          "saturation": 0.1067
+        },
+        {
+          "hex": "#030100",
+          "ratio": 11.3,
+          "luminance": 0.0004,
+          "saturation": 1.0
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Gladiator",
+      "title_en": "Gladiator",
+      "year": 2000,
+      "palette": [
+        {
+          "hex": "#B0756C",
+          "ratio": 16.9,
+          "luminance": 0.2304,
+          "saturation": 0.3864
+        },
+        {
+          "hex": "#544023",
+          "ratio": 12.8,
+          "luminance": 0.0567,
+          "saturation": 0.5833
+        },
+        {
+          "hex": "#677989",
+          "ratio": 12.4,
+          "luminance": 0.1836,
+          "saturation": 0.2482
+        },
+        {
+          "hex": "#0F0F10",
+          "ratio": 12.3,
+          "luminance": 0.0048,
+          "saturation": 0.0625
+        },
+        {
+          "hex": "#6B5636",
+          "ratio": 12.0,
+          "luminance": 0.1005,
+          "saturation": 0.4953
+        },
+        {
+          "hex": "#7E8C96",
+          "ratio": 11.4,
+          "luminance": 0.2539,
+          "saturation": 0.16
+        },
+        {
+          "hex": "#443324",
+          "ratio": 11.2,
+          "luminance": 0.0372,
+          "saturation": 0.4706
+        },
+        {
+          "hex": "#20140D",
+          "ratio": 11.0,
+          "luminance": 0.0084,
+          "saturation": 0.5938
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Prometheus",
+      "title_en": "Prometheus",
+      "year": 2012,
+      "palette": [
+        {
+          "hex": "#0E100E",
+          "ratio": 15.9,
+          "luminance": 0.005,
+          "saturation": 0.125
+        },
+        {
+          "hex": "#213851",
+          "ratio": 15.1,
+          "luminance": 0.0375,
+          "saturation": 0.5926
+        },
+        {
+          "hex": "#4B697F",
+          "ratio": 13.2,
+          "luminance": 0.1313,
+          "saturation": 0.4094
+        },
+        {
+          "hex": "#132430",
+          "ratio": 13.1,
+          "luminance": 0.0161,
+          "saturation": 0.6042
+        },
+        {
+          "hex": "#3F5875",
+          "ratio": 12.4,
+          "luminance": 0.0932,
+          "saturation": 0.4615
+        },
+        {
+          "hex": "#2E496B",
+          "ratio": 11.2,
+          "luminance": 0.0641,
+          "saturation": 0.5701
+        },
+        {
+          "hex": "#829CA4",
+          "ratio": 10.3,
+          "luminance": 0.312,
+          "saturation": 0.2073
+        },
+        {
+          "hex": "#2C322F",
+          "ratio": 8.8,
+          "luminance": 0.0302,
+          "saturation": 0.12
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Napoleon (2023)",
+      "title_en": "Napoleon (2023)",
+      "year": 2023,
+      "palette": [
+        {
+          "hex": "#DCC58E",
+          "ratio": 15.4,
+          "luminance": 0.571,
+          "saturation": 0.3545
+        },
+        {
+          "hex": "#263131",
+          "ratio": 13.5,
+          "luminance": 0.0283,
+          "saturation": 0.2245
+        },
+        {
+          "hex": "#8DBAD7",
+          "ratio": 13.4,
+          "luminance": 0.4569,
+          "saturation": 0.3442
+        },
+        {
+          "hex": "#75888C",
+          "ratio": 12.9,
+          "luminance": 0.2328,
+          "saturation": 0.1643
+        },
+        {
+          "hex": "#33484C",
+          "ratio": 12.5,
+          "luminance": 0.0586,
+          "saturation": 0.3289
+        },
+        {
+          "hex": "#141D1D",
+          "ratio": 11.3,
+          "luminance": 0.0112,
+          "saturation": 0.3103
+        },
+        {
+          "hex": "#3E5A62",
+          "ratio": 10.7,
+          "luminance": 0.0922,
+          "saturation": 0.3673
+        },
+        {
+          "hex": "#C79F63",
+          "ratio": 10.3,
+          "luminance": 0.3784,
+          "saturation": 0.5025
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "工业青、烟雾黑与琥珀火光构成可触摸的未来废墟。",
+    "lighting": "逆光、体积烟、实景灯源；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "环境揭示、稳定跟随、规模化大全景；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "冷青暗部对琥珀高光，材质微反差；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "全屏青橙、塑料科幻、无烟无层次、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  }
+}

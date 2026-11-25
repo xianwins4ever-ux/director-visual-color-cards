@@ -1,0 +1,231 @@
+{
+  "director": {
+    "id": "058",
+    "name_en": "Roger Deakins",
+    "name_zh": "罗杰·迪金斯",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "英国",
+    "active_years": "1973-至今",
+    "era": "1973-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#6B7B8C",
+        "name_zh": "雾霭蓝灰",
+        "rgb": [
+          107,
+          123,
+          140
+        ],
+        "hsl": [
+          211,
+          13,
+          48
+        ],
+        "ratio": 0.22,
+        "name_en": "Blue"
+      },
+      {
+        "code": "C02",
+        "hex": "#C49A5C",
+        "name_zh": "琥珀暖黄",
+        "rgb": [
+          196,
+          154,
+          92
+        ],
+        "hsl": [
+          36,
+          47,
+          56
+        ],
+        "ratio": 0.18,
+        "name_en": "Yellow"
+      },
+      {
+        "code": "C03",
+        "hex": "#2A2E33",
+        "name_zh": "深炭暗影",
+        "rgb": [
+          42,
+          46,
+          51
+        ],
+        "hsl": [
+          213,
+          10,
+          18
+        ],
+        "ratio": 0.15,
+        "name_en": "Color 3"
+      },
+      {
+        "code": "C04",
+        "hex": "#D9CDB8",
+        "name_zh": "羊皮纸米",
+        "rgb": [
+          217,
+          205,
+          184
+        ],
+        "hsl": [
+          38,
+          30,
+          79
+        ],
+        "ratio": 0.15,
+        "name_en": "Color 4"
+      },
+      {
+        "code": "C05",
+        "hex": "#4A5568",
+        "name_zh": "钢蓝冷调",
+        "rgb": [
+          74,
+          85,
+          104
+        ],
+        "hsl": [
+          218,
+          17,
+          35
+        ],
+        "ratio": 0.15,
+        "name_en": "Blue"
+      },
+      {
+        "code": "C06",
+        "hex": "#8B6F47",
+        "name_zh": "沙土金棕",
+        "rgb": [
+          139,
+          111,
+          71
+        ],
+        "hsl": [
+          35,
+          32,
+          41
+        ],
+        "ratio": 0.15,
+        "name_en": "Gold"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#D4AF37",
+        "name_zh": "窗光金",
+        "rgb": [
+          212,
+          175,
+          55
+        ],
+        "hsl": [
+          46,
+          65,
+          52
+        ],
+        "emotion": "宁静启示",
+        "name_en": "Gold"
+      },
+      {
+        "code": "E02",
+        "hex": "#00BFFF",
+        "name_zh": "赛博蓝",
+        "rgb": [
+          0,
+          191,
+          255
+        ],
+        "hsl": [
+          195,
+          100,
+          50
+        ],
+        "emotion": "未来疏离",
+        "name_en": "Blue"
+      },
+      {
+        "code": "E03",
+        "hex": "#708090",
+        "name_zh": "雾都灰",
+        "rgb": [
+          112,
+          128,
+          144
+        ],
+        "hsl": [
+          210,
+          13,
+          50
+        ],
+        "emotion": "战争虚无",
+        "name_en": "Gray"
+      },
+      {
+        "code": "E04",
+        "hex": "#CD853F",
+        "name_zh": "落日铜",
+        "rgb": [
+          205,
+          133,
+          63
+        ],
+        "hsl": [
+          30,
+          59,
+          53
+        ],
+        "emotion": "宿命苍凉",
+        "name_en": "Copper"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "natural window light, precise silhouette framing, foggy blue-grey diffusion",
+    "highlight_tint": "warm amber gold / pale cream",
+    "shadow_tint": "cool slate blue / deep charcoal",
+    "contrast_ratio": "high 70-85%",
+    "overall_tone": "balanced naturalism, 50% warm + 50% cool"
+  },
+  "composition_keywords": [
+    "precision framing",
+    "natural window light",
+    "foggy atmosphere",
+    "silhouette against light",
+    "long takes (1917)",
+    "negative space",
+    "geometric composition",
+    "painterly chiaroscuro"
+  ],
+  "color_keywords": [
+    "foggy slate blue",
+    "amber tungsten warm",
+    "charcoal deep shadow",
+    "parchment skin tone",
+    "desert sand gold",
+    "cyberpunk neon blue",
+    "window rim light",
+    "natural daylight precision"
+  ],
+  "mood_keywords": [
+    "quiet contemplation",
+    "existential precision",
+    "dystopian beauty",
+    "wartime desolation",
+    "western stoicism",
+    "visual poetry",
+    "moral ambiguity",
+    "cinematic meditation"
+  ],
+  "style_profile": {
+    "definition": "雾蓝、琥珀与炭灰构成的精准世界，窗光与剪影把每个镜头炼成油画。",
+    "lighting": "自然光为主，窗光勾勒轮廓，雾霭柔化边界；肤色自然不偏色，明暗关系精准如古典绘画。",
+    "framing": "几何对称、负空间、精准分割；先建立空间秩序，再让人物在秩序中寻找位置。",
+    "grading": "蓝灰与暖黄两极平衡；冷调场景偏雾蓝，暖调场景偏琥珀，但始终保留中间调的真实感。",
+    "avoid": "色偏过重、过度饱和、无动机光源、炫光滥用、用统一滤镜替代精心设计的自然光效"
+  }
+}

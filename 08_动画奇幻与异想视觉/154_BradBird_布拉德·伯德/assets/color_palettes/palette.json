@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "154",
+    "name_en": "BradBird",
+    "name_zh": "布拉德·伯德",
+    "category": "08_动画奇幻与异想视觉",
+    "nationality": "美国",
+    "active_years": "1957-",
+    "era": "1957-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#E53935",
+        "name_zh": "超人红",
+        "name_en": "Super Red",
+        "ratio": 0.2,
+        "rgb": [
+          229,
+          57,
+          53
+        ],
+        "hsl": [
+          1,
+          77,
+          55
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#1565C0",
+        "name_zh": "英雄蓝",
+        "name_en": "Hero Blue",
+        "ratio": 0.18,
+        "rgb": [
+          21,
+          101,
+          192
+        ],
+        "hsl": [
+          212,
+          80,
+          42
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFA000",
+        "name_zh": "复古橙黄",
+        "name_en": "Retro Orange Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          160,
+          0
+        ],
+        "hsl": [
+          38,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#78909C",
+        "name_zh": "金属灰",
+        "name_en": "Metal Gray",
+        "ratio": 0.14,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#2E7D32",
+        "name_zh": "英雄绿",
+        "name_en": "Hero Green",
+        "ratio": 0.14,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFF9C4",
+        "name_zh": "暖黄",
+        "name_en": "Warm Yellow",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          249,
+          196
+        ],
+        "hsl": [
+          54,
+          100,
+          88
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#E53935",
+        "name_zh": "英雄正义",
+        "name_en": "英雄正义",
+        "emotion": "英雄正义",
+        "rgb": [
+          229,
+          57,
+          53
+        ],
+        "hsl": [
+          1,
+          77,
+          55
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#1565C0",
+        "name_zh": "责任担当",
+        "name_en": "责任担当",
+        "emotion": "责任担当",
+        "rgb": [
+          21,
+          101,
+          192
+        ],
+        "hsl": [
+          212,
+          80,
+          42
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFA000",
+        "name_zh": "复古怀旧",
+        "name_en": "复古怀旧",
+        "emotion": "复古怀旧",
+        "rgb": [
+          255,
+          160,
+          0
+        ],
+        "hsl": [
+          38,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#78909C",
+        "name_zh": "机械美学",
+        "name_en": "机械美学",
+        "emotion": "机械美学",
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "复古暖光",
+    "highlight_tint": "金属冷光",
+    "highlight_bias": "金属冷光",
+    "shadow_tint": "50年代色",
+    "shadow_bias": "50年代色",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "复古未来",
+    "超人家庭",
+    "黄金时代",
+    "动作流畅",
+    "城市英雄",
+    "家庭温情"
+  ],
+  "color_keywords": [
+    "超人红蓝",
+    "复古未来色",
+    "50年代暖调",
+    "金属英雄色",
+    "动作片色彩",
+    "黄金时代色"
+  ],
+  "mood_keywords": [
+    "英雄主义",
+    "家庭温情",
+    "复古未来",
+    "黄金时代",
+    "动作美学",
+    "天才动画"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "布拉德·伯德的视觉风格：复古暖光，超人红蓝, 复古未来色, 50年代暖调。",
+    "lighting": "复古暖光，金属冷光，50年代色",
+    "framing": "复古未来、超人家庭、黄金时代。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

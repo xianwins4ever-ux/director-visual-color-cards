@@ -1,0 +1,56 @@
+{
+  "director": {"zh": "李沧东", "en": "Lee Chang-dong"},
+  "style_profile": {
+    "definition": "灰绿现实和微弱琥珀保存沉默，危险只以远处暖色慢慢靠近。",
+    "lighting": "自然逆光、暮色、低照度室内；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "长焦观察、缓慢靠近、留出空白；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "低饱和、柔反差、暖色稀少；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": ["艳丽悬疑色", "过度黑场", "煽情柔光", "无动机环绕和随机变焦", "用统一滤镜替代色彩比例、光源和材质"]
+  },
+  "films": [
+    {
+      "title_zh": "薄荷糖", "title_en": "Peppermint Candy", "year": 1999,
+      "frames": ["source-frames/film-01/frame-01.jpg", "source-frames/film-01/frame-02.jpg", "source-frames/film-01/frame-03.jpg", "source-frames/film-01/frame-04.jpg"],
+      "sources": [
+        {"label": "FilmGrab 真实电影截图图库", "url": "https://film-grab.com/2024/07/06/peppermint-candy/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Peppermint_Candy_01.jpg?bwg=1705681098"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Peppermint_Candy_19.jpg?bwg=1705681096"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Peppermint_Candy_37.jpg?bwg=1705681096"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Peppermint_Candy_55.jpg?bwg=1705681096"}
+      ]
+    },
+    {
+      "title_zh": "绿洲", "title_en": "Oasis", "year": 2002,
+      "frames": ["source-frames/film-02/frame-01.jpg", "source-frames/film-02/frame-02.jpg", "source-frames/film-02/frame-03.jpg", "source-frames/film-02/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/26955/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/9zubjhZP5rmp2UUHWDBViNd2Htk.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/cli65ypod1PIqxj91GrIGvLD9Jy.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/eqg6TiuXNW7eMLhQTd4BMSfpxWy.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/rfWg26NLvlYzHLPSQ6OLGMhN3yV.jpg"}
+      ]
+    },
+    {
+      "title_zh": "诗", "title_en": "Poetry", "year": 2010,
+      "frames": ["source-frames/film-03/frame-01.jpg", "source-frames/film-03/frame-02.jpg", "source-frames/film-03/frame-03.jpg", "source-frames/film-03/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/47909/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/4sSxwH0ydQ0GOGUtL93O3r1EFNh.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/5VXnfyLlpMnC5Ba8yfcHqs03eRi.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/m3xCLh3b3QH9QkZx67argsU5PTO.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/t39eiLTv904gXM6hWsbvUrFeabF.jpg"}
+      ]
+    },
+    {
+      "title_zh": "燃烧", "title_en": "Burning", "year": 2018,
+      "frames": ["source-frames/film-04/frame-01.jpg", "source-frames/film-04/frame-02.jpg", "source-frames/film-04/frame-03.jpg", "source-frames/film-04/frame-04.jpg"],
+      "sources": [
+        {"label": "FilmGrab 真实电影截图图库", "url": "https://film-grab.com/2019/12/10/burning/"},
+        {"label": "截图 01", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Burning_001.jpg?bwg=1569398323"},
+        {"label": "截图 02", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Burning_020.jpg?bwg=1569398320"},
+        {"label": "截图 03", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Burning_039.jpg?bwg=1569398319"},
+        {"label": "截图 04", "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Burning_058.jpg?bwg=1569398319"}
+      ]
+    }
+  ]
+}

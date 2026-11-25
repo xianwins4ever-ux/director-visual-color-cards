@@ -1,0 +1,463 @@
+{
+  "director": {
+    "id": "002",
+    "name_en": "David Fincher",
+    "name_zh": "大卫·芬奇",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "nationality": "美国",
+    "active_years": "1985-至今",
+    "era": "1985-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#1A2E2A",
+        "name_zh": "沼泽暗绿",
+        "name_en": "Swamp Dark Green",
+        "ratio": 0.38,
+        "rgb": [
+          26,
+          46,
+          42
+        ],
+        "hsl": [
+          168,
+          28,
+          14
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#3D4F4F",
+        "name_zh": "病灰绿",
+        "name_en": "Sickly Gray Green",
+        "ratio": 0.2,
+        "rgb": [
+          61,
+          79,
+          79
+        ],
+        "hsl": [
+          180,
+          13,
+          27
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#A89C3E",
+        "name_zh": "腐黄琥珀",
+        "name_en": "Decay Yellow Amber",
+        "ratio": 0.15,
+        "rgb": [
+          168,
+          156,
+          62
+        ],
+        "hsl": [
+          53,
+          46,
+          45
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#6B7B8A",
+        "name_zh": "冷钢灰蓝",
+        "name_en": "Cold Steel Gray Blue",
+        "ratio": 0.1,
+        "rgb": [
+          107,
+          123,
+          138
+        ],
+        "hsl": [
+          209,
+          13,
+          48
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#8B1A1A",
+        "name_zh": "暗血暗红",
+        "name_en": "Dark Blood Red",
+        "ratio": 0.09,
+        "rgb": [
+          139,
+          26,
+          26
+        ],
+        "hsl": [
+          0,
+          68,
+          32
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#C9C0A5",
+        "name_zh": "脏米肤",
+        "name_en": "Dirty Beige Skin",
+        "ratio": 0.08,
+        "rgb": [
+          201,
+          192,
+          165
+        ],
+        "hsl": [
+          45,
+          25,
+          72
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#4A6B5C",
+        "name_zh": "病态绿",
+        "name_en": "Morbid Green",
+        "emotion": "扭曲、强迫症、精神异化",
+        "rgb": [
+          74,
+          107,
+          92
+        ],
+        "hsl": [
+          153,
+          18,
+          35
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#D4C64A",
+        "name_zh": "腐朽黄",
+        "name_en": "Rotten Yellow",
+        "emotion": "堕落、腐败、道德崩溃",
+        "rgb": [
+          212,
+          198,
+          74
+        ],
+        "hsl": [
+          54,
+          62,
+          56
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#2C3E50",
+        "name_zh": "深渊蓝灰",
+        "name_en": "Abyss Blue Gray",
+        "emotion": "孤立、疏离、存在虚无",
+        "rgb": [
+          44,
+          62,
+          80
+        ],
+        "hsl": [
+          210,
+          29,
+          24
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#7B241C",
+        "name_zh": "凝结血",
+        "name_en": "Coagulated Blood",
+        "emotion": "暴力后果、死亡的重量",
+        "rgb": [
+          123,
+          36,
+          28
+        ],
+        "hsl": [
+          5,
+          63,
+          30
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "侧逆光，冷调为主，暖黄点缀",
+    "highlight_tint": "病态黄绿色（荧光灯/街灯）",
+    "shadow_tint": "深绿偏黑（雨夜/阴影）",
+    "contrast_ratio": "中高对比（65-80%），阴影细节保留",
+    "overall_tone": "冷调脏绿，75%冷色 + 25%暖黄点缀"
+  },
+  "composition_keywords": [
+    "精确对称构图",
+    "低角度仰拍",
+    "固定镜头",
+    "缓慢推轨",
+    "暗角构图",
+    "百叶窗阴影",
+    "镜面反射",
+    "玻璃取景",
+    "手持跟拍",
+    "长镜头"
+  ],
+  "color_keywords": [
+    "暗绿黄色调",
+    "脏冷质感",
+    "低调照明",
+    "荧光灯绿色",
+    "钨丝灯黄",
+    "雨湿反光",
+    "阴影浓重",
+    "肤色偏黄病态",
+    "青黑色阴影",
+    "去饱和处理"
+  ],
+  "mood_keywords": [
+    "心理悬疑",
+    "病态扭曲",
+    "存在主义焦虑",
+    "都市异化",
+    "强迫症美学",
+    "黑暗反讽",
+    "男性危机",
+    "身份迷失",
+    "暴力的日常化",
+    "精密的混乱"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "Alien 3",
+      "title_en": "Alien 3",
+      "year": 1992,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 38.1,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#574D4A",
+          "ratio": 12.8,
+          "luminance": 0.0783,
+          "saturation": 0.1494
+        },
+        {
+          "hex": "#1C0E03",
+          "ratio": 11.5,
+          "luminance": 0.0057,
+          "saturation": 0.8929
+        },
+        {
+          "hex": "#302C2A",
+          "ratio": 7.9,
+          "luminance": 0.026,
+          "saturation": 0.125
+        },
+        {
+          "hex": "#4D3A30",
+          "ratio": 7.8,
+          "luminance": 0.0482,
+          "saturation": 0.3766
+        },
+        {
+          "hex": "#1E1C1E",
+          "ratio": 7.8,
+          "luminance": 0.012,
+          "saturation": 0.0667
+        },
+        {
+          "hex": "#57515B",
+          "ratio": 7.3,
+          "luminance": 0.0867,
+          "saturation": 0.1099
+        },
+        {
+          "hex": "#7880BE",
+          "ratio": 6.8,
+          "luminance": 0.2315,
+          "saturation": 0.3684
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Panic Room",
+      "title_en": "Panic Room",
+      "year": 2002,
+      "palette": [
+        {
+          "hex": "#010101",
+          "ratio": 25.6,
+          "luminance": 0.0003,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#2D372E",
+          "ratio": 12.3,
+          "luminance": 0.0349,
+          "saturation": 0.1818
+        },
+        {
+          "hex": "#231C0D",
+          "ratio": 11.3,
+          "luminance": 0.0122,
+          "saturation": 0.6286
+        },
+        {
+          "hex": "#08191C",
+          "ratio": 11.3,
+          "luminance": 0.0083,
+          "saturation": 0.7143
+        },
+        {
+          "hex": "#485848",
+          "ratio": 11.3,
+          "luminance": 0.0883,
+          "saturation": 0.1818
+        },
+        {
+          "hex": "#131912",
+          "ratio": 10.0,
+          "luminance": 0.0088,
+          "saturation": 0.28
+        },
+        {
+          "hex": "#434028",
+          "ratio": 9.2,
+          "luminance": 0.0501,
+          "saturation": 0.403
+        },
+        {
+          "hex": "#564526",
+          "ratio": 9.0,
+          "luminance": 0.0637,
+          "saturation": 0.5581
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "The Girl With The Dragon Tattoo",
+      "title_en": "The Girl With The Dragon Tattoo",
+      "year": 2011,
+      "palette": [
+        {
+          "hex": "#655422",
+          "ratio": 15.3,
+          "luminance": 0.0922,
+          "saturation": 0.6634
+        },
+        {
+          "hex": "#688596",
+          "ratio": 14.6,
+          "luminance": 0.2192,
+          "saturation": 0.3067
+        },
+        {
+          "hex": "#324A5F",
+          "ratio": 14.5,
+          "luminance": 0.064,
+          "saturation": 0.4737
+        },
+        {
+          "hex": "#425F74",
+          "ratio": 13.1,
+          "luminance": 0.106,
+          "saturation": 0.431
+        },
+        {
+          "hex": "#503F18",
+          "ratio": 12.2,
+          "luminance": 0.0533,
+          "saturation": 0.7
+        },
+        {
+          "hex": "#4C482B",
+          "ratio": 11.0,
+          "luminance": 0.0635,
+          "saturation": 0.4342
+        },
+        {
+          "hex": "#0F0C06",
+          "ratio": 9.8,
+          "luminance": 0.0038,
+          "saturation": 0.6
+        },
+        {
+          "hex": "#271D09",
+          "ratio": 9.5,
+          "luminance": 0.0133,
+          "saturation": 0.7692
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "The Killer",
+      "title_en": "The Killer",
+      "year": 2023,
+      "palette": [
+        {
+          "hex": "#6E7254",
+          "ratio": 14.5,
+          "luminance": 0.1599,
+          "saturation": 0.2632
+        },
+        {
+          "hex": "#010409",
+          "ratio": 13.7,
+          "luminance": 0.0011,
+          "saturation": 0.8889
+        },
+        {
+          "hex": "#46371E",
+          "ratio": 13.0,
+          "luminance": 0.0413,
+          "saturation": 0.5714
+        },
+        {
+          "hex": "#E9EFED",
+          "ratio": 12.7,
+          "luminance": 0.8517,
+          "saturation": 0.0251
+        },
+        {
+          "hex": "#A0A483",
+          "ratio": 12.0,
+          "luminance": 0.3566,
+          "saturation": 0.2012
+        },
+        {
+          "hex": "#26545C",
+          "ratio": 11.7,
+          "luminance": 0.0753,
+          "saturation": 0.587
+        },
+        {
+          "hex": "#5E593D",
+          "ratio": 11.5,
+          "luminance": 0.0986,
+          "saturation": 0.3511
+        },
+        {
+          "hex": "#859971",
+          "ratio": 10.9,
+          "luminance": 0.2896,
+          "saturation": 0.2614
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "黄绿阴影、冷灰建筑和压抑钨光构成精密的犯罪病理。",
+    "lighting": "低照度实景灯、顶光、雨反射；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "精确构图、稳定跟随、信息特写；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "压低饱和，阴影黄绿，高光不过曝；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "全黑看不清、过度青橙、随机手持、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  }
+}

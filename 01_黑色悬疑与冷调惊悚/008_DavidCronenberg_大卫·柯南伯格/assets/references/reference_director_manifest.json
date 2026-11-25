@@ -1,0 +1,256 @@
+{
+    "director":  {
+                     "zh":  "大卫·柯南伯格",
+                     "en":  "David Cronenberg"
+                 },
+    "style_profile":  {
+                          "definition":  "肉色、金属灰和病态蓝绿让身体与机器互相污染。",
+                          "lighting":  "冷医疗光、湿润高光、低调侧光。",
+                          "framing":  "临床近景、身体细节、冷静观察。",
+                          "grading":  "突出皮肤纹理、有机湿感和金属表面，综合色不过艳。",
+                          "avoid":  [
+                                        "干净科幻蓝",
+                                        "塑料血肉",
+                                        "美颜磨皮",
+                                        "全局青橙",
+                                        "无动机环绕和随机变焦"
+                                    ]
+                      },
+    "films":  [
+                  {
+                      "title_zh":  "录像带谋杀案",
+                      "title_en":  "Videodrome",
+                      "year":  1983,
+                      "frames":  [
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\videodrome\\frame-01.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\videodrome\\frame-02.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\videodrome\\frame-03.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\videodrome\\frame-04.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\videodrome\\frame-05.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\videodrome\\frame-06.jpg"
+                                 ],
+                      "sources":  [
+                                      {
+                                          "label":  "官方/发行版本资料页",
+                                          "url":  "https://www.criterion.com/films/240-videodrome"
+                                      },
+                                      {
+                                          "label":  "FilmGrab 真实电影截图图库",
+                                          "url":  "https://film-grab.com/2013/09/24/videodrome/"
+                                      },
+                                      {
+                                          "label":  "截图 01",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/1 (25).jpg?bwg=1547479511"
+                                      },
+                                      {
+                                          "label":  "截图 02",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/16 (1301).jpg?bwg=1547479511"
+                                      },
+                                      {
+                                          "label":  "截图 03",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/29 (1300).jpg?bwg=1547479510"
+                                      },
+                                      {
+                                          "label":  "截图 04",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/40 (1291).jpg?bwg=1547479510"
+                                      },
+                                      {
+                                          "label":  "截图 05",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/6 (25).jpg?bwg=1547479511"
+                                      },
+                                      {
+                                          "label":  "截图 06",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/9 (25).jpg?bwg=1547479510"
+                                      }
+                                  ]
+                  },
+                  {
+                      "title_zh":  "孽扣",
+                      "title_en":  "Dead Ringers",
+                      "year":  1988,
+                      "frames":  [
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\dead-ringers\\frame-01.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\dead-ringers\\frame-02.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\dead-ringers\\frame-03.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\dead-ringers\\frame-04.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\dead-ringers\\frame-05.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\dead-ringers\\frame-06.jpg"
+                                 ],
+                      "sources":  [
+                                      {
+                                          "label":  "官方/发行版本资料页",
+                                          "url":  "https://www.criterion.com/films/541-dead-ringers"
+                                      },
+                                      {
+                                          "label":  "FilmGrab 真实电影截图图库",
+                                          "url":  "https://film-grab.com/2014/05/31/dead-ringers/"
+                                      },
+                                      {
+                                          "label":  "截图 01",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/01 (297).jpg?bwg=1547209936"
+                                      },
+                                      {
+                                          "label":  "截图 02",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/15 (302).jpg?bwg=1547209938"
+                                      },
+                                      {
+                                          "label":  "截图 03",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/22 (302).jpg?bwg=1547209936"
+                                      },
+                                      {
+                                          "label":  "截图 04",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/29 (302).jpg?bwg=1547209938"
+                                      },
+                                      {
+                                          "label":  "截图 05",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/43 (296).jpg?bwg=1547209936"
+                                      },
+                                      {
+                                          "label":  "截图 06",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/57 (267).jpg?bwg=1547209936"
+                                      }
+                                  ]
+                  },
+                  {
+                      "title_zh":  "欲望号快车",
+                      "title_en":  "Crash",
+                      "year":  1996,
+                      "frames":  [
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\crash\\frame-01.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\crash\\frame-02.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\crash\\frame-03.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\crash\\frame-04.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\crash\\frame-05.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\crash\\frame-06.jpg"
+                                 ],
+                      "sources":  [
+                                      {
+                                          "label":  "官方/发行版本资料页",
+                                          "url":  "https://www.criterion.com/films/29014-crash"
+                                      },
+                                      {
+                                          "label":  "FilmGrab 真实电影截图图库",
+                                          "url":  "https://film-grab.com/2014/06/16/crash/"
+                                      },
+                                      {
+                                          "label":  "截图 01",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/01 (268).jpg?bwg=1547208418"
+                                      },
+                                      {
+                                          "label":  "截图 02",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/15 (273).jpg?bwg=1547208417"
+                                      },
+                                      {
+                                          "label":  "截图 03",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/29 (273).jpg?bwg=1547208418"
+                                      },
+                                      {
+                                          "label":  "截图 04",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/37 (272).jpg?bwg=1547208417"
+                                      },
+                                      {
+                                          "label":  "截图 05",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/57 (245).jpg?bwg=1547208417"
+                                      },
+                                      {
+                                          "label":  "截图 06",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/64 (202).jpg?bwg=1547208417"
+                                      }
+                                  ]
+                  },
+                  {
+                      "title_zh":  "变蝇人",
+                      "title_en":  "The Fly",
+                      "year":  1986,
+                      "frames":  [
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\the-fly\\frame-01.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\the-fly\\frame-02.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\the-fly\\frame-03.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\the-fly\\frame-04.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\the-fly\\frame-05.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\the-fly\\frame-06.jpg"
+                                 ],
+                      "sources":  [
+                                      {
+                                          "label":  "官方/发行版本资料页",
+                                          "url":  "https://www.20thcenturystudios.com/movies/the-fly"
+                                      },
+                                      {
+                                          "label":  "FilmGrab 真实电影截图图库",
+                                          "url":  "https://film-grab.com/2010/06/27/the-fly/"
+                                      },
+                                      {
+                                          "label":  "截图 01",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/image001 (11).jpg?bwg=1547464696"
+                                      },
+                                      {
+                                          "label":  "截图 02",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/image008 (11).jpg?bwg=1547464696"
+                                      },
+                                      {
+                                          "label":  "截图 03",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/image015 (11).jpg?bwg=1547464696"
+                                      },
+                                      {
+                                          "label":  "截图 04",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/image021 (11).jpg?bwg=1547464696"
+                                      },
+                                      {
+                                          "label":  "截图 05",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/image055 (11).jpg?bwg=1547464695"
+                                      },
+                                      {
+                                          "label":  "截图 06",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/image062 (9).jpg?bwg=1547464695"
+                                      }
+                                  ]
+                  },
+                  {
+                      "title_zh":  "暴力史",
+                      "title_en":  "A History of Violence",
+                      "year":  2005,
+                      "frames":  [
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\history-of-violence\\frame-01.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\history-of-violence\\frame-02.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\history-of-violence\\frame-03.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\history-of-violence\\frame-04.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\history-of-violence\\frame-05.jpg",
+                                     "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\david-cronenberg-20260713\\selected-frames\\history-of-violence\\frame-06.jpg"
+                                 ],
+                      "sources":  [
+                                      {
+                                          "label":  "官方/发行版本资料页",
+                                          "url":  "https://www.criterion.com/films/33805-a-history-of-violence"
+                                      },
+                                      {
+                                          "label":  "FilmGrab 真实电影截图图库",
+                                          "url":  "https://film-grab.com/2014/08/19/a-history-of-violence/"
+                                      },
+                                      {
+                                          "label":  "截图 01",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/01 (21).jpg?bwg=1547140530"
+                                      },
+                                      {
+                                          "label":  "截图 02",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/08 (21).jpg?bwg=1547140530"
+                                      },
+                                      {
+                                          "label":  "截图 03",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/15 (21).jpg?bwg=1547140531"
+                                      },
+                                      {
+                                          "label":  "截图 04",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/29 (21).jpg?bwg=1547140530"
+                                      },
+                                      {
+                                          "label":  "截图 05",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/37 (21).jpg?bwg=1547140530"
+                                      },
+                                      {
+                                          "label":  "截图 06",
+                                          "url":  "https://film-grab.com/wp-content/uploads/photo-gallery/65 (16).jpg?bwg=1547140530"
+                                      }
+                                  ]
+                  }
+              ]
+}

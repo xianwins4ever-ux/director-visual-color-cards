@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "193",
+    "name_en": "SatyajitRay",
+    "name_zh": "萨蒂亚吉特·雷伊",
+    "category": "10_东方美学与留白意境",
+    "nationality": "印度",
+    "active_years": "1921-1992",
+    "era": "1921-1992"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#000000",
+        "name_zh": "墨黑",
+        "name_en": "Ink Black",
+        "ratio": 0.2,
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFFFFF",
+        "name_zh": "恒河白",
+        "name_en": "Ganges White",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#8D6E63",
+        "name_zh": "泥土棕",
+        "name_en": "Earth Brown",
+        "ratio": 0.16,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#808080",
+        "name_zh": "中灰",
+        "name_en": "Mid Gray",
+        "ratio": 0.14,
+        "rgb": [
+          128,
+          128,
+          128
+        ],
+        "hsl": [
+          0,
+          0,
+          50
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFD54F",
+        "name_zh": "金辉",
+        "name_en": "Golden Glow",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#BCAAA4",
+        "name_zh": "土米",
+        "name_en": "Earth Beige",
+        "ratio": 0.16,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#8D6E63",
+        "name_zh": "大地厚重",
+        "name_en": "大地厚重",
+        "emotion": "大地厚重",
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFD54F",
+        "name_zh": "人性光辉",
+        "name_en": "人性光辉",
+        "emotion": "人性光辉",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#808080",
+        "name_zh": "命运沉思",
+        "name_en": "命运沉思",
+        "emotion": "命运沉思",
+        "rgb": [
+          128,
+          128,
+          128
+        ],
+        "hsl": [
+          0,
+          0,
+          50
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#000000",
+        "name_zh": "贫困沉重",
+        "name_en": "贫困沉重",
+        "emotion": "贫困沉重",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然光效",
+    "highlight_tint": "侧光塑形",
+    "highlight_bias": "侧光塑形",
+    "shadow_tint": "窗格光影",
+    "shadow_bias": "窗格光影",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "孟加拉乡村",
+    "阿普成长",
+    "自然风景",
+    "家庭故事",
+    "长镜头",
+    "人文主义"
+  ],
+  "color_keywords": [
+    "雷伊黑白棕",
+    "孟加拉诗意色",
+    "印度人文色",
+    "阿普三部曲色",
+    "泥土棕调",
+    "恒河金色"
+  ],
+  "mood_keywords": [
+    "人文主义",
+    "印度诗意",
+    "黑白经典",
+    "阿普三部曲",
+    "孟加拉电影",
+    "现实主义"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "萨蒂亚吉特·雷伊的视觉风格：自然光效，雷伊黑白棕, 孟加拉诗意色, 印度人文色。",
+    "lighting": "自然光效，侧光塑形，窗格光影",
+    "framing": "孟加拉乡村、阿普成长、自然风景。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

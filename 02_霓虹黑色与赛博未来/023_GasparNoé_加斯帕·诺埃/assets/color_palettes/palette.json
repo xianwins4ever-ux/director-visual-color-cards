@@ -1,0 +1,231 @@
+{
+  "director": {
+    "id": "023",
+    "name_en": "Gaspar Noé",
+    "name_zh": "加斯帕·诺埃",
+    "category": "02_霓虹黑色与赛博未来",
+    "nationality": "法国/阿根廷",
+    "active_years": "1998-至今",
+    "era": "1998-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0A000F",
+        "name_zh": "迷幻深黑",
+        "ratio": 0.3,
+        "rgb": [
+          10,
+          0,
+          15
+        ],
+        "hsl": [
+          280,
+          100,
+          3
+        ],
+        "name_en": "Black"
+      },
+      {
+        "code": "C02",
+        "hex": "#FF0000",
+        "name_zh": "频闪纯红",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          50
+        ],
+        "name_en": "Red"
+      },
+      {
+        "code": "C03",
+        "hex": "#0000FF",
+        "name_zh": "电音深蓝",
+        "ratio": 0.15,
+        "rgb": [
+          0,
+          0,
+          255
+        ],
+        "hsl": [
+          240,
+          100,
+          50
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "C04",
+        "hex": "#FF00FF",
+        "name_zh": "夜店洋红",
+        "ratio": 0.12,
+        "rgb": [
+          255,
+          0,
+          255
+        ],
+        "hsl": [
+          300,
+          100,
+          50
+        ],
+        "name_en": "Red"
+      },
+      {
+        "code": "C05",
+        "hex": "#FFD700",
+        "name_zh": "迷幻金",
+        "ratio": 0.1,
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "name_en": "Gold"
+      },
+      {
+        "code": "C06",
+        "hex": "#E8BEAC",
+        "name_zh": "裸肤",
+        "ratio": 0.15,
+        "rgb": [
+          232,
+          190,
+          172
+        ],
+        "hsl": [
+          18,
+          57,
+          79
+        ],
+        "name_en": "Color 6"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF1493",
+        "name_zh": "欲望粉",
+        "emotion": "性欲肉体",
+        "rgb": [
+          255,
+          20,
+          147
+        ],
+        "hsl": [
+          328,
+          100,
+          54
+        ],
+        "name_en": "Pink"
+      },
+      {
+        "code": "E02",
+        "hex": "#00FFFF",
+        "name_zh": "毒幻青",
+        "emotion": "毒瘾幻觉",
+        "rgb": [
+          0,
+          255,
+          255
+        ],
+        "hsl": [
+          180,
+          100,
+          50
+        ],
+        "name_en": "Cyan"
+      },
+      {
+        "code": "E03",
+        "hex": "#FF4500",
+        "name_zh": "暴力橙红",
+        "emotion": "暴力愤怒",
+        "rgb": [
+          255,
+          69,
+          0
+        ],
+        "hsl": [
+          16,
+          100,
+          50
+        ],
+        "name_en": "Red"
+      },
+      {
+        "code": "E04",
+        "hex": "#9400D3",
+        "name_zh": "迷幻紫",
+        "emotion": "超越濒死",
+        "rgb": [
+          148,
+          0,
+          211
+        ],
+        "hsl": [
+          282,
+          100,
+          41
+        ],
+        "name_en": "Purple"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "strobing neon, disorienting colored sources, extreme low-angle",
+    "highlight_tint": "strobing red/blue/magenta club lights",
+    "shadow_tint": "pure black void",
+    "contrast_ratio": "extreme 85-95%",
+    "overall_tone": "psychedelic neon dark 50/50"
+  },
+  "composition_keywords": [
+    "360 degree rotating camera",
+    "extreme low angle",
+    "long unbroken takes",
+    "first person POV",
+    "stroboscopic editing",
+    "overhead bird's eye",
+    "extreme close-up body",
+    "inverted camera"
+  ],
+  "color_keywords": [
+    "strobing red-blue neon",
+    "psychedelic magenta",
+    "nightclub color temperature",
+    "saturated violence red",
+    "drug hallucination colors",
+    "strobe light flicker",
+    "blacklight UV glow",
+    "disorienting color shifts"
+  ],
+  "mood_keywords": [
+    "extreme cinema",
+    "sensory overload",
+    "primal desire",
+    "violence and sexuality",
+    "drug experience",
+    "existential void",
+    "death transcendence",
+    "audience confrontation"
+  ],
+  "style_profile": {
+    "definition": "加斯帕·诺埃的视觉风格以strobing neon, disorienting colored sources, extreme low-angle为主，strobing red-blue neon、psychedelic magenta，营造出extreme cinema的氛围。",
+    "lighting": "strobing neon, disorienting colored sources, extreme low-angle，高光偏strobing red/blue/magenta club lights，阴影偏pure black void，整体psychedelic neon dark 50/50。",
+    "framing": "360 degree rotating camera、extreme low angle、long unbroken takes。",
+    "grading": "对比度extreme 85-95%，色调psychedelic neon dark 50/50。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "195",
+    "name_en": "AsgharFarhadi",
+    "name_zh": "阿斯哈·法哈蒂",
+    "category": "10_东方美学与留白意境",
+    "nationality": "伊朗",
+    "active_years": "1972-",
+    "era": "1972-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#8D6E63",
+        "name_zh": "德黑兰棕",
+        "name_en": "Tehran Brown",
+        "ratio": 0.2,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#78909C",
+        "name_zh": "道德灰",
+        "name_en": "Moral Gray",
+        "ratio": 0.18,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFCC80",
+        "name_zh": "暖黄",
+        "name_en": "Warm Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#5D4037",
+        "name_zh": "暗棕",
+        "name_en": "Dark Brown",
+        "ratio": 0.14,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#BCAAA4",
+        "name_zh": "公寓米",
+        "name_en": "Apartment Beige",
+        "ratio": 0.14,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#A1887F",
+        "name_zh": "旧木棕",
+        "name_en": "Old Wood Brown",
+        "ratio": 0.18,
+        "rgb": [
+          161,
+          136,
+          127
+        ],
+        "hsl": [
+          16,
+          15,
+          56
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#8D6E63",
+        "name_zh": "道德困境",
+        "name_en": "道德困境",
+        "emotion": "道德困境",
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#78909C",
+        "name_zh": "社会压抑",
+        "name_en": "社会压抑",
+        "emotion": "社会压抑",
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFCC80",
+        "name_zh": "家庭温暖",
+        "name_en": "家庭温暖",
+        "emotion": "家庭温暖",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#5D4037",
+        "name_zh": "秘密沉重",
+        "name_en": "秘密沉重",
+        "emotion": "秘密沉重",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "室内柔光",
+    "highlight_tint": "自然天光",
+    "highlight_bias": "自然天光",
+    "shadow_tint": "公寓荧光",
+    "shadow_bias": "公寓荧光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "公寓内景",
+    "道德困境",
+    "家庭秘密",
+    "社会阶层",
+    "对话驱动",
+    "真实表演"
+  ],
+  "color_keywords": [
+    "法哈蒂棕灰",
+    "道德困境色",
+    "伊朗公寓色",
+    "社会阶层色",
+    "真实电影色",
+    "家庭秘密色"
+  ],
+  "mood_keywords": [
+    "道德悬疑",
+    "社会现实",
+    "家庭秘密",
+    "伊朗社会",
+    "奥斯卡外语片",
+    "真实电影"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "阿斯哈·法哈蒂的视觉风格：室内柔光，法哈蒂棕灰, 道德困境色, 伊朗公寓色。",
+    "lighting": "室内柔光，自然天光，公寓荧光",
+    "framing": "公寓内景、道德困境、家庭秘密。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "director": {
+    "id": "017",
+    "name_en": "Park Chan-wook",
+    "name_zh": "朴赞郁",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "nationality": "韩国",
+    "active_years": "1992-至今",
+    "era": "1992-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0E2A24",
+        "name_zh": "深翡绿黑",
+        "name_en": "Deep Jade Green Black",
+        "ratio": 0.38,
+        "rgb": [
+          14,
+          42,
+          36
+        ],
+        "hsl": [
+          167,
+          50,
+          11
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#3E1F5B",
+        "name_zh": "深紫丝绒",
+        "name_en": "Deep Velvet Purple",
+        "ratio": 0.2,
+        "rgb": [
+          62,
+          31,
+          91
+        ],
+        "hsl": [
+          271,
+          49,
+          24
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#C9A227",
+        "name_zh": "华丽金",
+        "name_en": "Ornate Gold",
+        "ratio": 0.13,
+        "rgb": [
+          201,
+          162,
+          39
+        ],
+        "hsl": [
+          46,
+          68,
+          47
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#7B241C",
+        "name_zh": "深红丝绒",
+        "name_en": "Crimson Velvet Red",
+        "ratio": 0.1,
+        "rgb": [
+          123,
+          36,
+          28
+        ],
+        "hsl": [
+          5,
+          63,
+          30
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#1F4E5F",
+        "name_zh": "孔雀蓝绿",
+        "name_en": "Peacock Blue Green",
+        "ratio": 0.1,
+        "rgb": [
+          31,
+          78,
+          95
+        ],
+        "hsl": [
+          196,
+          51,
+          25
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#F7DC6F",
+        "name_zh": "金瓷肤",
+        "name_en": "Golden Porcelain Skin",
+        "ratio": 0.09,
+        "rgb": [
+          247,
+          220,
+          111
+        ],
+        "hsl": [
+          48,
+          89,
+          70
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#9B59B6",
+        "name_zh": "高贵紫",
+        "name_en": "Noble Purple",
+        "emotion": "优雅的堕落、禁忌之爱、贵族的秘密",
+        "rgb": [
+          155,
+          89,
+          182
+        ],
+        "hsl": [
+          283,
+          39,
+          53
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#E74C3C",
+        "name_zh": "复仇红",
+        "name_en": "Vengeance Red",
+        "emotion": "暴力、复仇的激情、血的美学",
+        "rgb": [
+          231,
+          76,
+          60
+        ],
+        "hsl": [
+          6,
+          78,
+          57
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#1ABC9C",
+        "name_zh": "翡翠绿",
+        "name_en": "Emerald Green",
+        "emotion": "嫉妒、秘密、生机与危险",
+        "rgb": [
+          26,
+          188,
+          156
+        ],
+        "hsl": [
+          168,
+          76,
+          42
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#F1C40F",
+        "name_zh": "皇家金",
+        "name_en": "Royal Gold",
+        "emotion": "权力、财富、华丽的囚笼",
+        "rgb": [
+          241,
+          196,
+          15
+        ],
+        "hsl": [
+          48,
+          89,
+          50
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "装饰性柔光，对称布光，色彩浓艳",
+    "highlight_tint": "金紫暖光（灯笼/装饰灯/落地窗）",
+    "shadow_tint": "深翡绿偏紫（暗部/阴影/帷幔）",
+    "contrast_ratio": "中高对比（65-80%），色彩饱和",
+    "overall_tone": "暖暗华丽，60%暖金红 + 40%冷绿紫"
+  },
+  "composition_keywords": [
+    "严格对称构图",
+    "俯视几何",
+    "低角度仰拍",
+    "门框窗框取景",
+    "镜面反射",
+    "长镜头平移",
+    "色彩对比构图",
+    "丝绒质感",
+    "旋转镜头",
+    "装饰性构图"
+  ],
+  "color_keywords": [
+    "华丽绿紫",
+    "丝绒质感",
+    "对称美学",
+    "优雅暴力",
+    "深翡绿",
+    "深紫丝绒",
+    "华丽金",
+    "金瓷肤",
+    "孔雀蓝",
+    "深红丝绒"
+  ],
+  "mood_keywords": [
+    "复仇三部曲",
+    "禁忌之爱",
+    "优雅暴力",
+    "黑色美学",
+    "心理扭曲",
+    "身份谜题",
+    "女性力量",
+    "阶级批判",
+    "黑色幽默",
+    "华丽堕落"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "共同警备区",
+      "title_en": "Joint Security Area",
+      "year": 2000,
+      "palette": [
+        {
+          "hex": "#404F68",
+          "ratio": 15.9,
+          "luminance": 0.0768,
+          "saturation": 0.3846
+        },
+        {
+          "hex": "#34363F",
+          "ratio": 15.2,
+          "luminance": 0.0373,
+          "saturation": 0.1746
+        },
+        {
+          "hex": "#0C0B0D",
+          "ratio": 13.9,
+          "luminance": 0.0035,
+          "saturation": 0.1538
+        },
+        {
+          "hex": "#445F74",
+          "ratio": 13.2,
+          "luminance": 0.1067,
+          "saturation": 0.4138
+        },
+        {
+          "hex": "#989899",
+          "ratio": 10.7,
+          "luminance": 0.3143,
+          "saturation": 0.0065
+        },
+        {
+          "hex": "#2B3C50",
+          "ratio": 10.6,
+          "luminance": 0.0432,
+          "saturation": 0.4625
+        },
+        {
+          "hex": "#868586",
+          "ratio": 10.2,
+          "luminance": 0.2356,
+          "saturation": 0.0075
+        },
+        {
+          "hex": "#636971",
+          "ratio": 10.3,
+          "luminance": 0.1395,
+          "saturation": 0.1239
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "亲切的金子",
+      "title_en": "Lady Vengeance",
+      "year": 2005,
+      "palette": [
+        {
+          "hex": "#FFFFFF",
+          "ratio": 52.5,
+          "luminance": 1.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#020106",
+          "ratio": 9.0,
+          "luminance": 0.0005,
+          "saturation": 0.8333
+        },
+        {
+          "hex": "#37363C",
+          "ratio": 8.0,
+          "luminance": 0.0378,
+          "saturation": 0.1
+        },
+        {
+          "hex": "#616A7D",
+          "ratio": 7.0,
+          "luminance": 0.1433,
+          "saturation": 0.224
+        },
+        {
+          "hex": "#444852",
+          "ratio": 6.4,
+          "luminance": 0.0647,
+          "saturation": 0.1707
+        },
+        {
+          "hex": "#5A595D",
+          "ratio": 6.2,
+          "luminance": 0.1011,
+          "saturation": 0.043
+        },
+        {
+          "hex": "#1C1C20",
+          "ratio": 5.8,
+          "luminance": 0.0118,
+          "saturation": 0.125
+        },
+        {
+          "hex": "#727376",
+          "ratio": 5.1,
+          "luminance": 0.1715,
+          "saturation": 0.0339
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "蝙蝠",
+      "title_en": "Thirst",
+      "year": 2009,
+      "palette": [
+        {
+          "hex": "#FAC882",
+          "ratio": 14.8,
+          "luminance": 0.6324,
+          "saturation": 0.48
+        },
+        {
+          "hex": "#000B0C",
+          "ratio": 13.1,
+          "luminance": 0.0027,
+          "saturation": 1.0
+        },
+        {
+          "hex": "#739EC1",
+          "ratio": 13.0,
+          "luminance": 0.3195,
+          "saturation": 0.4041
+        },
+        {
+          "hex": "#3F2A13",
+          "ratio": 12.4,
+          "luminance": 0.0276,
+          "saturation": 0.6984
+        },
+        {
+          "hex": "#FCD88A",
+          "ratio": 12.0,
+          "luminance": 0.7164,
+          "saturation": 0.4524
+        },
+        {
+          "hex": "#272A20",
+          "ratio": 11.9,
+          "luminance": 0.0219,
+          "saturation": 0.2381
+        },
+        {
+          "hex": "#B6D9EA",
+          "ratio": 11.4,
+          "luminance": 0.6551,
+          "saturation": 0.2222
+        },
+        {
+          "hex": "#CD9766",
+          "ratio": 11.4,
+          "luminance": 0.3607,
+          "saturation": 0.5024
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "分手的决心",
+      "title_en": "Decision To Leave",
+      "year": 2022,
+      "palette": [
+        {
+          "hex": "#097489",
+          "ratio": 15.3,
+          "luminance": 0.1436,
+          "saturation": 0.9343
+        },
+        {
+          "hex": "#384D4A",
+          "ratio": 14.3,
+          "luminance": 0.0664,
+          "saturation": 0.2727
+        },
+        {
+          "hex": "#0B0B0C",
+          "ratio": 13.9,
+          "luminance": 0.0034,
+          "saturation": 0.0833
+        },
+        {
+          "hex": "#21241E",
+          "ratio": 12.8,
+          "luminance": 0.0168,
+          "saturation": 0.1667
+        },
+        {
+          "hex": "#77837A",
+          "ratio": 12.8,
+          "luminance": 0.2156,
+          "saturation": 0.0916
+        },
+        {
+          "hex": "#435E59",
+          "ratio": 12.6,
+          "luminance": 0.0992,
+          "saturation": 0.2872
+        },
+        {
+          "hex": "#928C7F",
+          "ratio": 9.2,
+          "luminance": 0.264,
+          "saturation": 0.1301
+        },
+        {
+          "hex": "#3F4133",
+          "ratio": 9.1,
+          "luminance": 0.0508,
+          "saturation": 0.2154
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "宝石绿、深红与冷黑在精密构图中制造欲望和危险。",
+    "lighting": "雕刻感侧光、彩色实景光、深黑背景；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "对称与倾斜并用，精确推拉和揭示；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "深色浓郁、肤色克制、红绿分区；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "廉价紫粉霓虹、过亮肤色、随意手持、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "101",
+    "name_en": "StanleyKubrick",
+    "name_zh": "库布里克",
+    "category": "06_超现实梦幻与心理畸变",
+    "nationality": "美国/英国",
+    "active_years": "1928-1999",
+    "era": "1928-1999"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#1A237E",
+        "name_zh": "深空蓝",
+        "name_en": "Deep Space Blue",
+        "ratio": 0.2,
+        "rgb": [
+          26,
+          35,
+          126
+        ],
+        "hsl": [
+          235,
+          66,
+          30
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#B71C1C",
+        "name_zh": "血红",
+        "name_en": "Blood Red",
+        "ratio": 0.18,
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#212121",
+        "name_zh": "炭黑",
+        "name_en": "Charcoal Black",
+        "ratio": 0.16,
+        "rgb": [
+          33,
+          33,
+          33
+        ],
+        "hsl": [
+          0,
+          0,
+          13
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFD54F",
+        "name_zh": "暖金",
+        "name_en": "Warm Gold",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#006064",
+        "name_zh": "暗青",
+        "name_en": "Dark Cyan",
+        "ratio": 0.14,
+        "rgb": [
+          0,
+          96,
+          100
+        ],
+        "hsl": [
+          182,
+          100,
+          20
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFFFFF",
+        "name_zh": "纯白",
+        "name_en": "Pure White",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#1A237E",
+        "name_zh": "理性冷酷",
+        "name_en": "理性冷酷",
+        "emotion": "理性冷酷",
+        "rgb": [
+          26,
+          35,
+          126
+        ],
+        "hsl": [
+          235,
+          66,
+          30
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#B71C1C",
+        "name_zh": "暴力恐惧",
+        "name_en": "暴力恐惧",
+        "emotion": "暴力恐惧",
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD54F",
+        "name_zh": "神性启示",
+        "name_en": "神性启示",
+        "emotion": "神性启示",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#212121",
+        "name_zh": "虚无深渊",
+        "name_en": "虚无深渊",
+        "emotion": "虚无深渊",
+        "rgb": [
+          33,
+          33,
+          33
+        ],
+        "hsl": [
+          0,
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "单点透视光",
+    "highlight_tint": "对称照明",
+    "highlight_bias": "对称照明",
+    "shadow_tint": "冷色基调",
+    "shadow_bias": "冷色基调",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "对称强迫",
+    "单点透视",
+    "广角畸变",
+    "慢推镜头",
+    "上帝视角",
+    "凝视长镜"
+  ],
+  "color_keywords": [
+    "冷红蓝对比",
+    "对称色光",
+    "高饱和点缀",
+    "黑白交替",
+    "太空冷色",
+    "古典暖色"
+  ],
+  "mood_keywords": [
+    "存在恐惧",
+    "理性癫狂",
+    "凝视深渊",
+    "黑色幽默",
+    "超验体验",
+    "人类渺小"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "库布里克的视觉风格：单点透视光，冷红蓝对比, 对称色光, 高饱和点缀。",
+    "lighting": "单点透视光，对称照明，冷色基调",
+    "framing": "对称强迫、单点透视、广角畸变。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

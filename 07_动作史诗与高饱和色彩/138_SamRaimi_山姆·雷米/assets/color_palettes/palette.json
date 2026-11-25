@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "138",
+    "name_en": "SamRaimi",
+    "name_zh": "山姆·雷米",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "美国",
+    "active_years": "1959-",
+    "era": "1959-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#1B5E20",
+        "name_zh": "鬼林绿",
+        "name_en": "Haunted Forest Green",
+        "ratio": 0.2,
+        "rgb": [
+          27,
+          94,
+          32
+        ],
+        "hsl": [
+          124,
+          55,
+          24
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#B71C1C",
+        "name_zh": "血浆红",
+        "name_en": "Blood Plasma Red",
+        "ratio": 0.2,
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#0D47A1",
+        "name_zh": "地窖蓝",
+        "name_en": "Cellar Blue",
+        "ratio": 0.16,
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#5D4037",
+        "name_zh": "木屋棕",
+        "name_en": "Cabin Brown",
+        "ratio": 0.14,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFD54F",
+        "name_zh": "闪电金",
+        "name_en": "Lightning Gold",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#1A1A1A",
+        "name_zh": "黑暗",
+        "name_en": "Darkness",
+        "ratio": 0.16,
+        "rgb": [
+          26,
+          26,
+          26
+        ],
+        "hsl": [
+          0,
+          0,
+          10
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#1B5E20",
+        "name_zh": "森林恐惧",
+        "name_en": "森林恐惧",
+        "emotion": "森林恐惧",
+        "rgb": [
+          27,
+          94,
+          32
+        ],
+        "hsl": [
+          124,
+          55,
+          24
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#B71C1C",
+        "name_zh": "血腥恐怖",
+        "name_en": "血腥恐怖",
+        "emotion": "血腥恐怖",
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#0D47A1",
+        "name_zh": "超自然恶",
+        "name_en": "超自然恶",
+        "emotion": "超自然恶",
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFD54F",
+        "name_zh": "惊魂瞬间",
+        "name_en": "惊魂瞬间",
+        "emotion": "惊魂瞬间",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "恐怖色光",
+    "highlight_tint": "动感补光",
+    "highlight_bias": "动感补光",
+    "shadow_tint": "地窖暗光",
+    "shadow_bias": "地窖暗光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "动感镜头",
+    "POV视角",
+    "血浆恐怖",
+    "木屋地窖",
+    "漫画英雄",
+    "邪典幽默"
+  ],
+  "color_keywords": [
+    "鬼玩人绿红",
+    "血浆恐怖色",
+    "地窖蓝暗",
+    "木屋棕调",
+    "邪典色彩",
+    "漫画英雄色"
+  ],
+  "mood_keywords": [
+    "邪典恐怖",
+    "血浆幽默",
+    "动感镜头",
+    "鬼玩人系列",
+    "漫画英雄",
+    "B级片美学"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "山姆·雷米的视觉风格：恐怖色光，鬼玩人绿红, 血浆恐怖色, 地窖蓝暗。",
+    "lighting": "恐怖色光，动感补光，地窖暗光",
+    "framing": "动感镜头、POV视角、血浆恐怖。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

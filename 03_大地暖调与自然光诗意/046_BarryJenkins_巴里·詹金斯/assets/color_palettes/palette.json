@@ -1,0 +1,457 @@
+{
+  "director": {
+    "id": "046",
+    "name_en": "Barry Jenkins",
+    "name_zh": "巴里·詹金斯",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "美国",
+    "active_years": "2008-至今",
+    "era": "2008-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#C68642",
+        "name_zh": "暖金褐肤",
+        "name_en": "Warm Golden Brown Skin",
+        "ratio": 0.22,
+        "rgb": [
+          198,
+          134,
+          66
+        ],
+        "hsl": [
+          32,
+          54,
+          52
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#3A2E5F",
+        "name_zh": "暮光紫蓝",
+        "name_en": "Twilight Purple-Blue",
+        "ratio": 0.2,
+        "rgb": [
+          58,
+          46,
+          95
+        ],
+        "hsl": [
+          255,
+          35,
+          28
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#8B5A2B",
+        "name_zh": "深棕暖肤",
+        "name_en": "Deep Brown Warm Skin",
+        "ratio": 0.15,
+        "rgb": [
+          139,
+          90,
+          43
+        ],
+        "hsl": [
+          30,
+          53,
+          36
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#D4A574",
+        "name_zh": "阳光金棕",
+        "name_en": "Sunny Golden Brown",
+        "ratio": 0.15,
+        "rgb": [
+          212,
+          165,
+          116
+        ],
+        "hsl": [
+          32,
+          52,
+          64
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#2E5E4E",
+        "name_zh": "墨绿青蓝",
+        "name_en": "Ink Green Teal",
+        "ratio": 0.14,
+        "rgb": [
+          46,
+          94,
+          78
+        ],
+        "hsl": [
+          162,
+          34,
+          27
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#E8C99B",
+        "name_zh": "暖沙金",
+        "name_en": "Warm Sand Gold",
+        "ratio": 0.14,
+        "rgb": [
+          232,
+          201,
+          155
+        ],
+        "hsl": [
+          36,
+          62,
+          76
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF8C42",
+        "name_zh": "橙红热情",
+        "name_en": "Orange-Red Passion",
+        "emotion": "爱与渴望",
+        "rgb": [
+          255,
+          140,
+          66
+        ],
+        "hsl": [
+          24,
+          100,
+          63
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#7B68EE",
+        "name_zh": "靛蓝紫梦",
+        "name_en": "Indigo Purple Dream",
+        "emotion": "梦幻少年",
+        "rgb": [
+          123,
+          104,
+          238
+        ],
+        "hsl": [
+          248,
+          80,
+          67
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#F0E68C",
+        "name_zh": "柔黄希望",
+        "name_en": "Soft Yellow Hope",
+        "emotion": "温柔未来",
+        "rgb": [
+          240,
+          230,
+          140
+        ],
+        "hsl": [
+          54,
+          77,
+          75
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#4A0E0E",
+        "name_zh": "深酒红",
+        "name_en": "Deep Wine Red",
+        "emotion": "苦难深情",
+        "rgb": [
+          74,
+          14,
+          14
+        ],
+        "hsl": [
+          0,
+          68,
+          17
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "soft warm key with color fill, practical neon/tungsten, natural window light",
+    "highlight_tint": "warm gold / orange sunset",
+    "shadow_tint": "deep purple-blue / teal green",
+    "contrast_ratio": "medium-high 60-75%, skin always warm",
+    "overall_tone": "warm skin + cool purple/teal environment, 55% warm + 45% cool"
+  },
+  "composition_keywords": [
+    "slow push-in intimacy",
+    "centered portrait",
+    "circular camera movement",
+    "soft shallow focus",
+    "negative space loneliness",
+    "streetlamp silhouette",
+    "tender close-up",
+    "mirror/glass reflection"
+  ],
+  "color_keywords": [
+    "saturated warm brown skin",
+    "twilight purple-blue",
+    "teal pool water",
+    "golden hour beach",
+    "warm tungsten streetlight",
+    "deep blue night",
+    "orange sunset haze",
+    "yellow memory glow"
+  ],
+  "mood_keywords": [
+    "tender black masculinity",
+    "queer love and longing",
+    "urban poetry",
+    "childhood memory",
+    "racial injustice",
+    "gentle intimacy",
+    "dreamlike memory",
+    "resilience and hope"
+  ],
+  "style_profile": {
+    "definition": "月夜蓝、紫黑与温暖肤色让亲密关系在暗处仍有触感。",
+    "lighting": "柔软侧光、彩色夜光、皮肤轮廓光；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "贴近面部、流动圆弧、触觉特写；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "蓝色阴影丰富，肤色不被吞没；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "肤色发灰、全屏紫蓝、商业美颜、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  },
+  "real_palettes": [
+    {
+      "title_zh": "獅子王：木法沙",
+      "title_en": "Mufasa: The Lion King",
+      "year": 2024,
+      "palette": [
+        {
+          "hex": "#D5C6BE",
+          "ratio": 14.8,
+          "luminance": 0.5825,
+          "saturation": 0.108
+        },
+        {
+          "hex": "#FDB408",
+          "ratio": 14.5,
+          "luminance": 0.5354,
+          "saturation": 0.9684
+        },
+        {
+          "hex": "#FCB438",
+          "ratio": 13.0,
+          "luminance": 0.5362,
+          "saturation": 0.7778
+        },
+        {
+          "hex": "#FDE53A",
+          "ratio": 12.6,
+          "luminance": 0.7723,
+          "saturation": 0.7708
+        },
+        {
+          "hex": "#8E2308",
+          "ratio": 11.9,
+          "luminance": 0.0697,
+          "saturation": 0.9437
+        },
+        {
+          "hex": "#FA8807",
+          "ratio": 11.5,
+          "luminance": 0.3795,
+          "saturation": 0.972
+        },
+        {
+          "hex": "#B22F08",
+          "ratio": 11.3,
+          "luminance": 0.1152,
+          "saturation": 0.9551
+        },
+        {
+          "hex": "#010101",
+          "ratio": 10.4,
+          "luminance": 0.0003,
+          "saturation": 0.0
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "月光男孩",
+      "title_en": "Moonlight",
+      "year": 2016,
+      "palette": [
+        {
+          "hex": "#74F9F6",
+          "ratio": 21.1,
+          "luminance": 0.7812,
+          "saturation": 0.5341
+        },
+        {
+          "hex": "#A9CEFB",
+          "ratio": 14.5,
+          "luminance": 0.5954,
+          "saturation": 0.3267
+        },
+        {
+          "hex": "#101216",
+          "ratio": 11.5,
+          "luminance": 0.006,
+          "saturation": 0.2727
+        },
+        {
+          "hex": "#2F2124",
+          "ratio": 11.2,
+          "luminance": 0.0182,
+          "saturation": 0.2979
+        },
+        {
+          "hex": "#9D7661",
+          "ratio": 11.0,
+          "luminance": 0.2099,
+          "saturation": 0.3822
+        },
+        {
+          "hex": "#30113A",
+          "ratio": 10.5,
+          "luminance": 0.0133,
+          "saturation": 0.7069
+        },
+        {
+          "hex": "#2D4559",
+          "ratio": 10.3,
+          "luminance": 0.0554,
+          "saturation": 0.4944
+        },
+        {
+          "hex": "#729AC0",
+          "ratio": 9.9,
+          "luminance": 0.3049,
+          "saturation": 0.4062
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "藍色比爾街的沉默",
+      "title_en": "If Beale Street Could Talk",
+      "year": 2018,
+      "palette": [
+        {
+          "hex": "#A59F89",
+          "ratio": 14.0,
+          "luminance": 0.346,
+          "saturation": 0.1697
+        },
+        {
+          "hex": "#6E4323",
+          "ratio": 13.3,
+          "luminance": 0.0745,
+          "saturation": 0.6818
+        },
+        {
+          "hex": "#1F100B",
+          "ratio": 12.8,
+          "luminance": 0.0069,
+          "saturation": 0.6452
+        },
+        {
+          "hex": "#2E1C0D",
+          "ratio": 12.6,
+          "luminance": 0.0144,
+          "saturation": 0.7174
+        },
+        {
+          "hex": "#C9B79D",
+          "ratio": 12.2,
+          "luminance": 0.4872,
+          "saturation": 0.2189
+        },
+        {
+          "hex": "#867D6D",
+          "ratio": 12.0,
+          "luminance": 0.2084,
+          "saturation": 0.1866
+        },
+        {
+          "hex": "#9B5732",
+          "ratio": 11.5,
+          "luminance": 0.1402,
+          "saturation": 0.6774
+        },
+        {
+          "hex": "#5A584E",
+          "ratio": 11.6,
+          "luminance": 0.097,
+          "saturation": 0.1333
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "憂鬱的解藥",
+      "title_en": "Medicine for Melancholy",
+      "year": 2008,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 33.5,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#C6C7C6",
+          "ratio": 11.5,
+          "luminance": 0.5693,
+          "saturation": 0.005
+        },
+        {
+          "hex": "#2E2E2A",
+          "ratio": 10.3,
+          "luminance": 0.027,
+          "saturation": 0.087
+        },
+        {
+          "hex": "#E0DCD8",
+          "ratio": 9.5,
+          "luminance": 0.7199,
+          "saturation": 0.0357
+        },
+        {
+          "hex": "#1A1A19",
+          "ratio": 9.4,
+          "luminance": 0.0103,
+          "saturation": 0.0385
+        },
+        {
+          "hex": "#9DA6A9",
+          "ratio": 8.9,
+          "luminance": 0.3731,
+          "saturation": 0.071
+        },
+        {
+          "hex": "#59554C",
+          "ratio": 8.7,
+          "luminance": 0.0914,
+          "saturation": 0.1461
+        },
+        {
+          "hex": "#716A5E",
+          "ratio": 8.2,
+          "luminance": 0.1463,
+          "saturation": 0.1681
+        }
+      ],
+      "sources": []
+    }
+  ]
+}

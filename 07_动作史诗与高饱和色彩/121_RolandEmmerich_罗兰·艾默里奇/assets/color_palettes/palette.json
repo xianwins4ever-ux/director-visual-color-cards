@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "121",
+    "name_en": "RolandEmmerich",
+    "name_zh": "罗兰·艾默里奇",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "德国/美国",
+    "active_years": "1955-",
+    "era": "1955-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FF6D00",
+        "name_zh": "爆炸橙",
+        "name_en": "Explosion Orange",
+        "ratio": 0.22,
+        "rgb": [
+          255,
+          109,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#0D47A1",
+        "name_zh": "末日蓝",
+        "name_en": "Doomsday Blue",
+        "ratio": 0.2,
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#B71C1C",
+        "name_zh": "火焰红",
+        "name_en": "Flame Red",
+        "ratio": 0.16,
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#37474F",
+        "name_zh": "废墟灰",
+        "name_en": "Ruin Gray",
+        "ratio": 0.14,
+        "rgb": [
+          55,
+          71,
+          79
+        ],
+        "hsl": [
+          200,
+          18,
+          26
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFD54F",
+        "name_zh": "火球金",
+        "name_en": "Fireball Gold",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#212121",
+        "name_zh": "暗黑",
+        "name_en": "Dark Black",
+        "ratio": 0.14,
+        "rgb": [
+          33,
+          33,
+          33
+        ],
+        "hsl": [
+          0,
+          0,
+          13
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF6D00",
+        "name_zh": "毁灭冲击",
+        "name_en": "毁灭冲击",
+        "emotion": "毁灭冲击",
+        "rgb": [
+          255,
+          109,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#0D47A1",
+        "name_zh": "末日恐惧",
+        "name_en": "末日恐惧",
+        "emotion": "末日恐惧",
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#B71C1C",
+        "name_zh": "生存战斗",
+        "name_en": "生存战斗",
+        "emotion": "生存战斗",
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFD54F",
+        "name_zh": "希望曙光",
+        "name_en": "希望曙光",
+        "emotion": "希望曙光",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "爆炸火光",
+    "highlight_tint": "末日天光",
+    "highlight_bias": "末日天光",
+    "shadow_tint": "高对比冷暖",
+    "shadow_bias": "高对比冷暖",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "大破坏场面",
+    "全球地标",
+    "群众逃亡",
+    "爆炸慢镜",
+    "总统白宫",
+    "外星入侵"
+  ],
+  "color_keywords": [
+    "爆炸橙蓝",
+    "末日色调",
+    "高饱和灾难色",
+    "火光冲天",
+    "冷蓝暖橙对比",
+    "废墟灰调"
+  ],
+  "mood_keywords": [
+    "末日灾难",
+    "生存希望",
+    "全球危机",
+    "英雄主义",
+    "大场面震撼",
+    "美国精神"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "罗兰·艾默里奇的视觉风格：爆炸火光，爆炸橙蓝, 末日色调, 高饱和灾难色。",
+    "lighting": "爆炸火光，末日天光，高对比冷暖",
+    "framing": "大破坏场面、全球地标、群众逃亡。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

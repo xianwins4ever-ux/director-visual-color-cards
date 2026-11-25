@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "198",
+    "name_en": "MrinalSen",
+    "name_zh": "姆里纳尔·森",
+    "category": "10_东方美学与留白意境",
+    "nationality": "印度",
+    "active_years": "1923-2018",
+    "era": "1923-2018"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#000000",
+        "name_zh": "黑白黑",
+        "name_en": "B&W Black",
+        "ratio": 0.2,
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFFFFF",
+        "name_zh": "白白白",
+        "name_en": "B&W White",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#5D4037",
+        "name_zh": "加尔各答棕",
+        "name_en": "Calcutta Brown",
+        "ratio": 0.16,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#808080",
+        "name_zh": "中灰",
+        "name_en": "Mid Gray",
+        "ratio": 0.14,
+        "rgb": [
+          128,
+          128,
+          128
+        ],
+        "hsl": [
+          0,
+          0,
+          50
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#C62828",
+        "name_zh": "革命红",
+        "name_en": "Revolution Red",
+        "ratio": 0.14,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#BCAAA4",
+        "name_zh": "街道米",
+        "name_en": "Street Beige",
+        "ratio": 0.16,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#5D4037",
+        "name_zh": "城市苦难",
+        "name_en": "城市苦难",
+        "emotion": "城市苦难",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#C62828",
+        "name_zh": "革命激情",
+        "name_en": "革命激情",
+        "emotion": "革命激情",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#808080",
+        "name_zh": "社会批判",
+        "name_en": "社会批判",
+        "emotion": "社会批判",
+        "rgb": [
+          128,
+          128,
+          128
+        ],
+        "hsl": [
+          0,
+          0,
+          50
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFFFFF",
+        "name_zh": "希望之光",
+        "name_en": "希望之光",
+        "emotion": "希望之光",
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "街景自然光",
+    "highlight_tint": "高反差黑白",
+    "highlight_bias": "高反差黑白",
+    "shadow_tint": "室内暖光",
+    "shadow_bias": "室内暖光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "加尔各答街景",
+    "政治主题",
+    "中产阶级",
+    "社会批判",
+    "手持纪实",
+    "印度新电影"
+  ],
+  "color_keywords": [
+    "姆里纳尔森黑白",
+    "印度新电影色",
+    "加尔各答棕调",
+    "政治激进色",
+    "社会批判色",
+    "写实主义色"
+  ],
+  "mood_keywords": [
+    "政治激进",
+    "印度新电影",
+    "加尔各答",
+    "社会批判",
+    "马克思主义",
+    "现实主义"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "姆里纳尔·森的视觉风格：街景自然光，姆里纳尔森黑白, 印度新电影色, 加尔各答棕调。",
+    "lighting": "街景自然光，高反差黑白，室内暖光",
+    "framing": "加尔各答街景、政治主题、中产阶级。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

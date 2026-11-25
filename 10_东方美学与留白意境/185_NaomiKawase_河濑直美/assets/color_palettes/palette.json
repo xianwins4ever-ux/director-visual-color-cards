@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "185",
+    "name_en": "NaomiKawase",
+    "name_zh": "河濑直美",
+    "category": "10_东方美学与留白意境",
+    "nationality": "日本",
+    "active_years": "1969-",
+    "era": "1969-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#2E7D32",
+        "name_zh": "奈良绿",
+        "name_en": "Nara Green",
+        "ratio": 0.22,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFD54F",
+        "name_zh": "晨光金",
+        "name_en": "Morning Light Gold",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#8D6E63",
+        "name_zh": "土地棕",
+        "name_en": "Earth Brown",
+        "ratio": 0.16,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#A5D6A7",
+        "name_zh": "新芽绿",
+        "name_en": "Sprout Green",
+        "ratio": 0.14,
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#BCAAA4",
+        "name_zh": "米白",
+        "name_en": "Beige White",
+        "ratio": 0.14,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFF9C4",
+        "name_zh": "暖黄",
+        "name_en": "Warm Yellow",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          249,
+          196
+        ],
+        "hsl": [
+          54,
+          100,
+          88
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#2E7D32",
+        "name_zh": "自然母性",
+        "name_en": "自然母性",
+        "emotion": "自然母性",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFD54F",
+        "name_zh": "生命之光",
+        "name_en": "生命之光",
+        "emotion": "生命之光",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#8D6E63",
+        "name_zh": "土地记忆",
+        "name_en": "土地记忆",
+        "emotion": "土地记忆",
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#A5D6A7",
+        "name_zh": "新生希望",
+        "name_en": "新生希望",
+        "emotion": "新生希望",
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "森林绿光",
+    "highlight_tint": "自然柔光",
+    "highlight_bias": "自然柔光",
+    "shadow_tint": "丁达尔效应",
+    "shadow_bias": "丁达尔效应",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "自然森林",
+    "母性主题",
+    "奈良风景",
+    "手持摄影",
+    "私小说式",
+    "生死轮回"
+  ],
+  "color_keywords": [
+    "河濑直美绿",
+    "奈良森林色",
+    "自然母性色",
+    "晨光辉映绿",
+    "土地棕调",
+    "生命诗意色"
+  ],
+  "mood_keywords": [
+    "自然母性",
+    "奈良绿光",
+    "私小说电影",
+    "生命轮回",
+    "女性导演",
+    "诗意手持"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "河濑直美的视觉风格：森林绿光，河濑直美绿, 奈良森林色, 自然母性色。",
+    "lighting": "森林绿光，自然柔光，丁达尔效应",
+    "framing": "自然森林、母性主题、奈良风景。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "director": {
+    "id": "100",
+    "name_en": "SamMendes",
+    "name_zh": "萨姆·门德斯",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "英国",
+    "era": "1965-",
+    "active_years": "1965-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#2C3E50",
+        "rgb": [
+          44,
+          62,
+          80
+        ],
+        "hsl": [
+          210,
+          29,
+          24
+        ],
+        "ratio": 0.22,
+        "name_zh": "深蓝灰",
+        "name_en": "Deep Blue Gray",
+        "code": "C01"
+      },
+      {
+        "hex": "#8B4513",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "ratio": 0.18,
+        "name_zh": "暖木棕",
+        "name_en": "Warm Wood Brown",
+        "code": "C02"
+      },
+      {
+        "hex": "#7F8C8D",
+        "rgb": [
+          127,
+          140,
+          141
+        ],
+        "hsl": [
+          184,
+          6,
+          53
+        ],
+        "ratio": 0.16,
+        "name_zh": "银雾灰",
+        "name_en": "Silver Mist Gray",
+        "code": "C03"
+      },
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "ratio": 0.14,
+        "name_zh": "金菊黄",
+        "name_en": "Goldenrod",
+        "code": "C04"
+      },
+      {
+        "hex": "#556B2F",
+        "rgb": [
+          85,
+          107,
+          47
+        ],
+        "hsl": [
+          82,
+          39,
+          30
+        ],
+        "ratio": 0.14,
+        "name_zh": "暗橄榄",
+        "name_en": "Dark Olive",
+        "code": "C05"
+      },
+      {
+        "hex": "#1C1C1C",
+        "rgb": [
+          28,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          0,
+          11
+        ],
+        "ratio": 0.16,
+        "name_zh": "炭黑",
+        "name_en": "Charcoal Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#2C3E50",
+        "rgb": [
+          44,
+          62,
+          80
+        ],
+        "hsl": [
+          210,
+          29,
+          24
+        ],
+        "emotion": "疏离冷漠",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "emotion": "回忆温暖",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#7F8C8D",
+        "rgb": [
+          127,
+          140,
+          141
+        ],
+        "hsl": [
+          184,
+          6,
+          53
+        ],
+        "emotion": "存在虚无",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#8B4513",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "emotion": "家庭压抑",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "舞台式布光",
+    "highlight_bias": "侧光雕刻",
+    "shadow_bias": "冷调自然光",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "长镜头一镜到底",
+    "舞台空间感",
+    "家庭戏剧",
+    "战争史诗",
+    "英伦冷调",
+    "精确构图"
+  ],
+  "color_keywords": [
+    "英伦冷蓝",
+    "舞台暖棕",
+    "战争灰调",
+    "郊区暗色",
+    "精确色彩",
+    "戏剧光感"
+  ],
+  "mood_keywords": [
+    "家庭危机",
+    "存在主义",
+    "战争反思",
+    "舞台美学",
+    "英伦冷美",
+    "中年危机"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "萨姆·门德斯的视觉风格以舞台式布光为主，英伦冷蓝、舞台暖棕，营造出家庭危机的氛围。",
+    "lighting": "舞台式布光，高光偏侧光雕刻，阴影偏冷调自然光，整体暖调。",
+    "framing": "长镜头一镜到底、舞台空间感、家庭戏剧。",
+    "grading": "对比度高对比，色调暖调。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

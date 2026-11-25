@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "104",
+    "name_en": "MichelGondry",
+    "name_zh": "米歇尔·冈瑞",
+    "category": "06_超现实梦幻与心理畸变",
+    "nationality": "法国",
+    "active_years": "1963-",
+    "era": "1963-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#64B5F6",
+        "name_zh": "天空蓝",
+        "name_en": "Sky Blue",
+        "ratio": 0.2,
+        "rgb": [
+          100,
+          181,
+          246
+        ],
+        "hsl": [
+          207,
+          89,
+          68
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFCC80",
+        "name_zh": "奶油黄",
+        "name_en": "Cream Yellow",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#A1887F",
+        "name_zh": "摩卡棕",
+        "name_en": "Mocha Brown",
+        "ratio": 0.16,
+        "rgb": [
+          161,
+          136,
+          127
+        ],
+        "hsl": [
+          16,
+          15,
+          56
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#81C784",
+        "name_zh": "薄荷绿",
+        "name_en": "Mint Green",
+        "ratio": 0.14,
+        "rgb": [
+          129,
+          199,
+          132
+        ],
+        "hsl": [
+          123,
+          38,
+          64
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#F48FB1",
+        "name_zh": "玫瑰粉",
+        "name_en": "Rose Pink",
+        "ratio": 0.14,
+        "rgb": [
+          244,
+          143,
+          177
+        ],
+        "hsl": [
+          340,
+          82,
+          76
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#5C6BC0",
+        "name_zh": "靛蓝",
+        "name_en": "Indigo",
+        "ratio": 0.18,
+        "rgb": [
+          92,
+          107,
+          192
+        ],
+        "hsl": [
+          231,
+          44,
+          56
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#64B5F6",
+        "name_zh": "梦幻想象",
+        "name_en": "梦幻想象",
+        "emotion": "梦幻想象",
+        "rgb": [
+          100,
+          181,
+          246
+        ],
+        "hsl": [
+          207,
+          89,
+          68
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFCC80",
+        "name_zh": "温暖回忆",
+        "name_en": "温暖回忆",
+        "emotion": "温暖回忆",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#F48FB1",
+        "name_zh": "纯真爱情",
+        "name_en": "纯真爱情",
+        "emotion": "纯真爱情",
+        "rgb": [
+          244,
+          143,
+          177
+        ],
+        "hsl": [
+          340,
+          82,
+          76
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#A1887F",
+        "name_zh": "忧伤怀念",
+        "name_en": "忧伤怀念",
+        "emotion": "忧伤怀念",
+        "rgb": [
+          161,
+          136,
+          127
+        ],
+        "hsl": [
+          16,
+          15,
+          56
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "柔光漫射",
+    "highlight_tint": "彩色灯光",
+    "highlight_bias": "彩色灯光",
+    "shadow_tint": "自然光",
+    "shadow_bias": "自然光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "微缩模型",
+    "分屏画面",
+    "手工特效",
+    "梦的视觉化",
+    "循环结构",
+    "DIY装置"
+  ],
+  "color_keywords": [
+    "粉彩梦境",
+    "低饱和柔光",
+    "手工质感",
+    "彩色分割",
+    "蓝绿暖调",
+    "怀旧胶片"
+  ],
+  "mood_keywords": [
+    "纯真忧伤",
+    "手工诗意",
+    "记忆碎片",
+    "爱情梦幻",
+    "创意无限",
+    "温暖怪诞"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "米歇尔·冈瑞的视觉风格：柔光漫射，粉彩梦境, 低饱和柔光, 手工质感。",
+    "lighting": "柔光漫射，彩色灯光，自然光",
+    "framing": "微缩模型、分屏画面、手工特效。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

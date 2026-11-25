@@ -1,0 +1,463 @@
+{
+  "director": {
+    "id": "004",
+    "name_en": "Brian De Palma",
+    "name_zh": "布莱恩·德·帕尔玛",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "nationality": "美国",
+    "active_years": "1962-至今",
+    "era": "1962-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#1A1418",
+        "name_zh": "深夜暗紫红",
+        "name_en": "Deep Midnight Burgundy",
+        "ratio": 0.35,
+        "rgb": [
+          26,
+          20,
+          24
+        ],
+        "hsl": [
+          320,
+          13,
+          9
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#8B0000",
+        "name_zh": "歌剧深红",
+        "name_en": "Operatic Deep Red",
+        "ratio": 0.2,
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#C9A227",
+        "name_zh": "土豪金",
+        "name_en": "Opulent Gold",
+        "ratio": 0.15,
+        "rgb": [
+          201,
+          162,
+          39
+        ],
+        "hsl": [
+          46,
+          68,
+          47
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#1E3A5F",
+        "name_zh": "宝蓝暗青",
+        "name_en": "Jewel Dark Cyan Blue",
+        "ratio": 0.12,
+        "rgb": [
+          30,
+          58,
+          95
+        ],
+        "hsl": [
+          214,
+          52,
+          25
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#D4AF37",
+        "name_zh": "黄铜金",
+        "name_en": "Brass Gold",
+        "ratio": 0.1,
+        "rgb": [
+          212,
+          175,
+          55
+        ],
+        "hsl": [
+          46,
+          65,
+          52
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#E8D5B7",
+        "name_zh": "象牙肤",
+        "name_en": "Ivory Skin Tone",
+        "ratio": 0.08,
+        "rgb": [
+          232,
+          213,
+          183
+        ],
+        "hsl": [
+          37,
+          52,
+          81
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#C41E3A",
+        "name_zh": "警示猩红",
+        "name_en": "Warning Scarlet",
+        "emotion": "暴力爆发、危险信号、死亡预兆",
+        "rgb": [
+          196,
+          30,
+          58
+        ],
+        "hsl": [
+          350,
+          73,
+          44
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFD700",
+        "name_zh": "奢华金",
+        "name_en": "Luxury Gold",
+        "emotion": "权力、欲望、堕落的财富",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#0A2463",
+        "name_zh": "深渊宝蓝",
+        "name_en": "Abyss Royal Blue",
+        "emotion": "阴谋、深渊、未知的危险",
+        "rgb": [
+          10,
+          36,
+          99
+        ],
+        "hsl": [
+          222,
+          82,
+          21
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#F5E6D3",
+        "name_zh": "纯洁白",
+        "name_en": "Innocent White",
+        "emotion": "纯真被玷污、堕落前的美",
+        "rgb": [
+          245,
+          230,
+          211
+        ],
+        "hsl": [
+          34,
+          63,
+          89
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "戏剧化侧光，硬边阴影，巴洛克明暗法",
+    "highlight_tint": "金黄色（装饰灯/落日/霓虹）",
+    "shadow_tint": "深紫红偏黑（暗部浓郁色彩）",
+    "contrast_ratio": "极高对比（80-95%），暗部深黑",
+    "overall_tone": "暖暗奢华，60%红金暖色 + 40%深蓝冷色"
+  },
+  "composition_keywords": [
+    "分屏构图",
+    "长镜头跟踪",
+    "旋转镜头",
+    "高角度俯拍",
+    "低角度仰拍",
+    "楼梯构图",
+    "门廊取景",
+    "镜子反射",
+    "玻璃折射",
+    "POV窥视视角"
+  ],
+  "color_keywords": [
+    "红色主导",
+    "金色点缀",
+    "歌剧式色彩",
+    "浓烈阴影",
+    "暗调奢华",
+    "霓虹红光",
+    "暖黄灯光",
+    "深蓝夜色",
+    "血红暴力",
+    "天鹅绒质感"
+  ],
+  "mood_keywords": [
+    "歌剧式悬疑",
+    "性欲与暴力",
+    "窥视主题",
+    "阴谋背叛",
+    "黑帮史诗",
+    "超现实梦境",
+    "偏执狂想",
+    "华丽堕落",
+    "心理惊悚",
+    "视觉过剩"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "Sisters",
+      "title_en": "Sisters",
+      "year": 1973,
+      "palette": [
+        {
+          "hex": "#000602",
+          "ratio": 23.8,
+          "luminance": 0.0013,
+          "saturation": 1.0
+        },
+        {
+          "hex": "#4B6567",
+          "ratio": 13.4,
+          "luminance": 0.1178,
+          "saturation": 0.2718
+        },
+        {
+          "hex": "#4D2F1C",
+          "ratio": 11.0,
+          "luminance": 0.0369,
+          "saturation": 0.6364
+        },
+        {
+          "hex": "#3B534C",
+          "ratio": 10.9,
+          "luminance": 0.0764,
+          "saturation": 0.2892
+        },
+        {
+          "hex": "#411710",
+          "ratio": 10.8,
+          "luminance": 0.0177,
+          "saturation": 0.7538
+        },
+        {
+          "hex": "#321D16",
+          "ratio": 10.5,
+          "luminance": 0.0161,
+          "saturation": 0.56
+        },
+        {
+          "hex": "#C8D2D9",
+          "ratio": 10.2,
+          "luminance": 0.6338,
+          "saturation": 0.0783
+        },
+        {
+          "hex": "#6E6C68",
+          "ratio": 9.4,
+          "luminance": 0.1504,
+          "saturation": 0.0545
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Blow Out",
+      "title_en": "Blow Out",
+      "year": 1981,
+      "palette": [
+        {
+          "hex": "#533127",
+          "ratio": 13.5,
+          "luminance": 0.0418,
+          "saturation": 0.5301
+        },
+        {
+          "hex": "#400607",
+          "ratio": 13.2,
+          "luminance": 0.0124,
+          "saturation": 0.9062
+        },
+        {
+          "hex": "#392F2C",
+          "ratio": 13.2,
+          "luminance": 0.0308,
+          "saturation": 0.2281
+        },
+        {
+          "hex": "#906055",
+          "ratio": 12.4,
+          "luminance": 0.1495,
+          "saturation": 0.4097
+        },
+        {
+          "hex": "#0B0907",
+          "ratio": 12.4,
+          "luminance": 0.0028,
+          "saturation": 0.3636
+        },
+        {
+          "hex": "#B5AFA8",
+          "ratio": 11.8,
+          "luminance": 0.4331,
+          "saturation": 0.0718
+        },
+        {
+          "hex": "#26221E",
+          "ratio": 11.8,
+          "luminance": 0.0165,
+          "saturation": 0.2105
+        },
+        {
+          "hex": "#6F7278",
+          "ratio": 11.7,
+          "luminance": 0.1677,
+          "saturation": 0.075
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Mission: Impossible",
+      "title_en": "Mission: Impossible",
+      "year": 1996,
+      "palette": [
+        {
+          "hex": "#050407",
+          "ratio": 13.6,
+          "luminance": 0.0013,
+          "saturation": 0.4286
+        },
+        {
+          "hex": "#9A9599",
+          "ratio": 13.2,
+          "luminance": 0.3066,
+          "saturation": 0.0325
+        },
+        {
+          "hex": "#68727F",
+          "ratio": 13.2,
+          "luminance": 0.1651,
+          "saturation": 0.1811
+        },
+        {
+          "hex": "#091022",
+          "ratio": 12.7,
+          "luminance": 0.0054,
+          "saturation": 0.7353
+        },
+        {
+          "hex": "#53535A",
+          "ratio": 12.5,
+          "luminance": 0.0876,
+          "saturation": 0.0778
+        },
+        {
+          "hex": "#201A17",
+          "ratio": 11.7,
+          "luminance": 0.0111,
+          "saturation": 0.2812
+        },
+        {
+          "hex": "#3D3B3E",
+          "ratio": 11.7,
+          "luminance": 0.0447,
+          "saturation": 0.0484
+        },
+        {
+          "hex": "#C1BDBE",
+          "ratio": 11.4,
+          "luminance": 0.5145,
+          "saturation": 0.0207
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Passion",
+      "title_en": "Passion",
+      "year": 2012,
+      "palette": [
+        {
+          "hex": "#574F39",
+          "ratio": 14.4,
+          "luminance": 0.0791,
+          "saturation": 0.3448
+        },
+        {
+          "hex": "#223A48",
+          "ratio": 14.2,
+          "luminance": 0.0383,
+          "saturation": 0.5278
+        },
+        {
+          "hex": "#28150B",
+          "ratio": 13.1,
+          "luminance": 0.0101,
+          "saturation": 0.725
+        },
+        {
+          "hex": "#503F20",
+          "ratio": 13.0,
+          "luminance": 0.0536,
+          "saturation": 0.6
+        },
+        {
+          "hex": "#10120F",
+          "ratio": 12.0,
+          "luminance": 0.0058,
+          "saturation": 0.1667
+        },
+        {
+          "hex": "#4D5A62",
+          "ratio": 11.8,
+          "luminance": 0.0977,
+          "saturation": 0.2143
+        },
+        {
+          "hex": "#7E8880",
+          "ratio": 11.1,
+          "luminance": 0.236,
+          "saturation": 0.0735
+        },
+        {
+          "hex": "#6C3E08",
+          "ratio": 10.4,
+          "luminance": 0.0665,
+          "saturation": 0.9259
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "分屏、猩红、冷蓝与镜面反射把窥视和危险变成视觉机关。",
+    "lighting": "聚光、彩色危险区、镜面反射；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "分屏、长推镜、主观窥视、360度空间；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "红蓝分区，高反差，证据白清楚；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "随机分屏、青橙泛滥、手持失控、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "director": {
+    "zh": "巴里·詹金斯",
+    "en": "Barry Jenkins"
+  },
+  "style_profile": {
+    "definition": "月夜蓝、紫黑与温暖肤色让亲密关系在暗处仍有触感。",
+    "lighting": "柔软侧光、彩色夜光、皮肤轮廓光；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "贴近面部、流动圆弧、触觉特写；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "蓝色阴影丰富，肤色不被吞没；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": [
+      "肤色发灰",
+      "全屏紫蓝",
+      "商业美颜",
+      "无动机环绕和随机变焦",
+      "用统一滤镜替代色彩比例、光源和材质。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "獅子王：木法沙",
+      "title_en": "Mufasa: The Lion King",
+      "year": 2024,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/cVh8Af7a9JMOJl75ML3Dg2QVEuq.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/9FENncVpvhIjrQA0WcKZaFUd73Q.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "月光男孩",
+      "title_en": "Moonlight",
+      "year": 2016,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/A9KPbYTQvWsp51Lgz85ukVkFrKf.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/v0qkC1c06zg2XsBmOb1S90JNiLg.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/humGWpoFMzYNHnX70iINsM6JUvw.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "藍色比爾街的沉默",
+      "title_en": "If Beale Street Could Talk",
+      "year": 2018,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/9QKt21sUUrcNmlCkLKDFUaTodCh.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/4BeW5EhIUkiiexEpELyzVfWP9la.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/ooyvhMsLuwcWBB2HZa4gi4WQF7B.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/z6vK4hfh0jKBWbQ9PLgsuahyqWr.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "憂鬱的解藥",
+      "title_en": "Medicine for Melancholy",
+      "year": 2008,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D077-巴里·詹金斯·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/gb8V2O3eya3X0hDS4MfESo0zSgR.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/dqND4J8k6EBQ9YPmlyO3rFRb13K.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/28pMYfH4Hw0Wn3DTjKk5cFFzUIj.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/rXqATabNK1tWIGKwhbYW7yUgW1Q.jpg"
+        }
+      ]
+    }
+  ]
+}

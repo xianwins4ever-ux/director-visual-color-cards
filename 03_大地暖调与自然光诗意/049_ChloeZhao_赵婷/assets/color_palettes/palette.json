@@ -1,0 +1,457 @@
+{
+  "director": {
+    "id": "049",
+    "name_en": "Chloé Zhao",
+    "name_zh": "赵婷",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "中国/美国",
+    "active_years": "2015-至今",
+    "era": "2015-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#C4AE78",
+        "name_zh": "大地金灰",
+        "ratio": 0.25,
+        "rgb": [
+          196,
+          174,
+          120
+        ],
+        "hsl": [
+          43,
+          38,
+          62
+        ],
+        "name_en": "Gold"
+      },
+      {
+        "code": "C02",
+        "hex": "#8A7E66",
+        "name_zh": "枯石褐",
+        "ratio": 0.18,
+        "rgb": [
+          138,
+          126,
+          102
+        ],
+        "hsl": [
+          42,
+          15,
+          47
+        ],
+        "name_en": "Ochre"
+      },
+      {
+        "code": "C03",
+        "hex": "#D9C8A0",
+        "name_zh": "枯草黄",
+        "ratio": 0.15,
+        "rgb": [
+          217,
+          200,
+          160
+        ],
+        "hsl": [
+          42,
+          43,
+          74
+        ],
+        "name_en": "Yellow"
+      },
+      {
+        "code": "C04",
+        "hex": "#6B7366",
+        "name_zh": "旷野灰绿",
+        "ratio": 0.12,
+        "rgb": [
+          107,
+          115,
+          102
+        ],
+        "hsl": [
+          82,
+          6,
+          43
+        ],
+        "name_en": "Green"
+      },
+      {
+        "code": "C05",
+        "hex": "#E8DCC4",
+        "name_zh": "薄暮肤",
+        "ratio": 0.15,
+        "rgb": [
+          232,
+          220,
+          196
+        ],
+        "hsl": [
+          41,
+          43,
+          84
+        ],
+        "name_en": "Color 5"
+      },
+      {
+        "code": "C06",
+        "hex": "#A68C6B",
+        "name_zh": "荒原棕",
+        "ratio": 0.15,
+        "rgb": [
+          166,
+          140,
+          107
+        ],
+        "hsl": [
+          33,
+          25,
+          54
+        ],
+        "name_en": "Brown"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#F2E6CC",
+        "name_zh": "晨光米",
+        "emotion": "温柔希望",
+        "rgb": [
+          242,
+          230,
+          204
+        ],
+        "hsl": [
+          41,
+          58,
+          87
+        ],
+        "name_en": "Emotional 1"
+      },
+      {
+        "code": "E02",
+        "hex": "#70685A",
+        "name_zh": "旧铁灰",
+        "emotion": "漂泊孤独",
+        "rgb": [
+          112,
+          104,
+          90
+        ],
+        "hsl": [
+          40,
+          11,
+          40
+        ],
+        "name_en": "Gray"
+      },
+      {
+        "code": "E03",
+        "hex": "#B8956A",
+        "name_zh": "落日砂",
+        "emotion": "尊严暖意",
+        "rgb": [
+          184,
+          149,
+          106
+        ],
+        "hsl": [
+          33,
+          35,
+          57
+        ],
+        "name_en": "Emotional 3"
+      },
+      {
+        "code": "E04",
+        "hex": "#4A5145",
+        "name_zh": "苔原青",
+        "emotion": "静默沉思",
+        "rgb": [
+          74,
+          81,
+          69
+        ],
+        "hsl": [
+          96,
+          8,
+          29
+        ],
+        "name_en": "Cyan"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "magic hour natural light, soft side lighting, minimal fill",
+    "highlight_tint": "warm golden dust / pale yellow",
+    "shadow_tint": "cool blue-gray / desaturated green",
+    "contrast_ratio": "low-medium 40-55%, soft cinematic rolloff",
+    "overall_tone": "warm dusty earth, 60% warm + 40% cool, low saturation"
+  },
+  "composition_keywords": [
+    "static long takes",
+    "wide open landscapes",
+    "golden hour magic light",
+    "shallow depth of field portrait",
+    "naturalistic non-professional cast",
+    "road movie framing",
+    "dust and haze",
+    "horizon composition"
+  ],
+  "color_keywords": [
+    "dusty earth palette",
+    "desert golden hour",
+    "sagebrush green",
+    "prairie wheat yellow",
+    "muted skin tone",
+    "overcast soft grey",
+    "twilight lavender",
+    "dust motes in sunlight"
+  ],
+  "mood_keywords": [
+    "quiet dignity of nomads",
+    "meditative stillness",
+    "american west elegy",
+    "transient life poetry",
+    "spiritual landscape",
+    "gentle melancholy",
+    "vastness and solitude",
+    "human connection in wilderness"
+  ],
+  "style_profile": {
+    "definition": "真实地貌、非职业表演和流动生活在自然时间中互相倾听",
+    "lighting": "黄金时刻、阴天漫射和实景火光；肤色保持自然可读，高光和黑位保留材质。",
+    "framing": "宽阔地貌远景与贴近人物的轻手持中景",
+    "grading": "沙土、旧车灰、牛仔蓝、落日金和夜火橙；局部强调色不污染整幅画面。",
+    "avoid": "统一滤镜替代真实材质、无动机环绕和随机变焦、人物身份与空间轴漂移、肤色污染、死黑和爆白、只模仿颜色不执行镜头语言。"
+  },
+  "real_palettes": [
+    {
+      "title_zh": "无依之地",
+      "title_en": "Nomadland",
+      "year": 2020,
+      "palette": [
+        {
+          "hex": "#98B6D4",
+          "ratio": 14.1,
+          "luminance": 0.4488,
+          "saturation": 0.283
+        },
+        {
+          "hex": "#4B463F",
+          "ratio": 14.1,
+          "luminance": 0.0624,
+          "saturation": 0.16
+        },
+        {
+          "hex": "#BDD3EB",
+          "ratio": 14.0,
+          "luminance": 0.6341,
+          "saturation": 0.1957
+        },
+        {
+          "hex": "#C0A191",
+          "ratio": 12.0,
+          "luminance": 0.3874,
+          "saturation": 0.2448
+        },
+        {
+          "hex": "#4A576A",
+          "ratio": 11.9,
+          "luminance": 0.0931,
+          "saturation": 0.3019
+        },
+        {
+          "hex": "#6F6455",
+          "ratio": 11.8,
+          "luminance": 0.1315,
+          "saturation": 0.2342
+        },
+        {
+          "hex": "#DBE8FA",
+          "ratio": 11.4,
+          "luminance": 0.7968,
+          "saturation": 0.124
+        },
+        {
+          "hex": "#77889E",
+          "ratio": 10.7,
+          "luminance": 0.24,
+          "saturation": 0.2468
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "骑士",
+      "title_en": "The Rider",
+      "year": 2017,
+      "palette": [
+        {
+          "hex": "#1D374A",
+          "ratio": 13.8,
+          "luminance": 0.0349,
+          "saturation": 0.6081
+        },
+        {
+          "hex": "#B9C8D2",
+          "ratio": 13.5,
+          "luminance": 0.5628,
+          "saturation": 0.119
+        },
+        {
+          "hex": "#ACB4BD",
+          "ratio": 13.2,
+          "luminance": 0.4509,
+          "saturation": 0.0899
+        },
+        {
+          "hex": "#63737D",
+          "ratio": 12.2,
+          "luminance": 0.1639,
+          "saturation": 0.208
+        },
+        {
+          "hex": "#2A3137",
+          "ratio": 12.1,
+          "luminance": 0.0296,
+          "saturation": 0.2364
+        },
+        {
+          "hex": "#5D5A57",
+          "ratio": 12.0,
+          "luminance": 0.1033,
+          "saturation": 0.0645
+        },
+        {
+          "hex": "#0E0D11",
+          "ratio": 11.7,
+          "luminance": 0.0042,
+          "saturation": 0.2353
+        },
+        {
+          "hex": "#E4EAEF",
+          "ratio": 11.5,
+          "luminance": 0.8157,
+          "saturation": 0.046
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "哥哥教我的歌",
+      "title_en": "Songs My Brothers Taught Me",
+      "year": 2015,
+      "palette": [
+        {
+          "hex": "#998876",
+          "ratio": 16.4,
+          "luminance": 0.2569,
+          "saturation": 0.2288
+        },
+        {
+          "hex": "#A7B8DB",
+          "ratio": 14.7,
+          "luminance": 0.4761,
+          "saturation": 0.2374
+        },
+        {
+          "hex": "#697582",
+          "ratio": 14.4,
+          "luminance": 0.1734,
+          "saturation": 0.1923
+        },
+        {
+          "hex": "#525F6C",
+          "ratio": 12.7,
+          "luminance": 0.1106,
+          "saturation": 0.2407
+        },
+        {
+          "hex": "#2F2E31",
+          "ratio": 11.7,
+          "luminance": 0.0278,
+          "saturation": 0.0612
+        },
+        {
+          "hex": "#6B5241",
+          "ratio": 10.4,
+          "luminance": 0.0954,
+          "saturation": 0.3925
+        },
+        {
+          "hex": "#364358",
+          "ratio": 10.0,
+          "luminance": 0.055,
+          "saturation": 0.3864
+        },
+        {
+          "hex": "#403F3D",
+          "ratio": 9.7,
+          "luminance": 0.0498,
+          "saturation": 0.0469
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "永恒族",
+      "title_en": "Eternals",
+      "year": 2021,
+      "palette": [
+        {
+          "hex": "#432E21",
+          "ratio": 15.9,
+          "luminance": 0.0326,
+          "saturation": 0.5075
+        },
+        {
+          "hex": "#070906",
+          "ratio": 14.5,
+          "luminance": 0.0025,
+          "saturation": 0.3333
+        },
+        {
+          "hex": "#BDAA85",
+          "ratio": 13.6,
+          "luminance": 0.4126,
+          "saturation": 0.2963
+        },
+        {
+          "hex": "#251E18",
+          "ratio": 12.2,
+          "luminance": 0.0139,
+          "saturation": 0.3514
+        },
+        {
+          "hex": "#7F7564",
+          "ratio": 11.8,
+          "luminance": 0.1815,
+          "saturation": 0.2126
+        },
+        {
+          "hex": "#5D2E1D",
+          "ratio": 11.2,
+          "luminance": 0.0437,
+          "saturation": 0.6882
+        },
+        {
+          "hex": "#1E262A",
+          "ratio": 10.7,
+          "luminance": 0.0183,
+          "saturation": 0.2857
+        },
+        {
+          "hex": "#554538",
+          "ratio": 10.1,
+          "luminance": 0.0647,
+          "saturation": 0.3412
+        }
+      ],
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "178",
+    "name_en": "RyusukeHamaguchi",
+    "name_zh": "滨口龙介",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "日本",
+    "active_years": "1978-",
+    "era": "1978-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#90CAF9",
+        "name_zh": "日常蓝",
+        "name_en": "Everyday Blue",
+        "ratio": 0.18,
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#A5D6A7",
+        "name_zh": "偶然绿",
+        "name_en": "Serendipity Green",
+        "ratio": 0.18,
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFCC80",
+        "name_zh": "暖黄",
+        "name_en": "Warm Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#BCAAA4",
+        "name_zh": "生活米",
+        "name_en": "Life Beige",
+        "ratio": 0.14,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#F8BBD0",
+        "name_zh": "想象粉",
+        "name_en": "Imagination Pink",
+        "ratio": 0.14,
+        "rgb": [
+          248,
+          187,
+          208
+        ],
+        "hsl": [
+          339,
+          81,
+          85
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#78909C",
+        "name_zh": "车中灰",
+        "name_en": "Car Gray",
+        "ratio": 0.2,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#90CAF9",
+        "name_zh": "日常清澈",
+        "name_en": "日常清澈",
+        "emotion": "日常清澈",
+        "rgb": [
+          144,
+          202,
+          249
+        ],
+        "hsl": [
+          207,
+          90,
+          77
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#A5D6A7",
+        "name_zh": "偶然生机",
+        "name_en": "偶然生机",
+        "emotion": "偶然生机",
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFCC80",
+        "name_zh": "温暖理解",
+        "name_en": "温暖理解",
+        "emotion": "温暖理解",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#F8BBD0",
+        "name_zh": "想象温柔",
+        "name_en": "想象温柔",
+        "emotion": "想象温柔",
+        "rgb": [
+          248,
+          187,
+          208
+        ],
+        "hsl": [
+          339,
+          81,
+          85
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然光效",
+    "highlight_tint": "室内柔光",
+    "highlight_bias": "室内柔光",
+    "shadow_tint": "窗外景色",
+    "shadow_bias": "窗外景色",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "对话长镜",
+    "日常空间",
+    "偶然与想象",
+    "车内场景",
+    "女性关系",
+    "文学改编"
+  ],
+  "color_keywords": [
+    "滨口龙介蓝绿",
+    "日常对话色",
+    "偶然与想象色",
+    "驾驶我的车灰",
+    "日常魔幻色",
+    "文学电影色"
+  ],
+  "mood_keywords": [
+    "对话电影",
+    "偶然想象",
+    "日常魔幻",
+    "文学改编",
+    "女性关系",
+    "日本当代"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "滨口龙介的视觉风格：自然光效，滨口龙介蓝绿, 日常对话色, 偶然与想象色。",
+    "lighting": "自然光效，室内柔光，窗外景色",
+    "framing": "对话长镜、日常空间、偶然与想象。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

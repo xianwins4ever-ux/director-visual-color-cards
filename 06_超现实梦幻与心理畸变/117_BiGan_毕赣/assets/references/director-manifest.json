@@ -1,0 +1,56 @@
+{
+  "director": {"zh": "毕赣", "en": "Bi Gan"},
+  "style_profile": {
+    "definition": "潮湿青绿、夜蓝和暖红在长镜中把现实滑入梦境。",
+    "lighting": "潮湿夜光、局部钨丝、雾中散射；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "长镜头环绕与空间折叠，运动缓慢；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "阴影青蓝，高光暖金，红色作记忆钉点；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": ["无目的长镜", "赛博高亮", "过曝雨夜", "无动机环绕和随机变焦", "用统一滤镜替代色彩比例、光源和材质"]
+  },
+  "films": [
+    {
+      "title_zh": "路边野餐", "title_en": "Kaili Blues", "year": 2015,
+      "frames": ["source-frames/film-01/frame-01.jpg", "source-frames/film-01/frame-02.jpg", "source-frames/film-01/frame-03.jpg", "source-frames/film-01/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/362178/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/1Ao4o3XHiA6MOMKJyCHHgof3d4v.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/9LXEtblPEwmbb5dWkI7FmCHSkw4.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/csj0OdfjsS3yxBWyTh2QWBgVrCX.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/m8uTiIFfEjq2dKz2VqtIC3l1Euv.jpg"}
+      ]
+    },
+    {
+      "title_zh": "地球最后的夜晚", "title_en": "Long Day's Journey into Night", "year": 2018,
+      "frames": ["source-frames/film-02/frame-01.jpg", "source-frames/film-02/frame-02.jpg", "source-frames/film-02/frame-03.jpg", "source-frames/film-02/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/486898/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/1gLgFnLvz9jidrSqHtBsnhJWHif.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/2r2OOh61ankXs2lN4rIi3fFNOdU.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/3CpM4ODK5IP5RTsfbxlIVtBt1bV.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/3WtPFvQuAwVUuixSt23JuYLeGtt.jpg"}
+      ]
+    },
+    {
+      "title_zh": "破碎太阳之心", "title_en": "A Short Story", "year": 2022,
+      "frames": ["source-frames/film-03/frame-01.jpg", "source-frames/film-03/frame-02.jpg", "source-frames/film-03/frame-03.jpg", "source-frames/film-03/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/944934/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/a2gzkLDWDl6GmviEXfEwDQQXF0r.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/hgljsmBoMOoRFJNqiFuREauElMc.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/uqs1fawZDmcwkXCWGDTKPGrmwa4.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/wiLiWDzhDXlBPRbYiuIjtYheXmF.jpg"}
+      ]
+    },
+    {
+      "title_zh": "狂野时代", "title_en": "Resurrection", "year": 2025,
+      "frames": ["source-frames/film-04/frame-01.jpg", "source-frames/film-04/frame-02.jpg", "source-frames/film-04/frame-03.jpg", "source-frames/film-04/frame-04.jpg"],
+      "sources": [
+        {"label": "TMDB 电影横幅画面页", "url": "https://www.themoviedb.org/movie/878608/images/backdrops"},
+        {"label": "截图 01", "url": "https://image.tmdb.org/t/p/original/1NFx0ZFZPOqpBUar3k3f0suB9Pt.jpg"},
+        {"label": "截图 02", "url": "https://image.tmdb.org/t/p/original/2Ifm4AhStbzLGrV0y2mYhozKQIU.jpg"},
+        {"label": "截图 03", "url": "https://image.tmdb.org/t/p/original/38s40n4NEnqpk5g5tojuTXEEO5H.jpg"},
+        {"label": "截图 04", "url": "https://image.tmdb.org/t/p/original/3RNKpDB6DvGVuBfk8GLKQwLYcnf.jpg"}
+      ]
+    }
+  ]
+}

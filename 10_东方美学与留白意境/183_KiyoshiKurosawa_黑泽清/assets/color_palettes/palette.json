@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "183",
+    "name_en": "KiyoshiKurosawa",
+    "name_zh": "黑泽清",
+    "category": "10_东方美学与留白意境",
+    "nationality": "日本",
+    "active_years": "1955-",
+    "era": "1955-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#2E7D32",
+        "name_zh": "诡异绿",
+        "name_en": "Eerie Green",
+        "ratio": 0.22,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#37474F",
+        "name_zh": "都市灰蓝",
+        "name_en": "Urban Gray Blue",
+        "ratio": 0.2,
+        "rgb": [
+          55,
+          71,
+          79
+        ],
+        "hsl": [
+          200,
+          18,
+          26
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#00838F",
+        "name_zh": "冷青",
+        "name_en": "Cold Teal",
+        "ratio": 0.16,
+        "rgb": [
+          0,
+          131,
+          143
+        ],
+        "hsl": [
+          185,
+          100,
+          28
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#5D4037",
+        "name_zh": "暗棕",
+        "name_en": "Dark Brown",
+        "ratio": 0.14,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFD54F",
+        "name_zh": "街灯黄",
+        "name_en": "Street Lamp Yellow",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#1A1A1A",
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "ratio": 0.14,
+        "rgb": [
+          26,
+          26,
+          26
+        ],
+        "hsl": [
+          0,
+          0,
+          10
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#2E7D32",
+        "name_zh": "诡异不安",
+        "name_en": "诡异不安",
+        "emotion": "诡异不安",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#37474F",
+        "name_zh": "都市异化",
+        "name_en": "都市异化",
+        "emotion": "都市异化",
+        "rgb": [
+          55,
+          71,
+          79
+        ],
+        "hsl": [
+          200,
+          18,
+          26
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#00838F",
+        "name_zh": "冰冷恐惧",
+        "name_en": "冰冷恐惧",
+        "emotion": "冰冷恐惧",
+        "rgb": [
+          0,
+          131,
+          143
+        ],
+        "hsl": [
+          185,
+          100,
+          28
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#5D4037",
+        "name_zh": "压抑沉闷",
+        "name_en": "压抑沉闷",
+        "emotion": "压抑沉闷",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "荧光冷光",
+    "highlight_tint": "绿色色光",
+    "highlight_bias": "绿色色光",
+    "shadow_tint": "暗调阴影",
+    "shadow_bias": "暗调阴影",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "静止长镜",
+    "空间异化",
+    "都市公寓",
+    "幽灵出现",
+    "绿色恐怖",
+    "家庭解体"
+  ],
+  "color_keywords": [
+    "黑泽清绿",
+    "都市恐怖色",
+    "空间异调色",
+    "冷青暗调",
+    "绿色诡异光",
+    "日本恐怖色"
+  ],
+  "mood_keywords": [
+    "都市恐怖",
+    "空间异化",
+    "存在恐惧",
+    "日本J-Horror",
+    "心理惊悚",
+    "绿色诡异"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "黑泽清的视觉风格：荧光冷光，黑泽清绿, 都市恐怖色, 空间异调色。",
+    "lighting": "荧光冷光，绿色色光，暗调阴影",
+    "framing": "静止长镜、空间异化、都市公寓。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

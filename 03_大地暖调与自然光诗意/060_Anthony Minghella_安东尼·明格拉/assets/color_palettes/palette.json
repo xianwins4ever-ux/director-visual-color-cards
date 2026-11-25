@@ -1,0 +1,231 @@
+{
+  "director": {
+    "id": "060",
+    "name_en": "Anthony Minghella",
+    "name_zh": "安东尼·明格拉",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "英国",
+    "active_years": "1978-2008",
+    "era": "1978-2008"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#D4A76A",
+        "name_zh": "沙漠流金",
+        "rgb": [
+          212,
+          167,
+          106
+        ],
+        "hsl": [
+          35,
+          55,
+          62
+        ],
+        "ratio": 0.22,
+        "name_en": "Gold"
+      },
+      {
+        "code": "C02",
+        "hex": "#8B6914",
+        "name_zh": "橄榄暗金",
+        "rgb": [
+          139,
+          105,
+          20
+        ],
+        "hsl": [
+          43,
+          75,
+          31
+        ],
+        "ratio": 0.18,
+        "name_en": "Gold"
+      },
+      {
+        "code": "C03",
+        "hex": "#5C4A3D",
+        "name_zh": "深褐木影",
+        "rgb": [
+          92,
+          74,
+          61
+        ],
+        "hsl": [
+          25,
+          20,
+          30
+        ],
+        "ratio": 0.15,
+        "name_en": "Ochre"
+      },
+      {
+        "code": "C04",
+        "hex": "#E8D4B0",
+        "name_zh": "柔光米色",
+        "rgb": [
+          232,
+          212,
+          176
+        ],
+        "hsl": [
+          39,
+          55,
+          80
+        ],
+        "ratio": 0.15,
+        "name_en": "Beige"
+      },
+      {
+        "code": "C05",
+        "hex": "#6B7A5A",
+        "name_zh": "橄榄灰绿",
+        "rgb": [
+          107,
+          122,
+          90
+        ],
+        "hsl": [
+          88,
+          15,
+          42
+        ],
+        "ratio": 0.15,
+        "name_en": "Green"
+      },
+      {
+        "code": "C06",
+        "hex": "#A0673D",
+        "name_zh": "陶土砖红",
+        "rgb": [
+          160,
+          103,
+          61
+        ],
+        "hsl": [
+          25,
+          45,
+          43
+        ],
+        "ratio": 0.15,
+        "name_en": "Red"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF8C00",
+        "name_zh": "沙漠橙",
+        "rgb": [
+          255,
+          140,
+          0
+        ],
+        "hsl": [
+          33,
+          100,
+          50
+        ],
+        "emotion": "炽热爱情",
+        "name_en": "Orange"
+      },
+      {
+        "code": "E02",
+        "hex": "#708090",
+        "name_zh": "战争灰",
+        "rgb": [
+          112,
+          128,
+          144
+        ],
+        "hsl": [
+          210,
+          13,
+          50
+        ],
+        "emotion": "生离死别",
+        "name_en": "Gray"
+      },
+      {
+        "code": "E03",
+        "hex": "#DDA0DD",
+        "name_zh": "梅香紫",
+        "rgb": [
+          221,
+          160,
+          221
+        ],
+        "hsl": [
+          300,
+          47,
+          75
+        ],
+        "emotion": "回忆温柔",
+        "name_en": "Purple"
+      },
+      {
+        "code": "E04",
+        "hex": "#006400",
+        "name_zh": "深林绿",
+        "rgb": [
+          0,
+          100,
+          0
+        ],
+        "hsl": [
+          120,
+          100,
+          20
+        ],
+        "emotion": "隐忍思念",
+        "name_en": "Green"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "golden desert haze, soft memory diffusion, romantic natural light",
+    "highlight_tint": "warm honey gold / sand amber",
+    "shadow_tint": "umber brown / olive green",
+    "contrast_ratio": "medium-low 50-65%",
+    "overall_tone": "warm golden romantic, 70% warm + 30% cool"
+  },
+  "composition_keywords": [
+    "sweeping desert vistas",
+    "soft focus memory",
+    "romantic close-up",
+    "period costume detail",
+    "window light portrait",
+    "epic landscape framing",
+    "slow dissolve transition",
+    "mirrored reflections"
+  ],
+  "color_keywords": [
+    "sahara desert gold",
+    "tuscan olive green",
+    "soft cream memory",
+    "terracotta warm red",
+    "honey amber sunset",
+    "dusty golden haze",
+    "warm skin tones",
+    "literary romantic palette"
+  ],
+  "mood_keywords": [
+    "epic romance",
+    "wartime longing",
+    "memory and nostalgia",
+    "literary tragedy",
+    "mediterranean warmth",
+    "unspoken desire",
+    "soulful melancholy",
+    "grand human drama"
+  ],
+  "style_profile": {
+    "definition": "沙金、橄榄与柔光米色的文学世界，慢溶与长镜把回忆化为流动的情书。",
+    "lighting": "黄金时刻侧光与窗纱漫射；肤色柔暖，高光晕染，尘埃在光束中轻舞如回忆。",
+    "framing": "沙漠远景、窗光肖像、慢溶转场；先铺展时代画卷，再沉入个人内心。",
+    "grading": "高光金暖，阴影橄榄绿；回忆片段柔焦增暖，现实片段清晰稍冷，虚实交替推动情感。",
+    "avoid": "冷白硬光、快速切镜、过度饱和、现代锐利调色、用统一滤镜替代精心营造的柔光与空气感"
+  }
+}

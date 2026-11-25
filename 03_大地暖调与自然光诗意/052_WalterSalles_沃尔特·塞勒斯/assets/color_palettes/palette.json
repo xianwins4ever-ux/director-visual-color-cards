@@ -1,0 +1,457 @@
+{
+  "director": {
+    "id": "052",
+    "name_en": "Walter Salles",
+    "name_zh": "沃尔特·塞勒斯",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "巴西",
+    "active_years": "1998-至今",
+    "era": "1998-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#C48A3A",
+        "name_zh": "南美赭黄",
+        "ratio": 0.22,
+        "rgb": [
+          196,
+          138,
+          58
+        ],
+        "hsl": [
+          36,
+          54,
+          50
+        ],
+        "name_en": "Yellow"
+      },
+      {
+        "code": "C02",
+        "hex": "#8B5A2B",
+        "name_zh": "红土褐",
+        "ratio": 0.18,
+        "rgb": [
+          139,
+          90,
+          43
+        ],
+        "hsl": [
+          29,
+          53,
+          36
+        ],
+        "name_en": "Red"
+      },
+      {
+        "code": "C03",
+        "hex": "#D4A855",
+        "name_zh": "公路金黄",
+        "ratio": 0.16,
+        "rgb": [
+          212,
+          168,
+          85
+        ],
+        "hsl": [
+          40,
+          60,
+          58
+        ],
+        "name_en": "Yellow"
+      },
+      {
+        "code": "C04",
+        "hex": "#5A6B3A",
+        "name_zh": "塞拉多绿",
+        "ratio": 0.12,
+        "rgb": [
+          90,
+          107,
+          58
+        ],
+        "hsl": [
+          81,
+          30,
+          32
+        ],
+        "name_en": "Green"
+      },
+      {
+        "code": "C05",
+        "hex": "#E8C68A",
+        "name_zh": "焦糖肤",
+        "ratio": 0.16,
+        "rgb": [
+          232,
+          198,
+          138
+        ],
+        "hsl": [
+          40,
+          67,
+          73
+        ],
+        "name_en": "Color 5"
+      },
+      {
+        "code": "C06",
+        "hex": "#6B4A3A",
+        "name_zh": "旧皮褐",
+        "ratio": 0.16,
+        "rgb": [
+          107,
+          74,
+          58
+        ],
+        "hsl": [
+          21,
+          30,
+          32
+        ],
+        "name_en": "Ochre"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#F2D299",
+        "name_zh": "金穗黄",
+        "emotion": "希望启程",
+        "rgb": [
+          242,
+          210,
+          153
+        ],
+        "hsl": [
+          41,
+          77,
+          77
+        ],
+        "name_en": "Yellow"
+      },
+      {
+        "code": "E02",
+        "hex": "#4A3728",
+        "name_zh": "深棕褐",
+        "emotion": "乡愁沉淀",
+        "rgb": [
+          74,
+          55,
+          40
+        ],
+        "hsl": [
+          25,
+          30,
+          22
+        ],
+        "name_en": "Brown"
+      },
+      {
+        "code": "E03",
+        "hex": "#D97B3A",
+        "name_zh": "落日橙",
+        "emotion": "旅途炽热",
+        "rgb": [
+          217,
+          123,
+          58
+        ],
+        "hsl": [
+          26,
+          68,
+          54
+        ],
+        "name_en": "Orange"
+      },
+      {
+        "code": "E04",
+        "hex": "#7A8C6B",
+        "name_zh": "草原青",
+        "emotion": "自由宽广",
+        "rgb": [
+          122,
+          140,
+          107
+        ],
+        "hsl": [
+          93,
+          13,
+          48
+        ],
+        "name_en": "Cyan"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "warm tropical sunlight, golden hour side light, dust motes in sun",
+    "highlight_tint": "golden amber / warm yellow",
+    "shadow_tint": "deep umber / red-brown earth",
+    "contrast_ratio": "medium-high 60-75%, warm sun contrast",
+    "overall_tone": "warm earthy golden, 80% warm + 20% cool"
+  },
+  "composition_keywords": [
+    "road movie traveling shots",
+    "south american landscape",
+    "golden hour natural light",
+    "moving vehicle perspective",
+    "handheld intimacy",
+    "wide horizon lines",
+    "dust and heat haze",
+    "historical road trip"
+  ],
+  "color_keywords": [
+    "brazilian savanna ochre",
+    "andean mountain brown",
+    "highway golden dust",
+    "tropical sunset orange",
+    "caramel skin tone",
+    "cerrado green foliage",
+    "vintage leather brown",
+    "dusty bus window"
+  ],
+  "mood_keywords": [
+    "latin american journey",
+    "coming of age on road",
+    "discovery of self and continent",
+    "paternal-mentor bond",
+    "working class warmth",
+    "political awakening",
+    "nostalgia for home",
+    "expansive freedom"
+  ],
+  "style_profile": {
+    "definition": "公路、家庭与拉丁美洲地景以人文写实连接私人历史",
+    "lighting": "自然日光、车窗光与黄金时刻，避免过分唯美",
+    "framing": "流动跟拍、车内关系和宽阔地景，运动有旅程方向",
+    "grading": "尘土黄、植物绿、天蓝与暖肤色，胶片式柔和对比",
+    "avoid": "避免人工光感、避免冷色调主导、避免过度饱和"
+  },
+  "real_palettes": [
+    {
+      "title_zh": "陌生之地",
+      "title_en": "Foreign Land",
+      "year": 1996,
+      "palette": [
+        {
+          "hex": "#1E1E1E",
+          "ratio": 14.1,
+          "luminance": 0.013,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#787878",
+          "ratio": 13.8,
+          "luminance": 0.1878,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#3C3B3B",
+          "ratio": 12.5,
+          "luminance": 0.044,
+          "saturation": 0.0167
+        },
+        {
+          "hex": "#595959",
+          "ratio": 12.3,
+          "luminance": 0.0999,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#C9C9C9",
+          "ratio": 12.1,
+          "luminance": 0.5841,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#A9A9A9",
+          "ratio": 12.0,
+          "luminance": 0.3968,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#0D0D0D",
+          "ratio": 11.6,
+          "luminance": 0.004,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#EAE9E9",
+          "ratio": 11.6,
+          "luminance": 0.8165,
+          "saturation": 0.0043
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "革命前夕的摩托車日記",
+      "title_en": "The Motorcycle Diaries",
+      "year": 2004,
+      "palette": [
+        {
+          "hex": "#7A694E",
+          "ratio": 18.2,
+          "luminance": 0.1479,
+          "saturation": 0.3607
+        },
+        {
+          "hex": "#D6C5A4",
+          "ratio": 14.0,
+          "luminance": 0.5691,
+          "saturation": 0.2336
+        },
+        {
+          "hex": "#8EB1D9",
+          "ratio": 12.9,
+          "luminance": 0.422,
+          "saturation": 0.3456
+        },
+        {
+          "hex": "#91865A",
+          "ratio": 12.4,
+          "luminance": 0.2381,
+          "saturation": 0.3793
+        },
+        {
+          "hex": "#74A1D3",
+          "ratio": 11.2,
+          "luminance": 0.3391,
+          "saturation": 0.4502
+        },
+        {
+          "hex": "#3F2B09",
+          "ratio": 10.5,
+          "luminance": 0.028,
+          "saturation": 0.8571
+        },
+        {
+          "hex": "#B7A88B",
+          "ratio": 10.4,
+          "luminance": 0.3994,
+          "saturation": 0.2404
+        },
+        {
+          "hex": "#6E573B",
+          "ratio": 10.4,
+          "luminance": 0.1045,
+          "saturation": 0.4636
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "巴黎，我爱你",
+      "title_en": "Paris, je t'aime",
+      "year": 2006,
+      "palette": [
+        {
+          "hex": "#2F3048",
+          "ratio": 16.3,
+          "luminance": 0.0319,
+          "saturation": 0.3472
+        },
+        {
+          "hex": "#9C8773",
+          "ratio": 14.2,
+          "luminance": 0.2563,
+          "saturation": 0.2628
+        },
+        {
+          "hex": "#525253",
+          "ratio": 12.8,
+          "luminance": 0.0845,
+          "saturation": 0.012
+        },
+        {
+          "hex": "#7A7F86",
+          "ratio": 12.1,
+          "luminance": 0.2104,
+          "saturation": 0.0896
+        },
+        {
+          "hex": "#ACA699",
+          "ratio": 11.5,
+          "luminance": 0.3834,
+          "saturation": 0.1105
+        },
+        {
+          "hex": "#C9CBC4",
+          "ratio": 11.4,
+          "luminance": 0.5911,
+          "saturation": 0.0345
+        },
+        {
+          "hex": "#0B0A10",
+          "ratio": 11.0,
+          "luminance": 0.0033,
+          "saturation": 0.375
+        },
+        {
+          "hex": "#696463",
+          "ratio": 10.7,
+          "luminance": 0.1302,
+          "saturation": 0.0571
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "我生如是繼續",
+      "title_en": "I'm Still Here",
+      "year": 2024,
+      "palette": [
+        {
+          "hex": "#68839C",
+          "ratio": 14.3,
+          "luminance": 0.2158,
+          "saturation": 0.3333
+        },
+        {
+          "hex": "#86ADCA",
+          "ratio": 13.6,
+          "luminance": 0.3922,
+          "saturation": 0.3366
+        },
+        {
+          "hex": "#3B2419",
+          "ratio": 13.5,
+          "luminance": 0.0226,
+          "saturation": 0.5763
+        },
+        {
+          "hex": "#A8CDDD",
+          "ratio": 13.2,
+          "luminance": 0.5721,
+          "saturation": 0.2398
+        },
+        {
+          "hex": "#516472",
+          "ratio": 11.4,
+          "luminance": 0.1208,
+          "saturation": 0.2895
+        },
+        {
+          "hex": "#5F3822",
+          "ratio": 11.4,
+          "luminance": 0.0538,
+          "saturation": 0.6421
+        },
+        {
+          "hex": "#96A4A5",
+          "ratio": 11.3,
+          "luminance": 0.3575,
+          "saturation": 0.0909
+        },
+        {
+          "hex": "#E2C085",
+          "ratio": 11.3,
+          "luminance": 0.5556,
+          "saturation": 0.4115
+        }
+      ],
+      "sources": []
+    }
+  ]
+}

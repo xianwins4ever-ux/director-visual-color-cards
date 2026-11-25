@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "145",
+    "name_en": "MasaakiYuasa",
+    "name_zh": "汤浅政明",
+    "category": "08_动画奇幻与异想视觉",
+    "nationality": "日本",
+    "active_years": "1965-",
+    "era": "1965-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FF1744",
+        "name_zh": "狂想红",
+        "name_en": "Rhapsody Red",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          23,
+          68
+        ],
+        "hsl": [
+          348,
+          100,
+          55
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#00E5FF",
+        "name_zh": "流动青",
+        "name_en": "Flowing Cyan",
+        "ratio": 0.18,
+        "rgb": [
+          0,
+          229,
+          255
+        ],
+        "hsl": [
+          186,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFEA00",
+        "name_zh": "能量黄",
+        "name_en": "Energy Yellow",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          234,
+          0
+        ],
+        "hsl": [
+          55,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#D500F9",
+        "name_zh": "迷幻紫",
+        "name_en": "Psychedelic Purple",
+        "ratio": 0.14,
+        "rgb": [
+          213,
+          0,
+          249
+        ],
+        "hsl": [
+          291,
+          100,
+          49
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#76FF03",
+        "name_zh": "爆发绿",
+        "name_en": "Explosion Green",
+        "ratio": 0.14,
+        "rgb": [
+          118,
+          255,
+          3
+        ],
+        "hsl": [
+          93,
+          100,
+          51
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#1A1A1A",
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "ratio": 0.18,
+        "rgb": [
+          26,
+          26,
+          26
+        ],
+        "hsl": [
+          0,
+          0,
+          10
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF1744",
+        "name_zh": "狂想激情",
+        "name_en": "狂想激情",
+        "emotion": "狂想激情",
+        "rgb": [
+          255,
+          23,
+          68
+        ],
+        "hsl": [
+          348,
+          100,
+          55
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#00E5FF",
+        "name_zh": "流动自由",
+        "name_en": "流动自由",
+        "emotion": "流动自由",
+        "rgb": [
+          0,
+          229,
+          255
+        ],
+        "hsl": [
+          186,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFEA00",
+        "name_zh": "青春能量",
+        "name_en": "青春能量",
+        "emotion": "青春能量",
+        "rgb": [
+          255,
+          234,
+          0
+        ],
+        "hsl": [
+          55,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#D500F9",
+        "name_zh": "迷幻梦境",
+        "name_en": "迷幻梦境",
+        "emotion": "迷幻梦境",
+        "rgb": [
+          213,
+          0,
+          249
+        ],
+        "hsl": [
+          291,
+          100,
+          49
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "流动色光",
+    "highlight_tint": "变形光影",
+    "highlight_bias": "变形光影",
+    "shadow_tint": "高饱和色",
+    "shadow_bias": "高饱和色",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "变形动画",
+    "手绘线条",
+    "色彩爆炸",
+    "心理流动",
+    "运动轨迹",
+    "空间扭曲"
+  ],
+  "color_keywords": [
+    "汤浅政明高饱和",
+    "流动色彩",
+    "手绘能量色",
+    "变形狂想色",
+    "心理流动彩",
+    "青春爆炸色"
+  ],
+  "mood_keywords": [
+    "狂想自由",
+    "青春能量",
+    "心理流动",
+    "手绘质感",
+    "迷幻体验",
+    "打破常规"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "汤浅政明的视觉风格：流动色光，汤浅政明高饱和, 流动色彩, 手绘能量色。",
+    "lighting": "流动色光，变形光影，高饱和色",
+    "framing": "变形动画、手绘线条、色彩爆炸。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "136",
+    "name_en": "MatthewVaughn",
+    "name_zh": "马修·沃恩",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "英国",
+    "active_years": "1971-",
+    "era": "1971-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0D47A1",
+        "name_zh": "西装蓝",
+        "name_en": "Suit Blue",
+        "ratio": 0.2,
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#C62828",
+        "name_zh": "绅士血",
+        "name_en": "Gentleman Blood Red",
+        "ratio": 0.18,
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFD600",
+        "name_zh": "金士曼金",
+        "name_en": "Kingsman Gold",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          214,
+          0
+        ],
+        "hsl": [
+          50,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#4A148C",
+        "name_zh": "王牌紫",
+        "name_en": "Kingsman Purple",
+        "ratio": 0.14,
+        "rgb": [
+          74,
+          20,
+          140
+        ],
+        "hsl": [
+          267,
+          75,
+          31
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#000000",
+        "name_zh": "燕尾黑",
+        "name_en": "Tuxedo Black",
+        "ratio": 0.14,
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#78909C",
+        "name_zh": "冷钢灰",
+        "name_en": "Cold Steel Gray",
+        "ratio": 0.18,
+        "rgb": [
+          120,
+          144,
+          156
+        ],
+        "hsl": [
+          200,
+          15,
+          54
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#0D47A1",
+        "name_zh": "绅士风度",
+        "name_en": "绅士风度",
+        "emotion": "绅士风度",
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#C62828",
+        "name_zh": "暴力优雅",
+        "name_en": "暴力优雅",
+        "emotion": "暴力优雅",
+        "rgb": [
+          198,
+          40,
+          40
+        ],
+        "hsl": [
+          0,
+          66,
+          47
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#FFD600",
+        "name_zh": "金士荣耀",
+        "name_en": "金士荣耀",
+        "emotion": "金士荣耀",
+        "rgb": [
+          255,
+          214,
+          0
+        ],
+        "hsl": [
+          50,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#4A148C",
+        "name_zh": "酷感神秘",
+        "name_en": "酷感神秘",
+        "emotion": "酷感神秘",
+        "rgb": [
+          74,
+          20,
+          140
+        ],
+        "hsl": [
+          267,
+          75,
+          31
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "漫画色光",
+    "highlight_tint": "西装冷光",
+    "highlight_bias": "西装冷光",
+    "shadow_tint": "动作补光",
+    "shadow_bias": "动作补光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "漫画分镜",
+    "西装动作",
+    "英式幽默",
+    "慢镜爆头",
+    "绅士特工",
+    "色彩分区"
+  ],
+  "color_keywords": [
+    "金士曼蓝金",
+    "西装色调",
+    "漫画风高饱和",
+    "英式酷感色",
+    "暴力美学色",
+    "紫蓝对比"
+  ],
+  "mood_keywords": [
+    "绅士特工",
+    "暴力优雅",
+    "英式幽默",
+    "漫画改编",
+    "酷感十足",
+    "类型颠覆"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "马修·沃恩的视觉风格：漫画色光，金士曼蓝金, 西装色调, 漫画风高饱和。",
+    "lighting": "漫画色光，西装冷光，动作补光",
+    "framing": "漫画分镜、西装动作、英式幽默。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "127",
+    "name_en": "PeterJackson",
+    "name_zh": "彼得·杰克逊",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "新西兰",
+    "active_years": "1961-",
+    "era": "1961-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FFD54F",
+        "name_zh": "魔戒金",
+        "name_en": "Ring Gold",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#2E7D32",
+        "name_zh": "精灵绿",
+        "name_en": "Elf Green",
+        "ratio": 0.18,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#5D4037",
+        "name_zh": "中土棕",
+        "name_en": "Middle-earth Brown",
+        "ratio": 0.16,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#B71C1C",
+        "name_zh": "魔多红",
+        "name_en": "Mordor Red",
+        "ratio": 0.14,
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#0D47A1",
+        "name_zh": "刚铎蓝",
+        "name_en": "Gondor Blue",
+        "ratio": 0.14,
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#3E2723",
+        "name_zh": "深土棕",
+        "name_en": "Deep Earth Brown",
+        "ratio": 0.18,
+        "rgb": [
+          62,
+          39,
+          35
+        ],
+        "hsl": [
+          9,
+          28,
+          19
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FFD54F",
+        "name_zh": "魔幻荣耀",
+        "name_en": "魔幻荣耀",
+        "emotion": "魔幻荣耀",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#2E7D32",
+        "name_zh": "自然希望",
+        "name_en": "自然希望",
+        "emotion": "自然希望",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#B71C1C",
+        "name_zh": "黑暗威胁",
+        "name_en": "黑暗威胁",
+        "emotion": "黑暗威胁",
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#5D4037",
+        "name_zh": "史诗厚重",
+        "name_en": "史诗厚重",
+        "emotion": "史诗厚重",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "魔幻金光",
+    "highlight_tint": "战场火光",
+    "highlight_bias": "战场火光",
+    "shadow_tint": "洞穴暗影",
+    "shadow_bias": "洞穴暗影",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "新西兰地貌",
+    "大场面战争",
+    "霍比特人",
+    "魔幻生物",
+    "指环王",
+    "航拍大全景"
+  ],
+  "color_keywords": [
+    "魔戒金色",
+    "中土大地色",
+    "精灵绿色",
+    "魔幻色调",
+    "新西兰风光",
+    "战争火光"
+  ],
+  "mood_keywords": [
+    "史诗魔幻",
+    "中土世界",
+    "友情与勇气",
+    "正邪大战",
+    "新西兰风景",
+    "奇幻冒险"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "彼得·杰克逊的视觉风格：魔幻金光，魔戒金色, 中土大地色, 精灵绿色。",
+    "lighting": "魔幻金光，战场火光，洞穴暗影",
+    "framing": "新西兰地貌、大场面战争、霍比特人。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

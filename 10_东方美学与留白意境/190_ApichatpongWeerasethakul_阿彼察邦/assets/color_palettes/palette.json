@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "190",
+    "name_en": "ApichatpongWeerasethakul",
+    "name_zh": "阿彼察邦",
+    "category": "10_东方美学与留白意境",
+    "nationality": "泰国",
+    "active_years": "1970-",
+    "era": "1970-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#1B5E20",
+        "name_zh": "热带绿",
+        "name_en": "Tropical Green",
+        "ratio": 0.22,
+        "rgb": [
+          27,
+          94,
+          32
+        ],
+        "hsl": [
+          124,
+          55,
+          24
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFD54F",
+        "name_zh": "热带金",
+        "name_en": "Tropical Gold",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#6D4C41",
+        "name_zh": "木屋棕",
+        "name_en": "Wood House Brown",
+        "ratio": 0.16,
+        "rgb": [
+          109,
+          76,
+          65
+        ],
+        "hsl": [
+          15,
+          25,
+          34
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#006064",
+        "name_zh": "洞穴青",
+        "name_en": "Cave Teal",
+        "ratio": 0.14,
+        "rgb": [
+          0,
+          96,
+          100
+        ],
+        "hsl": [
+          182,
+          100,
+          20
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#A5D6A7",
+        "name_zh": "晨曦绿",
+        "name_en": "Dawn Green",
+        "ratio": 0.14,
+        "rgb": [
+          165,
+          214,
+          167
+        ],
+        "hsl": [
+          122,
+          37,
+          74
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#BCAAA4",
+        "name_zh": "土米",
+        "name_en": "Earth Beige",
+        "ratio": 0.14,
+        "rgb": [
+          188,
+          170,
+          164
+        ],
+        "hsl": [
+          15,
+          15,
+          69
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#1B5E20",
+        "name_zh": "自然神秘",
+        "name_en": "自然神秘",
+        "emotion": "自然神秘",
+        "rgb": [
+          27,
+          94,
+          32
+        ],
+        "hsl": [
+          124,
+          55,
+          24
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFD54F",
+        "name_zh": "记忆温暖",
+        "name_en": "记忆温暖",
+        "emotion": "记忆温暖",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#6D4C41",
+        "name_zh": "乡愁厚重",
+        "name_en": "乡愁厚重",
+        "emotion": "乡愁厚重",
+        "rgb": [
+          109,
+          76,
+          65
+        ],
+        "hsl": [
+          15,
+          25,
+          34
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#006064",
+        "name_zh": "超自然深邃",
+        "name_en": "超自然深邃",
+        "emotion": "超自然深邃",
+        "rgb": [
+          0,
+          96,
+          100
+        ],
+        "hsl": [
+          182,
+          100,
+          20
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "丛林绿光",
+    "highlight_tint": "热带柔光",
+    "highlight_bias": "热带柔光",
+    "shadow_tint": "自然天光",
+    "shadow_bias": "自然天光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "热带丛林",
+    "慢长镜头",
+    "记忆梦境",
+    "超自然",
+    "泰国乡村",
+    "同性恋主题"
+  ],
+  "color_keywords": [
+    "阿彼察邦绿",
+    "热带丛林色",
+    "记忆暖金色",
+    "超自然青绿",
+    "泰国乡野色",
+    "慢电影色调"
+  ],
+  "mood_keywords": [
+    "热带迷梦",
+    "记忆与梦",
+    "慢电影",
+    "超自然",
+    "泰国乡村",
+    "神秘主义"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "阿彼察邦的视觉风格：丛林绿光，阿彼察邦绿, 热带丛林色, 记忆暖金色。",
+    "lighting": "丛林绿光，热带柔光，自然天光",
+    "framing": "热带丛林、慢长镜头、记忆梦境。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

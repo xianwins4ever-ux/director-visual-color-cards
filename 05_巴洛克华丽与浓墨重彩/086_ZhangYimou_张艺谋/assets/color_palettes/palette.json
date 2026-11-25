@@ -1,0 +1,337 @@
+{
+  "director": {
+    "id": "086",
+    "name_en": "ZhangYimou",
+    "name_zh": "张艺谋",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "中国",
+    "era": "1950-",
+    "active_years": "1950-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#C41E3A",
+        "rgb": [
+          196,
+          30,
+          58
+        ],
+        "hsl": [
+          350,
+          73,
+          44
+        ],
+        "ratio": 0.24,
+        "name_zh": "中国红",
+        "name_en": "China Red",
+        "code": "C01"
+      },
+      {
+        "hex": "#FFD700",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "ratio": 0.2,
+        "name_zh": "帝王黄",
+        "name_en": "Imperial Yellow",
+        "code": "C02"
+      },
+      {
+        "hex": "#228B22",
+        "rgb": [
+          34,
+          139,
+          34
+        ],
+        "hsl": [
+          120,
+          61,
+          34
+        ],
+        "ratio": 0.16,
+        "name_zh": "翠绿",
+        "name_en": "Forest Green",
+        "code": "C03"
+      },
+      {
+        "hex": "#000000",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ],
+        "ratio": 0.14,
+        "name_zh": "墨黑",
+        "name_en": "Ink Black",
+        "code": "C04"
+      },
+      {
+        "hex": "#FFFFFF",
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ],
+        "ratio": 0.12,
+        "name_zh": "雪白",
+        "name_en": "Snow White",
+        "code": "C05"
+      },
+      {
+        "hex": "#8B4513",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "ratio": 0.14,
+        "name_zh": "土棕",
+        "name_en": "Earth Brown",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#DC143C",
+        "rgb": [
+          220,
+          20,
+          60
+        ],
+        "hsl": [
+          348,
+          83,
+          47
+        ],
+        "emotion": "热情革命",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#FFD700",
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hsl": [
+          51,
+          100,
+          50
+        ],
+        "emotion": "权力辉煌",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#228B22",
+        "rgb": [
+          34,
+          139,
+          34
+        ],
+        "hsl": [
+          120,
+          61,
+          34
+        ],
+        "emotion": "自然生命力",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#000000",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ],
+        "emotion": "命运沉重",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "高饱和纯色光",
+    "highlight_bias": "对称照明",
+    "shadow_bias": "灯笼暖光",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "对称构图",
+    "大面积纯色",
+    "民俗仪式",
+    "灯笼意象",
+    "集体场面",
+    "身体色彩"
+  ],
+  "color_keywords": [
+    "中国红黄",
+    "高饱和纯色",
+    "民俗色彩",
+    "灯笼暖光",
+    "仪式感色彩",
+    "西北黄土地"
+  ],
+  "mood_keywords": [
+    "民族史诗",
+    "命运抗争",
+    "色彩即叙事",
+    "东方美学",
+    "集体与个人",
+    "原始生命力"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "Red Sorghum",
+      "title_en": "Red Sorghum",
+      "year": 1988,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2026/03/14/red-sorghum/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_01.jpg?bwg=1713948171"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_22.jpg?bwg=1713948171"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_44.jpg?bwg=1713948170"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Red_Sorghum_65.jpg?bwg=1713948170"
+        }
+      ]
+    },
+    {
+      "title_zh": "Shanghai Triad",
+      "title_en": "Shanghai Triad",
+      "year": 1995,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2023/01/18/shanghai-triad/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_001.jpg?bwg=1642586872"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_013.jpg?bwg=1642586872"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_025.jpg?bwg=1642586872"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shanghai_Triad_037.jpg?bwg=1642586873"
+        }
+      ]
+    },
+    {
+      "title_zh": "Shadow",
+      "title_en": "Shadow",
+      "year": 2018,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/11/16/shadow/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_01.jpg?bwg=1710710951"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_22.jpg?bwg=1710710951"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_44.jpg?bwg=1710710950"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Shadow_65.jpg?bwg=1710710950"
+        }
+      ]
+    },
+    {
+      "title_zh": "Under The Light",
+      "title_en": "Under The Light",
+      "year": 2023,
+      "palette": [],
+      "sources": [
+        {
+          "label": "FilmGrab 真实电影截图图库",
+          "url": "https://film-grab.com/2025/01/29/under-the-light/"
+        },
+        {
+          "label": "截图 01",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_01.jpg?bwg=1718183196"
+        },
+        {
+          "label": "截图 02",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_22.jpg?bwg=1718183190"
+        },
+        {
+          "label": "截图 03",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_44.jpg?bwg=1718183190"
+        },
+        {
+          "label": "截图 04",
+          "url": "https://film-grab.com/wp-content/uploads/photo-gallery/Under_The_Light_65.jpg?bwg=1718183190"
+        }
+      ]
+    }
+  ],
+  "style_profile": {
+    "definition": "张艺谋的视觉风格以高饱和纯色光为主，中国红黄、高饱和纯色、民俗色彩，营造出民族史诗的氛围。",
+    "lighting": "高饱和纯色光，高光偏对称照明，阴影偏灯笼暖光，整体暖调。",
+    "composition": [],
+    "mood": [],
+    "framing": "对称构图、大面积纯色、民俗仪式，强调视觉层次感。",
+    "grading": "对比度高对比，色调暖调，色彩中国红黄、高饱和纯色、民俗色彩。",
+    "avoid": "避免平淡无奇、避免低饱和度、避免构图简单"
+  }
+}

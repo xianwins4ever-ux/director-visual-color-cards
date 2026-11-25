@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "149",
+    "name_en": "MichelOcelot",
+    "name_zh": "米歇尔·欧斯洛",
+    "category": "08_动画奇幻与异想视觉",
+    "nationality": "法国",
+    "active_years": "1943-",
+    "era": "1943-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FF6D00",
+        "name_zh": "非洲橙",
+        "name_en": "African Orange",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          109,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#1B5E20",
+        "name_zh": "森林绿",
+        "name_en": "Forest Green",
+        "ratio": 0.18,
+        "rgb": [
+          27,
+          94,
+          32
+        ],
+        "hsl": [
+          124,
+          55,
+          24
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#7B1FA2",
+        "name_zh": "东方紫",
+        "name_en": "Oriental Purple",
+        "ratio": 0.16,
+        "rgb": [
+          123,
+          31,
+          162
+        ],
+        "hsl": [
+          282,
+          68,
+          38
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFD54F",
+        "name_zh": "沙漠金",
+        "name_en": "Desert Gold",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#00695C",
+        "name_zh": "海洋青",
+        "name_en": "Ocean Teal",
+        "ratio": 0.14,
+        "rgb": [
+          0,
+          105,
+          92
+        ],
+        "hsl": [
+          173,
+          100,
+          21
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#000000",
+        "name_zh": "剪影黑",
+        "name_en": "Silhouette Black",
+        "ratio": 0.18,
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF6D00",
+        "name_zh": "非洲阳光",
+        "name_en": "非洲阳光",
+        "emotion": "非洲阳光",
+        "rgb": [
+          255,
+          109,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#7B1FA2",
+        "name_zh": "东方神秘",
+        "name_en": "东方神秘",
+        "emotion": "东方神秘",
+        "rgb": [
+          123,
+          31,
+          162
+        ],
+        "hsl": [
+          282,
+          68,
+          38
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#1B5E20",
+        "name_zh": "自然生机",
+        "name_en": "自然生机",
+        "emotion": "自然生机",
+        "rgb": [
+          27,
+          94,
+          32
+        ],
+        "hsl": [
+          124,
+          55,
+          24
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFD54F",
+        "name_zh": "童话温暖",
+        "name_en": "童话温暖",
+        "emotion": "童话温暖",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "剪影背光",
+    "highlight_tint": "民族色光",
+    "highlight_bias": "民族色光",
+    "shadow_tint": "装饰光影",
+    "shadow_bias": "装饰光影",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "剪影造型",
+    "平面装饰",
+    "全球童话",
+    "民族图案",
+    "对称构图",
+    "寓言叙事"
+  ],
+  "color_keywords": [
+    "剪影对比色",
+    "全球民族色",
+    "非洲橙绿",
+    "东方紫韵",
+    "装饰艺术色",
+    "童话色彩"
+  ],
+  "mood_keywords": [
+    "全球童话",
+    "剪影美学",
+    "民族文化",
+    "寓言故事",
+    "装饰艺术",
+    "儿童友好"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "米歇尔·欧斯洛的视觉风格：剪影背光，剪影对比色, 全球民族色, 非洲橙绿。",
+    "lighting": "剪影背光，民族色光，装饰光影",
+    "framing": "剪影造型、平面装饰、全球童话。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

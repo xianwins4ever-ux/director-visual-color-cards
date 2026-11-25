@@ -1,0 +1,231 @@
+{
+  "director": {
+    "id": "024",
+    "name_en": "Kathryn Bigelow",
+    "name_zh": "凯瑟琳·毕格罗",
+    "category": "02_霓虹黑色与赛博未来",
+    "nationality": "美国",
+    "active_years": "1981-至今",
+    "era": "1981-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0F1B0F",
+        "name_zh": "夜视深绿",
+        "ratio": 0.3,
+        "rgb": [
+          15,
+          27,
+          15
+        ],
+        "hsl": [
+          120,
+          29,
+          8
+        ],
+        "name_en": "Green"
+      },
+      {
+        "code": "C02",
+        "hex": "#4A5D23",
+        "name_zh": "军绿橄榄",
+        "ratio": 0.2,
+        "rgb": [
+          74,
+          93,
+          35
+        ],
+        "hsl": [
+          80,
+          45,
+          25
+        ],
+        "name_en": "Green"
+      },
+      {
+        "code": "C03",
+        "hex": "#C4A35A",
+        "name_zh": "沙漠土黄",
+        "ratio": 0.15,
+        "rgb": [
+          196,
+          163,
+          90
+        ],
+        "hsl": [
+          41,
+          47,
+          56
+        ],
+        "name_en": "Yellow"
+      },
+      {
+        "code": "C04",
+        "hex": "#1E3A5F",
+        "name_zh": "战术冷蓝",
+        "ratio": 0.12,
+        "rgb": [
+          30,
+          58,
+          95
+        ],
+        "hsl": [
+          214,
+          52,
+          25
+        ],
+        "name_en": "Blue"
+      },
+      {
+        "code": "C05",
+        "hex": "#8B0000",
+        "name_zh": "暗红血锈",
+        "ratio": 0.1,
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "name_en": "Red"
+      },
+      {
+        "code": "C06",
+        "hex": "#B8A88A",
+        "name_zh": "沙尘肤",
+        "ratio": 0.13,
+        "rgb": [
+          184,
+          168,
+          138
+        ],
+        "hsl": [
+          39,
+          24,
+          63
+        ],
+        "name_en": "Color 6"
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#00FF00",
+        "name_zh": "夜视绿",
+        "emotion": "战术军事",
+        "rgb": [
+          0,
+          255,
+          0
+        ],
+        "hsl": [
+          120,
+          100,
+          50
+        ],
+        "name_en": "Green"
+      },
+      {
+        "code": "E02",
+        "hex": "#FF4500",
+        "name_zh": "爆炸橙",
+        "emotion": "战争暴力",
+        "rgb": [
+          255,
+          69,
+          0
+        ],
+        "hsl": [
+          16,
+          100,
+          50
+        ],
+        "name_en": "Orange"
+      },
+      {
+        "code": "E03",
+        "hex": "#708090",
+        "name_zh": "战术灰",
+        "emotion": "纪律压力",
+        "rgb": [
+          112,
+          128,
+          144
+        ],
+        "hsl": [
+          210,
+          13,
+          50
+        ],
+        "name_en": "Gray"
+      },
+      {
+        "code": "E04",
+        "hex": "#DAA520",
+        "name_zh": "沙漠金",
+        "emotion": "酷热生存",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "name_en": "Gold"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "handheld documentary natural light, harsh desert sun, night vision green",
+    "highlight_tint": "desert gold/orange explosion",
+    "shadow_tint": "deep olive green-black",
+    "contrast_ratio": "high 70-85%",
+    "overall_tone": "cool military desaturated 60/40"
+  },
+  "composition_keywords": [
+    "handheld documentary camera",
+    "shaky cam immediacy",
+    "night vision POV",
+    "wide desert vistas",
+    "tactical POV",
+    "slow motion tension",
+    "explosion aftermath",
+    "close-up on faces"
+  ],
+  "color_keywords": [
+    "military night vision green",
+    "desert sand ochre",
+    "olive drab military",
+    "tactical cold blue",
+    "explosion orange fire",
+    "dust and haze",
+    "desaturated war tone",
+    "documentary grain"
+  ],
+  "mood_keywords": [
+    "war realism",
+    "documentary intensity",
+    "masculine violence",
+    "tactical tension",
+    "moral ambiguity",
+    "desert isolation",
+    "combat stress",
+    "anti-war"
+  ],
+  "style_profile": {
+    "definition": "凯瑟琳·毕格罗的视觉风格以handheld documentary natural light, harsh desert sun, night vision green为主，military night vision green、desert sand ochre，营造出war realism的氛围。",
+    "lighting": "handheld documentary natural light, harsh desert sun, night vision green，高光偏desert gold/orange explosion，阴影偏deep olive green-black，整体cool military desaturated 60/40。",
+    "framing": "handheld documentary camera、shaky cam immediacy、night vision POV。",
+    "grading": "对比度high 70-85%，色调cool military desaturated 60/40。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

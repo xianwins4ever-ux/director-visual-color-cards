@@ -1,0 +1,137 @@
+{
+  "director": {
+    "zh": "卢奎西亚·马特尔",
+    "en": "Lucrecia Martel"
+  },
+  "style_profile": {
+    "definition": "湿热黄绿、皮肤棕与昏暗室内让声音和画外空间持续发酵。",
+    "lighting": "闷热自然光、昏暗实景灯；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "局部身体、偏置构图、画外声驱动；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "黄绿中间调，肤色保持湿热质感；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": [
+      "旅游热带绿",
+      "美白",
+      "清爽高亮",
+      "无动机环绕和随机变焦",
+      "用统一滤镜替代色彩比例、光源和材质。"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "魔沼",
+      "title_en": "La Ciénaga",
+      "year": 2001,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-01\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-01\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-01\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-01\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/7IpUXbKHWA1Xt4jCwnP3A2YFPC3.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/b8gbRPrsEinp7Z2TY9Kn1jv5Rm9.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/tLibHkTvKCptzLqyBMBU0r8USbq.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/v5YMg4J2ADOwzs3wrIfNyCkxC9e.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "扎马",
+      "title_en": "Zama",
+      "year": 2016,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-02\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-02\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-02\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-02\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/9JqIR7bBO0uofsJiONgYAX2yw1R.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/oG8sdayvGEMbHYPIIlJlKzoZsAR.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/7DVaA3yyEXPaXCLbLdpZgrqFWHt.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/fhniVap3BiCPU8IDYTXa0iZpAYK.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "被奪去的土地",
+      "title_en": "Landmarks",
+      "year": 2025,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-03\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-03\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-03\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-03\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/t4PVpbHAmJ6pA8Ff5JWSHFSBebX.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/8w5ebDQywZZNzYLF9rOnE2U16eH.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/5cFcnM5gHxfv9szP8M6l2sGXPTV.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/71fS8w31KWT0pYUaV3MbrjOqtwc.jpg"
+        }
+      ]
+    },
+    {
+      "title_zh": "Cornucopia",
+      "title_en": "Cornucopia",
+      "year": 2025,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-04\\frame-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-04\\frame-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-04\\frame-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\director-palettes\\batch-99\\cards\\D087-卢奎西亚·马特尔·电影色调常用色卡\\source-frames\\film-04\\frame-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "TMDB 电影剧照 01",
+          "url": "https://image.tmdb.org/t/p/original/gh4cEqu7D9WSobqnGpdGjimERGl.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 02",
+          "url": "https://image.tmdb.org/t/p/original/gbZXiKESLJMAgDnnrsA0gMl1Sj1.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 03",
+          "url": "https://image.tmdb.org/t/p/original/o7HP9xBQ4XEknOsQ1kgL7kT363G.jpg"
+        },
+        {
+          "label": "TMDB 电影剧照 04",
+          "url": "https://image.tmdb.org/t/p/original/7JL3N8ZLtrD3ZCXrDAuOhV8fqei.jpg"
+        }
+      ]
+    }
+  ]
+}

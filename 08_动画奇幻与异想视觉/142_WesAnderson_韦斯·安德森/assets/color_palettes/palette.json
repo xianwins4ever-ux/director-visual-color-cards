@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "142",
+    "name_en": "WesAnderson",
+    "name_zh": "韦斯·安德森",
+    "category": "08_动画奇幻与异想视觉",
+    "nationality": "美国",
+    "active_years": "1969-",
+    "era": "1969-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#F48FB1",
+        "name_zh": "粉红",
+        "name_en": "Pastel Pink",
+        "ratio": 0.18,
+        "rgb": [
+          244,
+          143,
+          177
+        ],
+        "hsl": [
+          340,
+          82,
+          76
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#FFCC80",
+        "name_zh": "奶油黄",
+        "name_en": "Butter Yellow",
+        "ratio": 0.18,
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#81C784",
+        "name_zh": "薄荷绿",
+        "name_en": "Mint Green",
+        "ratio": 0.16,
+        "rgb": [
+          129,
+          199,
+          132
+        ],
+        "hsl": [
+          123,
+          38,
+          64
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#64B5F6",
+        "name_zh": "天空蓝",
+        "name_en": "Sky Blue",
+        "ratio": 0.14,
+        "rgb": [
+          100,
+          181,
+          246
+        ],
+        "hsl": [
+          207,
+          89,
+          68
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#BA68C8",
+        "name_zh": "薰衣草紫",
+        "name_en": "Lavender Purple",
+        "ratio": 0.14,
+        "rgb": [
+          186,
+          104,
+          200
+        ],
+        "hsl": [
+          291,
+          47,
+          60
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFAB91",
+        "name_zh": "珊瑚橙",
+        "name_en": "Coral Orange",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          171,
+          145
+        ],
+        "hsl": [
+          14,
+          100,
+          78
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#F48FB1",
+        "name_zh": "童真忧伤",
+        "name_en": "童真忧伤",
+        "emotion": "童真忧伤",
+        "rgb": [
+          244,
+          143,
+          177
+        ],
+        "hsl": [
+          340,
+          82,
+          76
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFCC80",
+        "name_zh": "温暖怀旧",
+        "name_en": "温暖怀旧",
+        "emotion": "温暖怀旧",
+        "rgb": [
+          255,
+          204,
+          128
+        ],
+        "hsl": [
+          36,
+          100,
+          75
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#81C784",
+        "name_zh": "自然治愈",
+        "name_en": "自然治愈",
+        "emotion": "自然治愈",
+        "rgb": [
+          129,
+          199,
+          132
+        ],
+        "hsl": [
+          123,
+          38,
+          64
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#64B5F6",
+        "name_zh": "幻想飞翔",
+        "name_en": "幻想飞翔",
+        "emotion": "幻想飞翔",
+        "rgb": [
+          100,
+          181,
+          246
+        ],
+        "hsl": [
+          207,
+          89,
+          68
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "柔光平光",
+    "highlight_tint": "对称布光",
+    "highlight_bias": "对称布光",
+    "shadow_tint": "粉彩配色",
+    "shadow_bias": "粉彩配色",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "绝对对称",
+    "平面调度",
+    "粉彩配色",
+    "章节叙事",
+    "字体设计",
+    "俯拍镜头"
+  ],
+  "color_keywords": [
+    "韦斯安德森粉",
+    "对称色彩",
+    "复古粉彩",
+    "童话色调",
+    "低饱和高对比",
+    "马卡龙色"
+  ],
+  "mood_keywords": [
+    "童真忧伤",
+    "对称美学",
+    "家庭故事",
+    "复古怀旧",
+    "黑色幽默",
+    "童话成人"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "韦斯·安德森的视觉风格：柔光平光，韦斯安德森粉, 对称色彩, 复古粉彩。",
+    "lighting": "柔光平光，对称布光，粉彩配色",
+    "framing": "绝对对称、平面调度、粉彩配色。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

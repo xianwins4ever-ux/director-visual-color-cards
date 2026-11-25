@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "151",
+    "name_en": "TravisKnight",
+    "name_zh": "特拉维斯·奈特",
+    "category": "08_动画奇幻与异想视觉",
+    "nationality": "美国",
+    "active_years": "1973-",
+    "era": "1973-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#4A148C",
+        "name_zh": "魔法紫",
+        "name_en": "Magic Purple",
+        "ratio": 0.2,
+        "rgb": [
+          74,
+          20,
+          140
+        ],
+        "hsl": [
+          267,
+          75,
+          31
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#2E7D32",
+        "name_zh": "森林绿",
+        "name_en": "Forest Green",
+        "ratio": 0.18,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#5D4037",
+        "name_zh": "木质棕",
+        "name_en": "Wood Brown",
+        "ratio": 0.16,
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFD54F",
+        "name_zh": "魔金光",
+        "name_en": "Magic Gold Light",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#B71C1C",
+        "name_zh": "血红",
+        "name_en": "Blood Red",
+        "ratio": 0.14,
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#212121",
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "ratio": 0.18,
+        "rgb": [
+          33,
+          33,
+          33
+        ],
+        "hsl": [
+          0,
+          0,
+          13
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#4A148C",
+        "name_zh": "魔法奇幻",
+        "name_en": "魔法奇幻",
+        "emotion": "魔法奇幻",
+        "rgb": [
+          74,
+          20,
+          140
+        ],
+        "hsl": [
+          267,
+          75,
+          31
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#2E7D32",
+        "name_zh": "自然神秘",
+        "name_en": "自然神秘",
+        "emotion": "自然神秘",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#5D4037",
+        "name_zh": "手工温度",
+        "name_en": "手工温度",
+        "emotion": "手工温度",
+        "rgb": [
+          93,
+          64,
+          55
+        ],
+        "hsl": [
+          14,
+          26,
+          29
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFD54F",
+        "name_zh": "金色希望",
+        "name_en": "金色希望",
+        "emotion": "金色希望",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "哥特色光",
+    "highlight_tint": "森林暗光",
+    "highlight_bias": "森林暗光",
+    "shadow_tint": "暖光点缀",
+    "shadow_bias": "暖光点缀",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "定格动画",
+    "莱卡质感",
+    "暗黑童话",
+    "自然森林",
+    "日本武士",
+    "机械融合"
+  ],
+  "color_keywords": [
+    "莱卡定格色",
+    "暗黑童话紫绿",
+    "手工质感色",
+    "哥特森林色",
+    "魔法金光",
+    "武士色调"
+  ],
+  "mood_keywords": [
+    "定格动画",
+    "暗黑童话",
+    "手工艺术",
+    "成长冒险",
+    "莱卡工作室",
+    "哥特美学"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "特拉维斯·奈特的视觉风格：哥特色光，莱卡定格色, 暗黑童话紫绿, 手工质感色。",
+    "lighting": "哥特色光，森林暗光，暖光点缀",
+    "framing": "定格动画、莱卡质感、暗黑童话。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

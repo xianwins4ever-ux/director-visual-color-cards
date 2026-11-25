@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "146",
+    "name_en": "HenrySelick",
+    "name_zh": "亨利·塞利克",
+    "category": "08_动画奇幻与异想视觉",
+    "nationality": "美国",
+    "active_years": "1952-",
+    "era": "1952-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FF6D00",
+        "name_zh": "南瓜橙",
+        "name_en": "Pumpkin Orange",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          109,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#4A148C",
+        "name_zh": "深紫",
+        "name_en": "Deep Purple",
+        "ratio": 0.18,
+        "rgb": [
+          74,
+          20,
+          140
+        ],
+        "hsl": [
+          267,
+          75,
+          31
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#1B5E20",
+        "name_zh": "毒物绿",
+        "name_en": "Poison Green",
+        "ratio": 0.16,
+        "rgb": [
+          27,
+          94,
+          32
+        ],
+        "hsl": [
+          124,
+          55,
+          24
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#B71C1C",
+        "name_zh": "血红",
+        "name_en": "Blood Red",
+        "ratio": 0.14,
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#FFD600",
+        "name_zh": "月光黄",
+        "name_en": "Moonlight Yellow",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          214,
+          0
+        ],
+        "hsl": [
+          50,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#212121",
+        "name_zh": "炭黑",
+        "name_en": "Charcoal Black",
+        "ratio": 0.18,
+        "rgb": [
+          33,
+          33,
+          33
+        ],
+        "hsl": [
+          0,
+          0,
+          13
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF6D00",
+        "name_zh": "万圣节庆",
+        "name_en": "万圣节庆",
+        "emotion": "万圣节庆",
+        "rgb": [
+          255,
+          109,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#4A148C",
+        "name_zh": "黑暗奇幻",
+        "name_en": "黑暗奇幻",
+        "emotion": "黑暗奇幻",
+        "rgb": [
+          74,
+          20,
+          140
+        ],
+        "hsl": [
+          267,
+          75,
+          31
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#1B5E20",
+        "name_zh": "诡异魔法",
+        "name_en": "诡异魔法",
+        "emotion": "诡异魔法",
+        "rgb": [
+          27,
+          94,
+          32
+        ],
+        "hsl": [
+          124,
+          55,
+          24
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#B71C1C",
+        "name_zh": "暗黑恐惧",
+        "name_en": "暗黑恐惧",
+        "emotion": "暗黑恐惧",
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "月光冷光",
+    "highlight_tint": "南瓜暖光",
+    "highlight_bias": "南瓜暖光",
+    "shadow_tint": "哥特暗影",
+    "shadow_bias": "哥特暗影",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "定格动画",
+    "万圣节镇",
+    "哥特建筑",
+    "黑暗童话",
+    "角色设计",
+    "阴影造型"
+  ],
+  "color_keywords": [
+    "万圣节橙紫",
+    "定格暗黑色",
+    "哥特童话色",
+    "南瓜灯暖光",
+    "毒物绿",
+    "黑暗奇幻色"
+  ],
+  "mood_keywords": [
+    "黑暗童话",
+    "万圣节美学",
+    "定格动画",
+    "哥特奇幻",
+    "怪诞温馨",
+    "伯顿风格"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "亨利·塞利克的视觉风格：月光冷光，万圣节橙紫, 定格暗黑色, 哥特童话色。",
+    "lighting": "月光冷光，南瓜暖光，哥特暗影",
+    "framing": "定格动画、万圣节镇、哥特建筑。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

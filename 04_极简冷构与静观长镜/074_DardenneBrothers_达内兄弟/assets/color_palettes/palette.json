@@ -1,0 +1,222 @@
+{
+  "director": {
+    "id": "074",
+    "name_en": "DardenneBrothers",
+    "name_zh": "达内兄弟",
+    "category": "04_极简冷构与静观长镜",
+    "nationality": "比利时",
+    "era": "1951-/1954-",
+    "active_years": "1951-/1954-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#6B7B6B",
+        "rgb": [
+          107,
+          123,
+          107
+        ],
+        "hsl": [
+          120,
+          7,
+          45
+        ],
+        "ratio": 0.22,
+        "name_zh": "比利时灰绿",
+        "name_en": "Belgian Gray Green",
+        "code": "C01"
+      },
+      {
+        "hex": "#8B8378",
+        "rgb": [
+          139,
+          131,
+          120
+        ],
+        "hsl": [
+          35,
+          8,
+          51
+        ],
+        "ratio": 0.18,
+        "name_zh": "工业棕灰",
+        "name_en": "Industrial Brown Gray",
+        "code": "C02"
+      },
+      {
+        "hex": "#5A6A5A",
+        "rgb": [
+          90,
+          106,
+          90
+        ],
+        "hsl": [
+          120,
+          8,
+          38
+        ],
+        "ratio": 0.16,
+        "name_zh": "深绿灰",
+        "name_en": "Dark Green Gray",
+        "code": "C03"
+      },
+      {
+        "hex": "#9DA090",
+        "rgb": [
+          157,
+          160,
+          144
+        ],
+        "hsl": [
+          71,
+          8,
+          60
+        ],
+        "ratio": 0.14,
+        "name_zh": "灰绿石",
+        "name_en": "Gray Green Stone",
+        "code": "C04"
+      },
+      {
+        "hex": "#B8B0A0",
+        "rgb": [
+          184,
+          176,
+          160
+        ],
+        "hsl": [
+          40,
+          14,
+          67
+        ],
+        "ratio": 0.14,
+        "name_zh": "水泥米",
+        "name_en": "Concrete Beige",
+        "code": "C05"
+      },
+      {
+        "hex": "#3A4A3A",
+        "rgb": [
+          58,
+          74,
+          58
+        ],
+        "hsl": [
+          120,
+          12,
+          26
+        ],
+        "ratio": 0.16,
+        "name_zh": "暗绿黑",
+        "name_en": "Dark Green Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#7A8A7A",
+        "rgb": [
+          122,
+          138,
+          122
+        ],
+        "hsl": [
+          120,
+          6,
+          51
+        ],
+        "emotion": "生存坚韧",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#5A6258",
+        "rgb": [
+          90,
+          98,
+          88
+        ],
+        "hsl": [
+          108,
+          5,
+          36
+        ],
+        "emotion": "道德困境",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#908A7A",
+        "rgb": [
+          144,
+          138,
+          122
+        ],
+        "hsl": [
+          44,
+          9,
+          52
+        ],
+        "emotion": "底层尊严",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#2A3A2A",
+        "rgb": [
+          42,
+          58,
+          42
+        ],
+        "hsl": [
+          120,
+          16,
+          20
+        ],
+        "emotion": "绝望边缘",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然光写实",
+    "highlight_bias": "室内弱光",
+    "shadow_bias": "工业冷光",
+    "contrast": "中高对比",
+    "overall_tone": "冷调"
+  },
+  "composition_keywords": [
+    "手持跟拍",
+    "近景特写",
+    "工业区",
+    "社会服务",
+    "自行车",
+    "日常劳作"
+  ],
+  "color_keywords": [
+    "比利时灰绿",
+    "工业色调",
+    "自然光",
+    "水泥质感",
+    "冷调",
+    "底层色"
+  ],
+  "mood_keywords": [
+    "社会现实主义",
+    "道德困境",
+    "底层生存",
+    "人文关怀",
+    "紧迫节奏",
+    "挣扎与希望"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "达内兄弟的视觉风格以自然光写实为主，比利时灰绿、工业色调，营造出社会现实主义的氛围。",
+    "lighting": "自然光写实，高光偏室内弱光，阴影偏工业冷光，整体冷调。",
+    "framing": "手持跟拍、近景特写、工业区。",
+    "grading": "对比度中高对比，色调冷调。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

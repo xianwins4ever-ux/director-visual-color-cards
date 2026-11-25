@@ -1,0 +1,222 @@
+{
+  "director": {
+    "id": "083",
+    "name_en": "LuchinoVisconti",
+    "name_zh": "维斯康蒂",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "意大利",
+    "era": "1906-1976",
+    "active_years": "1906-1976"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#8B0000",
+        "rgb": [
+          139,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          27
+        ],
+        "ratio": 0.2,
+        "name_zh": "暗红",
+        "name_en": "Dark Red",
+        "code": "C01"
+      },
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "ratio": 0.18,
+        "name_zh": "金菊色",
+        "name_en": "Goldenrod",
+        "code": "C02"
+      },
+      {
+        "hex": "#2F4F4F",
+        "rgb": [
+          47,
+          79,
+          79
+        ],
+        "hsl": [
+          180,
+          25,
+          25
+        ],
+        "ratio": 0.16,
+        "name_zh": "墨绿青",
+        "name_en": "Dark Slate",
+        "code": "C03"
+      },
+      {
+        "hex": "#D2B48C",
+        "rgb": [
+          210,
+          180,
+          140
+        ],
+        "hsl": [
+          34,
+          44,
+          69
+        ],
+        "ratio": 0.14,
+        "name_zh": "棕绸色",
+        "name_en": "Tan Silk",
+        "code": "C04"
+      },
+      {
+        "hex": "#4A0E1A",
+        "rgb": [
+          74,
+          14,
+          26
+        ],
+        "hsl": [
+          348,
+          68,
+          17
+        ],
+        "ratio": 0.14,
+        "name_zh": "酒红深",
+        "name_en": "Deep Wine",
+        "code": "C05"
+      },
+      {
+        "hex": "#1A1A1A",
+        "rgb": [
+          26,
+          26,
+          26
+        ],
+        "hsl": [
+          0,
+          0,
+          10
+        ],
+        "ratio": 0.18,
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#B8860B",
+        "rgb": [
+          184,
+          134,
+          11
+        ],
+        "hsl": [
+          43,
+          89,
+          38
+        ],
+        "emotion": "贵族荣耀",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#800000",
+        "rgb": [
+          128,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          100,
+          25
+        ],
+        "emotion": "衰败悲伤",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#556B2F",
+        "rgb": [
+          85,
+          107,
+          47
+        ],
+        "hsl": [
+          82,
+          39,
+          30
+        ],
+        "emotion": "自然宁静",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#2F2F2F",
+        "rgb": [
+          47,
+          47,
+          47
+        ],
+        "hsl": [
+          0,
+          0,
+          18
+        ],
+        "emotion": "历史沉重",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "油画侧光",
+    "highlight_bias": "烛火暖调",
+    "shadow_bias": "宫殿光影",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "歌剧式构图",
+    "贵族空间",
+    "长镜头静观",
+    "家族群像",
+    "威尼斯水色",
+    "历史画卷"
+  ],
+  "color_keywords": [
+    "贵族金红",
+    "油画质感",
+    "威尼斯水色",
+    "烛光影调",
+    "丝绒质感",
+    "衰败华丽"
+  ],
+  "mood_keywords": [
+    "贵族衰败",
+    "历史史诗",
+    "家族悲剧",
+    "意大利新现实主义",
+    "歌剧美学",
+    "宿命感"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "维斯康蒂的视觉风格以油画侧光为主，贵族金红、油画质感，营造出贵族衰败的氛围。",
+    "lighting": "油画侧光，高光偏烛火暖调，阴影偏宫殿光影，整体暖调。",
+    "framing": "歌剧式构图、贵族空间、长镜头静观。",
+    "grading": "对比度高对比，色调暖调。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "director": {
+    "id": "003",
+    "name_en": "Michael Haneke",
+    "name_zh": "迈克尔·哈内克",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "nationality": "奥地利",
+    "active_years": "1974-至今",
+    "era": "1974-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#E8EAED",
+        "name_zh": "冷白霜灰",
+        "name_en": "Cold Frost White",
+        "ratio": 0.38,
+        "rgb": [
+          232,
+          234,
+          237
+        ],
+        "hsl": [
+          216,
+          12,
+          92
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#9AA4AE",
+        "name_zh": "灰雾钢蓝",
+        "name_en": "Gray Mist Steel Blue",
+        "ratio": 0.22,
+        "rgb": [
+          154,
+          164,
+          174
+        ],
+        "hsl": [
+          210,
+          11,
+          64
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#4A5568",
+        "name_zh": "深石墨蓝",
+        "name_en": "Dark Graphite Blue",
+        "ratio": 0.15,
+        "rgb": [
+          74,
+          85,
+          104
+        ],
+        "hsl": [
+          218,
+          17,
+          35
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#C8B89A",
+        "name_zh": "哑米棕",
+        "name_en": "Muted Beige Brown",
+        "ratio": 0.1,
+        "rgb": [
+          200,
+          184,
+          154
+        ],
+        "hsl": [
+          39,
+          29,
+          69
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#6B3A3A",
+        "name_zh": "暗脏暗红",
+        "name_en": "Dusty Dark Red",
+        "ratio": 0.08,
+        "rgb": [
+          107,
+          58,
+          58
+        ],
+        "hsl": [
+          0,
+          30,
+          32
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#2C3138",
+        "name_zh": "炭黑灰",
+        "name_en": "Charcoal Black Gray",
+        "ratio": 0.07,
+        "rgb": [
+          44,
+          49,
+          56
+        ],
+        "hsl": [
+          215,
+          12,
+          20
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FFFFFF",
+        "name_zh": "空白白",
+        "name_en": "Blank White",
+        "emotion": "冷漠、疏离、情感的缺席",
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#5D6D7E",
+        "name_zh": "压抑灰蓝",
+        "name_en": "Repressed Gray Blue",
+        "emotion": "束缚、控制、社会规训",
+        "rgb": [
+          93,
+          109,
+          126
+        ],
+        "hsl": [
+          211,
+          15,
+          43
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#922B21",
+        "name_zh": "暴力红棕",
+        "name_en": "Violent Red Brown",
+        "emotion": "潜藏的暴力、爆发前的平静",
+        "rgb": [
+          146,
+          43,
+          33
+        ],
+        "hsl": [
+          5,
+          63,
+          35
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#F0E6D2",
+        "name_zh": "纸白米",
+        "name_en": "Paper White Beige",
+        "emotion": "日常的假象、中产阶级的虚伪",
+        "rgb": [
+          240,
+          230,
+          210
+        ],
+        "hsl": [
+          40,
+          50,
+          88
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "散射柔光，无明显光源方向，自然写实",
+    "highlight_tint": "冷白偏蓝（北欧日光/荧光）",
+    "shadow_tint": "灰蓝偏绿（阴天阴影）",
+    "contrast_ratio": "低中对比（40-55%），阴影不黑",
+    "overall_tone": "极度冷调，85%冷色 + 15%微弱暖色"
+  },
+  "composition_keywords": [
+    "静态固定机位",
+    "对称构图",
+    "窗框取景",
+    "门框构图",
+    "长镜头静止",
+    "中远景为主",
+    "人物偏居一侧",
+    "空镜过渡",
+    "正面拍摄",
+    "平面化构图"
+  ],
+  "color_keywords": [
+    "冷白色调",
+    "去饱和处理",
+    "北欧冷光",
+    "阴天气氛",
+    "低对比度",
+    "黑白灰为主",
+    "零星暖色点缀",
+    "苍白肤色",
+    "灰蓝阴影",
+    "白墙空白"
+  ],
+  "mood_keywords": [
+    "存在主义恐惧",
+    "情感疏离",
+    "中产阶级虚伪",
+    "暴力的日常化",
+    "窥视欲",
+    "内疚与惩罚",
+    "冷漠凝视",
+    "心理暴力",
+    "社会批判",
+    "静默的紧张"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "The Seventh Continent",
+      "title_en": "The Seventh Continent",
+      "year": 1989,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 19.0,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#2D3336",
+          "ratio": 14.4,
+          "luminance": 0.0319,
+          "saturation": 0.1667
+        },
+        {
+          "hex": "#19201B",
+          "ratio": 13.1,
+          "luminance": 0.0132,
+          "saturation": 0.2188
+        },
+        {
+          "hex": "#4E5E77",
+          "ratio": 11.9,
+          "luminance": 0.1096,
+          "saturation": 0.3445
+        },
+        {
+          "hex": "#6F7A8A",
+          "ratio": 10.9,
+          "luminance": 0.1913,
+          "saturation": 0.1957
+        },
+        {
+          "hex": "#2F3A47",
+          "ratio": 10.7,
+          "luminance": 0.0409,
+          "saturation": 0.338
+        },
+        {
+          "hex": "#B5BECE",
+          "ratio": 10.6,
+          "luminance": 0.5111,
+          "saturation": 0.1214
+        },
+        {
+          "hex": "#9FA4B0",
+          "ratio": 9.4,
+          "luminance": 0.3706,
+          "saturation": 0.0966
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "The Castle",
+      "title_en": "The Castle",
+      "year": 1997,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 19.1,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#99A3A4",
+          "ratio": 13.4,
+          "luminance": 0.3565,
+          "saturation": 0.0671
+        },
+        {
+          "hex": "#3B3A34",
+          "ratio": 13.3,
+          "luminance": 0.042,
+          "saturation": 0.1186
+        },
+        {
+          "hex": "#5E5751",
+          "ratio": 12.0,
+          "luminance": 0.0979,
+          "saturation": 0.1383
+        },
+        {
+          "hex": "#636771",
+          "ratio": 11.5,
+          "luminance": 0.1355,
+          "saturation": 0.1239
+        },
+        {
+          "hex": "#2B2A25",
+          "ratio": 10.9,
+          "luminance": 0.023,
+          "saturation": 0.1395
+        },
+        {
+          "hex": "#4A4C4F",
+          "ratio": 10.7,
+          "luminance": 0.0719,
+          "saturation": 0.0633
+        },
+        {
+          "hex": "#4F5662",
+          "ratio": 9.1,
+          "luminance": 0.092,
+          "saturation": 0.1939
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Caché (Hidden)",
+      "title_en": "Caché (Hidden)",
+      "year": 2005,
+      "palette": [
+        {
+          "hex": "#545047",
+          "ratio": 15.7,
+          "luminance": 0.0808,
+          "saturation": 0.1548
+        },
+        {
+          "hex": "#2D2A20",
+          "ratio": 13.0,
+          "luminance": 0.0232,
+          "saturation": 0.2889
+        },
+        {
+          "hex": "#646760",
+          "ratio": 12.6,
+          "luminance": 0.1325,
+          "saturation": 0.068
+        },
+        {
+          "hex": "#CAC9C4",
+          "ratio": 12.6,
+          "luminance": 0.5832,
+          "saturation": 0.0297
+        },
+        {
+          "hex": "#BDB09F",
+          "ratio": 12.0,
+          "luminance": 0.4437,
+          "saturation": 0.1587
+        },
+        {
+          "hex": "#7A7C7A",
+          "ratio": 11.8,
+          "luminance": 0.1996,
+          "saturation": 0.0161
+        },
+        {
+          "hex": "#A3A49D",
+          "ratio": 11.4,
+          "luminance": 0.3677,
+          "saturation": 0.0427
+        },
+        {
+          "hex": "#F2F1E7",
+          "ratio": 10.9,
+          "luminance": 0.8756,
+          "saturation": 0.0455
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Happy End",
+      "title_en": "Happy End",
+      "year": 2017,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 56.8,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#524C3E",
+          "ratio": 8.2,
+          "luminance": 0.0731,
+          "saturation": 0.2439
+        },
+        {
+          "hex": "#3E2D27",
+          "ratio": 7.1,
+          "luminance": 0.0305,
+          "saturation": 0.371
+        },
+        {
+          "hex": "#312B1C",
+          "ratio": 6.3,
+          "luminance": 0.0246,
+          "saturation": 0.4286
+        },
+        {
+          "hex": "#68838A",
+          "ratio": 6.2,
+          "luminance": 0.2101,
+          "saturation": 0.2464
+        },
+        {
+          "hex": "#6E6B63",
+          "ratio": 5.7,
+          "luminance": 0.1473,
+          "saturation": 0.1
+        },
+        {
+          "hex": "#231F1B",
+          "ratio": 5.3,
+          "luminance": 0.0142,
+          "saturation": 0.2286
+        },
+        {
+          "hex": "#483C32",
+          "ratio": 4.4,
+          "luminance": 0.0484,
+          "saturation": 0.3056
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "无菌白、冬日灰和压抑黑让观众无法逃离伦理现场。",
+    "lighting": "平直冷光、阴天、无装饰室内光；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "固定或冷静跟随，远距离观察；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "去饱和、黑白清晰、拒绝美化；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "恐怖片蓝光、情绪红滤镜、炫耀性镜头、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "director": {
+    "id": "047",
+    "name_en": "Steve McQueen",
+    "name_zh": "史蒂夫·麦奎因",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "英国",
+    "active_years": "2008-至今",
+    "era": "2008-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#3D2817",
+        "name_zh": "深棕油画",
+        "name_en": "Deep Brown Oil Painting",
+        "ratio": 0.25,
+        "rgb": [
+          61,
+          40,
+          23
+        ],
+        "hsl": [
+          28,
+          45,
+          16
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#8B6239",
+        "name_zh": "赭石暖肤",
+        "name_en": "Ochre Warm Skin",
+        "ratio": 0.2,
+        "rgb": [
+          139,
+          98,
+          57
+        ],
+        "hsl": [
+          31,
+          42,
+          38
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#6B4423",
+        "name_zh": "泥土红棕",
+        "name_en": "Earthy Red-Brown",
+        "ratio": 0.15,
+        "rgb": [
+          107,
+          68,
+          35
+        ],
+        "hsl": [
+          29,
+          51,
+          28
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#B8860B",
+        "name_zh": "暗金历史",
+        "name_en": "Dark Gold Historical",
+        "ratio": 0.15,
+        "rgb": [
+          184,
+          134,
+          11
+        ],
+        "hsl": [
+          42,
+          89,
+          38
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#2C2418",
+        "name_zh": "暖棕墨黑",
+        "name_en": "Warm Brown Ink Black",
+        "ratio": 0.15,
+        "rgb": [
+          44,
+          36,
+          24
+        ],
+        "hsl": [
+          39,
+          29,
+          13
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#D4A574",
+        "name_zh": "暖土金",
+        "name_en": "Warm Earth Gold",
+        "ratio": 0.1,
+        "rgb": [
+          212,
+          165,
+          116
+        ],
+        "hsl": [
+          32,
+          52,
+          64
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#A0522D",
+        "name_zh": "赭红愤怒",
+        "name_en": "Ochre Red Anger",
+        "emotion": "反抗与力量",
+        "rgb": [
+          160,
+          82,
+          45
+        ],
+        "hsl": [
+          19,
+          56,
+          40
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#556B2F",
+        "name_zh": "橄榄军绿",
+        "name_en": "Olive Drab Green",
+        "emotion": "压迫秩序",
+        "rgb": [
+          85,
+          107,
+          47
+        ],
+        "hsl": [
+          82,
+          39,
+          30
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#DEB887",
+        "name_zh": "暖金温柔",
+        "name_en": "Warm Gold Tenderness",
+        "emotion": "人性微光",
+        "rgb": [
+          222,
+          184,
+          135
+        ],
+        "hsl": [
+          33,
+          56,
+          70
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#2F4F4F",
+        "name_zh": "冷钢灰",
+        "name_en": "Cold Steel Grey",
+        "emotion": "都市疏离",
+        "rgb": [
+          47,
+          79,
+          79
+        ],
+        "hsl": [
+          180,
+          25,
+          25
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "painterly side lighting, natural available light, warm window bounce",
+    "highlight_tint": "ochre gold / honey amber",
+    "shadow_tint": "warm brown-black / deep umber (never cool)",
+    "contrast_ratio": "medium-high 65-75%, painterly layers",
+    "overall_tone": "warm earth historical, 85% warm + 15% cool"
+  },
+  "composition_keywords": [
+    "painterly composition",
+    "long static take",
+    "close-up endurance",
+    "natural framing",
+    "shallow depth of field isolation",
+    "handheld urgency",
+    "historical tableaux",
+    "intimate suffering"
+  ],
+  "color_keywords": [
+    "warm brown skin tones",
+    "ochre historical palette",
+    "painterly chiaroscuro",
+    "deep umber shadows",
+    "honey gold highlights",
+    "earth red soil",
+    "muted desaturated color",
+    "natural daylight realism"
+  ],
+  "mood_keywords": [
+    "historical weight",
+    "quiet resistance",
+    "human dignity",
+    "intimate trauma",
+    "systemic injustice",
+    "visceral physicality",
+    "restrained passion",
+    "moral urgency"
+  ],
+  "style_profile": {
+    "definition": "深棕油画与赭石暖肤构筑历史的重量，暖棕墨黑的阴影中藏着尊严与忍耐，克制比爆发更有力量。",
+    "lighting": "侧光为主，油画式明暗对比；自然光优先，阴影偏暖棕而非冷黑；高光偏琥珀金。",
+    "framing": "长镜头静观是签名，让观众与人物共同承受；自然画框暗示囚禁与隔离；群像如历史画卷。",
+    "grading": "整体暖棕赭石调，饱和偏低但厚重；类似古典油画的色彩层次，不追求鲜亮。",
+    "avoid": "高饱和亮色、青橙调色、快速剪辑、煽情配乐与镜头、浪漫化苦难"
+  }
+}

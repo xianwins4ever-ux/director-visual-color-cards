@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "122",
+    "name_en": "JohnWoo",
+    "name_zh": "吴宇森",
+    "category": "07_动作史诗与高饱和色彩",
+    "nationality": "中国香港/美国",
+    "active_years": "1946-",
+    "era": "1946-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#B71C1C",
+        "name_zh": "英雄血",
+        "name_en": "Hero Blood Red",
+        "ratio": 0.22,
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#0D47A1",
+        "name_zh": "深夜蓝",
+        "name_en": "Late Night Blue",
+        "ratio": 0.18,
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFD54F",
+        "name_zh": "圣光金",
+        "name_en": "Holy Light Gold",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFFFFF",
+        "name_zh": "白鸽白",
+        "name_en": "Dove White",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#4A148C",
+        "name_zh": "夜紫",
+        "name_en": "Night Purple",
+        "ratio": 0.14,
+        "rgb": [
+          74,
+          20,
+          140
+        ],
+        "hsl": [
+          267,
+          75,
+          31
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#212121",
+        "name_zh": "暗黑",
+        "name_en": "Dark Black",
+        "ratio": 0.16,
+        "rgb": [
+          33,
+          33,
+          33
+        ],
+        "hsl": [
+          0,
+          0,
+          13
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#B71C1C",
+        "name_zh": "兄弟情义",
+        "name_en": "兄弟情义",
+        "emotion": "兄弟情义",
+        "rgb": [
+          183,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          73,
+          41
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#FFD54F",
+        "name_zh": "圣光救赎",
+        "name_en": "圣光救赎",
+        "emotion": "圣光救赎",
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#0D47A1",
+        "name_zh": "宿命悲剧",
+        "name_en": "宿命悲剧",
+        "emotion": "宿命悲剧",
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFFFFF",
+        "name_zh": "纯洁希望",
+        "name_en": "纯洁希望",
+        "emotion": "纯洁希望",
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": [
+          0,
+          0,
+          100
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "教堂彩光",
+    "highlight_tint": "霓虹夜色",
+    "highlight_bias": "霓虹夜色",
+    "shadow_tint": "火焰逆光",
+    "shadow_bias": "火焰逆光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "双枪对峙",
+    "白鸽慢镜",
+    "教堂枪战",
+    "兄弟情义",
+    "风衣墨镜",
+    "子弹时间"
+  ],
+  "color_keywords": [
+    "英雄血色",
+    "教堂圣光",
+    "夜色蓝紫",
+    "白鸽纯白",
+    "火焰金光",
+    "港式枪战色"
+  ],
+  "mood_keywords": [
+    "英雄本色",
+    "兄弟情义",
+    "暴力美学",
+    "宿命悲剧",
+    "港式黑帮",
+    "仪式感"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "吴宇森的视觉风格：教堂彩光，英雄血色, 教堂圣光, 夜色蓝紫。",
+    "lighting": "教堂彩光，霓虹夜色，火焰逆光",
+    "framing": "双枪对峙、白鸽慢镜、教堂枪战。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

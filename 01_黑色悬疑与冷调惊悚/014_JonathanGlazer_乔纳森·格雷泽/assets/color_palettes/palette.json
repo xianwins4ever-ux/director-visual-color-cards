@@ -1,0 +1,463 @@
+{
+  "director": {
+    "id": "014",
+    "name_en": "Jonathan Glazer",
+    "name_zh": "乔纳森·格雷泽",
+    "category": "01_黑色悬疑与冷调惊悚",
+    "nationality": "英国",
+    "active_years": "1997-至今",
+    "era": "1997-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0A0A0A",
+        "name_zh": "虚空黑",
+        "name_en": "Void Black",
+        "ratio": 0.45,
+        "rgb": [
+          10,
+          10,
+          10
+        ],
+        "hsl": [
+          0,
+          0,
+          4
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#1C2833",
+        "name_zh": "深渊蓝灰",
+        "name_en": "Abyss Blue Gray",
+        "ratio": 0.18,
+        "rgb": [
+          28,
+          40,
+          51
+        ],
+        "hsl": [
+          209,
+          29,
+          15
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#78281F",
+        "name_zh": "凝固血",
+        "name_en": "Coagulated Blood Red",
+        "ratio": 0.12,
+        "rgb": [
+          120,
+          40,
+          31
+        ],
+        "hsl": [
+          6,
+          59,
+          30
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#5D6D7E",
+        "name_zh": "铁灰蓝",
+        "name_en": "Iron Gray Blue",
+        "ratio": 0.1,
+        "rgb": [
+          93,
+          109,
+          126
+        ],
+        "hsl": [
+          211,
+          15,
+          43
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#AAB7B8",
+        "name_zh": "冷灰雾",
+        "name_en": "Cold Mist Gray",
+        "ratio": 0.08,
+        "rgb": [
+          170,
+          183,
+          184
+        ],
+        "hsl": [
+          184,
+          9,
+          69
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#F5B7B1",
+        "name_zh": "苍白肤",
+        "name_en": "Pale Pink Skin",
+        "ratio": 0.07,
+        "rgb": [
+          245,
+          183,
+          177
+        ],
+        "hsl": [
+          5,
+          77,
+          83
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#000000",
+        "name_zh": "绝对黑",
+        "name_en": "Absolute Black",
+        "emotion": "虚无、未知、存在的深渊",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#E74C3C",
+        "name_zh": "原初红",
+        "name_en": "Primal Red",
+        "emotion": "原始欲望、生命与死亡、肉体的真相",
+        "rgb": [
+          231,
+          76,
+          60
+        ],
+        "hsl": [
+          6,
+          78,
+          57
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#85929E",
+        "name_zh": "冷钢蓝",
+        "name_en": "Cold Steel Blue",
+        "emotion": "疏离、观察、非人的视角",
+        "rgb": [
+          133,
+          146,
+          158
+        ],
+        "hsl": [
+          209,
+          11,
+          57
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#F4F6F7",
+        "name_zh": "幽灵白",
+        "name_en": "Ghost White",
+        "emotion": "纯真的丧失、人类的脆弱、超自然",
+        "rgb": [
+          244,
+          246,
+          247
+        ],
+        "hsl": [
+          200,
+          16,
+          96
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "极简光源，大面积暗部，精准的单光源设计",
+    "highlight_tint": "冷白偏灰（自然光/日光灯/未知光源）",
+    "shadow_tint": "纯黑（虚空/暗部/未知空间）",
+    "contrast_ratio": "极高对比（85-95%），大面积纯黑",
+    "overall_tone": "冷黑实验，90%冷暗 + 10%微弱暖调"
+  },
+  "composition_keywords": [
+    "极简极端构图",
+    "固定长镜头",
+    "对称几何",
+    "大面积暗部",
+    "人物渺小化",
+    "抽象空间",
+    "手持观察",
+    "水面倒影",
+    "低角度仰拍",
+    "负空间构图"
+  ],
+  "color_keywords": [
+    "冷黑实验",
+    "抽象恐怖",
+    "极简色彩",
+    "大面积暗部",
+    "冷白高光",
+    "血红点缀",
+    "铁灰冷调",
+    "雾蒙蒙白",
+    "肤色苍白",
+    "虚空纯黑"
+  ],
+  "mood_keywords": [
+    "存在主义恐惧",
+    "超自然疏离",
+    "抽象恐怖",
+    "非人视角",
+    "人类的渺小",
+    "身份消融",
+    "生命与死亡",
+    "时间的静止",
+    "道德深渊",
+    "不可名状"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "利益区域",
+      "title_en": "The Zone of Interest",
+      "year": 2023,
+      "palette": [
+        {
+          "hex": "#495C3F",
+          "ratio": 15.2,
+          "luminance": 0.0943,
+          "saturation": 0.3152
+        },
+        {
+          "hex": "#3D4A53",
+          "ratio": 14.7,
+          "luminance": 0.0651,
+          "saturation": 0.2651
+        },
+        {
+          "hex": "#2E221C",
+          "ratio": 12.2,
+          "luminance": 0.0181,
+          "saturation": 0.3913
+        },
+        {
+          "hex": "#2D3F2B",
+          "ratio": 12.0,
+          "luminance": 0.0429,
+          "saturation": 0.3175
+        },
+        {
+          "hex": "#C5D1DD",
+          "ratio": 12.0,
+          "luminance": 0.6269,
+          "saturation": 0.1086
+        },
+        {
+          "hex": "#495B65",
+          "ratio": 11.6,
+          "luminance": 0.0984,
+          "saturation": 0.2772
+        },
+        {
+          "hex": "#7E95A6",
+          "ratio": 11.3,
+          "luminance": 0.2868,
+          "saturation": 0.241
+        },
+        {
+          "hex": "#34383A",
+          "ratio": 11.0,
+          "luminance": 0.0386,
+          "saturation": 0.1034
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "皮囊之下",
+      "title_en": "Under the Skin",
+      "year": 2013,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 46.9,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#CACBCF",
+          "ratio": 8.4,
+          "luminance": 0.5977,
+          "saturation": 0.0242
+        },
+        {
+          "hex": "#957E85",
+          "ratio": 8.4,
+          "luminance": 0.23,
+          "saturation": 0.1544
+        },
+        {
+          "hex": "#524B4A",
+          "ratio": 8.3,
+          "luminance": 0.0732,
+          "saturation": 0.0976
+        },
+        {
+          "hex": "#696A6F",
+          "ratio": 8.2,
+          "luminance": 0.1446,
+          "saturation": 0.0541
+        },
+        {
+          "hex": "#2D1D15",
+          "ratio": 7.7,
+          "luminance": 0.0149,
+          "saturation": 0.5333
+        },
+        {
+          "hex": "#3F3729",
+          "ratio": 6.0,
+          "luminance": 0.0395,
+          "saturation": 0.3492
+        },
+        {
+          "hex": "#AC9FAB",
+          "ratio": 6.1,
+          "luminance": 0.3651,
+          "saturation": 0.0756
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "性感野兽",
+      "title_en": "Sexy Beast",
+      "year": 2000,
+      "palette": [
+        {
+          "hex": "#C9C9CA",
+          "ratio": 17.5,
+          "luminance": 0.5846,
+          "saturation": 0.005
+        },
+        {
+          "hex": "#EAE9E9",
+          "ratio": 13.1,
+          "luminance": 0.8165,
+          "saturation": 0.0043
+        },
+        {
+          "hex": "#84707A",
+          "ratio": 13.0,
+          "luminance": 0.179,
+          "saturation": 0.1515
+        },
+        {
+          "hex": "#697488",
+          "ratio": 12.0,
+          "luminance": 0.1727,
+          "saturation": 0.2279
+        },
+        {
+          "hex": "#B46D65",
+          "ratio": 12.0,
+          "luminance": 0.2158,
+          "saturation": 0.4389
+        },
+        {
+          "hex": "#503434",
+          "ratio": 11.3,
+          "luminance": 0.0441,
+          "saturation": 0.35
+        },
+        {
+          "hex": "#5CAAC4",
+          "ratio": 10.8,
+          "luminance": 0.3501,
+          "saturation": 0.5306
+        },
+        {
+          "hex": "#332021",
+          "ratio": 10.3,
+          "luminance": 0.0185,
+          "saturation": 0.3725
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "重生",
+      "title_en": "Birth",
+      "year": 2004,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 17.8,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#8E775C",
+          "ratio": 17.2,
+          "luminance": 0.1972,
+          "saturation": 0.3521
+        },
+        {
+          "hex": "#CDD2E4",
+          "ratio": 14.2,
+          "luminance": 0.6467,
+          "saturation": 0.1009
+        },
+        {
+          "hex": "#B29E83",
+          "ratio": 11.0,
+          "luminance": 0.3556,
+          "saturation": 0.264
+        },
+        {
+          "hex": "#2D1C15",
+          "ratio": 10.5,
+          "luminance": 0.0144,
+          "saturation": 0.5333
+        },
+        {
+          "hex": "#7C5638",
+          "ratio": 10.2,
+          "luminance": 0.1123,
+          "saturation": 0.5484
+        },
+        {
+          "hex": "#1E1511",
+          "ratio": 9.7,
+          "luminance": 0.0085,
+          "saturation": 0.4333
+        },
+        {
+          "hex": "#A28D68",
+          "ratio": 9.4,
+          "luminance": 0.2773,
+          "saturation": 0.358
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "固定日常观察、边界空间与画外声音制造道德和身体异化",
+    "lighting": "自然日光、平直室内光与局部不可解释黑暗；肤色保持自然可读，高光和黑位保留材质。",
+    "framing": "固定宽景、房间全貌、边界线和冷静人物位置",
+    "grading": "花园绿、墙白、制服灰黑、家居暖色与纯黑；局部强调色不污染整幅画面。",
+    "avoid": "统一滤镜替代真实材质、无动机环绕和随机变焦、人物身份与空间轴漂移、肤色污染、死黑和爆白、只模仿颜色不执行镜头语言。"
+  }
+}

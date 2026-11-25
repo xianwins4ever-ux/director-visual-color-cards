@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "112",
+    "name_en": "KennethAnger",
+    "name_zh": "肯尼斯·安格",
+    "category": "06_超现实梦幻与心理畸变",
+    "nationality": "美国",
+    "active_years": "1927-2023",
+    "era": "1927-2023"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FF1744",
+        "name_zh": "火焰红",
+        "name_en": "Flame Red",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          23,
+          68
+        ],
+        "hsl": [
+          348,
+          100,
+          55
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#00B0FF",
+        "name_zh": "霓虹蓝",
+        "name_en": "Neon Blue",
+        "ratio": 0.18,
+        "rgb": [
+          0,
+          176,
+          255
+        ],
+        "hsl": [
+          199,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#EA80FC",
+        "name_zh": "迷幻紫",
+        "name_en": "Psychedelic Purple",
+        "ratio": 0.16,
+        "rgb": [
+          234,
+          128,
+          252
+        ],
+        "hsl": [
+          291,
+          95,
+          75
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FFEA00",
+        "name_zh": "霹雳黄",
+        "name_en": "Lightning Yellow",
+        "ratio": 0.14,
+        "rgb": [
+          255,
+          234,
+          0
+        ],
+        "hsl": [
+          55,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#000000",
+        "name_zh": "深黑",
+        "name_en": "Deep Black",
+        "ratio": 0.16,
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FF9100",
+        "name_zh": "橙焰",
+        "name_en": "Orange Flame",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          145,
+          0
+        ],
+        "hsl": [
+          34,
+          100,
+          50
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF1744",
+        "name_zh": "欲望反叛",
+        "name_en": "欲望反叛",
+        "emotion": "欲望反叛",
+        "rgb": [
+          255,
+          23,
+          68
+        ],
+        "hsl": [
+          348,
+          100,
+          55
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#00B0FF",
+        "name_zh": "酷儿梦幻",
+        "name_en": "酷儿梦幻",
+        "emotion": "酷儿梦幻",
+        "rgb": [
+          0,
+          176,
+          255
+        ],
+        "hsl": [
+          199,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#EA80FC",
+        "name_zh": "迷幻仪式",
+        "name_en": "迷幻仪式",
+        "emotion": "迷幻仪式",
+        "rgb": [
+          234,
+          128,
+          252
+        ],
+        "hsl": [
+          291,
+          95,
+          75
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#FFEA00",
+        "name_zh": "挑衅光芒",
+        "name_en": "挑衅光芒",
+        "emotion": "挑衅光芒",
+        "rgb": [
+          255,
+          234,
+          0
+        ],
+        "hsl": [
+          55,
+          100,
+          50
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "霓虹色光",
+    "highlight_tint": "火焰光",
+    "highlight_bias": "火焰光",
+    "shadow_tint": "月光冷蓝",
+    "shadow_bias": "月光冷蓝",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "地下电影",
+    "8mm颗粒",
+    "酷儿身体",
+    "神秘仪式",
+    "摩托车",
+    "火焰意象"
+  ],
+  "color_keywords": [
+    "霓虹迷幻色",
+    "8mm颗粒感",
+    "酷儿霓虹",
+    "火焰光色",
+    "彩色色片",
+    "地下电影色"
+  ],
+  "mood_keywords": [
+    "酷儿先锋",
+    "神秘学",
+    "地下电影",
+    "叛逆美学",
+    "迷幻体验",
+    "洛杉矶霓虹"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "肯尼斯·安格的视觉风格：霓虹色光，霓虹迷幻色, 8mm颗粒感, 酷儿霓虹。",
+    "lighting": "霓虹色光，火焰光，月光冷蓝",
+    "framing": "地下电影、8mm颗粒、酷儿身体。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "director": {
+    "zh": "岩井俊二",
+    "en": "Shunji Iwai"
+  },
+  "style_profile": {
+    "definition": "在日常现实中保存记忆、距离与未说出口的情感；以季节、天气、书信和微小动作承担叙事。",
+    "lighting": "自然散射光为主，雪地与阴天冷光、室内暖光、春日柔光形成分支对照。",
+    "framing": "人物与环境并置，留白、遮挡、凝视与动作后的停顿比炫技运镜更重要。",
+    "grading": "低到中等饱和度，自然肤色，允许雪白、雾蓝、草绿、酒红和暖棕按影片分支出现。",
+    "avoid": [
+      "把所有影片统一成粉蓝滤镜",
+      "高饱和糖果色",
+      "死黑爆白",
+      "霓虹青橙大片感"
+    ]
+  },
+  "films": [
+    {
+      "title_zh": "情书",
+      "title_en": "Love Letter",
+      "year": 1995,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-含情书-20260716\\source-frames\\love-letter\\love-letter-04.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-含情书-20260716\\source-frames\\love-letter\\love-letter-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-含情书-20260716\\source-frames\\love-letter\\love-letter-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-含情书-20260716\\source-frames\\love-letter\\love-letter-01.jpg"
+      ],
+      "sources": [
+        {
+          "label": "IWAI SHUNJI 30周年官方站《情书》4K剧照",
+          "url": "https://iwaifilm30th.com/archives/lineup/love-letter"
+        }
+      ]
+    },
+    {
+      "title_zh": "四月物语",
+      "title_en": "April Story",
+      "year": 1998,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\aprilstory-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\aprilstory-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\aprilstory-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\aprilstory-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "IWAI SHUNJI 30周年官方站《四月物语》剧照",
+          "url": "https://iwaifilm30th.com/archives/lineup/aprilstory"
+        }
+      ]
+    },
+    {
+      "title_zh": "燕尾蝶",
+      "title_en": "Swallowtail Butterfly",
+      "year": 1996,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\swallowtail-01.webp",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\swallowtail-02.webp",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\swallowtail-03.webp",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\swallowtail-04.webp"
+      ],
+      "sources": [
+        {
+          "label": "《燕尾蝶》4K修复官方站剧照",
+          "url": "https://swallowtail4k.jp/"
+        }
+      ]
+    },
+    {
+      "title_zh": "关于莉莉周的一切",
+      "title_en": "All About Lily Chou-Chou",
+      "year": 2001,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\lily-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\lily-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\lily-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\lily-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "Film Movement发行页高清剧照",
+          "url": "https://filmmovement.com/press/film/all-about-lily-chou-chou"
+        }
+      ]
+    },
+    {
+      "title_zh": "花与爱丽丝",
+      "title_en": "Hana and Alice",
+      "year": 2004,
+      "frames": [
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\hanaalice-01.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\hanaalice-02.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\hanaalice-03.jpg",
+        "D:\\雷龙飞\\2026.6.25精准控制分镜【公开版】\\codex-prompt\\outputs\\岩井俊二-导演电影色卡-非情书-20260715\\source-frames\\hanaalice-04.jpg"
+      ],
+      "sources": [
+        {
+          "label": "IWAI SHUNJI 30周年官方站《花与爱丽丝》剧照",
+          "url": "https://iwaifilm30th.com/archives/lineup/hana-and-alice"
+        }
+      ]
+    }
+  ]
+}

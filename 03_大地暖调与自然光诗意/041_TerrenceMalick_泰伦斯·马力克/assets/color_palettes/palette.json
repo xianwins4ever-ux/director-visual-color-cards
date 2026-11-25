@@ -1,0 +1,457 @@
+{
+  "director": {
+    "id": "041",
+    "name_en": "Terrence Malick",
+    "name_zh": "泰伦斯·马力克",
+    "category": "03_大地暖调与自然光诗意",
+    "nationality": "美国",
+    "active_years": "1973-至今",
+    "era": "1973-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#D4A574",
+        "name_zh": "麦田金",
+        "name_en": "Wheat Gold",
+        "ratio": 0.22,
+        "rgb": [
+          212,
+          165,
+          116
+        ],
+        "hsl": [
+          32,
+          52,
+          64
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#8B6F47",
+        "name_zh": "大地褐",
+        "name_en": "Earth Brown",
+        "ratio": 0.18,
+        "rgb": [
+          139,
+          111,
+          71
+        ],
+        "hsl": [
+          37,
+          32,
+          41
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#2F4530",
+        "name_zh": "深林绿",
+        "name_en": "Deep Forest Green",
+        "ratio": 0.15,
+        "rgb": [
+          47,
+          69,
+          48
+        ],
+        "hsl": [
+          123,
+          19,
+          23
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#E8D5B7",
+        "name_zh": "暖沙米",
+        "name_en": "Warm Sand Beige",
+        "ratio": 0.15,
+        "rgb": [
+          232,
+          213,
+          183
+        ],
+        "hsl": [
+          37,
+          52,
+          81
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#C25A2A",
+        "name_zh": "夕阳橙",
+        "name_en": "Sunset Orange",
+        "ratio": 0.12,
+        "rgb": [
+          194,
+          90,
+          42
+        ],
+        "hsl": [
+          20,
+          64,
+          46
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#F5E6C8",
+        "name_zh": "圣光金",
+        "name_en": "Divine Light Gold",
+        "ratio": 0.18,
+        "rgb": [
+          245,
+          230,
+          200
+        ],
+        "hsl": [
+          40,
+          67,
+          87
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FFC857",
+        "name_zh": "神圣金",
+        "name_en": "Sacred Gold",
+        "emotion": "神性启示",
+        "rgb": [
+          255,
+          200,
+          87
+        ],
+        "hsl": [
+          41,
+          100,
+          67
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#7BA05B",
+        "name_zh": "草甸绿",
+        "name_en": "Meadow Green",
+        "emotion": "自然生命",
+        "rgb": [
+          123,
+          160,
+          91
+        ],
+        "hsl": [
+          93,
+          27,
+          49
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#8C3A1F",
+        "name_zh": "铁锈红",
+        "name_en": "Rust Red",
+        "emotion": "战争苦难",
+        "rgb": [
+          140,
+          58,
+          31
+        ],
+        "hsl": [
+          15,
+          64,
+          34
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#B8D4E3",
+        "name_zh": "天空蓝",
+        "name_en": "Sky Blue",
+        "emotion": "浩瀚宇宙",
+        "rgb": [
+          184,
+          212,
+          227
+        ],
+        "hsl": [
+          200,
+          43,
+          81
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "golden hour backlight, natural magic hour, soft ambient bounce",
+    "highlight_tint": "warm gold / honey yellow",
+    "shadow_tint": "warm earth brown / muted green",
+    "contrast_ratio": "low-medium 40-55%, soft and diffused",
+    "overall_tone": "warm natural earth, 70% warm + 30% cool"
+  },
+  "composition_keywords": [
+    "magic hour golden light",
+    "wide-angle landscape",
+    "steadicam glide",
+    "low angle sun rays",
+    "silhouettes against sunset",
+    "nature framing",
+    "handheld whisper",
+    "lens flare divine"
+  ],
+  "color_keywords": [
+    "golden hour wheat",
+    "warm earth tones",
+    "soft natural backlight",
+    "honey highlight",
+    "grass green meadow",
+    "warm skin tones",
+    "dust in sunlight",
+    "cloud shadow drift"
+  ],
+  "mood_keywords": [
+    "transcendental nature",
+    "spiritual wonder",
+    "human and cosmos",
+    "memory and time",
+    "quiet melancholy",
+    "pastoral poetry",
+    "divine immanence",
+    "wind and light"
+  ],
+  "style_profile": {
+    "definition": "金色逆光、草地绿和天空蓝让人物融入流动自然。",
+    "lighting": "黄金时刻逆光、自然散射、镜头耀斑；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "漂浮跟随、低机位自然细节、广角远景；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "高光金暖、阴影青绿、肤色自然；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "HDR天空、棚拍逆光、过饱和绿色、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  },
+  "real_palettes": [
+    {
+      "title_zh": "隐秘的生活",
+      "title_en": "A Hidden Life",
+      "year": 2019,
+      "palette": [
+        {
+          "hex": "#20201F",
+          "ratio": 17.0,
+          "luminance": 0.0144,
+          "saturation": 0.0312
+        },
+        {
+          "hex": "#697268",
+          "ratio": 12.8,
+          "luminance": 0.1604,
+          "saturation": 0.0877
+        },
+        {
+          "hex": "#3C3B39",
+          "ratio": 12.7,
+          "luminance": 0.0438,
+          "saturation": 0.05
+        },
+        {
+          "hex": "#BDBDC1",
+          "ratio": 12.5,
+          "luminance": 0.5106,
+          "saturation": 0.0207
+        },
+        {
+          "hex": "#959996",
+          "ratio": 11.8,
+          "luminance": 0.3137,
+          "saturation": 0.0261
+        },
+        {
+          "hex": "#80817F",
+          "ratio": 11.4,
+          "luminance": 0.2182,
+          "saturation": 0.0155
+        },
+        {
+          "hex": "#A8AEAC",
+          "ratio": 11.0,
+          "luminance": 0.4158,
+          "saturation": 0.0345
+        },
+        {
+          "hex": "#505651",
+          "ratio": 10.8,
+          "luminance": 0.0896,
+          "saturation": 0.0698
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "天堂之日",
+      "title_en": "Days Of Heaven",
+      "year": 1978,
+      "palette": [
+        {
+          "hex": "#69645F",
+          "ratio": 15.8,
+          "luminance": 0.1294,
+          "saturation": 0.0952
+        },
+        {
+          "hex": "#C6BFC9",
+          "ratio": 14.5,
+          "luminance": 0.5348,
+          "saturation": 0.0498
+        },
+        {
+          "hex": "#674433",
+          "ratio": 13.9,
+          "luminance": 0.0726,
+          "saturation": 0.5049
+        },
+        {
+          "hex": "#644E41",
+          "ratio": 12.1,
+          "luminance": 0.0854,
+          "saturation": 0.35
+        },
+        {
+          "hex": "#49372C",
+          "ratio": 11.6,
+          "luminance": 0.0433,
+          "saturation": 0.3973
+        },
+        {
+          "hex": "#281810",
+          "ratio": 10.9,
+          "luminance": 0.0114,
+          "saturation": 0.6
+        },
+        {
+          "hex": "#040303",
+          "ratio": 10.7,
+          "luminance": 0.001,
+          "saturation": 0.25
+        },
+        {
+          "hex": "#4E2F21",
+          "ratio": 10.5,
+          "luminance": 0.0376,
+          "saturation": 0.5769
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "生命之树",
+      "title_en": "The Tree Of Life",
+      "year": 2011,
+      "palette": [
+        {
+          "hex": "#000000",
+          "ratio": 59.3,
+          "luminance": 0.0,
+          "saturation": 0.0
+        },
+        {
+          "hex": "#8C7259",
+          "ratio": 8.6,
+          "luminance": 0.1833,
+          "saturation": 0.3643
+        },
+        {
+          "hex": "#4C3C2E",
+          "ratio": 6.1,
+          "luminance": 0.0497,
+          "saturation": 0.3947
+        },
+        {
+          "hex": "#3A2D20",
+          "ratio": 5.9,
+          "luminance": 0.0288,
+          "saturation": 0.4483
+        },
+        {
+          "hex": "#351F0E",
+          "ratio": 5.1,
+          "luminance": 0.0177,
+          "saturation": 0.7358
+        },
+        {
+          "hex": "#775D47",
+          "ratio": 5.1,
+          "luminance": 0.1221,
+          "saturation": 0.4034
+        },
+        {
+          "hex": "#22393F",
+          "ratio": 5.0,
+          "luminance": 0.0363,
+          "saturation": 0.4603
+        },
+        {
+          "hex": "#221304",
+          "ratio": 4.9,
+          "luminance": 0.0081,
+          "saturation": 0.8824
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "歌声不绝",
+      "title_en": "Song to Song",
+      "year": 2017,
+      "palette": [
+        {
+          "hex": "#919BA0",
+          "ratio": 15.4,
+          "luminance": 0.32,
+          "saturation": 0.0938
+        },
+        {
+          "hex": "#2A201B",
+          "ratio": 14.0,
+          "luminance": 0.016,
+          "saturation": 0.3571
+        },
+        {
+          "hex": "#0F151C",
+          "ratio": 13.2,
+          "luminance": 0.0072,
+          "saturation": 0.4643
+        },
+        {
+          "hex": "#5E514C",
+          "ratio": 12.1,
+          "luminance": 0.0879,
+          "saturation": 0.1915
+        },
+        {
+          "hex": "#D4D3D6",
+          "ratio": 11.7,
+          "luminance": 0.6544,
+          "saturation": 0.014
+        },
+        {
+          "hex": "#160F0E",
+          "ratio": 11.3,
+          "luminance": 0.0054,
+          "saturation": 0.3636
+        },
+        {
+          "hex": "#C5B2AE",
+          "ratio": 11.3,
+          "luminance": 0.4677,
+          "saturation": 0.1168
+        },
+        {
+          "hex": "#3A362F",
+          "ratio": 11.0,
+          "luminance": 0.0374,
+          "saturation": 0.1897
+        }
+      ],
+      "sources": []
+    }
+  ]
+}

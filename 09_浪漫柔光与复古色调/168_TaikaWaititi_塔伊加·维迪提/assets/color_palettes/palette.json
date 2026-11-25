@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "168",
+    "name_en": "TaikaWaititi",
+    "name_zh": "塔伊加·维迪提",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "新西兰",
+    "active_years": "1975-",
+    "era": "1975-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#FF8F00",
+        "name_zh": "新西兰橙",
+        "name_en": "NZ Orange",
+        "ratio": 0.2,
+        "rgb": [
+          255,
+          143,
+          0
+        ],
+        "hsl": [
+          34,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#2E7D32",
+        "name_zh": "毛利绿",
+        "name_en": "Maori Green",
+        "ratio": 0.18,
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFD54F",
+        "name_zh": "阳光金",
+        "name_en": "Sunshine Gold",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#E91E63",
+        "name_zh": "幽默粉",
+        "name_en": "Comedy Pink",
+        "ratio": 0.14,
+        "rgb": [
+          233,
+          30,
+          99
+        ],
+        "hsl": [
+          340,
+          82,
+          52
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#00BCD4",
+        "name_zh": "海洋青",
+        "name_en": "Ocean Teal",
+        "ratio": 0.14,
+        "rgb": [
+          0,
+          188,
+          212
+        ],
+        "hsl": [
+          187,
+          100,
+          42
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#6A1B9A",
+        "name_zh": "雷神紫",
+        "name_en": "Thor Purple",
+        "ratio": 0.18,
+        "rgb": [
+          106,
+          27,
+          154
+        ],
+        "hsl": [
+          277,
+          70,
+          35
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#FF8F00",
+        "name_zh": "温暖幽默",
+        "name_en": "温暖幽默",
+        "emotion": "温暖幽默",
+        "rgb": [
+          255,
+          143,
+          0
+        ],
+        "hsl": [
+          34,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#2E7D32",
+        "name_zh": "自然温情",
+        "name_en": "自然温情",
+        "emotion": "自然温情",
+        "rgb": [
+          46,
+          125,
+          50
+        ],
+        "hsl": [
+          123,
+          46,
+          34
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#E91E63",
+        "name_zh": "怪诞可爱",
+        "name_en": "怪诞可爱",
+        "emotion": "怪诞可爱",
+        "rgb": [
+          233,
+          30,
+          99
+        ],
+        "hsl": [
+          340,
+          82,
+          52
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#6A1B9A",
+        "name_zh": "奇幻冒险",
+        "name_en": "奇幻冒险",
+        "emotion": "奇幻冒险",
+        "rgb": [
+          106,
+          27,
+          154
+        ],
+        "hsl": [
+          277,
+          70,
+          35
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "自然暖光",
+    "highlight_tint": "新西兰阳光",
+    "highlight_bias": "新西兰阳光",
+    "shadow_tint": "高饱和色光",
+    "shadow_bias": "高饱和色光",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "新西兰风光",
+    "怪诞人物",
+    "幽默温情",
+    "色彩饱和",
+    "毛利文化",
+    "儿童视角"
+  ],
+  "color_keywords": [
+    "塔伊加温调",
+    "新西兰风光色",
+    "怪诞饱和色",
+    "雷神色彩",
+    "幽默暖光",
+    "毛利绿金"
+  ],
+  "mood_keywords": [
+    "怪诞幽默",
+    "温暖治愈",
+    "新西兰风光",
+    "独立喜剧",
+    "雷神导演",
+    "毛利文化"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "塔伊加·维迪提的视觉风格：自然暖光，塔伊加温调, 新西兰风光色, 怪诞饱和色。",
+    "lighting": "自然暖光，新西兰阳光，高饱和色光",
+    "framing": "新西兰风光、怪诞人物、幽默温情。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}

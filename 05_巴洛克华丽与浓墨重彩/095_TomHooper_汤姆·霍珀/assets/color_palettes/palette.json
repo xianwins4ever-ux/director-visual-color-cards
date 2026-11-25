@@ -1,0 +1,222 @@
+{
+  "director": {
+    "id": "095",
+    "name_en": "TomHooper",
+    "name_zh": "汤姆·霍珀",
+    "category": "05_巴洛克华丽与浓墨重彩",
+    "nationality": "英国",
+    "era": "1972-",
+    "active_years": "1972-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "hex": "#8B4513",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "ratio": 0.2,
+        "name_zh": "木棕",
+        "name_en": "Wood Brown",
+        "code": "C01"
+      },
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "ratio": 0.18,
+        "name_zh": "金菊黄",
+        "name_en": "Goldenrod",
+        "code": "C02"
+      },
+      {
+        "hex": "#4682B4",
+        "rgb": [
+          70,
+          130,
+          180
+        ],
+        "hsl": [
+          207,
+          44,
+          49
+        ],
+        "ratio": 0.16,
+        "name_zh": "钢蓝",
+        "name_en": "Steel Blue",
+        "code": "C03"
+      },
+      {
+        "hex": "#556B2F",
+        "rgb": [
+          85,
+          107,
+          47
+        ],
+        "hsl": [
+          82,
+          39,
+          30
+        ],
+        "ratio": 0.14,
+        "name_zh": "暗橄榄",
+        "name_en": "Dark Olive",
+        "code": "C04"
+      },
+      {
+        "hex": "#CD853F",
+        "rgb": [
+          205,
+          133,
+          63
+        ],
+        "hsl": [
+          30,
+          59,
+          53
+        ],
+        "ratio": 0.14,
+        "name_zh": "秘鲁棕",
+        "name_en": "Peru Brown",
+        "code": "C05"
+      },
+      {
+        "hex": "#1C1C1C",
+        "rgb": [
+          28,
+          28,
+          28
+        ],
+        "hsl": [
+          0,
+          0,
+          11
+        ],
+        "ratio": 0.18,
+        "name_zh": "炭黑",
+        "name_en": "Charcoal Black",
+        "code": "C06"
+      }
+    ],
+    "emotional": [
+      {
+        "hex": "#DAA520",
+        "rgb": [
+          218,
+          165,
+          32
+        ],
+        "hsl": [
+          43,
+          74,
+          49
+        ],
+        "emotion": "荣耀辉煌",
+        "code": "E01",
+        "name_en": "Emotional 1"
+      },
+      {
+        "hex": "#4682B4",
+        "rgb": [
+          70,
+          130,
+          180
+        ],
+        "hsl": [
+          207,
+          44,
+          49
+        ],
+        "emotion": "克制内敛",
+        "code": "E02",
+        "name_en": "Emotional 2"
+      },
+      {
+        "hex": "#8B4513",
+        "rgb": [
+          139,
+          69,
+          19
+        ],
+        "hsl": [
+          25,
+          76,
+          31
+        ],
+        "emotion": "历史厚重",
+        "code": "E03",
+        "name_en": "Emotional 3"
+      },
+      {
+        "hex": "#556B2F",
+        "rgb": [
+          85,
+          107,
+          47
+        ],
+        "hsl": [
+          82,
+          39,
+          30
+        ],
+        "emotion": "自然宁静",
+        "code": "E04",
+        "name_en": "Emotional 4"
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "油画柔光",
+    "highlight_bias": "窗光侧照",
+    "shadow_bias": "蜡烛暖光",
+    "contrast": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "广角畸变",
+    "对称构图",
+    "历史场景",
+    "人物特写",
+    "英伦古典",
+    "舞台感"
+  ],
+  "color_keywords": [
+    "英伦古典色",
+    "油画暖调",
+    "历史质感",
+    "钢蓝与金",
+    "维多利亚色",
+    "宫廷色调"
+  ],
+  "mood_keywords": [
+    "历史传记",
+    "人性尊严",
+    "英伦古典",
+    "励志传奇",
+    "身份认同",
+    "时代变迁"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "汤姆·霍珀的视觉风格以油画柔光为主，英伦古典色、油画暖调，营造出历史传记的氛围。",
+    "lighting": "油画柔光，高光偏窗光侧照，阴影偏蜡烛暖光，整体暖调。",
+    "framing": "广角畸变、对称构图、历史场景。",
+    "grading": "对比度高对比，色调暖调。",
+    "avoid": "避免平光照明、避免色彩杂乱、避免构图失衡。"
+  }
+}

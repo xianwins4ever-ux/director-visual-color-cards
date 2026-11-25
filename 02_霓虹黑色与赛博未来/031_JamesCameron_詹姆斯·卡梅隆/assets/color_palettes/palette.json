@@ -1,0 +1,463 @@
+{
+  "director": {
+    "id": "031",
+    "name_en": "James Cameron",
+    "name_zh": "詹姆斯·卡梅隆",
+    "category": "02_霓虹黑色与赛博未来",
+    "nationality": "加拿大",
+    "active_years": "1978-至今",
+    "era": "1978-至今"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#0A1929",
+        "name_zh": "深海蓝黑",
+        "name_en": "Deep Ocean Blue-Black",
+        "ratio": 0.28,
+        "rgb": [
+          10,
+          25,
+          41
+        ],
+        "hsl": [
+          211,
+          61,
+          10
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#37474F",
+        "name_zh": "机械钢蓝",
+        "name_en": "Mechanical Steel Blue",
+        "ratio": 0.18,
+        "rgb": [
+          55,
+          71,
+          79
+        ],
+        "hsl": [
+          200,
+          18,
+          26
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#B0BEC5",
+        "name_zh": "镀铬银",
+        "name_en": "Chrome Silver",
+        "ratio": 0.1,
+        "rgb": [
+          176,
+          190,
+          197
+        ],
+        "hsl": [
+          200,
+          15,
+          73
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#FF6D00",
+        "name_zh": "火焰橙",
+        "name_en": "Fire Orange",
+        "ratio": 0.12,
+        "rgb": [
+          255,
+          109,
+          0
+        ],
+        "hsl": [
+          26,
+          100,
+          50
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#00E676",
+        "name_zh": "生物荧光青",
+        "name_en": "Bioluminescent Cyan-Green",
+        "ratio": 0.15,
+        "rgb": [
+          0,
+          230,
+          118
+        ],
+        "hsl": [
+          151,
+          100,
+          45
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#FFB74D",
+        "name_zh": "暖金内光",
+        "name_en": "Warm Golden Interior",
+        "ratio": 0.17,
+        "rgb": [
+          255,
+          183,
+          77
+        ],
+        "hsl": [
+          36,
+          100,
+          65
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#F44336",
+        "name_zh": "激光红眼",
+        "name_en": "Laser Red Eye",
+        "emotion": "终结者红眼、危险追杀、机械无情",
+        "rgb": [
+          244,
+          67,
+          54
+        ],
+        "hsl": [
+          4,
+          90,
+          58
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#18FFFF",
+        "name_zh": "水下幽蓝",
+        "name_en": "Underwater Ghost Blue",
+        "emotion": "深海恐惧、未知深渊、幽闭压迫",
+        "rgb": [
+          24,
+          255,
+          255
+        ],
+        "hsl": [
+          180,
+          100,
+          55
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#D500F9",
+        "name_zh": "外星紫辉",
+        "name_en": "Alien Purple Glow",
+        "emotion": "潘多拉夜晚、外星奇观、异星生态",
+        "rgb": [
+          213,
+          0,
+          249
+        ],
+        "hsl": [
+          291,
+          100,
+          49
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#2979FF",
+        "name_zh": "电蓝全息",
+        "name_en": "Electric Blue Hologram",
+        "emotion": "科技界面、全息投影、未来HUD",
+        "rgb": [
+          41,
+          121,
+          255
+        ],
+        "hsl": [
+          217,
+          100,
+          58
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "强侧光/底光为主，机械硬光与生物柔光交替，爆炸光源和生物自发光",
+    "highlight_tint": "镀铬银/火焰橙（金属反射/爆炸火光/枪火闪光）",
+    "shadow_tint": "深海蓝黑（暗部偏蓝、水底/太空/夜景阴影）",
+    "contrast_ratio": "高对比（70-90%），冷暖极端对比，蓝冷vs橙暖经典互补",
+    "overall_tone": "冷调科技，65%蓝冷钢色 + 35%橙暖火焰/金内光"
+  },
+  "composition_keywords": [
+    "史诗远景",
+    "机械细节特写",
+    "追逐运动长镜",
+    "水下光影",
+    "机甲对峙正面",
+    "外星奇观全景",
+    "沉船纵深",
+    "爆炸冲击帧",
+    "终结者行走",
+    "飞船/潜艇航行"
+  ],
+  "color_keywords": [
+    "蓝钢机械",
+    "镀铬银反射",
+    "火焰橙爆裂",
+    "生物荧光青",
+    "深海幽蓝",
+    "暖金内光",
+    "激光红眼",
+    "水下光柱",
+    "全息电蓝",
+    "冷暖强对比"
+  ],
+  "mood_keywords": [
+    "高科技史诗",
+    "机械无情",
+    "生存搏斗",
+    "深海幽闭",
+    "外星奇观",
+    "人机对抗",
+    "末日审判",
+    "浪漫悲剧",
+    "技术敬畏",
+    "英雄主义"
+  ],
+  "real_palettes": [
+    {
+      "title_zh": "The Terminator",
+      "title_en": "The Terminator",
+      "year": 1984,
+      "palette": [
+        {
+          "hex": "#4E6670",
+          "ratio": 14.9,
+          "luminance": 0.1229,
+          "saturation": 0.3036
+        },
+        {
+          "hex": "#08546B",
+          "ratio": 14.3,
+          "luminance": 0.0745,
+          "saturation": 0.9252
+        },
+        {
+          "hex": "#302A22",
+          "ratio": 12.9,
+          "luminance": 0.024,
+          "saturation": 0.2917
+        },
+        {
+          "hex": "#021624",
+          "ratio": 12.1,
+          "luminance": 0.0071,
+          "saturation": 0.9444
+        },
+        {
+          "hex": "#8F0005",
+          "ratio": 12.1,
+          "luminance": 0.0585,
+          "saturation": 1.0
+        },
+        {
+          "hex": "#6B99A1",
+          "ratio": 11.5,
+          "luminance": 0.2848,
+          "saturation": 0.3354
+        },
+        {
+          "hex": "#B33A42",
+          "ratio": 11.3,
+          "luminance": 0.13,
+          "saturation": 0.676
+        },
+        {
+          "hex": "#AE0004",
+          "ratio": 10.9,
+          "luminance": 0.0901,
+          "saturation": 1.0
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "The Abyss",
+      "title_en": "The Abyss",
+      "year": 1989,
+      "palette": [
+        {
+          "hex": "#05366A",
+          "ratio": 15.2,
+          "luminance": 0.0371,
+          "saturation": 0.9528
+        },
+        {
+          "hex": "#082736",
+          "ratio": 13.2,
+          "luminance": 0.0177,
+          "saturation": 0.8519
+        },
+        {
+          "hex": "#CCC5B2",
+          "ratio": 12.5,
+          "luminance": 0.5598,
+          "saturation": 0.1275
+        },
+        {
+          "hex": "#213C45",
+          "ratio": 12.0,
+          "luminance": 0.0398,
+          "saturation": 0.5217
+        },
+        {
+          "hex": "#485050",
+          "ratio": 11.9,
+          "luminance": 0.0769,
+          "saturation": 0.1
+        },
+        {
+          "hex": "#5F6867",
+          "ratio": 11.9,
+          "luminance": 0.1331,
+          "saturation": 0.0865
+        },
+        {
+          "hex": "#7B7B73",
+          "ratio": 11.8,
+          "luminance": 0.1961,
+          "saturation": 0.065
+        },
+        {
+          "hex": "#615854",
+          "ratio": 11.5,
+          "luminance": 0.1016,
+          "saturation": 0.134
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Titanic",
+      "title_en": "Titanic",
+      "year": 1997,
+      "palette": [
+        {
+          "hex": "#B99A5F",
+          "ratio": 14.7,
+          "luminance": 0.3425,
+          "saturation": 0.4865
+        },
+        {
+          "hex": "#2B241A",
+          "ratio": 13.6,
+          "luminance": 0.0185,
+          "saturation": 0.3953
+        },
+        {
+          "hex": "#171915",
+          "ratio": 13.3,
+          "luminance": 0.0093,
+          "saturation": 0.16
+        },
+        {
+          "hex": "#332901",
+          "ratio": 13.0,
+          "luminance": 0.0229,
+          "saturation": 0.9804
+        },
+        {
+          "hex": "#794C2A",
+          "ratio": 11.7,
+          "luminance": 0.094,
+          "saturation": 0.6529
+        },
+        {
+          "hex": "#362F19",
+          "ratio": 11.4,
+          "luminance": 0.0289,
+          "saturation": 0.537
+        },
+        {
+          "hex": "#546056",
+          "ratio": 11.1,
+          "luminance": 0.1092,
+          "saturation": 0.125
+        },
+        {
+          "hex": "#290202",
+          "ratio": 11.2,
+          "luminance": 0.0052,
+          "saturation": 0.9512
+        }
+      ],
+      "sources": []
+    },
+    {
+      "title_zh": "Avatar: The Way of Water",
+      "title_en": "Avatar: The Way of Water",
+      "year": 2022,
+      "palette": [
+        {
+          "hex": "#81741E",
+          "ratio": 15.6,
+          "luminance": 0.1725,
+          "saturation": 0.7674
+        },
+        {
+          "hex": "#243333",
+          "ratio": 14.0,
+          "luminance": 0.0298,
+          "saturation": 0.2941
+        },
+        {
+          "hex": "#062B2E",
+          "ratio": 13.8,
+          "luminance": 0.0196,
+          "saturation": 0.8696
+        },
+        {
+          "hex": "#5B757E",
+          "ratio": 12.4,
+          "luminance": 0.1645,
+          "saturation": 0.2778
+        },
+        {
+          "hex": "#19261E",
+          "ratio": 12.0,
+          "luminance": 0.0169,
+          "saturation": 0.3421
+        },
+        {
+          "hex": "#0F4893",
+          "ratio": 11.6,
+          "luminance": 0.0684,
+          "saturation": 0.898
+        },
+        {
+          "hex": "#AAA23D",
+          "ratio": 10.7,
+          "luminance": 0.3472,
+          "saturation": 0.6412
+        },
+        {
+          "hex": "#030F35",
+          "ratio": 9.9,
+          "luminance": 0.0062,
+          "saturation": 0.9434
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "style_profile": {
+    "definition": "深海蓝、科技青和火焰橙支撑清楚有力的动作世界。",
+    "lighting": "高反差动机光、水下散射、火光；肤色保持可读，不让环境偏色吞没面部层次。",
+    "framing": "清晰动作轴、稳定推进、规模揭示；先交代颜色承载的空间，再进入人物与关键物件。",
+    "grading": "蓝色层次丰富，橙红只作能量与危险；高光、中间调和阴影分别处理，局部强调色不污染全画面。",
+    "avoid": "颜色脏混、看不清动作、廉价霓虹、无动机环绕和随机变焦、用统一滤镜替代色彩比例、光源和材质。"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "director": {
+    "id": "166",
+    "name_en": "ToddHaynes",
+    "name_zh": "托德·海恩斯",
+    "category": "09_浪漫柔光与复古色调",
+    "nationality": "美国",
+    "active_years": "1961-",
+    "era": "1961-"
+  },
+  "palette": {
+    "primary": [
+      {
+        "code": "C01",
+        "hex": "#E65100",
+        "name_zh": "70s橙",
+        "name_en": "70s Orange",
+        "ratio": 0.2,
+        "rgb": [
+          230,
+          81,
+          0
+        ],
+        "hsl": [
+          21,
+          100,
+          45
+        ]
+      },
+      {
+        "code": "C02",
+        "hex": "#4A148C",
+        "name_zh": "酷儿紫",
+        "name_en": "Queer Purple",
+        "ratio": 0.18,
+        "rgb": [
+          74,
+          20,
+          140
+        ],
+        "hsl": [
+          267,
+          75,
+          31
+        ]
+      },
+      {
+        "code": "C03",
+        "hex": "#FFD54F",
+        "name_zh": "复古金",
+        "name_en": "Retro Gold",
+        "ratio": 0.16,
+        "rgb": [
+          255,
+          213,
+          79
+        ],
+        "hsl": [
+          46,
+          100,
+          65
+        ]
+      },
+      {
+        "code": "C04",
+        "hex": "#0D47A1",
+        "name_zh": "忧郁蓝",
+        "name_en": "Melancholy Blue",
+        "ratio": 0.14,
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      },
+      {
+        "code": "C05",
+        "hex": "#8D6E63",
+        "name_zh": "70s棕",
+        "name_en": "70s Brown",
+        "ratio": 0.14,
+        "rgb": [
+          141,
+          110,
+          99
+        ],
+        "hsl": [
+          16,
+          18,
+          47
+        ]
+      },
+      {
+        "code": "C06",
+        "hex": "#F48FB1",
+        "name_zh": "卡罗尔粉",
+        "name_en": "Carol Pink",
+        "ratio": 0.18,
+        "rgb": [
+          244,
+          143,
+          177
+        ],
+        "hsl": [
+          340,
+          82,
+          76
+        ]
+      }
+    ],
+    "emotional": [
+      {
+        "code": "E01",
+        "hex": "#4A148C",
+        "name_zh": "酷儿身份",
+        "name_en": "酷儿身份",
+        "emotion": "酷儿身份",
+        "rgb": [
+          74,
+          20,
+          140
+        ],
+        "hsl": [
+          267,
+          75,
+          31
+        ]
+      },
+      {
+        "code": "E02",
+        "hex": "#E65100",
+        "name_zh": "70年代迷狂",
+        "name_en": "70年代迷狂",
+        "emotion": "70年代迷狂",
+        "rgb": [
+          230,
+          81,
+          0
+        ],
+        "hsl": [
+          21,
+          100,
+          45
+        ]
+      },
+      {
+        "code": "E03",
+        "hex": "#F48FB1",
+        "name_zh": "禁忌爱情",
+        "name_en": "禁忌爱情",
+        "emotion": "禁忌爱情",
+        "rgb": [
+          244,
+          143,
+          177
+        ],
+        "hsl": [
+          340,
+          82,
+          76
+        ]
+      },
+      {
+        "code": "E04",
+        "hex": "#0D47A1",
+        "name_zh": "压抑忧郁",
+        "name_en": "压抑忧郁",
+        "emotion": "压抑忧郁",
+        "rgb": [
+          13,
+          71,
+          161
+        ],
+        "hsl": [
+          216,
+          85,
+          34
+        ]
+      }
+    ]
+  },
+  "lighting": {
+    "key_light": "70年代暖光",
+    "highlight_tint": "道格拉斯色光",
+    "highlight_bias": "道格拉斯色光",
+    "shadow_tint": "柔光镜头",
+    "shadow_bias": "柔光镜头",
+    "contrast": "高对比",
+    "contrast_ratio": "高对比",
+    "overall_tone": "暖调"
+  },
+  "composition_keywords": [
+    "道格拉斯色系",
+    "70年代复古",
+    "酷儿身份",
+    "女同爱情",
+    "摇滚传记",
+    "双重叙事"
+  ],
+  "color_keywords": [
+    "道格拉斯色",
+    "70年代复古色",
+    "酷儿紫粉",
+    "卡罗尔暖调",
+    "摇滚色彩",
+    "身份色彩"
+  ],
+  "mood_keywords": [
+    "酷儿美学",
+    "身份政治",
+    "复古怀旧",
+    "70年代摇滚",
+    "禁忌之爱",
+    "艺术电影"
+  ],
+  "real_palettes": [],
+  "style_profile": {
+    "definition": "托德·海恩斯的视觉风格：70年代暖光，道格拉斯色, 70年代复古色, 酷儿紫粉。",
+    "lighting": "70年代暖光，道格拉斯色光，柔光镜头",
+    "framing": "道格拉斯色系、70年代复古、酷儿身份。",
+    "grading": "整体色调暖调，对比度高对比。",
+    "avoid": "避免平光、避免色彩混乱、避免构图松散。"
+  }
+}
